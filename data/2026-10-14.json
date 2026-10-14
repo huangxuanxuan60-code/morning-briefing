@@ -1,8 +1,363 @@
 {
  "brief_date": "2026-10-14",
- "generated_at": "2026-10-14 15:30",
+ "generated_at": "2026-10-14 16:30",
  "lookback_hours": 16,
  "news": [
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 14172,
+   "content": "【沪电股份：预计前三季度净利同比增长101%-110%】财联社10月14日电，沪电股份(002463.SZ)公告称，预计2026年前三季度归属于上市公司股东的净利润为54.50亿元-57.00亿元，同比增长100.54%-109.74%。业绩变动主要系受益于高速交换机、AI服务器、高性能计算及智能汽车等应用领域的结构性需求，叠加公司产品结构持续优化，营业收入和净利润较快增长；泰国子公司已从产能爬坡期迈入规模化运营期，实现扭亏为盈。小财注：公司Q3净利润预计25.27亿-27.77亿，Q2净利润16.81亿，据此计算，Q3净利润预计环比增长50%-65%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "https://img.cls.cn/fad/yeji/20261014/sz002463823168_info.png",
+   "user_id": 295,
+   "is_top": 1,
+   "brief": "【沪电股份：预计2026年前三季度净利润同比增长100.54%-109.74%】财联社10月14日电，沪电股份(002463.SZ)公告称，预计2026年前三季度归属于上市公司股东的净利润为54.50亿元-57.00亿元，同比增长100.54%-109.74%。业绩变动主要系受益于高速交换机、AI服务器、高性能计算及智能汽车等应用领域的结构性需求，叠加公司产品结构持续优化，营业收入和净利润较快增长；泰国子公司已从产能爬坡期迈入规模化运营期，实现扭亏为盈。小财注：公司Q3净利润预计25.27亿-27.77亿，Q2净利润16.81亿，据此计算，Q3净利润预计环比增长50%-65%。",
+   "id": 2504536,
+   "ctime": 1791966386,
+   "type": -1,
+   "title": "沪电股份：预计前三季度净利同比增长101%-110%",
+   "bold": 0,
+   "sort_score": 1791966386,
+   "comment_num": 18,
+   "modified_time": 1791966585,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2504536?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 448,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://img.cls.cn/fad/yeji/20261014/sz002463823168_info.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": -0.0078,
+     "RiseRange": -0.78,
+     "name": "沪电股份",
+     "StockID": "sz002463",
+     "schema": "cailianshe://stock_detail?stock_id=sz002463",
+     "status": "L",
+     "last": 115,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2504536,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 237866,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261014/162945x51brb6kG5Gl.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.cninfo.com.cn/finalpage/2026-10-15/1225604423.PDF",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 80273,
+   "content": "【东方锆业：预计前三季度净利同比增长262%-365% 锆材料主要产品量价齐升】财联社10月14日电，东方锆业(002167.SZ)公告称，预计2026年前三季度归属于上市公司股东的净利润为1.40亿元-1.80亿元，同比增长261.93%-365.34%。业绩变动主要系锆材料下游新兴应用领域需求快速增长，国产替代进程加快，主要产品量价齐升；公司深入推进降本增效，有效压降生产成本；持续优化产品结构，产能利用率提升，规模效应显现。小财注：公司Q3净利润预计0.597亿-0.997亿，Q2净利润0.600亿，据此计算，Q3净利润预计环比变动0%-66%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 0,
+   "img": "https://img.cls.cn/fad/yeji/20261014/sz002167823141_info.png",
+   "user_id": 295,
+   "is_top": 1,
+   "brief": "【东方锆业：预计2026年前三季度净利润同比增长262%-365%】财联社10月14日电，东方锆业(002167.SZ)公告称，预计2026年前三季度归属于上市公司股东的净利润为1.40亿元-1.80亿元，同比增长261.93%-365.34%。业绩变动主要系锆材料下游新兴应用领域需求快速增长，国产替代进程加快，主要产品量价齐升；公司深入推进降本增效，有效压降生产成本；持续优化产品结构，产能利用率提升，规模效应显现。小财注：公司Q3净利润预计0.597亿-0.997亿，Q2净利润0.600亿，据此计算，Q3净利润预计环比变动0%-66%。",
+   "id": 2504505,
+   "ctime": 1791965036,
+   "type": -1,
+   "title": "东方锆业：预计前三季度净利同比增长262%-365% 锆材料主要产品量价齐升",
+   "bold": 0,
+   "sort_score": 1791965036,
+   "comment_num": 4,
+   "modified_time": 1791965344,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2504505?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 35,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://img.cls.cn/fad/yeji/20261014/sz002167823141_info.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": -0.046,
+     "RiseRange": -4.6,
+     "name": "东方锆业",
+     "StockID": "sz002167",
+     "schema": "cailianshe://stock_detail?stock_id=sz002167",
+     "status": "L",
+     "last": 13.07,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2504505,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 237866,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261014/160905HoW4JbwGnPCG.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.cninfo.com.cn/finalpage/2026-10-15/1225604360.PDF",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 217599,
+   "content": "【嘉元科技：预计前三季度净利同比增长1197%-1319% 铜箔产销量显著增长】财联社10月14日电，嘉元科技(688388.SH)公告称，预计2026年前三季度归属于母公司所有者的净利润为5.30亿元-5.80亿元，同比增长1197%-1319%。报告期内，下游行业景气度持续上升，拉动铜箔市场需求稳步增长，公司积极把握市场机遇，凭借优质的产品和深厚的客户积累，实现了铜箔产品产销量的显著增长，通过产能建设与技术改造提高产能，并推动公司产能利用率同比上升，单位生产成本降低，进而实现利润提升。同时，公司持续优化产品结构，提升高附加值产品销售占比，持续提高公司盈利能力。此外，公司始终坚持技术创新理念，持续优化生产工艺，有效提升产品品质，深化降本增效工作，对公司净利润产生积极影响。报告期内，公司非经常性损益较上年同期大幅增加，主要系公司公允价值变动收益和投资收益增加所致。小财注：公司Q3净利润预计1.48亿-1.98亿，Q2净利润2.62亿，据此计算，Q3净利润预计环比下降24%-43%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "https://img.cls.cn/fad/yeji/20261014/sh688388823099_info.png",
+   "user_id": 295,
+   "is_top": 1,
+   "brief": "【嘉元科技：预计2026年前三季度净利润同比增长1197%-1319%】财联社10月14日电，嘉元科技(688388.SH)公告称，预计2026年前三季度归属于母公司所有者的净利润为5.30亿元-5.80亿元，同比增长1197%-1319%。报告期内，下游行业景气度持续上升，拉动铜箔市场需求稳步增长，公司积极把握市场机遇，凭借优质的产品和深厚的客户积累，实现了铜箔产品产销量的显著增长，通过产能建设与技术改造提高产能，并推动公司产能利用率同比上升，单位生产成本降低，进而实现利润提升。同时，公司持续优化产品结构，提升高附加值产品销售占比，持续提高公司盈利能力。此外，公司始终坚持技术创新理念，持续优",
+   "id": 2504482,
+   "ctime": 1791963738,
+   "type": -1,
+   "title": "嘉元科技：预计前三季度净利同比增长1197%-1319% 铜箔产销量显著增长",
+   "bold": 0,
+   "sort_score": 1791963738,
+   "comment_num": 29,
+   "modified_time": 1791963856,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2504482?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 289,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://img.cls.cn/fad/yeji/20261014/sh688388823099_info.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": -0.0262,
+     "RiseRange": -2.6200001,
+     "name": "嘉元科技",
+     "StockID": "sh688388",
+     "schema": "cailianshe://stock_detail?stock_id=sh688388",
+     "status": "L",
+     "last": 23.76,
+     "is_stib": true
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2504482,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 237866,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2504482,
+     "subject_id": 2089,
+     "subject_name": "嘉元科技",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 6052,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261014/154417BcE1n4EFbimq.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.sse.com.cn//disclosure/listedinfo/announcement/c/new/2026-10-15/688388_20261015_PVI0.pdf",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": {
+    "uid": 189867,
+    "userName": "485638：",
+    "commentId": 5846799,
+    "comment": "预计2026年前三季度实现归属于母公司所有者的扣除非经常性损益的净利润为3.6亿元到3.9亿元，同比增加3,065.71%到3,329.52%。",
+    "articleId": 2504482
+   },
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
   {
    "author_extends": "",
    "assocFastFact": {
@@ -16,7 +371,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 145879,
+   "reading_num": 460397,
    "content": "【10月14日涨停分析】财联社10月14日电，今日全市场共36股涨停，连板股总数15只，24股封板未遂，封板率为60%（不含ST股、退市股）。焦点股方面，传媒板块新华文轩13天9板、慈文传媒4连板、新经典4连板，鱼粉概念股百洋股份4连板。",
    "in_roll": 1,
    "recommend": 1,
@@ -40,7 +395,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504449?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 95,
+   "share_num": 154,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -111,7 +466,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183510,
+     "attention_num": 183512,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -159,7 +514,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 227325,
+   "reading_num": 540071,
    "content": "【收评：双创指数均跌超3% 沪深两市成交额仅1.41万亿】财联社10月14日电，市场集体走弱，双创指数均跌超3%，深成指跌近2%。沪深两市成交额1.41万亿，较上一个交易日缩量2615亿。全市场超4400只个股下跌。盘面上，传媒板块盘中走高，AI漫剧方向领涨，慈文传媒、新经典走出4连板，掌阅科技7天4板，富春股份回封20cm涨停；PCB概念反复活跃，超声电子2连板，宝鼎科技涨停；煤炭安泰集团5天3板，郑州煤电涨停，陕西煤业创历史新高，中国神华创2007年11月以来新高。下跌方面，风电设备概念走弱，大金重工跌停，威力传动、新强联、双一科技等纷纷下挫；汽车板块震荡调整，江淮汽车、海马汽车跌超7%。截至收盘，沪指跌0.88%，深成指跌1.97%，创业板指跌3.1%。",
    "in_roll": 1,
    "recommend": 1,
@@ -175,7 +530,7 @@
    "title": "收评：双创指数均跌超3% 沪深两市成交额仅1.41万亿",
    "bold": 0,
    "sort_score": 1791961332,
-   "comment_num": 65,
+   "comment_num": 82,
    "modified_time": 1791961386,
    "status": 1,
    "collection": 0,
@@ -183,7 +538,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504426?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 612,
+   "share_num": 781,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -233,7 +588,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183510,
+     "attention_num": 183512,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -281,7 +636,7 @@
    "depth_extends": "[]",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 570226,
+   "reading_num": 845489,
    "content": "【创业板指跌逾3%】财联社10月14日电，指数持续走弱，创业板指下挫跌逾3%，沪指跌0.94%，深成指跌1.92%。风电、汽车产业链、半导体芯片、光通信等方向跌幅居前，沪深京三市下跌个股近4500只。",
    "in_roll": 1,
    "recommend": 1,
@@ -297,7 +652,7 @@
    "title": "创业板指跌逾3%",
    "bold": 0,
    "sort_score": 1791957979,
-   "comment_num": 21,
+   "comment_num": 22,
    "modified_time": 1791959254,
    "status": 1,
    "collection": 0,
@@ -305,7 +660,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504354?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 247,
+   "share_num": 257,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -343,7 +698,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183509,
+     "attention_num": 183512,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -391,7 +746,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 772997,
+   "reading_num": 1045169,
    "content": "【沪深两市成交额突破1万亿 较上一日此时缩量近3000亿】财联社10月14日电，据财联社盯盘数据显示，沪深两市成交额突破1万亿，较上一日此时缩量近3000亿，预计全天成交金额超1.3万亿。",
    "in_roll": 1,
    "recommend": 1,
@@ -415,7 +770,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504327?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 67,
+   "share_num": 71,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -444,7 +799,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183509,
+     "attention_num": 183512,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -492,7 +847,7 @@
    "depth_extends": "[]",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 743795,
+   "reading_num": 1008671,
    "content": "【创业板指跌逾2%】财联社10月14日电，指数走弱，创业板指下挫跌逾2%，沪指跌0.36%，深成指跌1.04%。风电、汽车产业链、半导体芯片、光通信等方向跌幅居前，沪深京三市下跌个股近4100只。",
    "in_roll": 1,
    "recommend": 1,
@@ -554,7 +909,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183509,
+     "attention_num": 183512,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -602,7 +957,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 835729,
+   "reading_num": 1086725,
    "content": "财联社10月14日电，恒生科技指数上涨2%至4219.40点。",
    "in_roll": 1,
    "recommend": 1,
@@ -626,7 +981,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504312?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 29,
+   "share_num": 30,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -655,7 +1010,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 28184,
+     "attention_num": 28185,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -703,7 +1058,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1013109,
+   "reading_num": 1264902,
    "content": "【阿斯麦预计第四季度营收为142亿至152亿欧元】财联社10月14日电，阿斯麦第三季度净销售额为116.6亿欧元，预估为117亿欧元；净利润49.60亿欧元，上年同期为21.25亿欧元，预估为41.65亿欧元。阿斯麦预计第四季度营收为142亿至152亿欧元，此前市场预估为141.89亿欧元。",
    "in_roll": 1,
    "recommend": 1,
@@ -727,7 +1082,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504275?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 111,
+   "share_num": 118,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -754,7 +1109,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 171602,
+     "attention_num": 171605,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -821,7 +1176,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1078435,
+   "reading_num": 1309492,
    "content": "【财联社10月14日午间新闻精选】\n1、截至午间收盘，上证指数涨0.01%，深证成指跌0.51%，创业板指跌1.15%。\n2、港股午间收盘，恒生指数涨0.16%，恒生科技指数涨1.61%。\n3、据海关统计，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。其中，出口23.2万亿元，增长16.4%，进口16.74万亿元，增长22.3%。9月出口3.03万亿元，增长29.6%；进口2.13万亿元，增长24.6%。\n4、国家统计局数据显示，9月份，全国居民消费价格同比上涨0.9%。1—9月平均，全国居民消费价格比上年同期上涨0.9%。9月份，全国居民消费价格环比上涨0.2%。\n5、国家统计局数据显示，9月份，全国工业生产者出厂价格同比上涨5.0%，环比上涨1.2%。1—9月平均，工业生产者出厂价格比上年同期上涨2.3%。",
    "in_roll": 1,
    "recommend": 1,
@@ -845,7 +1200,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504258?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 67,
+   "share_num": 74,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -906,7 +1261,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1121802,
+   "reading_num": 1330775,
    "content": "【10月14日午间涨停分析】财联社10月14日电，今日午盘全市场共43股涨停，连板股总数16只，11股封板未遂，封板率为80%（不含ST股、退市股）。焦点股方面，PCB概念股澳弘电子18天11板，传媒板块慈文传媒4连板、新经典4连板，鱼粉概念股百洋股份4连板。",
    "in_roll": 1,
    "recommend": 1,
@@ -930,7 +1285,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504240?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 95,
+   "share_num": 99,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1001,7 +1356,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183509,
+     "attention_num": 183512,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1049,7 +1404,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1201149,
+   "reading_num": 1429435,
    "content": "【午评：双创指数均跌超1% AI漫剧概念股集体爆发】财联社10月14日电，三大指数涨跌不一，沪指小幅收红，创业板指低开回升后再度震荡下行。量能明显萎缩，沪深两市半日成交额8528亿，较上个交易日缩量1554亿。全市场超3600只个股下跌。盘面上，传媒板块持续走高，AI漫剧方向领涨，慈文传媒、新经典走出4连板，掌阅科技7天4板，德才股份6天4板，果麦文化3天2板，富春股份20cm涨停；PCB概念延续强势，超声电子2连板，澳弘电子、宝鼎科技、沃特股份涨停；煤炭郑州煤电涨停，陕西煤业创历史新高，中国神华创2007年11月以来新高。下跌方面，风电设备概念走弱，大金重工、威力传动、新强联等纷纷下挫；汽车板块震荡调整，江淮汽车、海马汽车、赛力斯跌超5%。截至收盘，沪指涨0.01%，深成指跌0.51%，创业板指跌1.15%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1073,7 +1428,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504233?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 449,
+   "share_num": 451,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1113,7 +1468,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183509,
+     "attention_num": 183512,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1161,7 +1516,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1220056,
+   "reading_num": 1441307,
    "content": "【传媒板块持续走高 新华文轩上演“准地天板”】财联社10月14日电，AI漫剧概念涨势扩大，带动传媒板块持续走高，新华文轩上演“准地天板”，走出13天9板，中国科传封涨停，此前富春股份、慈文传媒、掌阅科技、新经典等多股涨停，果麦文化、宝通科技、海看股份、粤传媒等纷纷冲高。",
    "in_roll": 1,
    "recommend": 1,
@@ -1185,7 +1540,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504213?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 115,
+   "share_num": 117,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1303,7 +1658,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183509,
+     "attention_num": 183512,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1364,7 +1719,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1363516,
+   "reading_num": 1568746,
    "content": "【以美元计9月我国出口总额为4471.8亿美元 同比增长36.3%】财联社10月14日电，据海关总署披露的数据显示，以美元计，9月我国出口总额为4471.8亿美元，同比增长36.3%；进口总额3136.5亿美元，同比增长31%，贸易顺差为1335.3亿美元。1-9月，我国出口总额为33707亿美元，同比增长21.3%；我国进口总额为24325.8亿美元，同比增长27.5%，贸易顺差为9381.1亿美元。",
    "in_roll": 1,
    "recommend": 1,
@@ -1388,7 +1743,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504176?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 136,
+   "share_num": 138,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1465,7 +1820,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1596454,
+   "reading_num": 1799981,
    "content": "【三大指数全部翻红】财联社10月14日电，指数低开高走，三大指数全部拉升翻红，创业板指此前一度跌超1%。PCB、油气、游戏、煤炭等方向涨幅居前，沪深京三市上涨个股近2000只。",
    "in_roll": 1,
    "recommend": 1,
@@ -1489,7 +1844,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504135?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 51,
+   "share_num": 52,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1527,7 +1882,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183509,
+     "attention_num": 183512,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1575,7 +1930,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1517726,
+   "reading_num": 1696577,
    "content": "【9月份我国货物贸易进出口首破5万亿元 增长27.5%】财联社10月14日电，今年以来，我国经济保持总体平稳、向新向优发展态势，外贸高质量发展和贸易强国建设持续推进，进出口快速增长、量质齐升。据海关统计，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。其中，出口23.2万亿元，增长16.4%，进口16.74万亿元，增长22.3%。月度增速连续6个月保持两位数增长，9月份进出口5.16万亿元，首次突破了5万亿元，增长27.5%。其中，出口3.03万亿元，增长29.6%；进口2.13万亿元，增长24.6%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1599,7 +1954,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504134?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 249,
+   "share_num": 254,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1674,7 +2029,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1509725,
+   "reading_num": 1696944,
    "content": "【开盘半小时两市缩量超1100亿 预计全天成交不足1.4万亿】财联社10月14日电，据财联社盯盘数据显示，开盘半小时，沪深两市成交额突破4500亿，较上一日此时缩量超1100亿，预计全天成交金额不足1.4万亿。",
    "in_roll": 1,
    "recommend": 1,
@@ -1698,7 +2053,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504133?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 67,
+   "share_num": 68,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1727,7 +2082,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183509,
+     "attention_num": 183512,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1775,7 +2130,7 @@
    "depth_extends": "[]",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1630815,
+   "reading_num": 1817719,
    "content": "【创业板指跌逾1% 下跌个股近4100只】财联社10月14日电，指数走弱，创业板指下挫跌逾1.00%，沪指跌0.36%，深成指跌0.69%。风电、短剧、贵金属、医疗服务等方向跌幅居前，沪深京三市下跌个股近4100只。",
    "in_roll": 1,
    "recommend": 1,
@@ -1837,7 +2192,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183509,
+     "attention_num": 183512,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1885,7 +2240,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1568807,
+   "reading_num": 1731224,
    "content": "【国家统计局：9月CPI环比上涨0.2% 同比上涨0.9%】财联社10月14日电，国家统计局10月14日发布的数据显示，2026年9月份，全国居民消费价格同比上涨0.9%。其中，城市上涨0.9%，农村上涨0.8%；食品价格下降1.7%，非食品价格上涨1.5%；消费品价格上涨1.0%，服务价格上涨0.8%。1­­—9月平均，全国居民消费价格比上年同期上涨0.9%。9月份，全国居民消费价格环比上涨0.2%。其中，城市上涨0.2%，农村上涨0.4%；食品价格上涨0.4%，非食品价格上涨0.2%；消费品价格上涨0.5%，服务价格下降0.2%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1909,7 +2264,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2504086?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 455,
+   "share_num": 468,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1972,847 +2327,199 @@
    "is_fad": 0,
    "disclaimer": "",
    "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1577417,
-   "content": "【国家统计局：9月PPI同比上涨5.0% 环比上涨1.2%】财联社10月14日电，国家统计局数据显示，2026年9月份，全国工业生产者出厂价格同比上涨5.0%，环比上涨1.2%。工业生产者购进价格同比上涨6.9%，环比上涨1.2%。1—9月平均，工业生产者出厂价格比上年同期上涨2.3%，工业生产者购进价格上涨3.6%。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 1,
-   "img": "https://image.cls.cn/images/20261014/UCgnfhWFH7_2208x1060.png",
-   "user_id": 253,
-   "is_top": 0,
-   "brief": "【国家统计局：9月PPI同比上涨5.0% 环比上涨1.2%】财联社10月14日电，国家统计局数据显示，2026年9月份，全国工业生产者出厂价格同比上涨5.0%，环比上涨1.2%。工业生产者购进价格同比上涨6.9%，环比上涨1.2%。1—9月平均，工业生产者出厂价格比上年同期上涨2.3%，工业生产者购进价格上涨3.6%。",
-   "id": 2504083,
-   "ctime": 1791941487,
-   "type": -1,
-   "title": "国家统计局：9月PPI同比上涨5.0% 环比上涨1.2%",
-   "bold": 0,
-   "sort_score": 1791941487,
-   "comment_num": 1,
-   "modified_time": 1791941804,
-   "status": 1,
-   "collection": 0,
-   "has_img": 1,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2504083?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 350,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [
-    "https://image.cls.cn/images/20261014/UCgnfhWFH7_2208x1060.png"
-   ],
-   "explain_num": -1,
-   "stock_list": [],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2504083,
-     "subject_id": 1225,
-     "subject_name": "经济数据及解读",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 37756,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261014/093644yedjqKL186Vi.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1747018,
-   "content": "【竞价看龙头】财联社10月14日电，市场焦点股澳弘电子（17天10板）高开3.69%，传媒板块龙版传媒（5天4板）竞价跌停、新经典（3板）高开4.91%、慈文传媒（3板）高开9.65%，大消费板块丽人丽妆（3板）竞价涨停、百洋股份（3板）竞价涨停，染料概念股亚邦股份（6天3板）高开10.07%、醋化股份（2板）高开4.94%，重整的广电网络（2板）低开6.51%，并购重组的东百集团（2板）高开0.81%，拟股权转让的海欣股份（2板）低开4.86%。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 0,
-   "img": "https://image.cls.cn/images/20261014/xO1F53TH1h_708x432.png",
-   "user_id": 431,
-   "is_top": 0,
-   "brief": "【竞价看龙头】财联社10月14日电，市场焦点股澳弘电子（17天10板）高开3.69%，传媒板块龙版传媒（5天4板）竞价跌停、新经典（3板）高开4.91%、慈文传媒（3板）高开9.65%，大消费板块丽人丽妆（3板）竞价涨停、百洋股份（3板）竞价涨停，染料概念股亚邦股份（6天3板）高开10.07%、醋化股份（2板）高开4.94%，重整的广电网络（2板）低开6.51%，并购重组的东百集团（2板）高开0.81%，拟股权转让的海欣股份（2板）低开4.86%。",
-   "id": 2504078,
-   "ctime": 1791941271,
-   "type": -1,
-   "title": "竞价看龙头",
-   "bold": 0,
-   "sort_score": 1791941271,
-   "comment_num": 0,
-   "modified_time": 1791941271,
-   "status": 1,
-   "collection": 0,
-   "has_img": 1,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2504078?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 46,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [
-    "https://image.cls.cn/images/20261014/xO1F53TH1h_708x432.png"
-   ],
-   "explain_num": -1,
-   "stock_list": [
-    {
-     "rise_range_has_null": 0.0611,
-     "RiseRange": 6.1099997,
-     "name": "澳弘电子",
-     "StockID": "sh605058",
-     "schema": "cailianshe://stock_detail?stock_id=sh605058",
-     "status": "L",
-     "last": 64.08,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.1003,
-     "RiseRange": 10.03,
-     "name": "醋化股份",
-     "StockID": "sh603968",
-     "schema": "cailianshe://stock_detail?stock_id=sh603968",
-     "status": "L",
-     "last": 15.8,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0568,
-     "RiseRange": -5.68,
-     "name": "亚邦股份",
-     "StockID": "sh603188",
-     "schema": "cailianshe://stock_detail?stock_id=sh603188",
-     "status": "L",
-     "last": 5.15,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0581,
-     "RiseRange": -5.81,
-     "name": "广电网络",
-     "StockID": "sh600831",
-     "schema": "cailianshe://stock_detail?stock_id=sh600831",
-     "status": "L",
-     "last": 4.05,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.1005,
-     "RiseRange": 10.05,
-     "name": "百洋股份",
-     "StockID": "sz002696",
-     "schema": "cailianshe://stock_detail?stock_id=sz002696",
-     "status": "L",
-     "last": 9.75,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.1001,
-     "RiseRange": 10.01,
-     "name": "新经典",
-     "StockID": "sh603096",
-     "schema": "cailianshe://stock_detail?stock_id=sh603096",
-     "status": "L",
-     "last": 23.07,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.1005,
-     "RiseRange": 10.05,
-     "name": "慈文传媒",
-     "StockID": "sz002343",
-     "schema": "cailianshe://stock_detail?stock_id=sz002343",
-     "status": "L",
-     "last": 8.1,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0089,
-     "RiseRange": -0.89,
-     "name": "东百集团",
-     "StockID": "sh600693",
-     "schema": "cailianshe://stock_detail?stock_id=sh600693",
-     "status": "L",
-     "last": 12.19,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0893,
-     "RiseRange": -8.93,
-     "name": "丽人丽妆",
-     "StockID": "sh605136",
-     "schema": "cailianshe://stock_detail?stock_id=sh605136",
-     "status": "L",
-     "last": 10.4,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0296,
-     "RiseRange": -2.96,
-     "name": "海欣股份",
-     "StockID": "sh600851",
-     "schema": "cailianshe://stock_detail?stock_id=sh600851",
-     "status": "L",
-     "last": 9.18,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0332,
-     "RiseRange": -3.32,
-     "name": "龙版传媒",
-     "StockID": "sh605577",
-     "schema": "cailianshe://stock_detail?stock_id=sh605577",
-     "status": "L",
-     "last": 18.95,
-     "is_stib": false
-    }
-   ],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2504078,
-     "subject_id": 1103,
-     "subject_name": "盘面直播",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 183509,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261014/092752YKuMBQ5oCGYb.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "[]",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1735678,
-   "content": "【三大指数集体低开】财联社10月14日电，沪指低开0.27%，深成指低开0.36%，创业板指低开0.52%，贵金属、短剧、半导体芯片等板块指数跌幅居前。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 0,
-   "img": "",
-   "user_id": 350,
-   "is_top": 0,
-   "brief": "【三大指数集体低开】财联社10月14日电，沪指低开0.27%，深成指低开0.36%，创业板指低开0.52%，冰雪产业、PTA、染料涂料等板块指数涨幅居前，贵金属、短剧、广电系等板块指数跌幅居前。",
-   "id": 2504076,
-   "ctime": 1791941157,
-   "type": -1,
-   "title": "三大指数集体低开",
-   "bold": 0,
-   "sort_score": 1791941157,
-   "comment_num": 7,
-   "modified_time": 1791941157,
-   "status": 1,
-   "collection": 0,
-   "has_img": 0,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2504076?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 44,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [],
-   "explain_num": -1,
-   "stock_list": [
-    {
-     "rise_range_has_null": -0.031,
-     "RiseRange": -3.1,
-     "name": "创业板指",
-     "StockID": "sz399006",
-     "schema": "cailianshe://stock_detail?stock_id=sz399006",
-     "status": "L",
-     "last": 2866.763,
-     "is_stib": false
-    }
-   ],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2504076,
-     "subject_id": 1103,
-     "subject_name": "盘面直播",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 183509,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261014/092557zHdsZJxy41jm.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
   }
  ],
  "recap": {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "stats": {
-   "涨停": 67,
-   "跌停": 8,
-   "上涨": 2909,
-   "下跌": 2485,
-   "实际涨停": 67,
-   "实际跌停": 8,
-   "市场人气": "市场人气较好"
+   "涨停": 36,
+   "跌停": 11,
+   "上涨": 978,
+   "下跌": 4496
   },
   "ladder": {
-   "首板": 56,
-   "2板": 9,
-   "3板": 4,
-   "高度板": 1,
-   "总计": 70,
-   "连板率": 17.9
+   "首板": 20,
+   "2板": 13,
+   "3板": 2,
+   "高度板": 4,
+   "总计": 39
   },
   "sectors": [
    {
-    "name": "通信",
-    "count": 11,
-    "stocks": [
-     {
-      "code": "000823",
-      "name": "超声电子",
-      "board": "首板",
-      "concept": "覆铜板、CPO/MPO",
-      "reason": "PCB+三季报增长；10月12日晚公告，预计2026年1-9月归属于上市公司股东的净利润盈利:34,000万元至36,000万元,同比上年增长:90.78%至102%。报告期内,覆铜板行业维持高景气,行业呈现量价齐升态势,公司覆铜板产品订单充足,产品售价上行,盈利能力提升；印制板业务持续优化产品结构,产能利用率提高。"
-     },
-     {
-      "code": "605058",
-      "name": "澳弘电子",
-      "board": "3天2板",
-      "concept": "CPO/MPO、PCB",
-      "reason": "通信(PCB)；据2026年9月29日公告，公司涉及的各领域在手订单目前都有增长，HDI板和AI服务器电源PCB已实现批量供货"
-     },
-     {
-      "code": "605258",
-      "name": "协和电子",
-      "board": "首板",
-      "concept": "PCB、5G",
-      "reason": "通信(PCB)；据2026年半年报，协和电子专注于刚性印制电路板、挠性印制电路板的研发、生产、销售以及印制电路板的表面贴装业务（SMT），产品主要应用于汽车电子、高频通讯等领域，已与星宇股份、东风科技、伟时电子、康普通讯等国内外知名汽车、通讯企业建立长期稳定合作关系。"
-     },
-     {
-      "code": "603328",
-      "name": "依顿电子",
-      "board": "首板",
-      "concept": "CPO/MPO、PCB",
-      "reason": "通信(PCB)；据2026年9月4日公告，公司拟使用自有资金及自筹资金约29.79亿元投资建设“高端印制电路板智能制造项目”，利用依顿电子中山现有园区土地新建专业化生产厂房，形成面向高端算力硬件的印制电路板规模化制造能力；项目产品以高多层板（HLC）和高阶HDI板为主，主要服务服务器、高速交换机、路由器、加速卡、计算托盘主板及通信设备等核心算力硬件。"
-     },
-     {
-      "code": "603386",
-      "name": "骏亚科技",
-      "board": "首板",
-      "concept": "CPO/MPO、PCB",
-      "reason": "通信(PCB)；据2026年半年报，公司主营业务为印制电路板（PCB）的研发、生产和销售，产品包括刚性电路板、柔性电路板、高密度互联电路板（HDI）和PCBA；公司计划在龙南基地建设年产60万平米高多层、HDI线路板项目，聚焦高多层板、HDI板等高端PCB产品的规模化生产"
-     },
-     {
-      "code": "603956",
-      "name": "威派格  ",
-      "board": "首板",
-      "concept": "PCB、通信",
-      "reason": "通信(PCB)；据2026年9月9日互动易，威派格通过增资控股的安徽提曼科技有限公司，其主营业务为高精度微型钻头（PCB钻针）的研发、生产与销售，产品并未直接应用于光模块，主要面向半导体、通信、消费电子、汽车电子及工业控制等领域的PCB钻孔加工。"
-     },
-     {
-      "code": "301041",
-      "name": "金百泽",
-      "board": "首板",
-      "concept": "氮化铝、CPO/MPO",
-      "reason": "通信(PCB)；据2026年半年报，公司具备可应用于通讯主板等高端场景的64层PCB板生产能力，也具备高多层线路板及HDI线路板生产能力，最高可生产到30层，有任意阶互联HDI生产能力，公司在PCB样品研发服务和小批量领域属于行业前端水平。"
-     },
-     {
-      "code": "002579",
-      "name": "中京电子",
-      "board": "首板",
-      "concept": "光模块、CPO/MPO",
-      "reason": "通信(PCB)；据2026年9月1日互动易，公司HDI产品技术处于行业先进水平，一般按阶数划分，目前可量产9-11阶产品。据2026年半年报，公司主营业务为印制电路板（PCB）的研发、生产、销售与服务，主要产品为刚性电路板（RPCB）、高密度互联板（HDI）、柔性电路板（FPC）、刚柔结合板（R-F）、柔性电路板组件（FPCA）、M-SAP类产品等"
-     },
-     {
-      "code": "688655",
-      "name": "迅捷兴  ",
-      "board": "首板",
-      "concept": "光模块、CPO/MPO",
-      "reason": "PCB+新材料概念；10月12日晚公告，证监会同意公司向特定对象发行股票的注册申请。\r\n\r\n1. PCB：据2026年9月3日投资者关系活动记录表，公司在珠海迅捷兴一期基地建设HDI产线，布局新技术路径，快速扩充高端产能。据2026年半年报，公司主营业务为印制电路板（PCB）的研发、生产与销售，业务涵盖样板、小批量板和大批量板，是行业内为数不多可以为客户提供从样板到批量生产一站式服务的PCB企业。\r\n\r\n2. 新材料概念：据2026年9月3日投资者关系活动记录表，为把握AI算力时代发展机遇，公司采用NPCF RCC新材料结合FPS细线路减成法等新工艺技术路径，布局微米级细线路产品。目前新技术还在技术交流和送样阶段。"
-     },
-     {
-      "code": "002980",
-      "name": "华盛昌",
-      "board": "首板",
-      "concept": "光模块、CPO/MPO",
-      "reason": "CPO/MPO+光模块；据2026年8月27日投资者关系活动记录表，针对CPO、NPO等下一代光模块封装技术，华盛昌在CPO方向的硅光晶圆产品已经完成发布验证并获得市场认可，未来会投入资源进行技术迭代；NPO相关测试产品公司也在积极拓展。"
-     },
-     {
-      "code": "603042",
-      "name": "华脉科技",
-      "board": "首板",
-      "concept": "光纤概念、高速连接",
-      "reason": "光纤概念+股权转让；1. 光纤概念：据2026年9月18日投资者关系活动记录表，2026年上半年，受益于通信行业光纤光缆市场价格持续走高，产品毛利提升；同时，公司同步强化精细化管理、推进降本增效，期间费用率同比下降，内外因素驱动，公司实现扭亏为盈。\r\n\r\n2. 股权转让：据2026年9月8日晚公告，华脉科技控股股东胥爱民拟以14.37元/股向王炳坤协议转让1100万股（占公司总股本5.27%），转让总价款1.58亿元。转让后，胥爱民持股降至17.71%，王炳坤持股5.27%，将成为持股5%以上股东。本次协议转让不涉及公司控制权变更。"
-     }
-    ]
-   },
-   {
     "name": "其他",
-    "count": 11,
+    "count": 12,
     "stocks": [
      {
-      "code": "000668",
-      "name": "荣丰控股",
-      "board": "首板",
-      "concept": "ST摘帽、实控人变更",
-      "reason": "实控人变更；据2026年10月12日公告，荣丰控股控股股东盛世达拟以协议转让方式向广州昕图转让29.99%股份，转让价款8.4亿元；同时以本次转让完成为前提，广州昕图拟部分要约收购5.01%股份。交易完成后，广州昕图将持有35%股份及表决权，控股股东由盛世达变更为广州昕图，实际控制人由王征变更为陈群萍。"
+      "code": "001318",
+      "name": "阳光乳业",
+      "board": "2连板",
+      "concept": "乳业、食品饮料",
+      "reason": "食品饮料(乳业)；据2026年半年报，公司主营业务为液态乳、含乳饮料等乳制品的研发、生产、销售，主要产品包括低温及常温乳制品系列、低温及常温乳饮料系列，其中低温产品是公司核心产品，公司拥有“阳光”和“天天阳光”两大核心品牌"
      },
      {
-      "code": "603096",
-      "name": "新经典  ",
-      "board": "3连板",
-      "concept": "谷子经济、文创产品",
-      "reason": "文化传媒(版权)；据2026年半年报，新经典主营业务未发生明显变化，图书策划与发行业务环节包括选题策划、版权签约、编辑制作、营销推广等；数字内容业务基于签约版权开展电子书、有声书、广播剧等策划、制作和授权；海外业务包括海外子公司开展的图书出版及版权运营业务"
+      "code": "600202",
+      "name": "哈空调  ",
+      "board": "2连板",
+      "concept": "黑龙江自贸区、远东开发",
+      "reason": "专用设备+振兴东北；1. 专用设备：据2026年半年报，公司从事的主营业务为各种高、中、低压空冷器的设计、制造和销售，主要产品包括石化空冷器和电站空冷器，此外公司还设计、制造和销售核电站空气处理机组。\r\n\r\n2. 振兴东北：公司地处哈尔滨，是国内最大的电站空冷器、石化空冷器、电站(核电站)空气处理机组专业生产厂家和出口基地。"
      },
      {
       "code": "600847",
       "name": "万里股份",
-      "board": "首板",
-      "concept": "股权转让、超跌",
+      "board": "2连板",
+      "concept": "铅酸电池、重庆市",
       "reason": "锂电池+储能；1. 锂电池：据2026年半年报，公司持续推进以新能源锂电池为核心发展方向的新业务布局，积极开拓海外市场，探索锂电池在两轮、三轮电动车换电业务方面的应用，在车、电、柜和软件操作系统一体化方面，推动研发、制造、营销生态系统的布局。\r\n\r\n2. 储能：据2026年半年报，公司于2025年12月29日经第十一届董事会第九次会议审议通过收购普凯世纪储能100%股权的议案，北京普凯世纪储能科技有限公司系公司持股100%的子公司，为收购取得。"
      },
      {
-      "code": "603767",
-      "name": "中马传动",
+      "code": "600121",
+      "name": "郑州煤电",
       "board": "首板",
-      "concept": "实控人变更、乡村振兴",
-      "reason": "减速器；据2026年半年报，中马传动主要从事汽车变速器及车辆齿轮的研发、生产和销售，主要产品为汽车变速器、新能源汽车减速器、汽车齿轮；新能源汽车减速器已实现批量生产，主要搭载于SUV、MPV、轻型物流车"
+      "concept": "煤炭、国有企业",
+      "reason": "煤炭+算力；1. 煤炭：据2026年半年报，公司主营业务涵盖煤炭开采、洗选加工与销售，煤种主要包括贫煤、贫瘦煤及无烟煤，可作为优质的工业动力煤，洗选加工后可作为优质的高炉喷吹煤及炼焦配煤。\r\n\r\n2. 算力：据2026年7月3日互动易，郑州曙光云科技有限公司（简称郑州曙光）是公司与曙光云计算集团股份有限公司、河南赛之安智能科技合伙企业（有限合伙）联合成立的国有控股企业。郑州曙光2025年建成河南省煤炭行业首个全信创智算中心，主要为公司自身及行业的数智化转型服务"
      },
      {
-      "code": "600851",
-      "name": "海欣股份",
-      "board": "2连板",
-      "concept": "互联网金融、参股基金",
-      "reason": "股权转让+医药；1. 股权转让：据2026年10月11日晚公告，上海海欣集团股份有限公司第一大股东湖南凝瑞投资合伙企业（有限合伙）及其一致行动人合计持有公司14.98%股权。凝瑞投资拟通过公开征集受让方方式转让所持公司无限售条件流通股1.21亿股，占公司总股本10%，该事项可能导致公司第一大股东发生变更。\r\n\r\n2. 医药：据2026年半年报，公司所从事的主要业务有医药产品的制造，医药板块以化药生产为主，产品主要通过自己的销售平台或者各地经销商代理进行销售，公司控股的医药企业为中小型医药生产企业，拥有一定的产品品牌及销售渠道。"
-     },
-     {
-      "code": "002693",
-      "name": "双成药业",
+      "code": "001299",
+      "name": "美能能源",
       "board": "首板",
-      "concept": "ST摘帽、海南",
-      "reason": "医药+CDMO；1. 医药：据2026年9月12日公告，双成药业于近日收到新西兰药品和医疗器械安全管理局(Medsafe)签发的精氨加压素注射液的批准通知，该药品适用于预防和治疗术后腹胀、清除腹部X射线检查中的干扰性气体阴影及治疗尿崩症。\r\n\r\n2. CDMO：据2026年5月22日公告，公司近年来开展委托研发和加工CDMO业务，公司的国际化水平、研发能力、及生产GMP的管理的国际水平受到广泛认可，已有部分项目落在双成药业，这些项目获批后将形成稳定的加工业务，为公司带来收益。"
-     },
-     {
-      "code": "600237",
-      "name": "铜峰电子",
-      "board": "首板",
-      "concept": "复合集流体、储能零部件",
-      "reason": "元器件(电阻电容)；据2026年半年报，公司所处行业为电子元件及电子专用材料制造行业，主营业务为薄膜电容器及其薄膜材料的研发、生产和销售，产品广泛应用于家电、通讯、电网、轨道交通、工业控制和新能源（光伏、风能、汽车）等行业。"
+      "concept": "天然气、热力",
+      "reason": "天然气+热力；9月9日财联社报道，欧洲天然气价格自2023年以来首次突破80欧元/兆瓦时。\r\n\r\n1. 天然气：据2026年半年报，美能能源为专业化城市燃气综合运营服务商，主要从事城镇燃气的输配与运营业务，包括天然气终端销售和服务以及天然气用户设施设备安装业务；截至报告期末，公司已建成中压及以上城市管网超过1,800公里、城市门站8座、CNG加气站4座、LNG应急调峰储配站1座，通过自建的天然气管道向特许经营区域内的居民、工商业以及加气车辆等提供用气服务。\r\n\r\n2. 热力：据2026年半年报，公司经营范围涵盖地热能源及伴生气、区域或集中供热（供冷、供电）等项目的开发、投资、建设、运营和管理（限企业自有资产投资），以及天然气发电、地热发电、光伏发电、余热发电项目的开发和应用"
      },
      {
       "code": "600391",
       "name": "航发科技",
-      "board": "首板",
-      "concept": "通用航空、航空发动机",
+      "board": "2连板",
+      "concept": "央企、通用航空",
       "reason": "航空发动机+燃气轮机；10月13日，第十六届中国国际航空航天博览会新闻发布会上介绍，第十六届中国航展将于2026年12月7日至13日在广东珠海举办。\r\n\r\n1. 航空发动机：据2026年10月12日互动易，公司承制的CJ-1000A发动机相关零部件设计构型及工艺路线已实现初步冻结，TC-Only批次制造符合性检查是CJ-1000A发动机获取TC型号合格证的重要基础工作；公司作为配套零部件供应商，按项目计划开展相关研制工作。\r\n\r\n2. 燃气轮机：据2026年9月22日投资者关系活动记录表，公司聚焦航空发动机及燃气轮机零部件主业，持续深耕现有业务板块，2026年上半年在市场开拓方面取得积极进展，先后斩获赛峰项目、菱重动力、贝克休斯等境外客户多型号产品首件订单。"
      },
      {
-      "code": "600281",
-      "name": "华阳新材",
+      "code": "603656",
+      "name": "泰禾智能",
       "board": "首板",
-      "concept": "气凝胶、股权转让",
-      "reason": "有色金属；据2026年9月17日互动易，公司主营贵金属铂网的生产、销售、技术服务。据2026年半年报，公司铂网加工、贵金属化合物生产及含铂、钯废催化剂回收，属于贵金属材料加工制造和贵金属资源循环利用，拥有铂网产品2500kg的年生产能力和年处置1000t含贵金属废催化剂的能力。"
+      "concept": "AGV机器人、人工智能",
+      "reason": "物理AI(机器视觉)；红星资本局10月6日消息，近日，老干妈常务副总、首席质量官李鑫在2026年贵州省质量发展大会上透露，2025年，老干妈全面上线AI视觉质检系统，营收达54亿元\r\n\r\n机器视觉：据2026年半年报，公司是一家基于AI视觉识别的成套智能化装备和服务提供商，主营业务涵盖智能分选装备、智能包装装备及工商业用户侧储能业务三大领域"
      },
      {
-      "code": "002172",
-      "name": "澳洋健康",
+      "code": "000573",
+      "name": "粤宏远Ａ",
       "board": "首板",
-      "concept": "冷链物流、实控人变更",
-      "reason": "民营医院+脑机接口；1. 民营医院：据2026年半年报，公司医疗服务业务形成以澳洋医院总院为核心，澳洋医院三兴分院、顺康医院、港城康复医院、澳洋唯恩医美协同联动的专科化、集群化发展格局，总床位保持超1800张\r\n\r\n2. 脑机接口：根据2026年5月10日澳洋健康官微：澳洋健康下属港城康复医院于5月8日揭牌港城首家“脑机接口智能康复病房”，携手西安臻泰围绕非侵入式脑机接口技术深度合作。"
+      "concept": "煤炭、铅酸电池",
+      "reason": "房地产+金属铅；1. 房地产：据2026年半年报，公司主营房地产开发销售，全资子公司宏远地产项目分布于广东东莞、江苏昆山，旗下主要自营项目包括东莞桥头帝庭山花园、东莞南城时代国际、江苏昆山宏远商务中心。\r\n\r\n2. 金属铅：据2026年9月8日互动易，公司下属控股企业英德新裕公司持有的危废经营许可证核发处理能力共13.7万吨/年（其中废铅蓄电池10万吨/年），目前该企业主要对有色金属铅类的回收处置，没有拆解新能源汽车电池包（锂电池类）的业务"
      },
      {
-      "code": "002623",
-      "name": "亚玛顿",
+      "code": "002029",
+      "name": "七匹狼",
       "board": "首板",
-      "concept": "光伏玻璃、股权转让",
-      "reason": "光伏玻璃+钙钛矿电池；1. 光伏玻璃：据2026年8月29日公告，公司原募投项目“年产4000万平方米超薄光伏背板玻璃深加工项目”原计划形成年产4000万平方米1.6mm超薄光伏背板玻璃的生产能力，目前该项目已建成3条超薄光伏背板玻璃深加工产线并均已投产\r\n\r\n2. 钙钛矿电池：据2026年5月8日投资者关系活动记录表，公司超薄轻型钢化ITO玻璃已向钙钛矿组件厂商小批量供货。"
+      "concept": "抖音小店、网红经济",
+      "reason": "服装家纺+海峡两岸；公司地位为福建省泉州市。据2026年半年报，公司主要从事“七匹狼”品牌男装及针纺类产品的设计、生产和销售，主要产品包括衬衫、西服、裤装、夹克衫、针织衫以及内衣、内裤、袜子等；除主标“七匹狼”产品外，公司还经营国际轻奢品牌“Karl Lagerfeld”。"
+     },
+     {
+      "code": "600408",
+      "name": "安泰集团",
+      "board": "首板",
+      "concept": "焦炭、煤炭",
+      "reason": "煤炭+钢铁；据10月12日我的钢铁网，河北、山东地区主流钢厂对焦炭采购价格进行第二轮下调，湿熄焦炭下调 100元/吨、干熄焦炭下调 110元/吨，至此焦炭第二轮降价已全面落地。\r\n\r\n1. 煤炭：据2026年半年报，公司主要从事焦炭产品的生产与销售，公司目前的焦炭年生产能力为240万吨；晋中煤炭资源丰富，运输便利，能够给公司的焦炭生产提供稳定、充足的原料来源。\r\n\r\n2. 钢铁：据2026年9月5日股东会会议资料，安泰集团主要从事型钢的生产、销售，拥有120万吨大型型钢生产线，可生产腹板高度100mm—1008mm规格的型钢，型钢产品主要应用于陆地和海洋钻井平台、大型桥梁、高层建筑、大型电力和水利建设等领域"
+     },
+     {
+      "code": "001216",
+      "name": "华瓷股份",
+      "board": "首板",
+      "concept": "体育产业、平台经济",
+      "reason": "电阻电容+智能穿戴；1. 电阻电容：据2026年9月11日互动易，公司子公司氧化锆粉体纯度最高可达99.995%，产品可适配新能源研磨、齿科陶瓷、MLCC等不同领域使用需求。\r\n\r\n2. 智能穿戴：据2026年4月29日公告，子公司华联特陶拥有氧化锆陶瓷材料技术和四项发明专利，主要产品为手机、手表、智能穿戴装备等电子产品部件"
+     },
+     {
+      "code": "603992",
+      "name": "松霖科技",
+      "board": "3天2板",
+      "concept": "养老概念、装修家具",
+      "reason": "机器人概念+养老概念；据2026年半年报，松霖科技机器人业务推出FRAI康养机器人系统，医养服务场景推出床边护理组织等系列产品，面向医疗机构、康养机构提供助行助力、护理理疗及健康监测等智能化服务；公司首次亮相上海国际养老及康复医疗博览会，集中展示FRAI康养机器人系统，目前已在多家医疗和康养机构进行场景部署与验证。"
      }
     ]
    },
    {
-    "name": "体育产业(冰雪产业)",
-    "count": 10,
+    "name": "三季报增长",
+    "count": 4,
     "stocks": [
      {
-      "code": "000530",
-      "name": "冰山冷热",
-      "board": "首板",
-      "concept": "冰雪产业、远东开发",
-      "reason": "体育产业(冰雪产业)；据2026年9月18日投资者关系活动记录表，冰雪场馆为公司优势细分市场，公司近年承接了多项代表性商业冰雪工程；2025年哈尔滨亚冬会，公司参与了哈尔滨体育学院冰场升级改造及哈尔滨市八区体育中心制冰设备改造项目。"
+      "code": "000823",
+      "name": "超声电子",
+      "board": "2连板",
+      "concept": "覆铜板、国有企业",
+      "reason": "三季报增长+PCB；10月12日晚公告，预计2026年1-9月归属于上市公司股东的净利润盈利:34,000万元至36,000万元,同比上年增长:90.78%至102%。报告期内,覆铜板行业维持高景气,行业呈现量价齐升态势,公司覆铜板产品订单充足,产品售价上行,盈利能力提升；印制板业务持续优化产品结构,产能利用率提高。"
      },
      {
-      "code": "601188",
-      "name": "龙江交通",
+      "code": "002552",
+      "name": "宝鼎科技",
       "board": "首板",
-      "concept": "黑龙江自贸区、振兴东北",
-      "reason": "体育产业(冰雪产业)；据2026年半年报，龙江交通哈大分公司圆满完成春运、两会、冰雪旅游季等关键时期的保畅任务，分析不同时期车流量特点并及时做出判断，实现关键时期“零拥堵、零差错”"
+      "concept": "覆铜板、国有企业",
+      "reason": "三季报增长+覆铜板；10月13日晚公告，预计2026年1-9月归属于上市公司股东的净利润盈利:33,000万元至37,000万元,同比上年增长:536.88%至614.07%。公司预计2026年前三季度归属于上市公司股东的净利润比上年同期大幅增长536.88%至614.07%,主要原因是:1)报告期内,覆铜板行业维持高景气,行业呈现量价齐升态势,公司控股子公司金宝电子覆铜板及电子铜箔业务扭亏为盈,产品销量及销售价格持续上升,导致营业收入及毛利率增长；2)报告期内,国际黄金价格走势保持在高位震荡运行,子公司河西金矿成品金产品销售价格上涨,导致营业收入及毛利率增长。"
      },
      {
-      "code": "000715",
-      "name": "中兴商业",
+      "code": "605189",
+      "name": "富春染织",
       "board": "首板",
-      "concept": "振兴东北、冰雪产业",
-      "reason": "体育产业(冰雪产业)；据2026年9月21日互动易，公司高度重视“冰雪经济”带来的机遇，提前布局高端户外品牌矩阵，打造专业的冰雪运动品牌阵容，完成DESCENTE、波司登、The North Face、KAILAS形象店升级，引入MAMMUT、GARMIN等品牌，并汇聚HELLY HANSEN等知名品牌的滑雪系列产品，提供全面的滑雪及防护装备"
+      "concept": "三季报增长、服装家纺",
+      "reason": "三季报增长；10月13日晚公告，预计2026年1-9月归属于上市公司股东的净利润盈利:33,800万元至37,800万元,同比上年增长:1347.69%至1519.01%,同比上年增长31,465.24万元至35,465.24万元。"
      },
      {
-      "code": "301010",
-      "name": "晶雪节能",
+      "code": "000601",
+      "name": "韶能股份",
       "board": "首板",
-      "concept": "冰雪产业、装配式建筑",
-      "reason": "体育产业(冰雪产业)；据2026年半年报，公司积极切入冰雪产业这一高景气赛道，随着国内冰雪运动的普及和冰雪旅游的兴起，大型室内滑雪场等设施的建设为公司带来了新的业务增长点；公司在室内滑雪场等特种围护结构领域形成深度应用研究与成熟解决方案"
-     },
-     {
-      "code": "600593",
-      "name": "大连圣亚",
-      "board": "首板",
-      "concept": "振兴东北、冰雪产业",
-      "reason": "体育产业(冰雪产业)；据2026年半年报，大连圣亚经营的景区为大连圣亚海洋世界景区和哈尔滨极地公园景区，其中哈尔滨极地公园景区包括海洋馆、极地馆、异宠馆、淘学企鹅馆。"
-     },
-     {
-      "code": "600853",
-      "name": "龙建股份",
-      "board": "首板",
-      "concept": "黑龙江自贸区、振兴东北",
-      "reason": "冰雪产业+一带一路；据10月12日龙建路桥官微，公司承建的苏里南帕拉马里博堤坝供水工程项目顺利完成交工验收\r\n\r\n1. 冰雪产业：据2025年12月31日投资者关系活动记录表，公司主要从事公路工程、市政公用工程等相关基础设施投资、运维、养护和管理，公司在冰雪旅游上主要还是围绕主业，在冰雪经济、旅游经济等领域内积极参与相关公路、市政等基础设施建设\r\n\r\n2. 一带一路：据2026年3月20日投资者关系活动记录表，公司紧跟国家一带一路政策的持续推进，持续加大海外市场开拓，最早在八九十年代就走出了国门，在海外市场开发积累了丰富的经验；目前公司海外市场组建了东非、西非、中亚、南亚东亚、蒙古俄罗斯远东五大区域事业部，通过多年深耕海外市场形成了丰富经验和资源。"
-     },
-     {
-      "code": "002639",
-      "name": "雪人集团",
-      "board": "首板",
-      "concept": "冰雪产业、冷链物流",
-      "reason": "体育产业(冰雪产业)；据2026年半年报，公司制冰系统应用于人工冰雪等多元场景；工商业制冷压缩机（组）覆盖冰雪运动等领域。"
-     },
-     {
-      "code": "603099",
-      "name": "长白山  ",
-      "board": "首板",
-      "concept": "振兴东北、冰雪产业",
-      "reason": "体育产业(冰雪产业)；据2026年半年报，长白山兼具世界级火山温泉、全世界最好品质的冰雪资源，与阿尔卑斯山和北美落基山同处于“冰雪黄金纬度带”，并称“世界三大粉雪基地”，先后获评全国最佳冰雪休闲目的地。"
-     },
-     {
-      "code": "002878",
-      "name": "元隆雅图",
-      "board": "首板",
-      "concept": "文交所、冰雪产业",
-      "reason": "冰雪产业+AI应用；1. 冰雪产业：据2026年半年报，公司是2022年北京冬奥会及冬残奥会、2025年哈尔滨亚冬会等大型赛会的特许生产商和特许零售商，基于赛会IP设计、开发、生产和销售实物及数字文创特许产品；去年特许纪念品收入主要由哈尔滨亚冬会特许业务贡献。\r\n\r\n2. AI应用：据2026年半年报，公司持续探索AI技术在营销和IP文创领域的垂直应用，成立AI研究院，将AI应用深度嵌入业务流程；谦玛网络持续升级谦观AI营销操作系统，构建达人及明星艺人双智能营销系统"
-     },
-     {
-      "code": "000558",
-      "name": "天府文旅",
-      "board": "首板",
-      "concept": "冰雪产业、旅游",
-      "reason": "冰雪产业+AI视频；1. 冰雪产业：据2026年半年报，天府文旅立足“泛文旅体”融合发展，坚持“双核引领”，着力锻造“冰雪旅游”“影旅融合”两大特色品牌矩阵，聚焦“文旅+冰雪”等细分赛道；下属子公司文旅股份公司深耕冰雪及旅游行业多年，以西岭雪山景区为核心载体开展索道、滑雪（滑草）、酒店经营等业务。\r\n\r\n2. AI视频：据2026年6月2日互动易，公司下属子公司成都天府宽窄文化传播有限公司借力《开播！短剧季》综艺节目的头部效应，将节目升级为《开播！AI短剧》，并打造短剧实验室，目前项目正在推进过程中。"
+      "concept": "水电、生物质能",
+      "reason": "三季报增长+绿色电力；1. 三季报增长：10月9日晚公告，预计2026年1-9月归属于上市公司股东的净利润盈利:27,800万元至30,200万元,同比上年增长:61.12%至75.03%。\r\n\r\n2. 绿色电力：据2026年半年报，公司电力总装机121.20万千瓦，其中水电装机68万千瓦，分布在广东省、湖南省地区，装机规模占比56.11%；生物质能发电装机36万千瓦，均在广东省地区，装机规模占比29.70%"
      }
     ]
    },
    {
-    "name": "AI应用",
-    "count": 7,
+    "name": "AI应用(AI视频)",
+    "count": 3,
     "stocks": [
      {
       "code": "002343",
       "name": "慈文传媒",
-      "board": "3连板",
-      "concept": "互动真人、旅游",
-      "reason": "AI视频+短剧；1. AI视频：据2026年4月17日公告，公司与业内头部技术与内容团队战略合作，通过AI创作的全新手段，共同研发改编经典IP衍生互动剧，并打造互动剧宇宙；在科技板块，探索AI与影视、动画等内容创作结合，拟与智象未来（HiDream AI）共同探讨战略投资事宜。\r\n\r\n2. 短剧：据2026年9月12日公告，公司全资子公司江西慈文影视文化传媒有限公司与关联方江西省文化产业投资有限公司等签订微短剧《合作协议》，就廉洁文化微短剧《开标之战》《铁血信使》合作，由公司负责制作发行。"
+      "board": "4连板",
+      "concept": "互动影游、影视院线",
+      "reason": "AI视频+互动影游；据10月12日游戏陀螺公众号，在已上线的剧情向AI互动影游中，《幸存者笔记》是市面上收入最高的作品，堪称“赛道NO.1”\r\n\r\n1. AI视频：据2026年4月17日公告，公司与业内头部技术与内容团队战略合作，通过AI创作的全新手段，共同研发改编经典IP衍生互动剧，并打造互动剧宇宙；在科技板块，探索AI与影视、动画等内容创作结合，拟与智象未来（HiDream AI）共同探讨战略投资事宜。\r\n\r\n2. 互动影游：据2026年4月17日公告，互动剧方面，公司与业内头部技术与内容团队战略合作，通过AI创作的全新手段，共同研发改编经典IP衍生互动剧，并打造互动剧宇宙；公司拟与具备相应实力的合作方签署战略合作框架协议。"
      },
      {
-      "code": "605577",
-      "name": "龙版传媒",
-      "board": "5天4板",
-      "concept": "黑龙江自贸区、网络直播",
-      "reason": "AI视频+文化传媒；1. AI视频：据2026年半年报，公司首部AI漫剧《穿越1988》完成170集制作上线，全网播放量突破1.2亿，红果热度值超4000万；“耕耘”大模型启动多模态升级，“耕耘易校通”实现公司出版单位部署应用。\r\n\r\n2. 文化传媒：据2026年半年报，公司主要从事图书、期刊及电子出版物的出版、发行及印刷服务等业务，打造了具有区域文化特色的精品图书系列，在黑龙江省具有较强的文化影响力；公司拥有出版物“编、印、发”完整的产业链，构建了图书、期刊、数字出版等各种传媒业态协调发展、相互补充的良好格局。"
+      "code": "603533",
+      "name": "掌阅科技",
+      "board": "7天4板",
+      "concept": "版权、AI视频",
+      "reason": "AI视频+版权；1. AI视频：据2026年10月12日掌阅科技官微，掌阅泡漫受邀出席中欧电影节，获授「中国—欧盟电影节AI影像与未来叙事单元首届创始成员单位」，并在现场接受中欧AI影视合作贡献表彰。\r\n\r\n2. 版权：据2026年半年报，掌阅科技主营业务为短剧等衍生业务、互联网数字阅读平台服务、版权产品等；版权产品中，公司通过运营原创网络文学版权，向阅读、影视、动漫等各类文化娱乐类客户输出其内容价值和IP价值，从而获取版权相关收益。"
      },
      {
-      "code": "002949",
-      "name": "华阳国际",
+      "code": "603598",
+      "name": "引力传媒",
       "board": "首板",
-      "concept": "装配式建筑、文心千帆",
-      "reason": "AI应用+基础建设；1. AI应用：据2026年半年度报告，公司依托BIM技术，持续投入人工智能技术的研发与迭代，打造具有行业竞争力的AI技术矩阵，不断拓宽AI设计的应用边界，如AI辅助生成系统、智能审图平台、图形引擎、识图引擎、通用多模态大模型等，加快AI技术与设计全流程的深度融合。\r\n\r\n2. 基础建设：据2026年半年报，华阳国际是以设计和研发为龙头、以装配式建筑和BIM为核心技术的设计科技企业，拥有市政公用工程施工总承包二级资质、建筑工程施工总承包一级资质。"
-     },
-     {
-      "code": "600228",
-      "name": "返利科技",
-      "board": "首板",
-      "concept": "AI电商、拼多多概念",
-      "reason": "AI应用(AI电商)；据2026年4月18日公告，公司依托大模型技术迭代导购产品、智能推荐与用户体验，在选品、内容生产、广告投放、用户运营等环节全面落地AI人机协作，业务端设立专职AI产品经理推进基础工作智能化，职能端搭建全员AI能力提升体系。"
-     },
-     {
-      "code": "603466",
-      "name": "风语筑  ",
-      "board": "首板",
-      "concept": "首发经济、AI PIN",
-      "reason": "AI视频+机器人概念；据10月12日量子位公众号消息，字节跳动研发的世界模型，在抖音集团2026美好奇妙夜科技节目现场首次公开演示，可生成具备交互、编辑能力的三维虚拟世界，展现跨场景连接等功能。\r\n\r\n1. AI视频：据2026年半年报，风语筑在生成式3D及AI内容生成方面，持续探索相关技术在数字内容生产、非遗数字化及新旅内容创作等场景中的应用，公司与字节跳动旗下即梦AI开展合作，探索Seedance等视频生成模型在相关场景中的应用。\r\n\r\n2. 机器人概念：据2026年半年报，公司全资子公司浙江风语筑具身智能科技有限公司围绕具身智能应用场景及空间数据技术开展业务探索，推动空间数据在具身智能训练与应用中的落地；公司文化及品牌数字化体验空间代表作品包括杭州市具身智能展示与应用推广中心。"
-     },
-     {
-      "code": "002587",
-      "name": "奥拓电子",
-      "board": "首板",
-      "concept": "旅游、ChatGPT",
-      "reason": "AI应用+VR/AR/MR；据10月12日量子位公众号消息，字节跳动研发的世界模型，在抖音集团2026美好奇妙夜科技节目现场首次公开演示，可生成具备交互、编辑能力的三维虚拟世界，展现跨场景连接等功能。\r\n\r\n1. AI应用：据2026年8月19日公告，奥拓电子智能视讯技术研发中心建设项目重点支持Micro LED家庭影院、AI+XR虚拟拍摄、户外节能小间距显示、COG显示面板及CPO智能控制系统等研发方向，完善公司在高端显示、智能控制、AI应用和系统集成等领域的研发条件。\r\n\r\n2. VR/AR/MR：据2026年10月13日互动易，作为行业内最早研发并推出XR/VP虚拟拍摄解决方案的公司之一，针对影视制作、广告拍摄及短视频直播三个由专业级到通用级不同领域的市场，公司已完成产业生态的布局，构建出完整的一站式解决方案。"
-     },
-     {
-      "code": "002811",
-      "name": "郑中设计",
-      "board": "3天2板",
-      "concept": "谷子经济、文创产品",
-      "reason": "AI应用+芯片；1. AI应用：据2026年9月1日投资者关系活动记录表，公司子公司犀照科技打造的“IDEAFUSION兆材云库数字化平台”持续升级并深化应用，通过以图搜图、智能匹配、线上选材等功能有效提升设计效率\r\n\r\n2. 芯片：据2026年9月1日投资者关系活动记录表，公司以自有资金、投资入股、小步试水的方式稳健切入半导体赛道，目前公司已完成对深迪半导体的战略入股并成为第一大股东，公司派驻了部分管理人员，推动技术成果快速转化与市场拓展。"
+      "concept": "AI视频、知识产权",
+      "reason": "AI视频+字节概念；1. AI视频：据2026年半年报，公司组建AI短剧团队，形成含剧本创作、AI视频生成、AI剪辑、全渠道分发的AI短剧全链路生产与运营能力，自研“神画AI”系统可实现图像及视频生成；自研“九合创意”2.0平台以文生图+图生视频双引擎为核心。\r\n\r\n2. 字节概念：据2026年半年报，引力传媒致力于成为字节跳动等互联网媒体平台与品牌客户的商业连接枢纽，是字节跳动巨量星图平台头部代理商，2026年上半年延续获得字节跳动头部服务商认证资质及荣誉，荣获巨量引擎千川创新奖、星睿营销奖等"
      }
     ]
    },
    {
-    "name": "化工(分散染料)",
-    "count": 5,
-    "stocks": [
-     {
-      "code": "603188",
-      "name": "亚邦股份",
-      "board": "首板",
-      "concept": "分散染料、实控人变更",
-      "reason": "化工(分散染料)；据2026年半年报，亚邦股份打造“亚邦”牌蒽醌结构分散染料和还原染料品牌，公司利用基础化工原料合成生产染料中间体，并用于蒽醌结构分散染料和还原染料生产。"
-     },
-     {
-      "code": "603968",
-      "name": "醋化股份",
-      "board": "2连板",
-      "concept": "分散染料、食品饮料",
-      "reason": "分散染料+化工；据百川盈孚数据，2026年10月12日，乙腈价格2.15万元/吨，较前一日上涨0.05万元/吨，涨幅2.38%。近3个月价格自约0.8万元/吨持续攀升至2.15万元/吨\r\n\r\n1. 分散染料：据2026年半年报，醋化股份颜（染）料中间体为乙酰乙酰苯胺类产品，应用于颜（染）料的生产领域；颜（染）料中间体指用于生产染料和有机颜料合成工艺过程中的中间体产品。\r\n\r\n2. 化工：据2026年7月7日互动易，公司生产的高纯乙腈可用于高纯溶剂类产品，主要作为医药研发和生产过程中的纯化介质或反应溶剂，其下游应用领域涵盖医药、分析检测、生物制药等。"
-     },
-     {
-      "code": "300107",
-      "name": "建新股份",
-      "board": "首板",
-      "concept": "分散染料、低空经济",
-      "reason": "分散染料+化工；1. 分散染料：据2026年半年报，建新股份间氨基、间羟基等染料和日化中间体下游可用于染料和日化品行业，如用于分散荧光染料等，以及作为紫外吸收剂DHHB的中间体；报告期内，公司染料和日化中间体产销规模居国内首位。\r\n\r\n2. 化工：据2026年9月16日投资者关系活动记录表，公司4,4'-DDS产品下游主要用于覆铜板行业，3,3'-DDS部分最终应用于电子行业；公司复合材料和新材料中间体的产、销量规模分别为4511.34吨、4283.67吨，产能利用率100%。"
-     },
-     {
-      "code": "002748",
-      "name": "世龙实业",
-      "board": "首板",
-      "concept": "分散染料、氯化亚砜",
-      "reason": "分散染料+氯化亚砜；百川盈孚数据显示，10月12日，氯化亚砜涨4.25%，近一月累计涨幅近19%。\r\n\r\n1. 分散染料：据2026年半年报，公司氯化亚砜是一种重要的化工中间体，在染料、医药、农药等行业中具有广泛的用途，下游应用领域不断拓展。\r\n\r\n2. 氯化亚砜：据2026年半年报，公司氯化亚砜系列产品包括氯化亚砜、丁酯、氯醚，主要产品为氯化亚砜，2026年上半年因供应收缩、下游新型锂盐LiFSI需求增加，叠加原料成本上涨，氯化亚砜产品销售价格同比大幅上涨；公司是国内氯化亚砜主要生产商之一"
-     },
-     {
-      "code": "603980",
-      "name": "吉华集团",
-      "board": "首板",
-      "concept": "分散染料、硫酸",
-      "reason": "分散染料+实控人变更；1. 分散染料：据2026年半年报，公司染料总产能近10万吨，其中分散染料产能7.5万吨，活性染料产能2万吨以及其他染料0.5万吨，分散染料产量位居行业前三；此外，公司还拥有H酸产能2万吨\r\n\r\n2. 实控人变更：据2026年9月23日公告，公司控股股东杭州锦辉及股东邵辉与桐庐钧衡签署股份转让协议，转让完成后公司控股股东将由杭州锦辉变更为桐庐钧衡，实际控制人将由邵伯金变更为苏尔田；本次股份协议转让已取得上海证券交易所合规性确认"
-     }
-    ]
-   },
-   {
-    "name": "芯片",
-    "count": 4,
-    "stocks": [
-     {
-      "code": "002549",
-      "name": "凯美特气",
-      "board": "首板",
-      "concept": "工业气体、电子气体",
-      "reason": "光刻机+电子气体；1. 光刻机：据2026年半年报，公司高品质电子特种气体产品已得到国内外多家客户的认可，并通过多家国际头部企业认证，公司光刻气产品已获得ASML子公司Cymer公司、日本GIGAPHOTON株式会社认证。\r\n\r\n2. 电子气体：据2026年9月2日投资者关系活动记录表，公司全资子公司宜章凯美特特种气体有限公司的特种气体项目已完成建设，并顺利完成主要装置的试生产工作，达到预定可使用状态；公司持续加大电子特气产品的市场推广力度"
-     },
-     {
-      "code": "001229",
-      "name": "魅视科技",
-      "board": "首板",
-      "concept": "磷化铟、军工信息化",
-      "reason": "磷化铟+机器视觉；1. 磷化铟：据2026年9月15日投资者关系活动记录表，公司的磷化铟半导体材料研发实验室是针对磷化铟多晶的研发，暂无其他拓展计划；该磷化铟半导体材料研发实验室项目的20台工艺验证设备已到位，常规试验周期预计在三个月以内。\r\n\r\n2. 机器视觉：据2026年半年报，公司是国内领先的分布式视听与多模态AI视觉应用解决方案提供商，重点推进AI边缘计算与视觉多模态视觉分析相关产品的研发创新；公司的AI边缘智能分析平台深度融合边缘计算、CV视觉分析等技术，覆盖人车物环的检测与分析等核心功能。"
-     },
-     {
-      "code": "603353",
-      "name": "和顺石油",
-      "board": "首板",
-      "concept": "石油石化、股权转让",
-      "reason": "芯片+石油石化；1. 芯片：据2026年9月10日投资者关系活动记录表，公司已收购奎芯科技，系公司向半导体行业转型的重要起点，未来公司将持续加大在半导体领域的投入，逐步实现多元化发展，对冲传统主业周期性风险，为公司长期高质量发展注入新动能。\r\n\r\n2. 石油石化：据2026年半年报，公司深耕成品油流通领域，构建起集加油站零售连锁、成品油仓储、物流配送、批发于一体的完整产业链生态，系湖南省首家获国家商务部批准的成品油批发资质的石油企业。"
-     },
-     {
-      "code": "002430",
-      "name": "杭氧股份",
-      "board": "首板",
-      "concept": "工业气体、氢气储运",
-      "reason": "芯片(电子气体)；据2026年半年报，杭氧股份气体产业致力于工业气体与特种气体的规模化供应与综合运营，产品涵盖氧、氮、氩等大宗气体，氖、氦、氪、氙等稀有气体，以及电子特气、高纯气、标准气、混合气等多元品种。"
-     }
-    ]
-   },
-   {
-    "name": "并购重组",
+    "name": "文化传媒(版权)",
     "count": 3,
     "stocks": [
      {
-      "code": "002917",
-      "name": "金奥博",
+      "code": "603096",
+      "name": "新经典  ",
+      "board": "4连板",
+      "concept": "版权、知识产权",
+      "reason": "文化传媒(版权)；10月14日界面新闻报道，近日，腾讯低调上线“绿泡泡短剧”，对标“红果短剧”。QuestMobile监测数据显示，截至2026年7月，红果短剧独立App日活跃用户达1.68亿，同比增长107%。短剧持续火热对上游版权行业形成利好。\r\n\r\n版权：据2026年半年报，新经典主营业务未发生明显变化，图书策划与发行业务环节包括选题策划、版权签约、编辑制作、营销推广等；数字内容业务基于签约版权开展电子书、有声书、广播剧等策划、制作和授权；海外业务包括海外子公司开展的图书出版及版权运营业务"
+     },
+     {
+      "code": "601858",
+      "name": "中国科传",
       "board": "首板",
-      "concept": "激光雷达、民用爆破",
-      "reason": "并购重组+军工；据2026年10月12日晚公告，深圳市金奥博科技股份有限公司与长春汇维科技股份有限公司及其股东签署《收购意向协议》，拟以现金收购汇维科技80%股权，取得控股权。标的公司主要从事弹、药先进制造技术研究，提供火炸药生产，弹、箭战斗部装药、装配，枪弹、火工品装药装配的自动化生产技术、专用设备、生产线及安全自动化系统，致力于为国防科技工业领域提供智能制造系统解决方案。"
+      "concept": "版权、知识产权",
+      "reason": "版权+AI应用；10月14日界面新闻报道，近日，腾讯低调上线“绿泡泡短剧”，对标“红果短剧”。QuestMobile监测数据显示，截至2026年7月，红果短剧独立App日活跃用户达1.68亿，同比增长107%。短剧持续火热对上游版权行业形成利好。\r\n\r\n1. 版权：据2026年半年报，公司每年输出图书版权数量均位居全国科技出版社之首，公司持续强化版权输出，公司《中国古典科技文献学》（英文版）获得“中华学术外译”项目资助。\r\n\r\n2. AI应用：据2026年半年报，公司全资子公司中科数媒打造的“远至”深度整合权威医学资源，形成中西医就医康养助手、慢病管理助手及医学AI培训课程平台、AI数字教材等，已在智慧医疗、健康管理、医学教育等场景落地应用。"
      },
      {
-      "code": "600693",
-      "name": "东百集团",
-      "board": "2连板",
-      "concept": "CPO/MPO、光芯片",
-      "reason": "并购重组+光芯片；据2026年10月11日晚公告，东百集团全资子公司东百创智拟收购杭州快灵光电科技有限公司52.6667%股权，暂定对价3.16亿元。标的公司主要从事磷化铟基光探测芯片的研发、生产和销售，产品应用于激光雷达、光通信、气体探测等领域。公司拟通过并购切入光芯片领域，培育新的业务增长点；交易完成后，快灵光电及其全资子公司光特科技将纳入合并报表范围。"
-     },
-     {
-      "code": "600831",
-      "name": "广电网络",
-      "board": "2连板",
-      "concept": "陕西省、5G",
-      "reason": "并购重组+文化传媒；1. 并购重组：据2026年10月9日晚公告，陕西广电网络传媒（集团）股份有限公司收到西安市中院决定受理预重整申请，并指定公司清算组为预重整临时管理人。债权人应于2026年11月8日前通过“e破通”网络申报，并按通知邮寄纸质材料向临时管理人申报债权。若法院裁定受理重整申请，公司股票将被实施退市风险警示；若重整失败，存在被宣告破产及终止上市风险。\r\n\r\n2. 文化传媒：据2026年半年报，公司融媒体业务依托省委宣传部全媒体生产传播体系及月度通报机制，上半年完成县级融媒体服务续约32家；文化数字化业务以“一网、一库、一平台、三中心”为顶层架构，上半年新增建成文化专网4条，全省累计建成70条"
+      "code": "601811",
+      "name": "新华文轩",
+      "board": "4天3板",
+      "concept": "版权、知识产权",
+      "reason": "版权+AI应用；10月14日界面新闻报道，近日，腾讯低调上线“绿泡泡短剧”，对标“红果短剧”。QuestMobile监测数据显示，截至2026年7月，红果短剧独立App日活跃用户达1.68亿，同比增长107%。短剧持续火热对上游版权行业形成利好。\r\n\r\n1. 版权：据2026年半年报，本公司积极推进出版“走出去”，深化文化交流合作，2026年上半年输出版权206项；参加北京国际图书博览会等国际重要书展，开展一系列新书发布与文化交流活动，有效促进图书版权贸易，提升中华文化海外影响力。\r\n\r\n2. AI应用：据2026年9月18日公告，新华文轩“文轩优教”平台聚焦一线教师教学核心应用场景，深度整合国产主流AI大模型能力，累计服务学校1,374所、教师44.84万人，“文轩优学”持续迭代核心功能，服务学生445万人"
      }
     ]
    },
@@ -2821,226 +2528,169 @@
     "count": 3,
     "stocks": [
      {
-      "code": "600370",
-      "name": "*ST三房 ",
+      "code": "000010",
+      "name": "*ST美丽",
       "board": "首板",
-      "concept": "服装家纺、超跌",
-      "reason": "ST板块+化工；据生意社监测，PET10月12日最新价格8970.00元/吨，最近20天上涨3.66%，60天上涨20.58%，90天上涨23.13%。\r\n\r\nST板块+化工：据2026年9月15日公告，公司全资子公司江苏海伦石化有限公司三期年产320万吨PTA生产装置根据年度生产经营计划停产检修，近日该装置已恢复生产。"
+      "concept": "天然气、ST板块",
+      "reason": "ST板块；2026年5月27日异动公告，经自查，公司经营正常，无应披露未披露重大事项。目前公司正推进庭外重组，但尚未进入预重整或重整程序。公司2025年财报被出具无法表示意见审计报告，股票已实施退市风险警示。"
      },
      {
-      "code": "002667",
-      "name": "*ST威领",
-      "board": "2连板",
-      "concept": "金属铅、金属锌",
-      "reason": "ST板块+并购重组；2026年10月12日公告，公司此前披露西藏山南锑金资源有限公司拟以18元/股要约收购公司7817.74万股股份(占总股本30.00%)。截至2026年9月29日，最终有效预受要约股份1593.64万股，净预受股份比例20.385%，占总股本6.12%，生效条件已达成；公司股票将于2026年10月12日上午开市起复牌。"
+      "code": "300338",
+      "name": "*ST开元",
+      "board": "首板",
+      "concept": "教育、ST板块",
+      "reason": "ST板块；据2026年10月12日互动易，公司预重整层报工作正在有序推进，但能否进入正式重整及重整计划能否获批执行仍存在重大不确定性。"
      },
      {
-      "code": "301030",
-      "name": "*ST仕净",
-      "board": "2连板",
-      "concept": "土壤修复、环保",
-      "reason": "ST板块；2026年10月9日公告，公司2025年度经审计期末净资产为负值，被出具无法表示意见的审计报告及否定意见的内控审计报告，自2026年5月6日起被实施退市风险警示及其他风险警示。目前公司正推进财务整改、内控修复、债务化解、经营改善四项工作，预计2026年10月31日前完成会计差错更正后相关财务信息及专项鉴证报告披露。公司预重整程序于2026年6月5日启动，仍处证监会立案调查阶段，相关事项均存在不确定性。"
+      "code": "000609",
+      "name": "*ST中迪",
+      "board": "首板",
+      "concept": "ST板块、金融概念",
+      "reason": "ST板块+芯片；据2026年8月1日公告，公司收购北京天微电子有限公司49%股权已完成工商变更，北京天微成为公司全资子公司，旨在利用北京区位及人才优势推动半导体业务发展。\r\n\r\nST板块+芯片：根据2026年4月18日公告：北京中迪投资股份有限公司拟与公司关联方深圳市天微电子股份有限公司签订《股权赠与协议》，在本次无偿赠与后，公司将持有广西天微 70%的股权，广西天 微及其下属子公司将纳入公司合并报表范围。广西天微的主营业务为半导体芯片封装测试业务，具备从晶圆中测、晶圆减薄、划片、到固晶、焊线、塑封、电镀、切割、测试、分选的全部工艺流程，已经形成了传统框架类封装及测试产线、基板类（存储）封装及测试产线、智能传感器封装及测试产线、LED 先进封装及测试产线、功率器件及 IGBT 模组及测试产线五类产线。"
      }
     ]
    },
    {
-    "name": "三季报增长",
+    "name": "体育产业(冰雪产业)",
     "count": 2,
     "stocks": [
      {
-      "code": "002322",
-      "name": "理工能科",
-      "board": "首板",
-      "concept": "土壤修复、军工",
-      "reason": "三季报增长；10月12日晚公告，预计2026年1-9月归属于上市公司股东的净利润盈利:19,160.78万元至21,379.39万元,同比上年增长:39.21%至55.33%。报告期内,公司软件与信息化板块业务实现增长,该板块盈利提升,为本期业绩变动的主要原因。"
-     },
-     {
-      "code": "000833",
-      "name": "粤桂股份",
-      "board": "首板",
-      "concept": "白糖、广西壮族自治区",
-      "reason": "三季报增长+白糖；1. 三季报增长：10月12日晚公告，预计2026年1-9月归属于上市公司股东的净利润盈利:112,600万元至119,500万元,同比上年增长:153.7%至169.24%。\r\n\r\n2. 白糖：据2026年9月2日公告，粤桂股份制糖板块由子公司贵糖集团承载，具备甘蔗制糖、制浆造纸等完整产能体系，年产机制糖超10万吨、浆纸逾11万吨，是国家级循环经济试点单位，拥有“桂花”等品牌，其中“桂花”牌糖产品获评“中国名牌产品”，在区域消费市场具有较高的知名度。"
-     }
-    ]
-   },
-   {
-    "name": "新型工业化",
-    "count": 2,
-    "stocks": [
-     {
-      "code": "002184",
-      "name": "海得控制",
-      "board": "首板",
-      "concept": "光模块、CPO/MPO",
-      "reason": "新型工业化+机器人概念；1. 新型工业化：据2026年9月17日投资者关系活动记录表，公司坚持构建自主可控的工业数字基座，全国产化工业交换机已在煤矿万兆环网、工厂视频监控、高速公路传输通讯系统等各个行业中大量应用。\r\n\r\n2. 机器人概念：据2025年12月29日互动易，海得控制产品尚未应用于人形机器人领域，公司常年积累的自动化、信息化等技术可复用于机器人产业的发展；工业机器人作为各种执行机构的一种接入公司“二化”融合解决方案中的控制层和数据交互层。"
-     },
-     {
-      "code": "600202",
-      "name": "哈空调  ",
-      "board": "首板",
-      "concept": "黑龙江自贸区、振兴东北",
-      "reason": "新型工业化(专用设备)；据2026年半年报，公司从事的主营业务为各种高、中、低压空冷器的设计、制造和销售，主要产品包括石化空冷器和电站空冷器，此外公司还设计、制造和销售核电站空气处理机组。"
-     }
-    ]
-   },
-   {
-    "name": "农业",
-    "count": 2,
-    "stocks": [
-     {
-      "code": "001231",
-      "name": "农心科技",
+      "code": "000530",
+      "name": "冰山冷热",
       "board": "2连板",
-      "concept": "陕西省、农药",
-      "reason": "农业(农药)；据2026年半年报，农心科技专注农药原药和制剂产品研发、生产、销售，主要产品品类有杀虫剂、杀菌剂、除草剂；子公司一简一至的苯肽胺酸、联苯肼酯、氟啶虫酰胺原药已规模化量产，原药基地一期年产500吨苯肽胺酸、1000吨联苯肼酯。"
+      "concept": "参股券商、冰雪产业",
+      "reason": "体育产业(冰雪产业)；据2026年9月18日投资者关系活动记录表，冰雪场馆为公司优势细分市场，公司近年承接了多项代表性商业冰雪工程；2025年哈尔滨亚冬会，公司参与了哈尔滨体育学院冰场升级改造及哈尔滨市八区体育中心制冰设备改造项目。"
      },
+     {
+      "code": "601188",
+      "name": "龙江交通",
+      "board": "2连板",
+      "concept": "公路运营、破净股概念",
+      "reason": "体育产业(冰雪产业)；据2026年半年报，龙江交通哈大分公司圆满完成春运、两会、冰雪旅游季等关键时期的保畅任务，分析不同时期车流量特点并及时做出判断，实现关键时期“零拥堵、零差错”"
+     }
+    ]
+   },
+   {
+    "name": "游戏(互动影游)",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "603258",
+      "name": "电魂网络",
+      "board": "首板",
+      "concept": "互动影游、短剧",
+      "reason": "互动影游+AI应用；据10月12日游戏陀螺公众号，在已上线的剧情向AI互动影游中，《幸存者笔记》是市面上收入最高的作品，堪称“赛道NO.1”\r\n\r\n1. 互动影游：据2026年9月16日公告，2025年公司上线了养成游戏《吾家有女Ai》，支持自然语言交互，角色行为随玩家引导动态变化，实现\"千人千面\"的多元结局。\r\n\r\n2. AI应用：据2026年9月16日公告，电魂网络联合网易智企探索智能NPC等交互技术，搭建内部内容高效生产平台，支持美术、模型素材产出及自动化测试；2025年公司上线AI驱动的模拟养成游戏《吾家有女Ai》，支持自然语言交互，角色行为随玩家引导动态变化，实现“千人千面”的多元结局。"
+     },
+     {
+      "code": "300299",
+      "name": "富春股份",
+      "board": "首板",
+      "concept": "互动影游、短剧",
+      "reason": "互动影游+游戏；据10月12日游戏陀螺公众号，在已上线的剧情向AI互动影游中，《幸存者笔记》是市面上收入最高的作品，堪称“赛道NO.1”\r\n\r\n1. 互动影游：《神都不良探》是一款全视频古装探案互动影像游戏，由东阳留白影视与芸芸科技联合开发。据2025年6月6日互动易，公司持有东阳留白影视文化有限公司3.24%股权。\r\n\r\n2. 游戏：据2026年半年报，公司立足移动游戏和通信信息业务，移动游戏板块持续深化\"精品游戏+知名IP\"战略，目前拥有《仙境传说RO》《秦时明月》《梦幻龙族》等众多优秀IP，已在国内外成功研发、运营《秦时明月》《霹雳江湖》《仙境传说：复兴》《仙境传说：新世代的诞生》等多款游戏产品"
+     }
+    ]
+   },
+   {
+    "name": "实控人变更",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "000668",
+      "name": "荣丰控股",
+      "board": "2连板",
+      "concept": "医药、物流",
+      "reason": "实控人变更；10月13日复牌。\r\n\r\n实控人变更：据2026年10月12日晚公告，荣丰控股控股股东盛世达拟以协议转让方式向广州昕图转让29.99%股份，转让价款8.4亿元；同时以本次转让完成为前提，广州昕图拟部分要约收购5.01%股份。交易完成后，广州昕图将持有35%股份及表决权，控股股东由盛世达变更为广州昕图，实际控制人由王征变更为陈群萍。"
+     },
+     {
+      "code": "002813",
+      "name": "路畅科技",
+      "board": "2连板",
+      "concept": "星闪概念、百度概念",
+      "reason": "实控人变更+无人驾驶；1. 实控人变更：据2026年10月13日晚公告，路畅科技控股股东中联重科拟将所持29.99%股份协议转让给远卓天使，转让价款约9亿元。交易后控股股东变更为远卓天使，实际控制人变更为张五堂。\r\n\r\n2. 无人驾驶：据2026年半年报，公司基于座舱平台延伸出智能辅助驾驶产品矩阵，涵盖ADAS高级辅助驾驶、AEBS自动紧急制动、APA自动泊车等；公司座舱域控产品基于高算力芯片平台，可实现从L2+到L3级别自动驾驶功能拓展。"
+     }
+    ]
+   },
+   {
+    "name": "医药(创新药)",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "600252",
+      "name": "中恒集团",
+      "board": "首板",
+      "concept": "广西壮族自治区、参股券商",
+      "reason": "医药(创新药)；莱美药业连续3日大涨44.42%，据中恒集团2026年6月10日公告，中恒集团为莱美药业控股股东，占莱美药业总股本23.43%\r\n\r\n创新药：据子公司莱美药业2026年9月23日投资者关系活动记录表，中恒集团控股子公司莱美药业之子公司四川瀛瑞的纳米炭铁混悬注射液（CNSI-Fe）联合放疗已正式进入二期临床阶段；纳米炭铁悬混注射液是在公司产品纳米炭混悬注射液基础上研究开发的新一代纳米药物，以Fe2+作为抗癌有效成分、纳米炭作为Fe2+的载体，通过调控铁凋亡通路发挥抗癌作用。"
+     },
+     {
+      "code": "300006",
+      "name": "莱美药业",
+      "board": "3天2板",
+      "concept": "知识产权、眼科医疗",
+      "reason": "医药(创新药)；据2026年9月23日投资者关系活动记录表，公司子公司四川瀛瑞的纳米炭铁混悬注射液（CNSI-Fe）联合放疗已正式进入二期临床阶段；纳米炭铁悬混注射液是在公司产品纳米炭混悬注射液基础上研究开发的新一代纳米药物，以Fe2+作为抗癌有效成分、纳米炭作为Fe2+的载体，通过调控铁凋亡通路发挥抗癌作用。"
+     }
+    ]
+   },
+   {
+    "name": "并购重组",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "002860",
+      "name": "星帅尔",
+      "board": "2连板",
+      "concept": "ETC、分布式光伏",
+      "reason": "并购重组；10月14日复牌。\r\n\r\n并购重组：据2026年10月13日晚公告，星帅尔拟发行股份及支付现金购买梵宇科技100%股权，暂估交易对价8.4亿元，其中现金支付51%、股份支付49%。交易对方为陈勇、陈光荣，发行股份对象为陈勇。标的公司梵宇科技主营精密刀具制造装备、钻针半成品的研发、生产与销售。"
+     },
+     {
+      "code": "002917",
+      "name": "金奥博",
+      "board": "2连板",
+      "concept": "民用爆破、元宇宙",
+      "reason": "并购重组+军工；据2026年10月12日晚公告，深圳市金奥博科技股份有限公司与长春汇维科技股份有限公司及其股东签署《收购意向协议》，拟以现金收购汇维科技80%股权，取得控股权。标的公司主要从事弹、药先进制造技术研究，提供火炸药生产，弹、箭战斗部装药、装配，枪弹、火工品装药装配的自动化生产技术、专用设备、生产线及安全自动化系统，致力于为国防科技工业领域提供智能制造系统解决方案。"
+     }
+    ]
+   },
+   {
+    "name": "化工",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "603968",
+      "name": "醋化股份",
+      "board": "3连板",
+      "concept": "代糖概念、食品饮料",
+      "reason": "化工+染料；据百川盈孚数据，2026年10月12日，乙腈价格2.15万元/吨，较前一日上涨0.05万元/吨，涨幅2.38%。近3个月价格自约0.8万元/吨持续攀升至2.15万元/吨\r\n\r\n1. 化工：据2026年7月7日互动易，公司生产的高纯乙腈可用于高纯溶剂类产品，主要作为医药研发和生产过程中的纯化介质或反应溶剂，其下游应用领域涵盖医药、分析检测、生物制药等。\r\n\r\n2. 染料：据2026年半年报，醋化股份颜（染）料中间体为乙酰乙酰苯胺类产品，应用于颜（染）料的生产领域；颜（染）料中间体指用于生产染料和有机颜料合成工艺过程中的中间体产品。"
+     },
+     {
+      "code": "002469",
+      "name": "三维化学",
+      "board": "首板",
+      "concept": "煤化工、低价股",
+      "reason": "化工；据2026年9月23日公告，公司醋酸丁酸纤维素产品优化提升技改项目（年产5万吨异辛酸项目）项下5万吨/年异辛酸装置及配套设施的建设、设备安装和调试等工作已经完成，并完成了试生产方案评审及试生产条件确认工作；5万吨/年异辛酸装置的建成，将有助于提升产品精细度和附加值，拓展公司“醛醇酸酯”产业链条，推动公司化工业务实现高质量发展"
+     }
+    ]
+   },
+   {
+    "name": "农业(水产品)",
+    "count": 2,
+    "stocks": [
      {
       "code": "002696",
       "name": "百洋股份",
-      "board": "3连板",
-      "concept": "水产品、土壤修复",
+      "board": "4连板",
+      "concept": "广西壮族自治区、水产品",
       "reason": "农业(水产品)；据2026年半年报，公司水产品加工业务以外销为主，主要产品为冻罗非鱼片、条冻罗非鱼等，2023年以来新增金鲳鱼、叉尾鮰和小龙虾等品类；远洋捕捞加工产品主要为鱼粉、鱼油及章鱼、墨鱼、鱿鱼等软体类海鲜"
-     }
-    ]
-   },
-   {
-    "name": "基础建设",
-    "count": 2,
-    "stocks": [
-     {
-      "code": "600802",
-      "name": "福建水泥",
-      "board": "首板",
-      "concept": "福建自贸区、福建",
-      "reason": "水泥+海峡两岸；公司是福建省最大的水泥生产企业，拥有\"建福\"、\"炼石\"两个品牌商标，均是\"福建省著名商标\"。据2026年半年报，公司主要从事水泥及熟料的生产及销售，拥有新型干法熟料水泥生产线共5条，熟料设计产能785万吨，产品主要有\"建福\"\"炼石\"两个品牌的各等级硅酸盐水泥，并取得核电工程用硅酸盐水泥、海工硅酸盐水泥两个特种水泥的生产许可。"
      },
      {
-      "code": "003037",
-      "name": "三和管桩",
+      "code": "600097",
+      "name": "开创国际",
       "board": "首板",
-      "concept": "建材、新型城镇化",
-      "reason": "基础建设(水利)；据2026年10月12日三和管桩官微，三和管桩\"水利工程预应力混凝土支护桩墙应用技术\"入选水利部2026年度水利先进实用技术重点推广指导目录"
-     }
-    ]
-   },
-   {
-    "name": "酿酒",
-    "count": 2,
-    "stocks": [
-     {
-      "code": "000995",
-      "name": "皇台酒业",
-      "board": "首板",
-      "concept": "甘肃省、白酒",
-      "reason": "酿酒(白酒)；据2026年半年报，公司主要从事白酒生产和销售，产品包括奔马、窖底原浆、皇台窖藏等系列白酒。公司以武威、兰州为核心根据地，聚焦“奔马系列”战略大单品，深度绑定铜奔马城市文化IP；拥有3000多口老窖池，白酒设计产能10000吨，实际产能1688.19吨。"
-     },
-     {
-      "code": "600199",
-      "name": "金种子酒",
-      "board": "首板",
-      "concept": "啤酒、股权转让",
-      "reason": "酿酒(白酒)；据2026年8月29日公告，金种子酒2026年上半年白酒产品分档：高端酒主要代表品牌为馥合香馥16、馥合香馥20系列，中端酒为馥合香馥7、馥合香馥9、金种子8系列，低端酒为柔和、祥和系列、和泰、金种子6系列。"
-     }
-    ]
-   },
-   {
-    "name": "端侧AI(AI玩具)",
-    "count": 1,
-    "stocks": [
-     {
-      "code": "002862",
-      "name": "实丰文化",
-      "board": "首板",
-      "concept": "谷子经济、文创产品",
-      "reason": "AI玩具+文创产品；10月12日第二十八届哈尔滨冰雪大世界首次官宣，本届园区占地面积将扩至125万平方米，创造历届规模新高\r\n\r\n1. AI玩具：据2026年半年报，实丰文化玩具业务形成“AI智能电动玩具、IP动漫衍生品玩具、潮流玩具”三大产品线，重点发力AI智能玩具细分赛道；2026年5月公司麦克AI飞飞兔上市，眼睛升级为电子屏、胡萝卜升级为麦克风，8月推出AI守护星，具备无屏设计、一键通话、精准定位、拍学即答功能。\r\n\r\n2. 文创产品：据2025年12月18日互动易，公司取得迪士尼（冰雪奇缘、玩具总动员、疯狂动物城、怪兽大学等）等相关IP正版授权，多个IP在同步推进新品研发。"
-     }
-    ]
-   },
-   {
-    "name": "平台经济",
-    "count": 1,
-    "stocks": [
-     {
-      "code": "605136",
-      "name": "丽人丽妆",
-      "board": "3连板",
-      "concept": "AI电商、拼多多概念",
-      "reason": "电子商务+美容护理；据10月8日达达推歌公众号消息，2026双11档期落定：京东10月12日、淘宝10月15日、抖音已提前预热\r\n\r\n1. 电子商务：据2026年半年报，丽人丽妆主营业务为化妆品网络零售服务，主要为品牌方提供在线销售服务，经营模式包括电商零售业务和品牌营销运营服务，其中电商零售业务为核心业务，合作电商平台包括传统综合性电商、内容电商、直播电商、社群电商等。\r\n\r\n2. 美容护理：据2026年半年报，丽人丽妆主营业务为化妆品网络零售服务，主要为品牌方提供在线销售服务，合作平台包括天猫、抖音、小红书、唯品会、京东、拼多多等；公司将自有品牌发展重心聚焦于“蓓养乐”及“玉容初”。"
-     }
-    ]
-   },
-   {
-    "name": "食品饮料",
-    "count": 1,
-    "stocks": [
-     {
-      "code": "001318",
-      "name": "阳光乳业",
-      "board": "首板",
-      "concept": "新零售、乳业",
-      "reason": "食品饮料(乳业)；据2026年半年报，公司主营业务为液态乳、含乳饮料等乳制品的研发、生产、销售，主要产品包括低温及常温乳制品系列、低温及常温乳饮料系列，其中低温产品是公司核心产品，公司拥有“阳光”和“天天阳光”两大核心品牌"
-     }
-    ]
-   },
-   {
-    "name": "服装家纺",
-    "count": 1,
-    "stocks": [
-     {
-      "code": "603001",
-      "name": "奥康国际",
-      "board": "首板",
-      "concept": "网络直播、网红经济",
-      "reason": "服装家纺+股权转让；1. 服装家纺：据2026年半年报，奥康国际主要从事皮鞋及皮具产品的研发、生产、零售及分销业务，产品种类主要有商务正装鞋、商务休闲鞋等鞋类产品；奥康国际实施以“奥康”品牌为主的品牌运营模式，康龙品牌凸显时尚休闲。\r\n\r\n2. 股权转让：据2026年9月17日晚公告，杭枢科技通过协议转让受让公司股份2806.86万股，占公司总股本的7.0000%，持股比例由0%增加至7.0000%；陈海锋通过协议转让受让公司股份2005万股，占公司总股本的5.0002%。"
-     }
-    ]
-   },
-   {
-    "name": "外贸",
-    "count": 1,
-    "stocks": [
-     {
-      "code": "002640",
-      "name": "跨境通",
-      "board": "首板",
-      "concept": "拼多多概念、新零售",
-      "reason": "外贸(跨境电商)；据2026年9月7日互动易，跨境通作为一家数据驱动的跨境电商企业，AI技术已深度嵌入公司“选品—内容—运营—营销—服务”全链路。据2026年半年报，跨境通主营业务包括跨境进口电商业务和跨境出口电商业务，公司通过优壹电商等主体服务国内消费者对海外母婴、营养保健等产品需求，并围绕ZAFUL等品牌及海外第三方平台渠道开展服装品类的跨境出口业务。"
-     }
-    ]
-   },
-   {
-    "name": "零售",
-    "count": 1,
-    "stocks": [
-     {
-      "code": "600712",
-      "name": "南宁百货",
-      "board": "首板",
-      "concept": "免税、广西壮族自治区",
-      "reason": "零售；据2026年半年报，南宁百货位于广西壮族自治区南宁市，主要从事商业零售业务，主要经营业态为百货、家电、超市、汽车、电子商务，目前在南宁市、贺州市等广西部分市县开设有10家实体门店"
+      "concept": "水产品、养殖业",
+      "reason": "农业(水产品)；据2026年半年报，公司从事远洋渔业捕捞、水产品加工销售及相关贸易业务，围绕“一鱼一虾”（金枪鱼、南极磷虾）核心主业，深耕远洋捕捞，涉及产品金枪鱼原料鱼、鱼柳、ALBO罐头食品、磷虾粉、冻虾等。"
      }
     ]
    }
   ],
-  "withdrawal": {
-   "num": 5,
-   "stocks": [
-    [
-     "002692",
-     "远程股份",
-     -5.92
-    ],
-    [
-     "601811",
-     "新华文轩",
-     -8.09
-    ],
-    [
-     "301052",
-     "果麦文化",
-     -2.36
-    ]
-   ]
-  }
+  "withdrawal": null
  }
 }
