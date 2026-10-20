@@ -1,8 +1,236 @@
 {
  "brief_date": "2026-10-20",
- "generated_at": "2026-10-20 16:30",
+ "generated_at": "2026-10-20 17:30",
  "lookback_hours": 16,
  "news": [
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 18313,
+   "content": "【宏昌电子：拟2.7亿元投建先进封装膜材项目、8亿元投建高端覆铜板及半固化片建设项目】财联社10月20日电，宏昌电子(603002.SH)公告称，公司董事会审议通过多项投资议案，同意公司与珠海经济技术开发区管理委员会签署协议，投资建设先进封装膜材(GBF)项目，投资金额约2.7亿元；全资孙公司珠海宏仁拟投资建设高端覆铜板及半固化片建设项目，投资金额不低于8.0亿元；另全资孙公司拟投资建设二期扩建自动化及智能制造项目，投资金额不低于1.9亿元。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "",
+   "user_id": 188,
+   "is_top": 1,
+   "brief": "【宏昌电子：拟8亿元投建高端覆铜板及半固化片建设项目】财联社10月20日电，宏昌电子(603002.SH)公告称，公司董事会审议通过多项投资议案，同意公司与珠海经济技术开发区管理委员会签署协议，投资建设先进封装膜材(GBF)项目，投资金额约2.7亿元；全资孙公司珠海宏仁拟投资建设高端覆铜板及半固化片建设项目，投资金额不低于8.0亿元；另全资孙公司拟投资建设二期扩建自动化及智能制造项目，投资金额不低于1.9亿元。",
+   "id": 2509974,
+   "ctime": 1792488285,
+   "type": -1,
+   "title": "宏昌电子：拟2.7亿元投建先进封装膜材项目、8亿元投建高端覆铜板及半固化片建设项目",
+   "bold": 0,
+   "sort_score": 1792488285,
+   "comment_num": 3,
+   "modified_time": 1792488388,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2509974?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 92,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0027,
+     "RiseRange": 0.27,
+     "name": "宏昌电子",
+     "StockID": "sh603002",
+     "schema": "cailianshe://stock_detail?stock_id=sh603002",
+     "status": "L",
+     "last": 14.82,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2509974,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 238585,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261020/172628eFPyANtBcB5w.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.sse.com.cn//disclosure/listedinfo/announcement/c/new/2026-10-21/603002_20261021_EKNR.pdf",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": {
+    "uid": 4973845,
+    "userName": "跟随不预测：",
+    "commentId": 5873539,
+    "comment": "那我懂了，定增还是转债[微笑]",
+    "articleId": 2509974
+   },
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 73006,
+   "content": "【海思科：预计前三季度净利润同比增长297%-321% 多个产品对外授权交易合同收到首付款等款项】财联社10月20日电，海思科(002653.SZ)公告称，预计2026年前三季度归属于上市公司股东的净利润为13.20亿元-14.00亿元，同比增长297.02%-321.08%。业绩变动主要系公司创新药在国内销售持续快速增长，以及签署多个产品对外授权交易合同收到首付款等款项，实现较大金额产品授权收入所致。小财注：公司Q3净利润预计4.69亿-5.49亿，Q2净利润2.97亿，据此计算，Q3净利润预计环比增长58%-85%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "https://img.cls.cn/fad/yeji/20261020/sz002653826523_info.png",
+   "user_id": 823,
+   "is_top": 1,
+   "brief": "【海思科：预计前三季度净利润同比增长297%-321%】财联社10月20日电，海思科(002653.SZ)公告称，预计2026年前三季度归属于上市公司股东的净利润为13.20亿元-14.00亿元，同比增长297.02%-321.08%。业绩变动主要系公司创新药在国内销售持续快速增长，以及签署多个产品对外授权交易合同收到首付款等款项，实现较大金额产品授权收入所致。小财注：公司Q3净利润预计4.69亿-5.49亿，Q2净利润2.97亿，据此计算，Q3净利润预计环比增长58%-85%。",
+   "id": 2509949,
+   "ctime": 1792487327,
+   "type": -1,
+   "title": "海思科：预计前三季度净利润同比增长297%-321% 多个产品对外授权交易合同收到首付款等款项",
+   "bold": 0,
+   "sort_score": 1792487327,
+   "comment_num": 4,
+   "modified_time": 1792487406,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2509949?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 126,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://img.cls.cn/fad/yeji/20261020/sz002653826523_info.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0434,
+     "RiseRange": 4.34,
+     "name": "海思科",
+     "StockID": "sz002653",
+     "schema": "cailianshe://stock_detail?stock_id=sz002653",
+     "status": "L",
+     "last": 59.6,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2509949,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 238584,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261020/171007way75SUYay1W.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.cninfo.com.cn/finalpage/2026-10-21/1225612086.PDF",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
   {
    "author_extends": "",
    "assocFastFact": {
@@ -16,7 +244,193 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 110507,
+   "reading_num": 108949,
+   "content": "【国际油价拉升 WTI原油升破100美元/桶】财联社10月20日电，国际油价拉升，WTI原油期货价格涨1.81%，报100.324美元/桶，创一个多月以来最高水平；布伦特原油期货价格涨1.54%，报111.234美元/桶。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "https://image.cls.cn/images/20261020/4ARiA7TxS6_812x1080.png",
+   "user_id": 87,
+   "is_top": 0,
+   "brief": "【国际油价拉升 WTI原油升破100美元/桶】财联社10月20日电，国际油价拉升，WTI原油期货价格涨1.81%，报100.324美元/桶；布伦特原油期货价格涨1.54%，报111.234美元/桶。",
+   "id": 2509917,
+   "ctime": 1792486282,
+   "type": -1,
+   "title": "国际油价拉升 WTI原油升破100美元/桶",
+   "bold": 0,
+   "sort_score": 1792486282,
+   "comment_num": 4,
+   "modified_time": 1792486672,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2509917?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 63,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261020/4ARiA7TxS6_812x1080.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261020/165753JF4ZRkEt6yG9.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 126428,
+   "content": "财联社10月20日电，法国10年期国债风险溢价升至150个基点。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "",
+   "user_id": 904,
+   "is_top": 0,
+   "brief": "财联社10月20日电，法国10年期国债风险溢价升至150个基点。",
+   "id": 2509912,
+   "ctime": 1792486143,
+   "type": -1,
+   "title": "",
+   "bold": 0,
+   "sort_score": 1792486143,
+   "comment_num": 0,
+   "modified_time": 1792486143,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2509912?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 28,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2509912,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 172146,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261020/164903655mmOrSoVD9.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 294576,
    "content": "【工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场】财联社10月20日电，国务院新闻办公室今日（10月20日）举行新闻发布会。会上介绍，近年来，在各方面的团结协作、积极进取下，我国汽车产业技术创新活跃，产品迭代更新速度快，企业生产制造能力和质量管理水平不断提高，中国品牌汽车功能和性能不断提升。但确实也出现了部分企业跟风推出新产品，测试验证不充分等问题。为进一步提升汽车产品安全技术性能，保障公共安全和公民生命财产安全，近日，工信部会同公安部、生态环境部、市场监管总局等部门，研究编制了《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》，已向社会公开征求意见，重点包括三方面：\n\n一是新增相关技术参数，压实企业责任。《通知》明确要求企业填报隐藏式门把手、电吸门、虚拟操纵件等创新设计和环境适应性等研发测试验证有关技术参数，并将其纳入工信部汽车产品准入和生产一致性管理。对存在未按要求申报、测试验证不充分等问题的汽车产品，不予准入，守牢产品安全关口。\n\n二是加强汽车产品创新设计安全评估。针对异形方向盘、虚拟操纵件等20余项汽车产品创新设计，《通知》提出前置安全风险评估等4项总体要求和21项具体要求，目的是督促指导企业对车辆功能安全性、驾驶安全性、操控便利性、维修经济性等进行充分评估验证。其中，要求电吸门必须具备防夹功能，禁止在车辆行驶状态下使用“零重力”座椅、旋转座椅、座椅放倒成床、升顶座舱等功能，更好保障消费者用车安全。\n\n三是充分开展汽车产品研发测试验证。《通知》提出建立健全产品研发测试验证管理制度等6项总体要求、8项具体要求，将22项推荐性标准、行业标准上升为强制性要求，督促指导企业开展综合可靠性与耐久性等7方面测试验证。其中，可靠性测试验证不低于3万公里，环境适应性测试验证周期不少于1年，且包含“两冬一夏”试验。要求汽车生产企业应进行动力蓄电池循环寿命、耐久性等实测验证，不得直接采信供应商的验证报告。\n\n安全是汽车企业的生命线与核心竞争力，任何研发活动都要以安全为第一前提，绝不能以牺牲安全为代价。下一步，工信部将积极研究吸纳各方面意见，会同相关部门加快编制印发《通知》，加快制修订相关标准，强化产品生产一致性监督检查、检验检测机构检查，通过事前准入、事中事后监督检查全链条监管，坚决防范不合理创新设计和未经充分研发测试验证的产品进入市场，坚决守牢汽车产品安全底线，切实维护消费者合法权益，推动汽车产业高质量发展。",
    "in_roll": 1,
    "recommend": 1,
@@ -40,7 +454,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509819?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 459,
+   "share_num": 623,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -101,7 +515,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 170613,
+   "reading_num": 337397,
    "content": "【工信部：下一步将加快算力设施扩容提质 为先进制造业发展夯实网络和算力底座】财联社10月20日电，工业和信息化部信息通信管理局局长谢存20日在国新办新闻发布会上表示，截至2026年9月底，我国智能算力规模达2592 EFLOPS，同比增长146%，有力支撑我国人工智能产业快速发展，行业发展活力持续释放。下一步，工业和信息化部将努力推动信息通信业提质升级。\n\n一是稳投资，把握新一代通信网建设机遇，谋划实施一批具有战略性、引导性、突破性的重大工程项目，加快算力设施扩容提质，为先进制造业发展夯实网络和算力底座；\n\n二是抓创新，前瞻布局6G技术创新，加强新一代通信网标准体系建设，深化5G工业互联网应用创新，推进信息通信与人工智能融合创新，工业互联网与人工智能融合赋能，高水平建设5G+工业互联网融合应用城市试点，深度赋能先进制造业；\n\n三是促开放，支持更多符合条件的企业申请卫星物联网业务商用试验，适时研究进一步扩大增值电信业务开放试点。",
    "in_roll": 1,
    "recommend": 1,
@@ -117,7 +531,7 @@
    "title": "工信部：下一步将加快算力设施扩容提质 为先进制造业发展夯实网络和算力底座",
    "bold": 0,
    "sort_score": 1792482583,
-   "comment_num": 5,
+   "comment_num": 7,
    "modified_time": 1792483784,
    "status": 1,
    "collection": 0,
@@ -125,7 +539,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509801?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 602,
+   "share_num": 722,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -152,7 +566,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 25480,
+     "attention_num": 25482,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -165,7 +579,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 72893,
+     "attention_num": 72894,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 207,
@@ -178,7 +592,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 18324,
+     "attention_num": 18325,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 550,
@@ -204,7 +618,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 19071,
+     "attention_num": 19072,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 261,
@@ -265,7 +679,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 282034,
+   "reading_num": 449277,
    "content": "【工信部：正在研究起草新一代智能制造的有关政策措施 加快推动人工智能与制造业深度融合】财联社10月20日电，国务院新闻办公室今日（10月20日）举行新闻发布会。会上介绍，党中央、国务院高度重视新一代智能制造发展。今年9月召开的全国先进制造业大会明确提出，要以新一代智能制造为主攻方向，加快推动制造业智能化、绿色化、融合化发展。目前，工业和信息化部正在研究起草新一代智能制造的有关政策措施，加快推动人工智能与制造业深度融合。\n\n发展新一代智能制造，关键在于推动人工智能技术与制造业全链条深度融合，提升装备和系统的自感知、自决策和自执行能力，促进生产方式和企业组织形态变革，探索形成新的制造模式，帮助企业降低成本、提升效率，更好满足多样化市场需求。工业和信息化部将充分发挥我国人工智能创新活跃和制造业场景丰富的独特优势，重点做好四方面工作。\n\n一是梯度培育智能工厂。鼓励基础级、先进级智能工厂夯实数字化、网络化基础，在研发设计、生产制造、运营管理、售后服务等环节深化人工智能应用。支持卓越级、领航级智能工厂探索新一代智能制造系统架构和未来制造模式，引领行业发展。\n\n二是创新发展智能装备。支持企业研发智能工业母机、智能机器人、智能检测装备和智能控制装备，提升自适应加工、柔性作业和在线检测能力，更好满足高精度、高可靠性生产要求。推动智能工程机械、智能农机、智能医疗装备等研发应用，提升自主作业和智能服务能力，让装备更加智能、产品更加好用，支撑相关行业智能化发展。\n\n三是加快智能技术攻关和推广应用。支持企业围绕研发设计、生产制造等核心环节，建设高质量工业数据集，开发先进适用的垂域大模型和各类工业专用模型，探索工业智能操作系统研发，推动数据、模型、软件和装备相互适配、高效协同。围绕智能排产、参数调优、缺陷检测、设备运维等场景，实施模数共振行动，稳妥开展工业智能体研发与应用验证，成熟一个、推广一个。\n\n四是深化智能制造国际合作。推动落实智能制造合作倡议，依托金砖等合作机制，加强智能工厂建设、标准规范体系等领域合作，鼓励企业、科研机构分享先进技术、解决方案和建设经验，开展供需对接和人才培养，协助合作伙伴建设智能工厂，共同推动制造业转型升级。",
    "in_roll": 1,
    "recommend": 1,
@@ -289,7 +703,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509772?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 873,
+   "share_num": 1131,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -316,11 +730,11 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 72893,
+     "attention_num": 72894,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 207,
-     "channel": "cls,stib"
+     "channel": "stib,cls"
     },
     {
      "article_id": 2509772,
@@ -329,7 +743,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 18189,
+     "attention_num": 18190,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 206,
@@ -377,7 +791,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 410651,
+   "reading_num": 570435,
    "content": "【美国政府指示各机构停用DeepSeek 外交部：反对泛化国家安全概念】财联社10月20日电，外交部发言人毛宁主持例行记者会。法新社记者提问，美国政府已指示其各机构停止使用中国公司DeepSeek的人工智能工具，美方称该工具可能构成多重威胁，包括敏感数据可能被传输至中国。请问外交部对此有何评论？毛宁表示，中方一贯反对泛化国家安全概念、将科技经贸问题政治化，我们将坚决维护中国企业的合法权益。 （澎湃新闻）",
    "in_roll": 1,
    "recommend": 1,
@@ -401,7 +815,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509747?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 148,
+   "share_num": 180,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -428,11 +842,11 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 72893,
+     "attention_num": 72894,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 207,
-     "channel": "stib,cls"
+     "channel": "cls,stib"
     }
    ],
    "audio_url": [
@@ -476,7 +890,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 418175,
+   "reading_num": 569404,
    "content": "【10月20日涨停分析】财联社10月20日电，今日全市场共54股涨停，连板股总数14只，29股封板未遂，封板率为65%（不含ST股、退市股）。焦点股方面，机器人概念股九阳股份12天7板，鱼粉概念股百洋股份8天6板，低空经济概念股吉大正元4连板。",
    "in_roll": 1,
    "recommend": 1,
@@ -500,7 +914,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509736?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 163,
+   "share_num": 192,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -561,7 +975,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183781,
+     "attention_num": 183784,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -609,7 +1023,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 507530,
+   "reading_num": 665314,
    "content": "【多只宽基ETF持续放量  上证50ETF华夏（510050）创近9个月成交额天量】财联社10月20日电，据财联社盯盘数据显示，尾盘部分宽基ETF持续放量，上证50ETF华夏（510050）全天成交75.3亿元，创2026年1月29日以来天量，沪深300ETF华夏（510330）全天成交42.2亿元，环比上一日增近11倍，沪深300ETF嘉实（159919）全天成交26亿元，环比上一日增超2倍。",
    "in_roll": 1,
    "recommend": 1,
@@ -625,7 +1039,7 @@
    "title": "多只宽基ETF持续放量  上证50ETF华夏（510050）创近9个月成交额天量",
    "bold": 1,
    "sort_score": 1792479910,
-   "comment_num": 43,
+   "comment_num": 45,
    "modified_time": 1792479910,
    "status": 1,
    "collection": 0,
@@ -633,7 +1047,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509711?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 809,
+   "share_num": 871,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -691,7 +1105,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183781,
+     "attention_num": 183784,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -752,7 +1166,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 503799,
+   "reading_num": 659357,
    "content": "【收评：沪指震荡回升收红 机器人概念股集体走强】财联社10月20日电，市场尾盘震荡拉升，沪指收红，创业板指跌幅收窄，科创50指数涨1%。黄白线分化明显，中小盘股走势较强。临近尾盘，部分宽基ETF显著放量，上证50ETF华夏（510050）20分钟内成交超40亿。沪深两市成交额1.46万亿，较上一个交易日放量186亿。全市场超3700只个股上涨。盘面上，机器人概念反复活跃，十余只成分股涨停，大业股份3连板，福莱新材、宁波东力、浙江荣泰2连板，长龄液压、华之杰涨停；端侧AI快速走高，恒玄科技、美格智能、移远通信、日海智能、博通集成、龙旗科技涨停；食品饮料板块盘中异动拉升，安记食品直线涨停，南方乳业涨近10%。下跌方面，煤炭板块震荡调整，大有能源、山煤国际下挫；染料概念走弱，善水科技盘中触及20CM跌停，锦鸡股份跌超14%。截至收盘，沪指涨0.12%，深成指跌0.14%，创业板指跌0.26%。",
    "in_roll": 1,
    "recommend": 1,
@@ -768,7 +1182,7 @@
    "title": "收评：沪指震荡回升收红 机器人概念股集体走强",
    "bold": 0,
    "sort_score": 1792479763,
-   "comment_num": 45,
+   "comment_num": 47,
    "modified_time": 1792479857,
    "status": 1,
    "collection": 0,
@@ -776,7 +1190,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509693?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 530,
+   "share_num": 605,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -816,7 +1230,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183781,
+     "attention_num": 183784,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -864,7 +1278,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 589090,
+   "reading_num": 740751,
    "content": "【尾盘部分宽基ETF成交激增 上证50ETF华夏（510050）20分钟成交超40亿】财联社10月20日电，据财联社盯盘数据显示，临近尾盘，部分宽基ETF显著放量，上证50ETF华夏（510050）20分钟内成交超40亿，沪深300ETF华夏（510330）20分钟内成交超8亿元。科创50ETF华夏（588000）成交额现突破97亿，创业板ETF易方达（159915）成交超75亿。",
    "in_roll": 1,
    "recommend": 1,
@@ -880,7 +1294,7 @@
    "title": "尾盘部分宽基ETF成交激增 上证50ETF华夏（510050）20分钟成交超40亿",
    "bold": 1,
    "sort_score": 1792479117,
-   "comment_num": 38,
+   "comment_num": 39,
    "modified_time": 1792479174,
    "status": 1,
    "collection": 0,
@@ -888,7 +1302,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509648?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 1084,
+   "share_num": 1110,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -956,7 +1370,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183781,
+     "attention_num": 183784,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1004,7 +1418,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 850080,
+   "reading_num": 994970,
    "content": "【七部门：加强药品、食品、保健食品、医疗器械、教育培训、金融理财、医疗等民生领域广告监管 加大典型案例曝光与信用惩戒力度】财联社10月20日电，市场监管总局等七部门印发《广告产业发展“十五五”规划》。其中提到，推动建设现代化广告监测体系，研发广告监测智能体。强化监管人才培养，重点开展数据分类、合规研判、电子固证等技能培训。强化隐私保护与数据安全监管，规范数据跨境传输。构建“事前普法、事中预警、事后惩戒”全流程监管闭环，建立跨境商品和服务广告监管协同机制，破解跨境广告监管难题。加强药品、食品、保健食品、医疗器械、教育培训、金融理财、医疗等民生领域广告监管，压实互联网平台主体责任，加大典型案例曝光与信用惩戒力度，净化市场环境，维护消费者权益。",
    "in_roll": 1,
    "recommend": 1,
@@ -1028,7 +1442,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509552?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 325,
+   "share_num": 331,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1068,7 +1482,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 25480,
+     "attention_num": 25482,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1081,7 +1495,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 17621,
+     "attention_num": 17622,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 32,
@@ -1094,7 +1508,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 14840,
+     "attention_num": 14841,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 6,
@@ -1155,7 +1569,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1133975,
+   "reading_num": 1255482,
    "content": "【沪深两市成交额突破1万亿 较上一日此时缩量超100亿】财联社10月20日电，据财联社盯盘数据显示，沪深两市成交额突破1万亿，较上一日此时缩量超100亿，预计全天成交金额超1.5万亿。",
    "in_roll": 1,
    "recommend": 1,
@@ -1179,7 +1593,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509445?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 38,
+   "share_num": 40,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1208,7 +1622,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183781,
+     "attention_num": 183784,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1256,7 +1670,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1328912,
+   "reading_num": 1443091,
    "content": "【财联社10月20日午间新闻精选】\n1、截至午间收盘，上证指数跌0.08%，深证成指涨0.18%，创业板指涨0.27%。\n2、港股午间收盘，香港恒生指数跌0.95%，报23956.93点；恒生科技指数跌1.21%，报4058.39点。\n3、国家发改委国民经济综合司副司长左刚20日在新闻发布会上表示，正在研究制定扩大内需战略实施方案，并将加快推动印发实施；下一步国家发展改革委将会同有关部门以更大力度更实举措有效扩大内需。将根据需要及时出台新的增量政策，确保经济运行保持在合理区间。\n4、央行公告，为更好匹配银行体系短期流动性需求，中国人民银行将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。\n5、股票ETF已连续第11个交易日净流入，Wind数据显示，10月19日股票ETF净流入240亿元，是连续第11个交易日净流入。",
    "in_roll": 1,
    "recommend": 1,
@@ -1280,7 +1694,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509396?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 99,
+   "share_num": 102,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1341,7 +1755,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1377688,
+   "reading_num": 1502158,
    "content": "【10月20日午间涨停分析】财联社10月20日电，今日午盘全市场共59股涨停，连板股总数12只，14股封板未遂，封板率为81%（不含ST股、退市股）。焦点股方面，机器人概念股九阳股份12天7板，低空经济概念股吉大正元4连板。",
    "in_roll": 1,
    "recommend": 1,
@@ -1365,7 +1779,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509383?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 88,
+   "share_num": 90,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1416,7 +1830,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183781,
+     "attention_num": 183784,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1464,7 +1878,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1467993,
+   "reading_num": 1588355,
    "content": "【午评：科创50指数半日涨0.79% 机器人、端侧AI概念集体爆发】财联社10月20日电，三大指数涨跌不一，创业板指低开冲高后回落。黄白线分化明显，中小盘股走势较强。沪深两市半日成交额9335亿，较上个交易日缩量372亿。全市场超3900只个股上涨。盘面上，热点快速轮动，机器人概念反复活跃，二十余只成分股涨停，大业股份3连板，福莱新材、宁波东力、浙江荣泰2连板；端侧AI快速走高，恒玄科技、美格智能、移远通信、日海智能、博通集成、龙旗科技涨停；PCB骏亚科技、协和电子、博敏电子涨停；AI漫剧粤传媒、城市传媒双双涨停。下跌方面，煤炭板块震荡调整，安泰集团、大有能源、郑州煤电下挫。截至收盘，沪指跌0.08%，深成指涨0.18%，创业板指涨0.27%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1480,7 +1894,7 @@
    "title": "午评：科创50指数半日涨0.79% 机器人、端侧AI概念集体爆发",
    "bold": 0,
    "sort_score": 1792467074,
-   "comment_num": 67,
+   "comment_num": 68,
    "modified_time": 1792467188,
    "status": 1,
    "collection": 0,
@@ -1488,7 +1902,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509378?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 398,
+   "share_num": 402,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1528,7 +1942,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183781,
+     "attention_num": 183784,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1576,7 +1990,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1508713,
+   "reading_num": 1630197,
    "content": "【国家发改委：多措并举加大力度扩大内需 合理提高公共服务支出占财政支出比重】财联社10月20日电，国家发展改革委召开10月份新闻发布会。国家发展改革委国民经济综合司副司长左刚表示，下一步，国家发展改革委将会同有关部门以更大力度更实举措有效扩大内需。一是坚持惠民生和促消费相结合，大力提振消费，统筹促就业、稳增长、稳预期，合理提高公共服务支出占财政支出比重，推动商品消费扩容升级，扩大养老消费，促进文化演艺、旅游服务、体育赛事等产业发展，清理取消消费不合理限制性措施；二是坚持投资于物和投资于人紧密结合，积极扩大有效投资，强化“十五五”规划纲要109项重大工程与“六张网”规划建设协同推进，加快新型政策性金融工具资金投放使用，加大对社会民生、科技创新、产业升级、安全韧性等领域补短板；三是完善扩大内需体制机制，促进供需高效畅通循环，统一产权保护市场准入的基础制度规则，完善有利于统一大市场建设的统计税收考核制度，清理优化不合理限制性措施，持续深化地方政府投资模式、居民收入分配制度改革。",
    "in_roll": 1,
    "recommend": 1,
@@ -1600,7 +2014,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509366?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 665,
+   "share_num": 671,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1627,7 +2041,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 12454,
+     "attention_num": 12455,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1657,7 +2071,7 @@
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 2553,
-     "channel": "cls,stib"
+     "channel": "stib,cls"
     }
    ],
    "audio_url": [
@@ -1701,7 +2115,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1529511,
+   "reading_num": 1645522,
    "content": "【端侧AI概念涨势扩大 恒玄科技等多股涨停】财联社10月20日电，端侧AI概念日内涨势扩大，恒玄科技20cm涨停，此前美格智能、移远通信、日海智能、博通集成、龙旗科技涨停，广和通、乐鑫科技、泰凌微、敏芯股份均涨超10%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1725,7 +2139,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509345?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 96,
+   "share_num": 103,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1843,7 +2257,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183781,
+     "attention_num": 183784,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1856,7 +2270,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 6376,
+     "attention_num": 6379,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1917,7 +2331,7 @@
    "depth_extends": "[]",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1552063,
+   "reading_num": 1656892,
    "content": "【创业板指涨逾1%】财联社10月20日电，指数走强，创业板指拉升涨逾1%，沪指涨0.06%，深成指涨0.63%。机器人、消费电子、PCB、半导体芯片、医药生物等方向涨幅居前，沪深京三市上涨个股近3800只。",
    "in_roll": 1,
    "recommend": 1,
@@ -1941,7 +2355,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2509327?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 62,
+   "share_num": 66,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1999,7 +2413,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 183781,
+     "attention_num": 183784,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -2008,484 +2422,6 @@
    ],
    "audio_url": [
     "https://image.cls.cn/admin/20261020/104425J8qbhnLgDG3o.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1510152,
-   "content": "【国家发改委：正在研究制定扩大内需战略实施方案】财联社10月20日电，国家发展改革委国民经济综合司副司长左刚20日在新闻发布会上表示，正在研究制定扩大内需战略实施方案，并将加快推动印发实施。下一步国家发展改革委将会同有关部门以更大力度更实举措有效扩大内需。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 1,
-   "img": "",
-   "user_id": 79,
-   "is_top": 0,
-   "brief": "【国家发改委：正在研究制定扩大内需战略实施方案】财联社10月20日电，国家发展改革委国民经济综合司副司长左刚20日在新闻发布会上表示，正在研究制定扩大内需战略实施方案，并将加快推动印发实施。下一步国家发展改革委将会同有关部门以更大力度更实举措有效扩大内需。",
-   "id": 2509328,
-   "ctime": 1792464205,
-   "type": -1,
-   "title": "国家发改委：正在研究制定扩大内需战略实施方案",
-   "bold": 0,
-   "sort_score": 1792464205,
-   "comment_num": 8,
-   "modified_time": 1792464648,
-   "status": 1,
-   "collection": 0,
-   "has_img": 0,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2509328?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 702,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [],
-   "explain_num": -1,
-   "stock_list": [],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2509328,
-     "subject_id": 7733,
-     "subject_name": "促消费举措",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 12454,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261020/105048ZcMh3rmqBMFK.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1532381,
-   "content": "【国家发改委：将根据需要及时出台新的增量政策 确保经济运行保持在合理区间】财联社10月20日电，国家发展改革委召开10月份新闻发布会。国家发展改革委国民经济综合司副司长左刚表示，国家发展改革委将会同有关部门及时出台实施增量政策，推动存量政策与增量政策协同发力，发挥好宏观政策集成效应，努力实现“十五五”良好开局。一方面，进一步增强存量政策实施效率，协同推进“十五五”规划、“六张网”实施方案重大项目开工建设，高质量做好项目准备，为开拓项目前期工作进展加强要素保障，提高审批效率，协调有关方面加快投放新型政策性金融工具资金，激发民间投资活力。在核电、水电、水利重大项目中引入民间资本，进一步优化实施全链条推动重点产业发展，优化算力设施布局等政策，全面系统推进老旧、水库排查和改造提升，加快前期实施项目的开工建设，持续推动高标准粮仓建设和向现有厂房升级改造。另一方面及时推出务实管用的增量政策，抓好近期已出台的降低抵押补充贷款利率、增加再贷款额度、居民住房贷款贴息等金融支持服务业发展的增量政策实施，推动政策落地见效。同时做好经济监测预警，根据需要及时出台新的增量政策，确保经济运行保持在合理区间。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 0,
-   "img": "",
-   "user_id": 79,
-   "is_top": 0,
-   "brief": "【国家发展改革委：将根据需要及时出台新的增量政策，确保经济运行保持在合理区间】财联社10月20日电，国家发展改革委召开10月份新闻发布会。国家发展改革委国民经济综合司副司长左刚表示，国家发展改革委将会同有关部门及时出台实施增量政策，推动存量政策与增量政策协同发力，发挥好宏观政策集成效应，努力实现“十五五”良好开局。一方面，进一步增强存量政策实施效率，协同推进“十五五”规划、“六张网”实施方案重大项目开工建设，高质量做好项目准备，为开拓项目前期工作进展加强要素保障，提高审批效率，协调有关方面加快投放新型政策性金融工具资金，激发民间投资活力。在核电、水电、水利重大项目中引入民间资本，进一步优化实施",
-   "id": 2509311,
-   "ctime": 1792463576,
-   "type": -1,
-   "title": "国家发改委：将根据需要及时出台新的增量政策 确保经济运行保持在合理区间",
-   "bold": 0,
-   "sort_score": 1792463576,
-   "comment_num": 0,
-   "modified_time": 1792463736,
-   "status": 1,
-   "collection": 0,
-   "has_img": 0,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2509311?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 190,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [],
-   "explain_num": -1,
-   "stock_list": [],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261020/1035375J5Xfq0h7SNw.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1553841,
-   "content": "【人形机器人概念持续走高 长盈精密等多股涨停】财联社10月20日电，人形机器人概念盘中持续走高，长盈精密20cm涨停，此前浙江荣泰、福莱新材、宁波东力、大业股份等多股涨停，宇树科技涨超7%，最近3个交易日涨近30%，华依科技、儒竞科技、安培龙等多股涨超10%。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 0,
-   "img": "",
-   "user_id": 684,
-   "is_top": 0,
-   "brief": "【人形机器人概念持续走高 长盈精密等多股涨停】财联社10月20日电，人形机器人概念盘中持续走高，长盈精密20cm涨停，此前浙江荣泰、福莱新材、宁波东力、大业股份等多股涨停，宇树科技涨超7%，最近3个交易日涨近30%，华依科技、儒竞科技、安培龙等多股涨超10%。",
-   "id": 2509297,
-   "ctime": 1792463236,
-   "type": -1,
-   "title": "人形机器人概念持续走高 长盈精密等多股涨停",
-   "bold": 1,
-   "sort_score": 1792463236,
-   "comment_num": 9,
-   "modified_time": 1792463414,
-   "status": 1,
-   "collection": 0,
-   "has_img": 0,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2509297?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 91,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [],
-   "explain_num": -1,
-   "stock_list": [
-    {
-     "rise_range_has_null": 0.1001,
-     "RiseRange": 10.01,
-     "name": "浙江荣泰",
-     "StockID": "sh603119",
-     "schema": "cailianshe://stock_detail?stock_id=sh603119",
-     "status": "L",
-     "last": 50.46,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.1001,
-     "RiseRange": 10.01,
-     "name": "福莱新材",
-     "StockID": "sh605488",
-     "schema": "cailianshe://stock_detail?stock_id=sh605488",
-     "status": "L",
-     "last": 30.99,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.1633,
-     "RiseRange": 16.33,
-     "name": "华依科技",
-     "StockID": "sh688071",
-     "schema": "cailianshe://stock_detail?stock_id=sh688071",
-     "status": "L",
-     "last": 39.9,
-     "is_stib": true
-    },
-    {
-     "rise_range_has_null": 0.1158,
-     "RiseRange": 11.58,
-     "name": "安培龙",
-     "StockID": "sz301413",
-     "schema": "cailianshe://stock_detail?stock_id=sz301413",
-     "status": "L",
-     "last": 52.31,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.1999,
-     "RiseRange": 19.99,
-     "name": "长盈精密",
-     "StockID": "sz300115",
-     "schema": "cailianshe://stock_detail?stock_id=sz300115",
-     "status": "L",
-     "last": 24.67,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.1,
-     "RiseRange": 10,
-     "name": "大业股份",
-     "StockID": "sh603278",
-     "schema": "cailianshe://stock_detail?stock_id=sh603278",
-     "status": "L",
-     "last": 11.99,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.1001,
-     "RiseRange": 10.01,
-     "name": "宁波东力",
-     "StockID": "sz002164",
-     "schema": "cailianshe://stock_detail?stock_id=sz002164",
-     "status": "L",
-     "last": 16.16,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0737,
-     "RiseRange": 7.3700004,
-     "name": "儒竞科技",
-     "StockID": "sz301525",
-     "schema": "cailianshe://stock_detail?stock_id=sz301525",
-     "status": "L",
-     "last": 41.4,
-     "is_stib": false
-    }
-   ],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2509297,
-     "subject_id": 1103,
-     "subject_name": "盘面直播",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 183781,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    },
-    {
-     "article_id": 2509297,
-     "subject_id": 12683,
-     "subject_name": "人形机器人",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 10871,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 2067,
-     "channel": "cls,stib"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261020/103015iI6CoXpOZh42.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1793495,
-   "content": "【开盘半小时两市缩量近400亿 预计全天成交超1.3万亿】财联社10月20日电，据财联社盯盘数据显示，开盘半小时，沪深两市成交额突破4400亿，较上一日此时缩量近400亿，预计全天成交金额超1.3万亿。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 0,
-   "img": "https://image.cls.cn/images/20261020/JoH23H48zS_1206x1140.jpg",
-   "user_id": 684,
-   "is_top": 0,
-   "brief": "【开盘半小时两市缩量近400亿 预计全天成交超1.3万亿】财联社10月20日电，据财联社盯盘数据显示，开盘半小时，沪深两市成交额突破4400亿，较上一日此时缩量近400亿，预计全天成交金额超1.3万亿。\n",
-   "id": 2509273,
-   "ctime": 1792461713,
-   "type": -1,
-   "title": "开盘半小时两市缩量近400亿 预计全天成交超1.3万亿",
-   "bold": 0,
-   "sort_score": 1792461713,
-   "comment_num": 11,
-   "modified_time": 1792461713,
-   "status": 1,
-   "collection": 0,
-   "has_img": 1,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2509273?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 85,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [
-    "https://image.cls.cn/images/20261020/JoH23H48zS_1206x1140.jpg"
-   ],
-   "explain_num": -1,
-   "stock_list": [],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2509273,
-     "subject_id": 1103,
-     "subject_name": "盘面直播",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 183781,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261020/100153V5MIqeuER8AT.mp3"
    ],
    "author": "",
    "plate_list": [],
@@ -2522,13 +2458,464 @@
    "下跌": 1666
   },
   "ladder": {
-   "首板": 0,
-   "2板": 0,
-   "3板": 0,
-   "高度板": 0,
-   "总计": 0
+   "首板": 37,
+   "2板": 11,
+   "3板": 5,
+   "高度板": 1,
+   "总计": 54
   },
-  "sectors": [],
+  "sectors": [
+   {
+    "name": "机器人概念",
+    "count": 18,
+    "stocks": [
+     {
+      "code": "603278",
+      "name": "大业股份",
+      "board": "3连板",
+      "concept": "工业4.0、机器人概念",
+      "reason": "机器人概念+商业航天；1. 机器人概念：据2026年1月1日公告，公司现有主营业务仍以胎圈钢丝、钢帘线以及胶管钢丝的研发、生产和销售为主，公司机器人腱绳产品总体尚处于探索试验阶段，目前未实现批量生产，未产生实质性收益。\r\n\r\n2. 商业航天：据2026年1月1日公告，公司持有湖北三江航天江北机械工程有限公司4.216%的股权，该公司主要从事航天动力系统、天线罩等航天产品研发生产。上述投资属于财务性投资，股权占比较小，目前净利润规模较小，对公司业绩影响甚微。"
+     },
+     {
+      "code": "605488",
+      "name": "福莱新材",
+      "board": "2连板",
+      "concept": "灵巧手、传感器",
+      "reason": "机器人概念(灵巧手)；据2026年9月24日投资者关系活动记录表，福莱新材柔性传感业务现阶段重点聚焦四大主线：赋予灵巧手灵敏触觉的触觉传感系统；服务精密制造的工业检测数字感压；覆盖电池全生命周期安全监测；重塑人机交互体验的智能交互感知。"
+     },
+     {
+      "code": "002164",
+      "name": "宁波东力",
+      "board": "2连板",
+      "concept": "减速器、机器人概念",
+      "reason": "机器人概念；据2026年8月27日公告，公司精密传动部件板块锚定具身智能等新兴赛道，谐波减速器、精密行星减速器等核心产品批量试样及供货正稳步推进；公司精密减速器智能制造项目实施主体为宁波东力精密传动有限公司，预计年产精密减速器200万台"
+     },
+     {
+      "code": "002347",
+      "name": "泰尔股份",
+      "board": "首板",
+      "concept": "神经网络、工业机器人",
+      "reason": "机器人概念+商业航天；1. 机器人概念：据2026年半年报，公司机器人产品包括打包机器人、焊牌机器人、挂牌机器人，其中打包机器人主要用于冶金高线、盘卷、圆钢、螺纹钢筋、扁钢、角钢的全自动捆扎，焊牌机器人应用于棒材精整线后段棒材焊牌。\r\n\r\n2. 商业航天：据2026年5月18日投资者关系活动记录表，公司目前航空航天业务和机器人业务处于起步阶段，相关营收占公司整体营收比例较小，未达到单独披露标准。"
+     },
+     {
+      "code": "603626",
+      "name": "科森科技",
+      "board": "2连板",
+      "concept": "智能音箱、MIM",
+      "reason": "机器人概念+电子烟；1. 机器人概念：据2026年9月30日公告，公司拟使用本次发行部分募集资金建设机器人与智能终端精密结构件及模组制造项目（一期），计划投资4.02亿元，用于建设机器人与智能终端精密结构件及模组生产线\r\n\r\n2. 电子烟：据2025年6月6日互动易，科森科技生产加热不燃烧电子烟结构件，客户有PMI等。"
+     },
+     {
+      "code": "001239",
+      "name": "永达股份",
+      "board": "首板",
+      "concept": "机器人概念、专用设备",
+      "reason": "机器人概念+工程机械；1. 机器人概念：据2026年8月12日互动易，公司控股子公司金源装备主营高速重载大型齿轮锻件，仅少量通用重载传动锻件可适配工业机器人传动场景，目前机器人相关配套业务体量极小，暂无明确新增机器人类客户。\r\n\r\n2. 工程机械：据2026年半年报，在工程机械设备结构件领域，公司主攻起重机械关键结构部件，产品覆盖起重机车架、主臂架、副臂、塔式起重机整机结构件等。"
+     },
+     {
+      "code": "603119",
+      "name": "浙江荣泰",
+      "board": "2连板",
+      "concept": "减速器、机器人概念",
+      "reason": "机器人概念；据2026年8月25日投资者关系活动记录表，公司目前与国内外机器人厂商项目对接顺利，根据海外客户需求正积极推进泰国生产基地建设和产能搭建，2026年上半年度公司已向国内外客户交付机器人零部件相关产品，目前正根据国内外客户订单要求积极排产"
+     },
+     {
+      "code": "300466",
+      "name": "赛摩智能",
+      "board": "首板",
+      "concept": "物理AI、机器视觉",
+      "reason": "机器人概念+机器视觉；1. 机器人概念：据2026年半年报，公司控股子公司洛阳赛摩科创设立巡检机器人事业部并全面开展业务，已取得防爆认证、质量管理体系等资质，与洛阳钼业签订巡检机器人项目。\r\n\r\n2. 机器视觉：据2026年9月11日互动易，公司围绕机器视觉+AI+机器人等技术，满足客户在线质量检测、物品智能定位抓取、人员作业行为分析等场景的自动化和智能化需求，在食品行业应用机器视觉及AI智能实现软包装高速理袋统合装箱，利用机器视觉+AI+机器人实现乳品工厂原奶进场的智能化检测，在半导体领域采用机器视觉+AI+机器人实现产品的质量在线检测与分拣"
+     },
+     {
+      "code": "603341",
+      "name": "龙旗科技",
+      "board": "首板",
+      "concept": "智元机器人、空间计算",
+      "reason": "机器人概念+AI眼镜；1. 机器人概念：据2026年半年报，公司持续打造面向具身机器人的数据采集设备，并为机器人本体企业提供核心零部件及ODM研发制造服务，公司数据采集设备已通过客户验证，量产进程正加速推进。\r\n\r\n2. AI眼镜：据2026年半年报，龙旗科技智能眼镜业务维持稳健增长态势，国内外头部客户项目按计划稳定推进中；公司积极融入Google Android XR生态，联合Xreal推出Puck形态全新产品，该产品已成为Android XR通用方案之一；制造端，公司SiP产线已先后在上海、马来西亚启动。"
+     },
+     {
+      "code": "300115",
+      "name": "长盈精密",
+      "board": "首板",
+      "concept": "灵巧手、无线耳机",
+      "reason": "机器人概念+AI眼镜；1. 机器人概念：据2026年10月8日互动易，公司与北美、欧洲、国内的头部人形机器人客户建立稳定合作关系，今年1-8月交付超110万件人形机器人精密零组件，三、四季度订单相比上半年增速更快，正根据客户需求积极扩产。\r\n\r\n2. AI眼镜：据2025年8月1日互动易，长盈精密向Meta与rayban联名的AI眼镜提供结构件产品。"
+     },
+     {
+      "code": "603407",
+      "name": "长裕集团",
+      "board": "首板",
+      "concept": "次新股、机器人概念",
+      "reason": "机器人概念+氧化锆；1. 机器人概念：2026年5月25日互动，公司特种尼龙产品可在机器人面罩、关节等方面提供产品解决方案，目前处于开发验证阶段。\r\n\r\n2. 氧化锆：据2026年7月7日投资者关系活动记录表，公司钇稳定化锆产品主要是指纳米复合氧化锆产品。随着钇稳定氧化锆市场的不断开拓，预计公司纳米复合氧化锆产品现有产能将逐步饱和，目前公司正在论证纳米复合氧化锆产品产能扩产的可行性。"
+     },
+     {
+      "code": "002403",
+      "name": "爱仕达",
+      "board": "首板",
+      "concept": "物理AI、机器视觉",
+      "reason": "机器人概念；据2026年9月2日投资者关系活动记录表，公司自2016年通过收购控股子公司钱江机器人切入工业机器人赛道，2026年上半年工业机器人业务出货量同比高增速；公司人形机器人业务系2024年开始酝酿、2026年正式落地的新业务板块，公司与智元机器人达成战略合作，当前以智元四足机器狗的委托制造为核心起点，产线筹建正按计划紧密推进。"
+     },
+     {
+      "code": "605389",
+      "name": "长龄液压",
+      "board": "首板",
+      "concept": "减速器、专精特新",
+      "reason": "机器人概念(AGV机器人)；10月19日晚公告，董事长提议不低于7000万元、不超过1.30亿元回购公司股份\r\n\r\nAGV机器人：据2026年半年报，公司产品具体包括中央回转接头、张紧装置、工程机械回转减速器、精密铸件和光伏回转减速器等，下游产品遍及工程机械、光伏跟踪、AGV运输车等；工程机械回转减速器典型应用为高空作业平台、AGV、重型平板运输车等。"
+     },
+     {
+      "code": "001283",
+      "name": "豪鹏科技",
+      "board": "首板",
+      "concept": "AI眼镜、端侧AI",
+      "reason": "机器人概念+AI眼镜；1. 机器人概念：据2026年10月13日投资者关系活动记录表，公司机器人电池/数据采集电池已批量出货，预计2026年机器人相关业务收入接近亿元。据2026年8月25日投资者关系活动记录表，数据采集电池是机器人数据训练场景的配套需求，豪鹏科技已实现头部客户项目的大批量出货\r\n\r\n2. AI眼镜：据2026年10月13日投资者关系活动记录表，豪鹏科技AI眼镜电池方面，钢壳叠片电池已规模量产，并向北美头部及国内外一线AI眼镜品牌批量供货，产品覆盖带屏显示型等不同应用场景；2025年公司已位居全球AI可穿戴锂电池第一梯队"
+     },
+     {
+      "code": "001288",
+      "name": "运机集团",
+      "board": "首板",
+      "concept": "工业机器人、减速器",
+      "reason": "机器人概念；据2026年9月3日投资者关系活动记录表，公司与华为深度合作共建“运机集团-华为联合创新中心”，成功研发了融合AI大模型的“矿山智能工业巡检机器人V1.0”，并已在非洲几内亚矿山投入实际应用，公司正持续推进矿山智能工业巡检机器人的迭代升级与系列化开发。"
+     },
+     {
+      "code": "603657",
+      "name": "春光科技",
+      "board": "首板",
+      "concept": "小米概念、专精特新",
+      "reason": "机器人概念+家电；1. 机器人概念：据2026年8月7日募集说明书，公司主要从事清洁电器整机ODM/OEM及核心零部件业务，产品涵盖吸尘器、洗地机、扫地机器人等，终端合作品牌包括小米、美的、追觅等。\r\n\r\n2. 家电：据2026年半年报，春光科技主要从事清洁电器整机ODM/OEM和核心零部件产品的研发、生产和销售，其中清洁电器整机ODM/OEM产品主要包括有吸尘器、洗地机、扫地机器人、布艺清洗机、除螨仪等。"
+     },
+     {
+      "code": "603683",
+      "name": "晶华新材",
+      "board": "首板",
+      "concept": "传感器、端侧AI",
+      "reason": "机器人概念+端侧AI；1. 机器人概念：据2026年半年报，公司控股子公司北京晶智感的核心产品包含柔性传感器薄膜、触觉传感组件，可适配人形机器人灵巧手、数据采集设备的需求；该公司已与具身智能、灵巧手领域的多家头部企业合作，相关产品已实现小批量量产。\r\n\r\n2. 端侧AI：2025年半年报，公司聚焦AI终端用胶粘材料研发，针对AI手机、AIPC的高集成屏显、散热模组等需求，开发功能性OCA光学胶、高导热率胶带等产品，已完成贴合性能与耐候性测试。目前已与终端厂商联合验证，为AI终端轻薄化与性能升级提供材料支撑。"
+     },
+     {
+      "code": "603400",
+      "name": "华之杰  ",
+      "board": "首板",
+      "concept": "送转填权、消费电子",
+      "reason": "机器人概念+并购重组；1. 机器人概念：据2026年半年报，公司积极拓展机器人关节模组等新业务，研发无框力矩电机与空心杯电机，无框力矩电机可运用于机器人关节；公司三合一电机专为高性能机器人关节应用设计，已完成北美著名客户送样确认并进入客户供应链体系\r\n\r\n2. 并购重组：据2026年9月29日晚公告，华之杰拟发行股份及支付现金购买赵蝶持有的格丽明450万元注册资本（对应83.5052%股权），并向不超过35名特定投资者募集配套资金，配套募资不超标的交易对价100%。格丽明主营半导体芯片测试配套产品，涵盖半导体芯片测试治具、封装测试治具及夹持治具等，适配QFN、BGA等封装形式。上市公司拟通过收购该优质标的资产切入半导体测试配套领域，拓展业务边界。"
+     }
+    ]
+   },
+   {
+    "name": "端侧AI",
+    "count": 6,
+    "stocks": [
+     {
+      "code": "001323",
+      "name": "慕思股份",
+      "board": "2连板",
+      "concept": "端侧AI、鸿蒙概念",
+      "reason": "端侧AI+服装家纺；1. 端侧AI：据2026年9月15日投资者关系活动记录表，公司于2026年9月发布T12智能床，T12为行业首款端侧AI智能床，搭载10纳米制程、64位SOC处理器，集成CPU、GPU、NPU，将本地算力首次应用于智能寝具，睡眠感知与模型运算均在床垫本地完成。\r\n\r\n2. 服装家纺：据2026年半年报，慕思股份主要从事床垫、床架、床品及其配套家居的研发、设计、生产和销售，主要产品包括中高端床垫、床架、沙发、床品和其他产品"
+     },
+     {
+      "code": "002313",
+      "name": "日海智能",
+      "board": "首板",
+      "concept": "AI眼镜、eSIM",
+      "reason": "AI眼镜+机器人概念；1. AI眼镜：据2026年半年报，日海智能紧跟AIoT趋势，将AI技术与无线通信模组深度融合，推出端侧AI智能模组（如12TOPS算力的SIM9650W、48TOPS算力的SIM9850等），支持语音交互、图像分析、本地数据推理等能力，为AR眼镜等场景提供高算力、高可靠性的智能连接方案。\r\n\r\n2. 机器人概念：据2026年半年报，公司智能模组集成AI算力及算法，支持端侧数据推理与本地化数据处理，适配智能车载机器人等场景；公司通过“AI+IoT”协同进化，为陪伴机器人等场景提供高算力、高可靠性的智能连接方案"
+     },
+     {
+      "code": "603236",
+      "name": "移远通信",
+      "board": "首板",
+      "concept": "AI玩具、AI眼镜",
+      "reason": "端侧AI+三季报增长；1. 端侧AI：据2026年第三季度报告，公司构建了“1+N”业务矩阵，模组及天线、车载、物联网垂直解决方案、端侧AI及解决方案等多元化业务协同发展，其中算力模组、车载、解决方案等业务均保持较好的增长态势。\r\n\r\n2. 三季报增长：10月19日晚公告，2026年1-9月归属上市公司股东的净利润：12.12亿元，同比上年增长：65.21%。"
+     },
+     {
+      "code": "603068",
+      "name": "博通集成",
+      "board": "首板",
+      "concept": "端侧芯片、AI玩具",
+      "reason": "AI眼镜+芯片；1. AI眼镜：据2026年9月10日互动易，博通集成BK7259是面向边缘AI及AIoT应用推出的新一代高性能芯片产品，整合无线连接、多媒体处理、端侧AI等能力，可面向AI眼镜、可穿戴设备等场景提供支持\r\n\r\n2. 芯片：据2026年9月10日互动易，公司BK7258为面向AIoT智能终端应用的Wi-Fi 6低功耗芯片，具备无线连接与端侧智能应用适配能力，可面向智能门锁、智能摄像、AI玩具、智能家居等场景提供芯片及方案支持，相关产品已实现量产销售。"
+     },
+     {
+      "code": "688608",
+      "name": "恒玄科技",
+      "board": "首板",
+      "concept": "端侧芯片、AI视觉",
+      "reason": "端侧AI(AI眼镜)；据2026年9月11日投资者关系活动记录表，恒玄科技BES2800系列芯片上半年成功导入雷鸟、Rokid等智能眼镜领域重点新客户；BES6100已顺利流片，下半年进入测试及客户送样阶段，预计2027年进入量产阶段。"
+     },
+     {
+      "code": "603893",
+      "name": "瑞芯微  ",
+      "board": "首板",
+      "concept": "端侧芯片、ISP",
+      "reason": "端侧芯片+三季报增长；10月15日晚公告，预计2026年1-9月归属于上市公司股东的净利润盈利:131,000万元至135,000万元,同比上年增长:68.04%至73.17%,同比上年增长53,042万元至57,042万元。报告期内,公司AIoT(端侧AI)芯片平台在深度、广度产生飞跃发展,机器人、汽车电子、机器视觉、工业应用、新质生产力为代表的AIoT(端侧AI)产品线保持高速增长。"
+     }
+    ]
+   },
+   {
+    "name": "AI应用",
+    "count": 5,
+    "stocks": [
+     {
+      "code": "003029",
+      "name": "吉大正元",
+      "board": "4连板",
+      "concept": "AI安全、数据安全",
+      "reason": "AI安全+低空经济；1. AI安全：据2026年半年报，吉大正元在AI安全方面围绕大模型应用中的数据安全、模型安全、内容安全等安全要求，持续研发并完善大模型安全护栏产品，并通过数据安全、保密护栏等产品为党政等AI大模型应用提供安全保障\r\n\r\n2. 低空经济：据2026年10月19日公告，公司聚焦低空经济发展需求，参与制定“星-机-地”协同安全解决方案；配载公司安全组件的相关试验卫星于2026年4月成功发射；不过相关业务收入占比较低，尚未形成规模化收入。"
+     },
+     {
+      "code": "002181",
+      "name": "粤传媒",
+      "board": "首板",
+      "concept": "AIGC、AI视频",
+      "reason": "AI视频+文化传媒；1. AI视频：据2026年半年报，粤传媒自主研发的\"妙创\"AIGC内容生产平台落地使用，并搭建标准化AI视频工作流程；公司推进影视及AIGC业务向微短剧产业延伸布局，着力构建精品真人剧、AI漫剧产品体系，开拓AI视频业务发展新赛道\r\n\r\n2. 文化传媒：据2026年半年报，公司以人工智能技术为核心赋能底座，深耕文化传媒、影视科技、银龄文旅、产业投资四大核心板块；作为最早上市的文化传媒企业之一，公司目前是华南地区知名的广告代理商。"
+     },
+     {
+      "code": "300244",
+      "name": "迪安诊断",
+      "board": "首板",
+      "concept": "多模态概念、基因疗法",
+      "reason": "AI医疗+三季报增长；1. AI医疗：据2026年8月24日投资者关系活动记录表，迪安诊断以自研“灵眸”多模态大模型从宫颈细胞学向组织病理、免疫组化定量等全学科延伸，支持TCT、HE、IHC等图像分析，已获二十余项NMPA/CE等注册证；宫颈细胞病理AI产品累计出具近千万份海内外临床辅助诊断报告。\r\n\r\n2. 三季报增长：10月19日晚公告，2026年1-9月归属上市公司股东的净利润：4.82亿元，同比上年增长：750.28%。"
+     },
+     {
+      "code": "603636",
+      "name": "南威软件",
+      "board": "3天2板",
+      "concept": "数据安全、华为昇腾",
+      "reason": "AI政务+AI视频；1. AI政务：据2026年10月15日互动易，南威软件自研推出WellWork组织级AI Agent操作系统平台，专门面向政务场景，具备安全合规、跨系统协同、组织级记忆、开箱即用四大核心特性，可孵化数字公务员、数字民警、数字员工等多元智能形态。\r\n\r\n2. AI视频：据2026年10月15日互动易，公司AI短剧业务首部海外AI短剧已于8月制作完成。按照规划，2026年下半年计划出品25部高质量AI短剧，整体产能规划为年产超100部，公司海外短剧自有发行APP预计11月上线，AI短剧业务主要面向海外C端用户，同时也面向平台合作方、渠道分发伙伴及品牌客户提供内容、发行或联合运营服务。"
+     },
+     {
+      "code": "688004",
+      "name": "博汇科技",
+      "board": "首板",
+      "concept": "AI安全、数据安全",
+      "reason": "AI安全+股权转让；1. AI安全：据2026年半年报，公司在传媒安全方向依托“慧视”大模型，持续迭代内容审核、舆情分析与融媒监管产品，推进鉴伪溯源等技术的研发与应用，提升内容安全与可信AI能力；基于“AI+视听安全”理念打造“慧X”七大系列能力矩阵，慧识运用多模态大模型，依靠水印、音视频特征及语义检测甄别AIGC与AI魔改内容.\r\n\r\n2. 股权转让：据2026年9月11日晚公告，博汇科技控股股东、实际控制人及其一致行动人孙传明、郭忠武、博聚睿智等转让方拟通过协议转让方式，向深圳市明心泓智科技合伙企业（有限合伙）合计转让公司14.6%股份，转让价款合计2.39亿元。受让方将成为公司持股5%以上股东。"
+     }
+    ]
+   },
+   {
+    "name": "其他",
+    "count": 5,
+    "stocks": [
+     {
+      "code": "600293",
+      "name": "三峡新材",
+      "board": "4天2板",
+      "concept": "华为概念、锂电池",
+      "reason": "并购重组+电解液；10月20日复牌。\r\n\r\n并购重组+电解液：据2026年10月19日晚公告，三峡新材拟以发行股份及支付现金方式购买珠海赛纬100%股权，并向包括当阳城投在内的不超过35名特定对象募集配套资金不超过10亿元；公告称剩余资金不低于80%用于标的公司基地建设。标的公司主要从事锂离子电池电解液的研发、生产和销售。"
+     },
+     {
+      "code": "002076",
+      "name": "星光股份",
+      "board": "3天2板",
+      "concept": "AI安全、网络安全",
+      "reason": "数字经济(量子科技)；《科创板日报》10月20日讯，英伟达新突破：用8192块GPU刻下容错量子计算模拟里程碑\r\n\r\n量子科技：据2026年半年报，公司旗下控股子公司广东星光神州量子信息技术有限公司等专注于智慧城市综合运营中心建设、国产化信创及信息安全解决方案（云防线安全服务、监测系统等技术领域）。"
+     },
+     {
+      "code": "002088",
+      "name": "鲁阳节能",
+      "board": "首板",
+      "concept": "非金属材料、消防",
+      "reason": "非金属材料+实控人变更；1. 非金属材料：据2026年半年报，鲁阳节能主要从事陶瓷纤维、可溶纤维、氧化铝纤维、轻质莫来石砖等耐火保温产品的研发、生产、销售，产品用于工业窑炉耐火保温；公司具备年产约58万吨陶瓷纤维产品的生产能力。\r\n\r\n2. 实控人变更：据2026年9月4日公告，美国破产法院已于美国时间2026年9月3日确认公司间接控股股东Ulysses的重组计划；若本次重组成功，公司实际控制人及其相关机构将不再持有Ulysses任何股权权益，公司可能变更为无实际控制人状态"
+     },
+     {
+      "code": "603696",
+      "name": "安记食品",
+      "board": "首板",
+      "concept": "海峡两岸、中报增长",
+      "reason": "食品饮料+海峡两岸；据2026年9月3日互动，公司地处福建泉州，对台区位优势明显，公司积极关注并顺应两岸经贸交流政策导向，持续探索复合调味品产品对台贸易与市场拓展机会，相关拓展若达到信息披露标准的事项，将严格按照相关规定及时公告。"
+     },
+     {
+      "code": "002696",
+      "name": "百洋股份",
+      "board": "首板",
+      "concept": "水产品、土壤修复",
+      "reason": "农业(水产品)；据2026年10月15日公告，饲料业务方面，鱼粉是核心原料之一，价格上行将直接增加饲料生产成本，对该板块盈利形成一定压力。远洋捕捞及相关水产品加工业务则将受益于鱼粉涨价行情，产品盈利空间有望提升。"
+     }
+    ]
+   },
+   {
+    "name": "物理AI",
+    "count": 4,
+    "stocks": [
+     {
+      "code": "002835",
+      "name": "同为股份",
+      "board": "首板",
+      "concept": "AI视觉、ISP",
+      "reason": "物理AI；据2026年半年报，同为股份在AI大模型方面，通过万物识别、自然语言检索、视频理解、Agent等技术，推动视频感知、搜索与理解能力升级并实现产品化。"
+     },
+     {
+      "code": "301313",
+      "name": "凡拓数创",
+      "board": "2连板",
+      "concept": "空间计算、物理AI",
+      "reason": "物理AI；10月19日财联社消息，当地时间10月20日至22日，英伟达GTC大会将在德国柏林举行。据官方介绍，大会覆盖完整人工智能技术栈，将聚焦加速计算、智能体AI（Agentic AI）、物理AI（Physical AI）、机器人、开源模型、AI基础设施等方向。\r\n\r\n物理AI：据2026年9月15日投资者关系活动记录表，公司围绕物理AI与具身训练所需的空间数据、仿真交互数据、无本体数据、本体数据四大类数据构建物理AI数据基座；FunSim具身智能数据仿真平台与自研FTE引擎深度协同，具备从数据采集、仿真验证到真机部署全链路能力。"
+     },
+     {
+      "code": "002881",
+      "name": "美格智能",
+      "board": "首板",
+      "concept": "AI玩具、无线耳机",
+      "reason": "物理AI+端侧AI；1. 物理AI：据2026年10月19日美格智能官微，美格智能基于200TOPS AI BOX实现40路视频解码+40路AI识别同步运行，以本地毫秒级处理、低功耗高稳定的边缘计算能力，让物理AI在智慧城市、工业能源等真实场景中自主感知与决策，标志着物理AI从\"能用\"迈向\"好用\"的重要突破。\r\n\r\n2. 端侧AI：据2026年10月20日财闻报道，10月13日至15日公司亮相Network X2026展会，携Wi-Fi8网关、个人AI助手解决方案等旗舰新品及全矩阵高算力AI模组、4G/5G/5G-A通信模组与FWA解决方案，以“AI+连接”双轮驱动呈现从云端到端侧的完整技术图景。"
+     },
+     {
+      "code": "001388",
+      "name": "信通电子",
+      "board": "首板",
+      "concept": "物理AI、传感器",
+      "reason": "物理AI+机器人概念；1. 物理AI：据2026年10月14日信通电子官微，信通电子与阜时科技正式签署战略合作协议，双方将重点围绕下一代物理AI空间感知技术开展战略合作。\r\n\r\n2. 机器人概念：据2026年8月22日公告，公司围绕电力输变配核心场景，重点推进防冰除冰机器人、具身智能巡视终端等产品研发与市场落地，“小黄人”防冰除冰机器人重点面向国内覆冰频发的省份推广，客户认可度稳步提升"
+     }
+    ]
+   },
+   {
+    "name": "三季报增长",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "600661",
+      "name": "昂立教育",
+      "board": "首板",
+      "concept": "人工智能、三季报增长",
+      "reason": "三季报增长；10月19日晚公告，2026年1-9月归属上市公司股东的净利润：9976.21万元，同比上年增长：117.20%。"
+     },
+     {
+      "code": "002479",
+      "name": "富春环保",
+      "board": "首板",
+      "concept": "黄金回收、智慧城市",
+      "reason": "三季报增长；10月19日晚公告，2026年1-9月归属上市公司股东的净利润：4.73亿元，同比上年增长：94.35%。"
+     },
+     {
+      "code": "603386",
+      "name": "骏亚科技",
+      "board": "首板",
+      "concept": "小米概念、专精特新",
+      "reason": "三季报增长+PCB；1. 三季报增长：10月19日晚公告，2026年1-9月归属上市公司股东的净利润：7804.70万元，同比上年增长：259.40%。\r\n\r\n2. PCB：据2026年10月19日晚公告，公司PCB产品订单金额增加，PCB产品营业收入增长，叠加产品结构优化、成本价格合理传导，利润同比增加。"
+     }
+    ]
+   },
+   {
+    "name": "医药",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "600267",
+      "name": "海正药业",
+      "board": "2连板",
+      "concept": "DeepSeek、人工智能",
+      "reason": "医药+三季报增长；1. 医药：据2026年半年报，公司医院推广部下设心脑血管及代谢药物事业部、综合药物事业部、肿瘤药物事业部，以公司丰富的创新药、原研药及高品质仿制药产品组合为基础，持续将高质量治疗药物覆盖到国内众多医疗机构\r\n\r\n2. 三季报增长：10月16日晚公告，预计2026年1-9月归属于上市公司股东的净利润盈利约:115,000万元,同比上年增长:149.46%左右,同比上年增长68,900万元左右。"
+     },
+     {
+      "code": "605177",
+      "name": "东亚药业",
+      "board": "首板",
+      "concept": "合成生物、阿尔茨海默",
+      "reason": "医药；据2026年9月15日投资者关系活动记录表，东亚药业2026年上半年左氧氟沙星片实现首笔商业化生产和销售，新增获批富马酸伏诺拉生片、沙格列汀二甲双胍缓释片和依帕司他片等制剂批件，并新获批拉氧头孢钠、头孢美唑钠、头孢丙烯等原料药批件。"
+     },
+     {
+      "code": "002940",
+      "name": "昂利康",
+      "board": "首板",
+      "concept": "合成生物、CDMO",
+      "reason": "医药(创新药)；据2026年半年报，昂利康首个创新药品种注射用ALK-N001/QHL-1618已进入Ib/II期临床试验阶段，联合用药的临床试验申请正在同步筹备，公司并联合筹备组建小分子创新药研发平台介入早期研发"
+     }
+    ]
+   },
+   {
+    "name": "低空经济",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "600178",
+      "name": "东安动力",
+      "board": "3连板",
+      "concept": "电机电控、汽车零部件",
+      "reason": "低空经济(飞行汽车)；财联社10月16日电，马斯克表示，将在2028年开始生产第二代Roadster跑车。当地时间10月15日，特斯拉在美国得克萨斯州发布经过重新设计的第二代Roadster，现场演示倒挂行驶、短暂腾空及空中转向等功能。\r\n\r\n飞行汽车：据2026年半年报，东安动力低空经济全速争先，增程发动机已成功配套飞行汽车；东安动力拥有低空动力/新能源车用动力转子发动机等四大发动机产品平台，致力于为低空飞行器等提供发动机、传动系统及动力总成一体化解决方案。"
+     },
+     {
+      "code": "600860",
+      "name": "京城股份",
+      "board": "3连板",
+      "concept": "小米机器人、机器人概念",
+      "reason": "低空经济+储气罐；10月16日财联社报道，京津冀等5个城市群将开展氢能综合应用试点工作。\r\n当地时间10月15日，特斯拉在美国得克萨斯州发布经过重新设计的第二代Roadster，现场演示倒挂行驶、短暂腾空及空中转向等功能。\r\n\r\n1. 低空经济：据2026年5月19日互动易，公司70MPaIV型储氢瓶可以应用于氢能无人机领域，受加氢设施限制及综合竞争因素影响，该产品未在氢能无人机领域产生销售\r\n\r\n2. 储气罐：据2026年半年报，京城股份及下属子公司具有B1级无缝气瓶、B3级纤维缠绕气瓶、B4级低温绝热气瓶的设计和A2级高压容器、B1级无缝气瓶、B3级纤维缠绕气瓶、B4级低温绝热气瓶生产资质；下属公司包括宽城天海压力容器有限公司。"
+     }
+    ]
+   },
+   {
+    "name": "算力",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "002596",
+      "name": "海南瑞泽",
+      "board": "首板",
+      "concept": "算力、实控人变更",
+      "reason": "算力+水泥；1. 算力：据2026年10月15日证券导报，海南瑞泽在不到一个月内连续成立3家智算科技公司，并将智算子公司董事推荐为上市公司非独立董事候选人，加速进军智算赛道。据2026年10月14日公告，王建锋被推荐为第六届董事会非独立董事候选人，其任职的通辽双林智算能源科技、深圳瑞泽智算科技均为海南瑞泽旗下新设公司\r\n\r\n2. 水泥：据2026年半年报，公司从事的主要业务包括商品混凝土生产与销售、市政环卫业务以及其他业务；公司是海南省预拌混凝土行业唯一上市企业，目前在省内布局10家搅拌站、26条生产线。"
+     },
+     {
+      "code": "002929",
+      "name": "润建股份",
+      "board": "2连板",
+      "concept": "数据安全、华为昇腾",
+      "reason": "算力；据2026年10月18日晚公告，润建股份全资子公司五象云谷与境外X公司签订《AI词元跨境销售服务合同》，合同金额2亿美元（约合13.38亿元人民币），周期1年。五象云谷向X公司出售AI词元（Token）调用服务，开放API接口供其发起大模型推理调用，按实际消耗词元数量结算，年度采购额不低于2亿美元；算力资源部署于境内智算中心，由X公司跨境调用。该合同是公司词元工厂及词元出海业务落地闭环的重要里程碑。"
+     }
+    ]
+   },
+   {
+    "name": "家电",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "002242",
+      "name": "九阳股份",
+      "board": "首板",
+      "concept": "机器人概念、华为概念",
+      "reason": "家电+机器人概念；1. 家电：据2026年半年报，九阳股份专注于小家电系列产品的研发、生产和销售，持续聚焦小家电主业，稳步发展厨房小家电、水家电及炊具等产品线\r\n\r\n2. 机器人概念：据2026年10月13日公告，九阳股份持有深思考人工智能机器人科技（北京）有限公司7.92%股权，该公司深耕类脑人工智能技术；九阳股份全资子公司杭州九阳小家电有限公司参股享刻智能技术（北京）有限公司，系财务性投资机器人领域，尚处早期阶段"
+     },
+     {
+      "code": "603366",
+      "name": "日出东方",
+      "board": "首板",
+      "concept": "华为概念、华为超充",
+      "reason": "家电+热泵；1. 家电：据2026年半年报，公司厨电板块产品包括吸油烟机、燃气灶具、集成灶、净水机、电热水器、燃气热水器、消毒柜、嵌入式电烤箱、蒸汽炉、微波炉、蒸烤一体机、洗碗机、垃圾处理器等，通过多种厨电家电产品组合为用户提供“个性化、集成化、智能化”家居家电解决方案和服务。\r\n\r\n2. 热泵：据2026年9月18日投资者关系活动记录表，公司顺德热泵四新工厂厂房产能面积约60000平方米，现有员工约800人，当前产能利用率约80%。"
+     }
+    ]
+   },
+   {
+    "name": "军工",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "600148",
+      "name": "长春一东",
+      "board": "3连板",
+      "concept": "传感器、专精特新",
+      "reason": "军工；10月19日新华社报道，据日本共同社报道，日本首相高市早苗19日向供奉有二战甲级战犯的靖国神社供奉“玉串料”（祭祀费）。\r\n10月19日起至10月29日，美日等国将以日本九州和西南群岛为中心举行所谓“利剑”联合演习。\r\n\r\n军工：据2026年7月1日公告，公司控股股东东北工业集团有限公司为有限责任公司（非自然人投资或控股的法人独资），主要股东为中国兵器工业集团有限公司，其经营范围包括军用机电产品及其零部件的科研加工制造，机械零部件表面处理，固定资产租赁。"
+     },
+     {
+      "code": "002724",
+      "name": "海洋王",
+      "board": "3连板",
+      "concept": "AI应用、无人机",
+      "reason": "军工+AI应用；10月19日新华社报道，据日本共同社报道，日本首相高市早苗19日向供奉有二战甲级战犯的靖国神社供奉“玉串料”（祭祀费）。\r\n10月19日起至10月29日，美日等国将以日本九州和西南群岛为中心举行所谓“利剑”联合演习。\r\n\r\n1. 军工：据2026年半年报，公司产品广泛应用于部队、公安、消防等关系到国计民生的重要基础行业。\r\n\r\n2. AI应用：据2026年半年报，公司新技术产品在专业照明市场实现显著增长，尤其“照明+AI”融合产品引领工业照明向智能化、数字化方向发展；公司深度融合AI技术，依托自有移动摄像产品，通过AI视觉识别算法挖掘现场数据价值，打造智能仓储、智慧工地等行业定制方案"
+     }
+    ]
+   },
+   {
+    "name": "ST板块",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "000639",
+      "name": "ST西王",
+      "board": "首板",
+      "concept": "外卖概念、中报增长",
+      "reason": "ST板块；据2026年10月20日公告，控股股东关联方西王淀粉有限公司非经营性占用公司资金1.30亿元，其中6800万元以其全资子公司西王药业5万吨/年无水糖生产线相关设备及3项辅助设施抵债，剩余6200万元以现金偿还。截至公告披露日，抵债资产已全部交割，现金偿还部分已到账，连同利息498.02万元，相关占用款项已全部清偿完毕，资金占用余额为0元。"
+     },
+     {
+      "code": "600302",
+      "name": "ST标准  ",
+      "board": "首板",
+      "concept": "机器人概念、专用设备",
+      "reason": "ST板块+机器人概念；2023年6月26日互动易：公司在自动化定制研发方面，围绕汽车内饰领域为客户提供智慧绿色的系统解决方案，目前所研发的机械臂3D机器人缝纫项目完成中控台装饰线迹试缝测试，基本具备整体交付能力。"
+     }
+    ]
+   }
+  ],
   "withdrawal": null
  }
 }
