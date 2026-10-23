@@ -1,0 +1,3166 @@
+{
+ "brief_date": "2026-10-24",
+ "generated_at": "2026-10-24 00:30",
+ "lookback_hours": 16,
+ "news": [
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 513011,
+   "content": "【盘后A股上市公司重点业绩公告精选】财联社10月23日电，据财联社不完全统计，截至发稿，盘后包括寒武纪、风华高科、云汉芯城、紫金矿业、东方财富、本川智能、东岳硅材、立昂微、金海通、北方稀土、洛阳钼业、腾景科技、中材科技、中国神华、歌尔股份、永鼎股份在内的多家A股上市公司发布2026年前三季度/第三季度业绩预告或报告。其中，寒武纪公告，第三季度净利润同比增长148%，环比增长8%。风华高科公告，第三季度净利润同比增长470%，环比增长74%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261023/c55a0HWDu5_1352x1492.png",
+   "user_id": 708,
+   "is_top": 0,
+   "brief": "【盘后A股上市公司重点业绩公告精选】财联社10月23日电，据财联社不完全统计，截至发稿，盘后包括寒武纪、风华高科、云汉芯城、紫金矿业、东方财富、本川智能、东岳硅材、立昂微、金海通、北方稀土、洛阳钼业、腾景科技、中材科技、中国神华、歌尔股份、永鼎股份在内的多家A股上市公司发布2026年前三季度/第三季度业绩预告或报告。其中，寒武纪公告，第三季度净利润同比增长148%，环比增长8%。风华高科公告，第三季度净利润同比增长470%，环比增长74%。",
+   "id": 2514038,
+   "ctime": 1792766262,
+   "type": -1,
+   "title": "盘后A股上市公司重点业绩公告精选",
+   "bold": 0,
+   "sort_score": 1792766262,
+   "comment_num": 1,
+   "modified_time": 1792766262,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2514038?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 159,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261023/c55a0HWDu5_1352x1492.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0191,
+     "RiseRange": 1.91,
+     "name": "立昂微",
+     "StockID": "sh605358",
+     "schema": "cailianshe://stock_detail?stock_id=sh605358",
+     "status": "L",
+     "last": 34.66,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0144,
+     "RiseRange": 1.4399999,
+     "name": "风华高科",
+     "StockID": "sz000636",
+     "schema": "cailianshe://stock_detail?stock_id=sz000636",
+     "status": "L",
+     "last": 40.15,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0129,
+     "RiseRange": 1.2900001,
+     "name": "腾景科技",
+     "StockID": "sh688195",
+     "schema": "cailianshe://stock_detail?stock_id=sh688195",
+     "status": "L",
+     "last": 132.51,
+     "is_stib": true
+    },
+    {
+     "rise_range_has_null": 0.0358,
+     "RiseRange": 3.58,
+     "name": "东岳硅材",
+     "StockID": "sz300821",
+     "schema": "cailianshe://stock_detail?stock_id=sz300821",
+     "status": "L",
+     "last": 16.22,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0212,
+     "RiseRange": 2.12,
+     "name": "北方稀土",
+     "StockID": "sh600111",
+     "schema": "cailianshe://stock_detail?stock_id=sh600111",
+     "status": "L",
+     "last": 36.53,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0052,
+     "RiseRange": 0.52,
+     "name": "中国神华",
+     "StockID": "sh601088",
+     "schema": "cailianshe://stock_detail?stock_id=sh601088",
+     "status": "L",
+     "last": 50.2,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.1193,
+     "RiseRange": 11.93,
+     "name": "云汉芯城",
+     "StockID": "sz301563",
+     "schema": "cailianshe://stock_detail?stock_id=sz301563",
+     "status": "L",
+     "last": 123.52,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0546,
+     "RiseRange": 5.46,
+     "name": "寒武纪",
+     "StockID": "sh688256",
+     "schema": "cailianshe://stock_detail?stock_id=sh688256",
+     "status": "L",
+     "last": 932.2,
+     "is_stib": true
+    },
+    {
+     "rise_range_has_null": 0.0188,
+     "RiseRange": 1.88,
+     "name": "金海通",
+     "StockID": "sh603061",
+     "schema": "cailianshe://stock_detail?stock_id=sh603061",
+     "status": "L",
+     "last": 267.75,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0014,
+     "RiseRange": 0.14,
+     "name": "永鼎股份",
+     "StockID": "sh600105",
+     "schema": "cailianshe://stock_detail?stock_id=sh600105",
+     "status": "L",
+     "last": 27.92,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.1,
+     "RiseRange": 10,
+     "name": "歌尔股份",
+     "StockID": "sz002241",
+     "schema": "cailianshe://stock_detail?stock_id=sz002241",
+     "status": "L",
+     "last": 23.11,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0341,
+     "RiseRange": 3.41,
+     "name": "紫金矿业",
+     "StockID": "sh601899",
+     "schema": "cailianshe://stock_detail?stock_id=sh601899",
+     "status": "L",
+     "last": 28.79,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0132,
+     "RiseRange": 1.3199999,
+     "name": "本川智能",
+     "StockID": "sz300964",
+     "schema": "cailianshe://stock_detail?stock_id=sz300964",
+     "status": "L",
+     "last": 67,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0433,
+     "RiseRange": 4.33,
+     "name": "东方财富",
+     "StockID": "sz300059",
+     "schema": "cailianshe://stock_detail?stock_id=sz300059",
+     "status": "L",
+     "last": 18.55,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.003,
+     "RiseRange": 0.3,
+     "name": "中材科技",
+     "StockID": "sz002080",
+     "schema": "cailianshe://stock_detail?stock_id=sz002080",
+     "status": "L",
+     "last": 40.29,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0274,
+     "RiseRange": 2.74,
+     "name": "洛阳钼业",
+     "StockID": "sh603993",
+     "schema": "cailianshe://stock_detail?stock_id=sh603993",
+     "status": "L",
+     "last": 14.23,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2514038,
+     "subject_id": 10426,
+     "subject_name": "A股上市公司业绩巡礼",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 10883,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2514038,
+     "subject_id": 1443,
+     "subject_name": "业绩预增",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 38660,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 382,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2514038,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239038,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/223742GYIb6wgj859u.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 522124,
+   "content": "【今日近10家A股AI科技龙头集体发布关于公司近期生产经营情况公告】财联社10月23日电，据财联社不完全统计，截至发稿，包括寒武纪、生益电子、佰维存储、联讯仪器、源杰科技、天孚通信、中际旭创、新易盛、光迅科技在内的9家A股AI科技龙头今日集体发布关于公司近期生产经营情况的公告。其中寒武纪公告，公司将继续围绕面向大模型的芯片和软件平台项目等，巩固并扩大在人工智能算力领域的技术领先优势。佰维存储公告，2026年来DRAM、NANDFlash等主要存储产品价格显著上涨，看好AI产业发展带来的中长期市场机遇。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261023/bijfg0TbhO_886x977.png",
+   "user_id": 708,
+   "is_top": 0,
+   "brief": "【今日近10家A股AI科技龙头集体发布关于公司近期生产经营情况公告】财联社10月23日电，据财联社不完全统计，截至发稿，包括寒武纪、生益电子、佰维存储、联讯仪器、源杰科技、天孚通信、中际旭创、新易盛、光迅科技在内的9家A股AI科技龙头今日集体发布关于公司近期生产经营情况的公告。其中寒武纪公告，公司将继续围绕面向大模型的芯片和软件平台项目等，巩固并扩大在人工智能算力领域的技术领先优势。佰维存储公告，2026年来DRAM、NANDFlash等主要存储产品价格显著上涨，看好AI产业发展带来的中长期市场机遇。",
+   "id": 2514016,
+   "ctime": 1792763212,
+   "type": -1,
+   "title": "今日近10家A股AI科技龙头集体发布关于公司近期生产经营情况公告",
+   "bold": 0,
+   "sort_score": 1792763212,
+   "comment_num": 14,
+   "modified_time": 1792763333,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2514016?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 256,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261023/bijfg0TbhO_886x977.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0343,
+     "RiseRange": 3.4299998,
+     "name": "佰维存储",
+     "StockID": "sh688525",
+     "schema": "cailianshe://stock_detail?stock_id=sh688525",
+     "status": "L",
+     "last": 164.97,
+     "is_stib": true
+    },
+    {
+     "rise_range_has_null": 0.0193,
+     "RiseRange": 1.9300001,
+     "name": "天孚通信",
+     "StockID": "sz300394",
+     "schema": "cailianshe://stock_detail?stock_id=sz300394",
+     "status": "L",
+     "last": 200.81,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0323,
+     "RiseRange": 3.23,
+     "name": "联讯仪器",
+     "StockID": "sh688808",
+     "schema": "cailianshe://stock_detail?stock_id=sh688808",
+     "status": "L",
+     "last": 1117,
+     "is_stib": true
+    },
+    {
+     "rise_range_has_null": 0.0116,
+     "RiseRange": 1.16,
+     "name": "新易盛",
+     "StockID": "sz300502",
+     "schema": "cailianshe://stock_detail?stock_id=sz300502",
+     "status": "L",
+     "last": 261,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0081,
+     "RiseRange": 0.81,
+     "name": "光迅科技",
+     "StockID": "sz002281",
+     "schema": "cailianshe://stock_detail?stock_id=sz002281",
+     "status": "L",
+     "last": 128.63,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0382,
+     "RiseRange": 3.82,
+     "name": "中际旭创",
+     "StockID": "sz300308",
+     "schema": "cailianshe://stock_detail?stock_id=sz300308",
+     "status": "L",
+     "last": 612.63,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0096,
+     "RiseRange": 0.96000004,
+     "name": "生益电子",
+     "StockID": "sh688183",
+     "schema": "cailianshe://stock_detail?stock_id=sh688183",
+     "status": "L",
+     "last": 87.28,
+     "is_stib": true
+    },
+    {
+     "rise_range_has_null": 0.0546,
+     "RiseRange": 5.46,
+     "name": "寒武纪",
+     "StockID": "sh688256",
+     "schema": "cailianshe://stock_detail?stock_id=sh688256",
+     "status": "L",
+     "last": 932.2,
+     "is_stib": true
+    },
+    {
+     "rise_range_has_null": 0.0056,
+     "RiseRange": 0.56,
+     "name": "源杰科技",
+     "StockID": "sh688498",
+     "schema": "cailianshe://stock_detail?stock_id=sh688498",
+     "status": "L",
+     "last": 925.15,
+     "is_stib": true
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2514016,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239038,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/214853cR8AdhghEd5A.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 498356,
+   "content": "【财联社10月23日晚间新闻精选】\n1、央行：为保持银行体系流动性充裕，2026年10月26日开展7000亿元MLF操作，期限为1年期。\n2、国办印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，拓展新兴领域人工智能就业新空间。\n3、本周国常会：研究统筹人口与经济社会发展有关工作，努力稳定新出生人口规模。\n4、今日午后多只宽基ETF持续放量，创业板ETF易方达（159915）成交额突破195亿元，创2024年10月9日以来新高。\n5、公司新闻方面：①东方财富：第三季度净利润同比增长8.86%。②紫金矿业：第三季度净利润同比增长25.97%。③寒武纪：第三季度净利润同比增长148% 环比增长8%。④天孚通信：拟1亿元至1.5亿元回购股份用于注销。⑤佰维存储：2026年来DRAM、NANDFlash等主要存储产品价格显著上涨。⑥三安光电：实控人林秀成被检察机关批准逮捕。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "",
+   "user_id": 85,
+   "is_top": 0,
+   "brief": "【财联社10月23日晚间新闻精选】\n1、央行：为保持银行体系流动性充裕，2026年10月26日开展7000亿元MLF操作，期限为1年期。\n2、国办印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，拓展新兴领域人工智能就业新空间。\n3、本周国常会：研究统筹人口与经济社会发展有关工作，努力稳定新出生人口规模。\n4、今日午后多只宽基ETF持续放量，创业板ETF易方达（159915）成交额突破195亿元，创2024年10月9日以来新高。\n5、公司新闻方面：①东方财富：第三季度净利润同比增长8.86%。②紫金矿业：第三季度净利润同比增长25.97%。③寒武纪：第三季度净利润同比增长148",
+   "id": 2514013,
+   "ctime": 1792763170,
+   "type": -1,
+   "title": "财联社10月23日晚间新闻精选",
+   "bold": 0,
+   "sort_score": 1792763170,
+   "comment_num": 0,
+   "modified_time": 1792763170,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2514013?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 148,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/2146107Bxg6GGVR2Us.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 494380,
+   "content": "【随着原油价格进一步高企 美股石油巨头股价集体刷新历史新高】财联社10月23日电，随着原油价格进一步高企，美股上市的石油巨头股价集体刷新历史新高。截至发稿，埃克森美孚股价上涨1.39%，总市值报7430亿美元。雪佛龙股价上涨1.46%，总市值报4544亿美元。壳牌股价上涨1.63%，总市值报2995亿美元。康菲石油涨2.25%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "https://image.cls.cn/images/20261023/u36ru97bGL_988x548.png",
+   "user_id": 87,
+   "is_top": 0,
+   "brief": "【随着原油价格进一步高企 美股石油巨头股价集体刷新历史新高】财联社10月23日电，随着原油价格进一步高企，美股上市的石油巨头股价集体刷新历史新高。截至发稿，埃克森美孚股价上涨1.39%，总市值报7430亿美元。雪佛龙股价上涨1.46%，总市值报4544亿美元。壳牌股价上涨1.63%，总市值报2995亿美元。康菲石油涨2.25%。",
+   "id": 2514014,
+   "ctime": 1792763167,
+   "type": -1,
+   "title": "随着原油价格进一步高企 美股石油巨头股价集体刷新历史新高",
+   "bold": 0,
+   "sort_score": 1792763167,
+   "comment_num": 0,
+   "modified_time": 1792763277,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2514014?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 90,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261023/u36ru97bGL_988x548.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2514014,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 172465,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2514014,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 69963,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/2147579jgPmSpu1opl.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 498932,
+   "content": "【WTI原油期货涨幅扩大至3%】财联社10月23日电，国际油价持续走高，WTI原油期货价格涨3.02%，报102.470美元/桶；布伦特原油期货价格涨2.47%，报115.967美元/桶。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "https://image.cls.cn/images/20261023/v5dL8iGg3v_1125x1203.png",
+   "user_id": 183,
+   "is_top": 0,
+   "brief": "【WTI原油期货涨幅扩大至3%】财联社10月23日电，国际油价持续走高，WTI原油期货价格涨3.02%，报102.470美元/桶；布伦特原油期货价格涨2.47%，报115.967美元/桶。",
+   "id": 2514012,
+   "ctime": 1792763080,
+   "type": -1,
+   "title": "WTI原油期货涨幅扩大至3%",
+   "bold": 0,
+   "sort_score": 1792763080,
+   "comment_num": 5,
+   "modified_time": 1792763122,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2514012?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 89,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261023/v5dL8iGg3v_1125x1203.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2514012,
+     "subject_id": 1583,
+     "subject_name": "原油市场动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 48058,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 316,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/214523yDC8wrqfE5hf.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 556810,
+   "content": "【苹果总市值超越英伟达 重登美股市值第一】财联社10月23日电，美股盘初，苹果股价上涨0.84%，报351.132美元/股，总市值报5.12万亿美元。英伟达股价下跌0.19%，报211.800美元/股，总市值报5.10万亿美元。苹果时隔一段时间重新超越英伟达，成为美股市值最高的公司。近期两家公司股价走势明显分化，过去20个交易日，苹果累计上涨4.4%，英伟达则累计下跌6%。市场对AI投资回报的关注持续升温，科技股内部表现出现分化。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261023/Ui2611Z321_1158x1192.png",
+   "user_id": 87,
+   "is_top": 0,
+   "brief": "【苹果总市值超越英伟达】财联社10月23日电，美股盘初，苹果股价上涨0.84%，报351.132美元/股，总市值报5.12万亿美元。英伟达股价下跌0.19%，报211.800美元/股，总市值报5.10万亿美元。",
+   "id": 2513992,
+   "ctime": 1792762461,
+   "type": -1,
+   "title": "苹果总市值超越英伟达 重登美股市值第一",
+   "bold": 0,
+   "sort_score": 1792762461,
+   "comment_num": 12,
+   "modified_time": 1792762797,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513992?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 332,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261023/Ui2611Z321_1158x1192.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2513992,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 172465,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2513992,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 69963,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2513992,
+     "subject_id": 1279,
+     "subject_name": "半导体芯片",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 106210,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 457,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/2139582orQZCvWoMlJ.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": {
+    "uid": 4148862,
+    "userName": "乔治的恐龙先生：",
+    "commentId": 5891605,
+    "comment": "10月以来美股科技股整体回调，纳斯达克指数大幅波动，资金从高波动、高估值的 AI 算力标的，转向现金流稳定、持续分红回购的龙头标的。苹果作为科技股里的 “现金牛”，叠加分红和回购政策，防御属性被市场重定价啦",
+    "articleId": 2513992
+   },
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 557733,
+   "content": "【美股三大股指集体低开 三大电信股齐跌4%】美股三大股指集体低开，道琼斯指数跌0.94%，标普500指数跌0.54%，纳斯达克综合指数跌0.46%。AT&T、Verizon和T-Mobil跌约4%，消息称SpaceX 计划在美国各地获取至少 8 万个通信基站，将对三大运营商的用户基础与定价权构成直接冲击。\n\n其他热门股票方面，苹果股价上涨0.82%，英伟达股价下跌0.66%，谷歌-A股价下跌0.91%，微软股价下跌0.78%，亚马逊股价下跌0.63%，台积电股价下跌0.24%，SpaceX股价上涨1.16%，Meta股价下跌1.87%，博通股价下跌0.73%，特斯拉股价下跌1.1%，SK海力士股价上涨3.08%，美光科技股价上涨0.28%，超威半导体股价上涨0.52%，阿斯麦股价下跌0.38%，英特尔股价上涨0.53%，思科股价下跌0.75%，甲骨文股价下跌0.56%，戴尔科技-C股价上涨0%，ARM股价上涨0.09%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "",
+   "user_id": 87,
+   "is_top": 0,
+   "brief": "【美股三大股指集体低开 三大电信股齐跌4%】美股三大股指集体低开，道琼斯指数跌0.94%，标普500指数跌0.54%，纳斯达克综合指数跌0.46%。AT&T、Verizon和T-Mobil跌约4%，消息称SpaceX 计划在美国各地获取至少 8 万个通信基站，将对三大运营商的用户基础与定价权构成直接冲击。\n\n其他热门股票方面，苹果股价上涨0.82%，英伟达股价下跌0.66%，谷歌-A股价下跌0.91%，微软股价下跌0.78%，亚马逊股价下跌0.63%，台积电股价下跌0.24%，SpaceX股价上涨1.16%，Meta股价下跌1.87%，博通股价下跌0.73%，特斯拉股价下跌1.1%，SK海力士",
+   "id": 2513987,
+   "ctime": 1792762257,
+   "type": -1,
+   "title": "美股三大股指集体低开 三大电信股齐跌4%",
+   "bold": 0,
+   "sort_score": 1792762257,
+   "comment_num": 7,
+   "modified_time": 1792762351,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513987?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 283,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2513987,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 172465,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2513987,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 69963,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/213232j6shpu40YJ1t.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 605523,
+   "content": "【寒武纪：将继续围绕面向大模型的芯片和软件平台项目等 巩固并扩大在人工智能算力领域的技术领先优势】财联社10月23日电，寒武纪(688256.SH)发布公司近期生产经营情况的公告，公司目前经营正常，公司持续拓展市场，积极助力人工智能应用落地，公司业务和研发工作有序推进。公司依托强大的产品能力及务实开放的合作模式，以技术赋能场景落地，以规模化应用拉动市场拓展，营业收入增长显著。公司已推出的产品体系覆盖了云端、边缘端的智能芯片及板卡、智能整机、处理器IP及软件，可满足云、边、端不同规模的人工智能计算需求。经过多年的技术积累与商业化验证，公司在云端智能芯片领域已形成较强的产品竞争力与客户基础，现有业务具备较大优势。当前，人工智能算力市场需求持续旺盛，能够支撑公司业务稳步增长。同时，公司毛利率维持在较高水平且保持稳定，收入规模的快速增长并未对盈利能力形成摊薄。随着市场的持续拓展与收入规模的不断扩大，公司业绩有望保持增长。\n\n公司将继续围绕面向大模型的芯片平台项目、面向大模型的软件平台项目等重点方向，保持高强度、高质量的研发投入，持续推动智能芯片产品、基础系统软件平台的迭代升级与优化，深化软硬件协同优化能力，巩固并扩大公司在人工智能算力领域的技术领先优势。同时，公司将继续完善人才梯队建设与激励机制，保障核心研发团队的稳定性与创造力，以持续的技术创新支撑公司长期健康发展，为股东创造更大价值。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "",
+   "user_id": 708,
+   "is_top": 1,
+   "brief": "【寒武纪：将继续围绕面向大模型的芯片和软件平台项目等 巩固并扩大在人工智能算力领域的技术领先优势】财联社10月23日电，寒武纪(688256.SH)发布公司近期生产经营情况的公告，公司将继续围绕面向大模型的芯片平台项目、面向大模型的软件平台项目等重点方向，保持高强度、高质量的研发投入，持续推动智能芯片产品、基础系统软件平台的迭代升级与优化，深化软硬件协同优化能力，巩固并扩大公司在人工智能算力领域的技术领先优势。同时，公司将继续完善人才梯队建设与激励机制，保障核心研发团队的稳定性与创造力，以持续的技术创新支撑公司长期健康发展，为股东创造更大价值。",
+   "id": 2513947,
+   "ctime": 1792759496,
+   "type": -1,
+   "title": "寒武纪：将继续围绕面向大模型的芯片和软件平台项目等 巩固并扩大在人工智能算力领域的技术领先优势",
+   "bold": 0,
+   "sort_score": 1792759496,
+   "comment_num": 21,
+   "modified_time": 1792760603,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513947?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 287,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0546,
+     "RiseRange": 5.46,
+     "name": "寒武纪",
+     "StockID": "sh688256",
+     "schema": "cailianshe://stock_detail?stock_id=sh688256",
+     "status": "L",
+     "last": 932.2,
+     "is_stib": true
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2513947,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239038,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/210324g3MnahKIgi9A.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.sse.com.cn//disclosure/listedinfo/announcement/c/new/2026-10-24/688256_20261024_ZXQS.pdf",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 620609,
+   "content": "【美股盘前要闻一览：黄仁勋称到2029年出现内存过剩的概率不大；英特尔获1年期机器人进口限制豁免；SpaceX瞄准美国8万个基站使用权】财联社10月23日电，投资者需重点关注的美股市场财经要闻如下：\n1、美三大股指期货集体走低。道琼斯指数期货跌0.78%，标普500指数期货跌0.35%，纳斯达克100指数期货跌0.17%。\n2、国际油价双双走高。WTI原油期货价格涨1.87%，报101.326美元/桶；布伦特原油期货价格涨1.59%，报114.964美元/桶。\n3、国际金银现货涨跌互现。现货黄金价格涨0.12%，报4029.05美元/盎司；现货白银价格跌1.36%，报53.82美元/盎司。\n4、欧洲三大股指全线下挫。英国富时100指数跌0.55%，法国CAC40指数跌0.76%，德国DAX30指数跌0.94%。\n5、英特尔首席技术官表示，即便资金充足，全球尖端晶圆产量也难以扩大十倍，更现实的增长上限约为两倍。制造先进芯片所需的关键设备、洁净室和晶圆厂规模，正成为新的产能天花板。\n6、英伟达CEO黄仁勋周四表示，到2029年，内存芯片行业不太可能出现过剩的情况。他指出，“内存的一大好处是，你总是可以用得更多。HBM在数年内仍将被持续广泛采用。”\n7、美联邦通信委员会（FCC）当地时间22日批准英特尔一项为期一年的豁免，使其免受针对部分外国制造先进机器人设备的进口限制约束。\n8、SpaceX拟获得美国境内至少8万个基站使用权，正与至少一家大型蜂窝基础设施公司谈判。若协议达成，SpaceX有望成为美国第四家全国性无线运营商。\n9、莫德纳与默沙东联合研发的个性化癌症疫苗Intismeran autogene部分临床试验数据提前泄露。分析师认为，试验结果整体积极。\n10、OpenAI融资磋商进入尾声，寻求融资约300亿美元，估值目标据悉下调至1.25万亿美元。\n11、美银预计市场避险情绪延续至11月中旬，美债收益率、美股和美元或齐跌。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "",
+   "user_id": 904,
+   "is_top": 0,
+   "brief": "【美股盘前要闻一览：黄仁勋称到2029年出现内存过剩的概率不大；英特尔获1年期机器人进口限制豁免；SpaceX瞄准美国8万个基站使用权】财联社10月23日电，投资者需重点关注的美股市场财经要闻如下：\n1、美三大股指期货集体走低。道琼斯指数期货跌0.78%，标普500指数期货跌0.35%，纳斯达克100指数期货跌0.17%。\t\t\t\n2、国际油价双双走高。WTI原油期货价格涨1.87%，报101.326美元/桶；布伦特原油期货价格涨1.59%，报114.964美元/桶。\n3、国际金银现货涨跌互现。现货黄金价格涨0.12%，报4029.05美元/盎司；现货白银价格跌1.36%，报53.82美元/盎司",
+   "id": 2513934,
+   "ctime": 1792758663,
+   "type": -1,
+   "title": "美股盘前要闻一览：黄仁勋称到2029年出现内存过剩的概率不大；英特尔获1年期机器人进口限制豁免；SpaceX瞄准美国8万个基站使用权",
+   "bold": 0,
+   "sort_score": 1792758663,
+   "comment_num": 1,
+   "modified_time": 1792758693,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513934?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 548,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2513934,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 69963,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2513934,
+     "subject_id": 7377,
+     "subject_name": "美股盘前",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 12186,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2513934,
+     "subject_id": 1103,
+     "subject_name": "盘面直播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 183980,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/203134FRS0ZsyU0QQc.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 622515,
+   "content": "【风华高科：第三季度净利润同比增长470% 环比增长74%】财联社10月23日电，风华高科(000636.SZ)公告称，第三季度营业收入为22.99亿元，同比增长71.97%；归属于上市公司股东的净利润为3.51亿元，同比增长470.17%。前三季度营业收入为57.99亿元，同比增长41.15%；归属于上市公司股东的净利润为6.42亿元，同比增长180.90%。业绩增长主要系公司报告期主营产品市场需求持续增长，主营产品销量及单价同比上升所致。小财注：公司Q3净利润3.51亿，Q2净利润2.02亿，据此计算，Q3净利润环比增长74%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "https://img.cls.cn/fad/yeji/20261023/sz000636830439_info.png",
+   "user_id": 708,
+   "is_top": 1,
+   "brief": "【风华高科：第三季度净利润同比增长470% 环比增长74%】财联社10月23日电，风华高科(000636.SZ)公告称，第三季度营业收入为22.99亿元，同比增长71.97%；归属于上市公司股东的净利润为3.51亿元，同比增长470.17%。前三季度营业收入为57.99亿元，同比增长41.15%；归属于上市公司股东的净利润为6.42亿元，同比增长180.90%。业绩增长主要系公司报告期主营产品市场需求持续增长，主营产品销量及单价同比上升所致。小财注：公司Q3净利润3.51亿，Q2净利润2.02亿，据此计算，Q3净利润环比增长74%。",
+   "id": 2513919,
+   "ctime": 1792758302,
+   "type": -1,
+   "title": "风华高科：第三季度净利润同比增长470% 环比增长74%",
+   "bold": 0,
+   "sort_score": 1792758302,
+   "comment_num": 56,
+   "modified_time": 1792758473,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513919?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 679,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://img.cls.cn/fad/yeji/20261023/sz000636830439_info.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0144,
+     "RiseRange": 1.4399999,
+     "name": "风华高科",
+     "StockID": "sz000636",
+     "schema": "cailianshe://stock_detail?stock_id=sz000636",
+     "status": "L",
+     "last": 40.15,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2513919,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239038,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/202753PcWFgyc61EoJ.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.cninfo.com.cn/finalpage/2026-10-24/1225621037.PDF",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 706287,
+   "content": "【10月23日周五《新闻联播》要闻20条】财联社10月23日电，今天《新闻联播》主要内容有：\n1、中共中央政治局召开会议 审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议；\n2、习近平对西藏那曲市巴青县7.0级地震作出重要指示强调 全力开展人员搜救 妥善安置受灾群众 切实保障人民群众生命财产安全 李强作出批示；\n3、应习近平邀请 德国总统将访华；\n4、在新的长征路上奋力创造新的辉煌——习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话引发热烈反响；\n5、李强主持召开国务院常务会议；\n6、西藏那曲市巴青县7.0级地震抢险救援工作抓紧进行；\n7、中央组织部从代中央管理党费中划拨2500万元用于支持西藏抗震救灾工作；\n8、前三季度我国财政运行总体平稳；\n9、第140届广交会第二期今天开展；\n10、新版《对外投资管理办法》发布； \n11、前三季度国家电网固定资产投资超4500亿元；\n12、6G通信技术应用等任务列入铁路“十五五”创新目标；\n13、2025年中国创新指数比上年增长6.4%；\n14、我国人民陪审员总数已达34万人；\n15、去年3月以来检察机关办理涉企执法司法行政检察案件8000余件；\n16、国际人士高度评价习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话；\n17、俄称重启三方会谈是为最终确保俄乌安全；\n18、以色列总理称全面封锁约旦河西岸；\n19、也门胡塞武装称袭击沙特国防部等目标；\n20、二十四节气·霜降。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "",
+   "user_id": 183,
+   "is_top": 0,
+   "brief": "【10月23日周五《新闻联播》要闻20条】财联社10月23日电，今天《新闻联播》主要内容有：\n1、中共中央政治局召开会议 审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议；\n2、习近平对西藏那曲市巴青县7.0级地震作出重要指示强调 全力开展人员搜救 妥善安置受灾群众 切实保障人民群众生命财产安全 李强作出批示；\n3、应习近平邀请 德国总统将访华；\n4、在新的长征路上奋力创造新的辉煌——习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话引发热烈反响；\n5、李强主持召开国务院常务会议；\n6、西藏那曲市巴青县7.0级地震抢险救援工作抓紧进行；\n7、中央组织部从",
+   "id": 2513886,
+   "ctime": 1792757285,
+   "type": -1,
+   "title": "10月23日周五《新闻联播》要闻20条",
+   "bold": 0,
+   "sort_score": 1792757285,
+   "comment_num": 0,
+   "modified_time": 1792757320,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513886?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 326,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/200841THrLAzYH2sAn.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 738590,
+   "content": "【本川智能：第三季度净利润同比增长438% 环比增长103%】财联社10月23日电，本川智能(300964.SZ)公告称，第三季度营业收入为5.16亿元，同比增长120.52%；净利润为6250.93万元，同比增长438.11%。前三季度营业收入为11.27亿元，同比增长83.68%；净利润为1.05亿元，同比增长218.09%。业绩增长主要系订单收入增加所致。小财注：公司Q3净利润0.63亿，Q2净利润0.31亿，据此计算，Q3净利润环比增长103%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 0,
+   "img": "https://img.cls.cn/fad/yeji/20261023/sz300964830395_info.png",
+   "user_id": 615,
+   "is_top": 1,
+   "brief": "【本川智能：前三季度净利润同比增长218.09%】财联社10月23日电，本川智能(300964.SZ)公告称，第三季度营业收入为5.16亿元，同比增长120.52%；净利润为6250.93万元，同比增长438.11%。前三季度营业收入为11.27亿元，同比增长83.68%；净利润为1.05亿元，同比增长218.09%。业绩增长主要系订单收入增加所致。小财注：公司Q3净利润0.63亿，Q2净利润0.31亿，据此计算，Q3净利润环比增长103%。",
+   "id": 2513870,
+   "ctime": 1792756633,
+   "type": -1,
+   "title": "本川智能：第三季度净利润同比增长438% 环比增长103%",
+   "bold": 0,
+   "sort_score": 1792756633,
+   "comment_num": 5,
+   "modified_time": 1792756762,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513870?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 103,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://img.cls.cn/fad/yeji/20261023/sz300964830395_info.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0132,
+     "RiseRange": 1.3199999,
+     "name": "本川智能",
+     "StockID": "sz300964",
+     "schema": "cailianshe://stock_detail?stock_id=sz300964",
+     "status": "L",
+     "last": 67,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2513870,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239038,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/195922GMHbdc1W6FqA.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.cninfo.com.cn/finalpage/2026-10-24/1225621359.PDF",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 779449,
+   "content": "【朗特智能：拟6.63亿元收购成都奥捷51%股权 标的公司聚焦光通信领域无源光器件】财联社10月23日电，朗特智能(300916.SZ)公告称，公司拟筹划以现金方式收购成都奥捷通信技术有限公司51%股权，交易对价初步预估为6.63亿元。标的公司聚焦光通信领域无源光器件产品，本次收购为公司产业布局的横向延伸。业绩承诺方将对标的公司于2026年-2028年的业绩作出承诺，业绩承诺标准为标的公司2026年度、2027年度、2028年度实现的净利润分别不低于8000万元、1.2亿元、1.6亿元，即累积承诺实现的净利润不低于3.6亿元。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 0,
+   "img": "",
+   "user_id": 188,
+   "is_top": 1,
+   "brief": "【朗特智能：拟6.63亿元收购成都奥捷51%股权 标的公司聚焦光通信领域无源光器件】财联社10月23日电，朗特智能(300916.SZ)公告称，公司拟筹划以现金方式收购成都奥捷通信技术有限公司51%股权，交易对价初步预估为6.63亿元。标的公司聚焦光通信领域无源光器件产品，本次收购为公司产业布局的横向延伸。",
+   "id": 2513851,
+   "ctime": 1792755435,
+   "type": -1,
+   "title": "朗特智能：拟6.63亿元收购成都奥捷51%股权 标的公司聚焦光通信领域无源光器件",
+   "bold": 0,
+   "sort_score": 1792755435,
+   "comment_num": 5,
+   "modified_time": 1792755716,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513851?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 87,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": -0.0138,
+     "RiseRange": -1.38,
+     "name": "朗特智能",
+     "StockID": "sz300916",
+     "schema": "cailianshe://stock_detail?stock_id=sz300916",
+     "status": "L",
+     "last": 28.56,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2513851,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239038,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/1941575dPtgIHDGClT.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.cninfo.com.cn/finalpage/2026-10-23/1225621313.PDF",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 760950,
+   "content": "【容百科技：拟36.03亿元投建襄阳年产20万吨钠电正极材料一体化项目】财联社10月23日电，容百科技(688005.SH)公告称，公司此前已披露《关于投资建设仙桃年产30万吨钠电正极材料一体化项目的公告》。仙桃项目规划年产能30万吨，分为一期5万吨、二期10万吨、三期15万吨；截至本公告披露日，一期5万吨正在建设中。在仙桃布局基础上，公司拟投资建设襄阳年产20万吨钠电正极材料一体化项目。目前，仙桃、襄阳两地项目合计规划钠电正极材料年产能50万吨。结合钠电产业化进程和客户需求，公司目前优先推进仙桃一期5万吨和襄阳20万吨项目建设。襄阳20万吨项目将由公司并表范围内子公司负责实施，预计总投资约36.03亿元（最终项目投资总额以实际投资为准）。其中，固定资产投资31.23亿元，运营资金投入4.80亿元。本项目实施后，公司正极材料产品矩阵及规模交付能力有望进一步完善，有利于降低对单一产品及单一技术路线的依赖。本项目有利于完善公司钠电正极材料生产布局。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 0,
+   "img": "",
+   "user_id": 615,
+   "is_top": 1,
+   "brief": "【容百科技：拟投建襄阳年产20万吨钠电正极材料一体化项目】财联社10月23日电，容百科技(688005.SH)公告称，公司董事会审议通过《关于投资建设襄阳年产20万吨钠电正极材料一体化项目的议案》，旨在把握钠离子电池产业化发展机遇，完善钠电正极材料产能布局。该议案尚需提交股东会审议。",
+   "id": 2513831,
+   "ctime": 1792754537,
+   "type": -1,
+   "title": "容百科技：拟36.03亿元投建襄阳年产20万吨钠电正极材料一体化项目",
+   "bold": 0,
+   "sort_score": 1792754537,
+   "comment_num": 4,
+   "modified_time": 1792757178,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513831?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 39,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0408,
+     "RiseRange": 4.08,
+     "name": "容百科技",
+     "StockID": "sh688005",
+     "schema": "cailianshe://stock_detail?stock_id=sh688005",
+     "status": "L",
+     "last": 20.39,
+     "is_stib": true
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2513831,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239038,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2513831,
+     "subject_id": 2162,
+     "subject_name": "容百科技",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 8611,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/200619x4SCmwy3FYiu.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.sse.com.cn//disclosure/listedinfo/announcement/c/new/2026-10-24/688005_20261024_6OSP.pdf",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 794602,
+   "content": "【国务院常务会议：要加快建设生育友好型社会，优化面向家庭的财税、社保、住房等支持举措，努力稳定新出生人口规模】财联社10月23日电，国务院总理李强10月23日主持召开国务院常务会议，研究统筹人口与经济社会发展有关工作，听取推进全国服务业大会部署落实情况汇报。\n\n会议指出，人口是经济社会发展的基础条件，要更好统筹人口与经济社会、资源环境的关系，进一步完善相关政策，持续积累和释放人口综合红利，以人口高质量发展更好支撑经济社会高质量发展。要更加突出人的全面发展，提高人口科学文化、职业技能、身心健康等水平，加快完善全民终身学习机制，广泛开展技能培训，强化教育、培训与产业发展协同联动，促进高质量充分就业。要加强区域人口发展分类指导，引导城乡人口有序流动，稳步推进基本公共服务均等化，根据人口分布情况优化基础设施布局，推动公共服务资源与常住人口变化动态适配。要加快建设生育友好型社会，持续完善婚嫁、生育、养育、教育等政策，优化面向家庭的财税、社保、住房等支持举措，努力稳定新出生人口规模。 （央视新闻）",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261023/VEBTS902Vm_1314x753.png,https://image.cls.cn/images/20261023/NPASYSkfXw_1329x747.png",
+   "user_id": 87,
+   "is_top": 0,
+   "brief": "李强主持召开国务院常务会议，会议指出，人口是经济社会发展的基础条件，要更好统筹人口与经济社会、资源环境的关系，进一步完善相关政策，持续积累和释放人口综合红利，以人口高质量发展更好支撑经济社会高质量发展。",
+   "id": 2513819,
+   "ctime": 1792754106,
+   "type": -1,
+   "title": "国务院常务会议：要加快建设生育友好型社会，优化面向家庭的财税、社保、住房等支持举措，努力稳定新出生人口规模",
+   "bold": 0,
+   "sort_score": 1792754106,
+   "comment_num": 0,
+   "modified_time": 1792755889,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513819?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 770,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261023/VEBTS902Vm_1314x753.png",
+    "https://image.cls.cn/images/20261023/NPASYSkfXw_1329x747.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2513819,
+     "subject_id": 1361,
+     "subject_name": "国务院常务会议",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 15393,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/194450GqPR5CNzNDz0.mp3"
+   ],
+   "author": "央视新闻",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "<p>财联社10月23日电，国务院总理李强10月23日主持召开国务院常务会议，研究统筹人口与经济社会发展有关工作，听取推进全国服务业大会部署落实情况汇报。</p><p></p><p>会议指出，人口是经济社会发展的基础条件，要更好统筹人口与经济社会、资源环境的关系，进一步完善相关政策，持续积累和释放人口综合红利，以人口高质量发展更好支撑经济社会高质量发展。要更加突出人的全面发展，提高人口科学文化、职业技能、身心健康等水平，加快完善全民终身学习机制，广泛开展技能培训，强化教育、培训与产业发展协同联动，促进高质量充分就业。要加强区域人口发展分类指导，引导城乡人口有序流动，稳步推进基本公共服务均等化，根据人口分布情况优化基础设施布局，推动公共服务资源与常住人口变化动态适配。<u>要加快建设生育友好型社会，持续完善婚嫁、生育、养育、教育等政策，优化面向家庭的财税、社保、住房等支持举措，努力稳定新出生人口规模</u>。</p>",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 881831,
+   "content": "【云汉芯城：预计第三季度净利润同比增长545%-613%】财联社10月23日电，云汉芯城(301563.SZ)公告称，预计2026年前三季度归属于上市公司股东的净利润为3.35亿元-3.71亿元，同比增长312%-355%。预计第三季度归属于上市公司股东的净利润为1.78亿元–1.96亿元，同比增长545%–613%。2026年以来，全球电子行业延续高景气态势。公司作为电子元器件交易平台，充分受益于行业上行周期。同时，公司供应链覆盖能力与履约效率持续增强，注册客户数、交易客户数、订单数量及平均订单金额均实现较快增长；面向中大型客户的“芯晶采”数智化内采平台、互联网+授权代理、国产器件销售及海外业务保持良好发展势头。在行业上行周期中，公司平台规模效应与经营杠杆加速兑现。小财注：公司Q3净利润预计1.78亿元–1.96亿元，Q2净利润1.14亿，据此计算，Q3净利润预计环比增长56%-72%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 0,
+   "img": "https://image.cls.cn/images/20261023/7Eo7JKCqoB_1078x744.png,https://image.cls.cn/images/20261023/4SbmnIV4A0_1224x799.jpg",
+   "user_id": 615,
+   "is_top": 1,
+   "brief": "【云汉芯城：预计前三季度净利润同比增长312%-355%】财联社10月23日电，云汉芯城(301563.SZ)公告称，预计2026年前三季度归属于上市公司股东的净利润为3.35亿元-3.71亿元，同比增长312%-355%。业绩变动主要系全球电子行业高景气，公司平台规模效应与经营杠杆加速兑现，销售收入及盈利水平较上年同期大幅增长。",
+   "id": 2513800,
+   "ctime": 1792752972,
+   "type": -1,
+   "title": "云汉芯城：预计第三季度净利润同比增长545%-613%",
+   "bold": 0,
+   "sort_score": 1792752972,
+   "comment_num": 4,
+   "modified_time": 1792756074,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513800?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 120,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261023/7Eo7JKCqoB_1078x744.png",
+    "https://image.cls.cn/images/20261023/4SbmnIV4A0_1224x799.jpg"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.1193,
+     "RiseRange": 11.93,
+     "name": "云汉芯城",
+     "StockID": "sz301563",
+     "schema": "cailianshe://stock_detail?stock_id=sz301563",
+     "status": "L",
+     "last": 123.52,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2513800,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239038,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/194754vHoqP8j8V0Ef.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.cninfo.com.cn/finalpage/2026-10-23/1225620697.PDF",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 842788,
+   "content": "【歌尔股份：第三季度净利润同比下降1.51% 环比增长19%】财联社10月23日电，歌尔股份(002241.SZ)公告称，第三季度营收为281.74亿元，同比下降7.80%；净利润为11.53亿元，同比下降1.51%。前三季度营收为682.20亿元，同比增长0.17%；净利润为26.19亿元，同比增长1.21%。小财注：公司Q3净利润11.53亿，Q2净利润9.63亿，据此计算，Q3净利润环比增长19%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 0,
+   "img": "https://img.cls.cn/fad/yeji/20261023/sz002241830111_info.png",
+   "user_id": 188,
+   "is_top": 1,
+   "brief": "【歌尔股份：第三季度净利润同比下降1.51%】财联社10月23日电，歌尔股份(002241.SZ)公告称，第三季度营收为281.74亿元，同比下降7.80%；净利润为11.53亿元，同比下降1.51%。前三季度营收为682.20亿元，同比增长0.17%；净利润为26.19亿元，同比增长1.21%。小财注：公司Q3净利润11.53亿，Q2净利润9.63亿，据此计算，Q3净利润环比增长19%。",
+   "id": 2513797,
+   "ctime": 1792752552,
+   "type": -1,
+   "title": "歌尔股份：第三季度净利润同比下降1.51% 环比增长19%",
+   "bold": 0,
+   "sort_score": 1792752552,
+   "comment_num": 5,
+   "modified_time": 1792753138,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513797?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 112,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://img.cls.cn/fad/yeji/20261023/sz002241830111_info.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.1,
+     "RiseRange": 10,
+     "name": "歌尔股份",
+     "StockID": "sz002241",
+     "schema": "cailianshe://stock_detail?stock_id=sz002241",
+     "status": "L",
+     "last": 23.11,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2513797,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239038,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/185858DGyoCw5DbJLt.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.cninfo.com.cn/finalpage/2026-10-24/1225619737.PDF",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 864231,
+   "content": "【东方财富：第三季度净利润同比增长8.86%】财联社10月23日电，东方财富(300059.SZ)公告称，第三季度营业总收入为50.54亿元，同比增长6.80%；归属于上市公司股东的净利润为38.43亿元，同比增长8.86%。前三季度营业总收入为155.60亿元，同比增长34.26%；归属于上市公司股东的净利润为119.07亿元，同比增长30.89%。业绩增长主要系证券手续费及佣金净收入同比增加、金融电子商务服务收入同比增加、融出资金利息收入同比增加及证券经纪业务净收入同比增加所致。小财注：公司Q3净利润38.43亿，Q2净利润43.27亿，据此计算，Q3净利润环比下降11%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 0,
+   "img": "https://img.cls.cn/fad/yeji/20261023/sz300059830119_info.png",
+   "user_id": 615,
+   "is_top": 1,
+   "brief": "【东方财富：前三季度净利润同比增长30.89%】财联社10月23日电，东方财富(300059.SZ)公告称，第三季度营业总收入为50.54亿元，同比增长6.80%；归属于上市公司股东的净利润为38.43亿元，同比增长8.86%。前三季度营业总收入为155.60亿元，同比增长34.26%；归属于上市公司股东的净利润为119.07亿元，同比增长30.89%。业绩增长主要系证券手续费及佣金净收入同比增加、金融电子商务服务收入同比增加、融出资金利息收入同比增加及证券经纪业务净收入同比增加所致。小财注：公司Q3净利润38.43亿，Q2净利润43.27亿，据此计算，Q3净利润环比下降11%。",
+   "id": 2513793,
+   "ctime": 1792752348,
+   "type": -1,
+   "title": "东方财富：第三季度净利润同比增长8.86%",
+   "bold": 0,
+   "sort_score": 1792752348,
+   "comment_num": 10,
+   "modified_time": 1792752617,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513793?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 108,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://img.cls.cn/fad/yeji/20261023/sz300059830119_info.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0433,
+     "RiseRange": 4.33,
+     "name": "东方财富",
+     "StockID": "sz300059",
+     "schema": "cailianshe://stock_detail?stock_id=sz300059",
+     "status": "L",
+     "last": 18.55,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2513793,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239038,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/185018y1xcWmy63ZGs.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.cninfo.com.cn/finalpage/2026-10-24/1225620147.PDF",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 857293,
+   "content": "【紫金矿业：第三季度净利润同比增长25.97% 受益于主营金属及副产品价格大幅上涨】财联社10月23日电，紫金矿业(601899.SH)公告称，第三季度实现营业收入892.74亿元，同比增长3.22%；归属于上市公司股东的净利润183.56亿元，同比增长25.97%。前三季度实现营业收入2834.53亿元，同比增长11.51%；归属于上市公司股东的净利润575.26亿元，同比增长51.93%。业绩增长主要得益于：一是深入贯彻“提质、上产、控本、增效”工作总方针，统筹强化生产组织与运营管理，重点矿种产量稳步释放；二是吨矿付现成本增速得到有效控制；三是受益于主营金属及副产品价格大幅上涨，矿产品毛利率同比显著提升，充分享受价格上涨红利。小财注：公司Q3净利润183.56亿，Q2净利润190.9亿，据此计算，Q3净利润环比下降3%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 0,
+   "img": "https://img.cls.cn/fad/yeji/20261023/sh601899830099_info.png",
+   "user_id": 615,
+   "is_top": 1,
+   "brief": "【紫金矿业：前三季度净利润同比增长51.93%】财联社10月23日电，紫金矿业(601899.SH)公告称，第三季度实现营业收入892.74亿元，同比增长3.22%；归属于上市公司股东的净利润183.56亿元，同比增长25.97%。前三季度实现营业收入2834.53亿元，同比增长11.51%；归属于上市公司股东的净利润575.26亿元，同比增长51.93%。业绩增长主要得益于：一是深入贯彻“提质、上产、控本、增效”工作总方针，统筹强化生产组织与运营管理，重点矿种产量稳步释放；二是吨矿付现成本增速得到有效控制；三是受益于主营金属及副产品价格大幅上涨，矿产品毛利率同比显著提升，充分享受价格上涨红利",
+   "id": 2513792,
+   "ctime": 1792752333,
+   "type": -1,
+   "title": "紫金矿业：第三季度净利润同比增长25.97% 受益于主营金属及副产品价格大幅上涨",
+   "bold": 0,
+   "sort_score": 1792752333,
+   "comment_num": 11,
+   "modified_time": 1792752484,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513792?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 128,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://img.cls.cn/fad/yeji/20261023/sh601899830099_info.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0341,
+     "RiseRange": 3.41,
+     "name": "紫金矿业",
+     "StockID": "sh601899",
+     "schema": "cailianshe://stock_detail?stock_id=sh601899",
+     "status": "L",
+     "last": 28.79,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2513792,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239038,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/184805bberJojt0K3T.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.sse.com.cn//disclosure/listedinfo/announcement/c/new/2026-10-24/601899_20261024_VT8P.pdf",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": {
+    "uid": 4148884,
+    "userName": "金桔柠檬养乐多：",
+    "commentId": 5891169,
+    "comment": "整体略超预期，但单Q3小幅弱于市场乐观想象（核心原因：卡莫阿铜矿阶段性减产、铜价偏弱，抵消了金价高位带来的增量），挺好",
+    "articleId": 2513792
+   },
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 894890,
+   "content": "【寒武纪：第三季度净利润同比增长148% 环比增长8%】财联社10月23日电，寒武纪(688256.SH)公告称，第三季度营业收入为35.31亿元，同比增长104.47%；归属于上市公司股东的净利润为14.04亿元，同比增长147.74%。前三季度营业收入为95.26亿元，同比增长106.76%；归属于上市公司股东的净利润为37.15亿元，同比增长131.49%。业绩变动主要系公司持续拓展市场，积极助力人工智能应用落地。小财注：公司Q3净利润14.04亿，Q2净利润12.98亿，据此计算，Q3净利润环比增长8%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "https://img.cls.cn/fad/yeji/20261023/sh688256829995_info.png",
+   "user_id": 188,
+   "is_top": 1,
+   "brief": "【寒武纪：第三季度净利润同比增长148%环比增长8%】财联社10月23日电，寒武纪(688256.SH)公告称，第三季度营业收入为35.31亿元，同比增长104.47%；归属于上市公司股东的净利润为14.04亿元，同比增长147.74%。前三季度营业收入为95.26亿元，同比增长106.76%；归属于上市公司股东的净利润为37.15亿元，同比增长131.49%。小财注：公司Q3净利润14.04亿，Q2净利润12.98亿，据此计算，Q3净利润环比增长8%。",
+   "id": 2513786,
+   "ctime": 1792751994,
+   "type": -1,
+   "title": "寒武纪：第三季度净利润同比增长148% 环比增长8%",
+   "bold": 0,
+   "sort_score": 1792751994,
+   "comment_num": 37,
+   "modified_time": 1792752161,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2513786?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 638,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://img.cls.cn/fad/yeji/20261023/sh688256829995_info.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0546,
+     "RiseRange": 5.46,
+     "name": "寒武纪",
+     "StockID": "sh688256",
+     "schema": "cailianshe://stock_detail?stock_id=sh688256",
+     "status": "L",
+     "last": 932.2,
+     "is_stib": true
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2513786,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239038,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261023/184241CSrGNRxXSi9B.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.sse.com.cn//disclosure/listedinfo/announcement/c/new/2026-10-24/688256_20261024_FX52.pdf",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  }
+ ],
+ "recap": {
+  "date": "2026-10-23",
+  "stats": {
+   "涨停": 82,
+   "跌停": 6,
+   "上涨": 4526,
+   "下跌": 907,
+   "实际涨停": 82,
+   "实际跌停": 6,
+   "市场人气": "市场人气高涨"
+  },
+  "ladder": {
+   "首板": 63,
+   "2板": 12,
+   "3板": 5,
+   "高度板": 2,
+   "总计": 82,
+   "连板率": 37.5
+  },
+  "sectors": [
+   {
+    "name": "机器人概念",
+    "count": 38,
+    "stocks": [
+     {
+      "code": "603028",
+      "name": "赛福天  ",
+      "board": "2连板",
+      "concept": "机器人概念、平台经济",
+      "reason": "机器人概念；据2025年11月10日公司调研，公司在人形机器人腱绳领域已取得阶段性进展。公司研发团队开发了腱绳测试样品，已与多家机器人企业开展技术交流与样品送测工作。在具身机器人领域，公司自主研发的机器人用钢丝绳产品已成功与上海交通大学机器人研究团队达成合作并签订相关合同订单，并与上海卓益得机器人有限公司正式签署战略合作协议。"
+     },
+     {
+      "code": "603089",
+      "name": "正裕工业",
+      "board": "2连板",
+      "concept": "传感器、机器人概念",
+      "reason": "机器人概念；人民财讯10月8日电，正裕工业在10月8日召开的2026年半年度业绩说明会上表示，公司积极布局新赛道，构筑业务发展新动能。在柔性触觉传感技术方向，公司已完成核心产品技术攻关与样品研发，核心算法层面取得突破，触觉信号解析精度与响应速度显著提升。"
+     },
+     {
+      "code": "301502",
+      "name": "华阳智能",
+      "board": "2连板",
+      "concept": "电机电控、小米概念",
+      "reason": "机器人概念+电机电控；1. 机器人概念：据2026年8月27日公告，华阳智能成立了新的控股子公司江苏华阳智能电驱技术有限公司及其全资子公司维亿智能科技（无锡）有限公司，聚焦于机器人关节模组与高速电动摩托车电驱动总成的研发、生产与销售。\r\n\r\n2. 电机电控：据2026年半年报，公司的主营业务为微特电机及应用产品的研发、生产和销售，核心业务板块微特电机及组件的主要产品为微特电机、空调水泵、运动组件；公司主要经营活动包括电机及其控制系统研发、电机制造。"
+     },
+     {
+      "code": "002354",
+      "name": "天娱数科",
+      "board": "首板",
+      "concept": "数据采集、物理AI",
+      "reason": "数据采集+AI视频；1. 数据采集：据2026年半年报，公司持续搭建覆盖数据生成、采集、存储、加工、分析、服务及安全管理全流程的数据体系，沉淀多个私有数据集，已积累超570万条多模态数据、超200万条3D数据。\r\n\r\n2. AI视频：据2026年半年报，公司构建智能营销、智慧能源、空间智能等业务板块，贯通“基础模型-行业模型-智能体-业务平台”能力链条，并打造影视级AI长视频创编平台CineART，拓展AI长视频、短剧等应用场景。"
+     },
+     {
+      "code": "002009",
+      "name": "天奇股份",
+      "board": "首板",
+      "concept": "数据采集、小鹏产业链",
+      "reason": "机器人概念(数据采集)；据2026年10月21日天奇股份官微，由天奇股份运营的江苏省具身智能机器人工业数据采集与实训中心（简称“中心”），建成集数据生产、模型实训、场景验证于一体的完整体系，持续为工业具身智能产业化筑牢底层根基。"
+     },
+     {
+      "code": "003021",
+      "name": "兆威机电",
+      "board": "5天3板",
+      "concept": "灵巧手、宇树机器人",
+      "reason": "灵巧手+电机电控；1. 灵巧手：据2026年8月17日互动易，公司灵巧手产品集成了微型减速器、电机、控制单元等，同时可根据客户需求配置相应的电子皮肤及传感器。\r\n\r\n2. 电机电控：据2026年半年报，公司已完成直流有刷电机、无刷直流电机以及无刷空心杯电机的系列化平台建设，系列化电机均实现量产；其中，4mm无刷空心杯电机实现量产并应用于国内重大天文装备。"
+     },
+     {
+      "code": "603677",
+      "name": "奇精机械",
+      "board": "首板",
+      "concept": "传感器、机器人概念",
+      "reason": "机器人概念+热泵；1. 机器人概念：据2026年5月26日投资者关系活动记录表，奇精机械积极开拓机器人零部件领域，现有尚在开拓产品为工业机器人减速器中的钢轮；目前该产品处于小批量交样阶段，暂未量产，暂时对业绩无影响，该工业机器人零部件产品属于公司现有客户的新产品。\r\n\r\n2. 热泵：据2026年9月4日互动易，奇精机械围绕精密制造主业积极拓展新产品、新业务，其中，高温热泵新业务主要通过控股子公司奇精诺通科技（宁波）有限公司进行拓展，截至目前，相关业务尚在拓展初期，未对公司业绩产生实质影响。"
+     },
+     {
+      "code": "000678",
+      "name": "襄阳轴承",
+      "board": "2连板",
+      "concept": "减速器、机器人概念",
+      "reason": "机器人概念+减速器；1. 机器人概念：据2025年年报，公司研发项目“机器人用精密轴承产品研发”，研究机器人轴承高刚度、长寿命、低振动等核心技术，已进入新产品的开发试制阶段。\r\n\r\n2. 减速器：据2026年10月8日公告，公司部分精密轴承产品可用于谐波减速器、RV减速器等领域；公司主要产品为汽车轴承、等速万向节、轮毂轴承单元等，上述精密轴承业务尚处于市场拓展阶段，尚未实现盈利，也不涉及海外客户。"
+     },
+     {
+      "code": "603337",
+      "name": "杰克科技",
+      "board": "首板",
+      "concept": "工业4.0、工业母机",
+      "reason": "机器人概念；据2026年10月20日投资者关系活动记录表，公司目前主要业务包含工业缝纫机（单机）、数字成套解决方案、艾图服装机器人三大板块；艾图服装机器人属于公司中长期战略布局业务，目前相关产品已在部分服装加工工艺场景开展验证与迭代。"
+     },
+     {
+      "code": "603278",
+      "name": "大业股份",
+      "board": "6连板",
+      "concept": "工业4.0、机器人概念",
+      "reason": "机器人概念+商业航天；1. 机器人概念：据2026年1月1日公告，公司现有主营业务仍以胎圈钢丝、钢帘线以及胶管钢丝的研发、生产和销售为主，公司机器人腱绳产品总体尚处于探索试验阶段，目前未实现批量生产，未产生实质性收益。\r\n\r\n2. 商业航天：据2026年1月1日公告，公司持有湖北三江航天江北机械工程有限公司4.216%的股权，该公司主要从事航天动力系统、天线罩等航天产品研发生产。上述投资属于财务性投资，股权占比较小，目前净利润规模较小，对公司业绩影响甚微。"
+     },
+     {
+      "code": "603081",
+      "name": "大丰实业",
+      "board": "首板",
+      "concept": "智元机器人、VR/AR/MR",
+      "reason": "机器人概念；10月22日企查查APP显示，近日，上海硅基方舟智景元机器人有限公司成立，法定代表人为靳佳宁，经营范围包含：智能机器人的研发；智能机器人销售；人工智能基础软件开发；人工智能应用软件开发；智能控制系统集成等。企查查股权穿透显示，该公司由大丰实业(603081)旗下浙江硅基方舟机器人有限公司等共同持股。"
+     },
+     {
+      "code": "301699",
+      "name": "洛轴股份",
+      "board": "首板",
+      "concept": "注册制次新股、工业母机",
+      "reason": "机器人概念+次新股；据2026年10月22日互动易，公司围绕国产机器人产业发展需求，开展相关产品研发，并参与起草国内工业机器人轴承国家标准；目前，配套工业机器人、具身机器人的部分轴承产品已开展客户验证及小批量供货，暂未形成大规模销售收入。"
+     },
+     {
+      "code": "600215",
+      "name": "派斯林  ",
+      "board": "首板",
+      "concept": "工业机器人、底盘",
+      "reason": "机器人概念；据2026年半年报，派斯林已构建起覆盖工业机器人系统集成全生命周期的完善技术能力矩阵，覆盖方案设计、技术研发、生产制造、系统集成及现场调试等关键环节"
+     },
+     {
+      "code": "603528",
+      "name": "多伦科技",
+      "board": "2连板",
+      "concept": "数据采集、小鹏机器人",
+      "reason": "数据采集+机器视觉；1. 数据采集：据2026年半年报，子公司江苏擎安机器人有限公司（多伦科技持股65%）配套建设了机器人场景数据采集中心与创新展示中心，依托公司多业务场景进行数据采集，为机器人应用场景落地提供数据支撑；江苏擎安机器人还面向机器人企业、高校等提供数据采集、算法训练、模型验证全流程服务。\r\n\r\n2. 机器视觉：据2026年半年报，公司机场围界无人化智能防控产品利用人工智能、机器视觉和自动驾驶技术对围界目标进行实时探知和行为分析；智慧交通板块新增交通态势智能巡查、警用无人机智能巡查等视觉AI应用"
+     },
+     {
+      "code": "002026",
+      "name": "山东威达",
+      "board": "首板",
+      "concept": "工业母机、机器人概念",
+      "reason": "机器人概念+换电站；1. 机器人概念：据2025年年报，山东威达构建“自研+投资+协同”三维战略布局机器人业务，核心聚焦机器人换电系统、工业机器人系统集成、协作机器人生态三大方向；公司完成投资艾利特智能机器人股份有限公司，成功取得其0.7825%的股份。\r\n\r\n2. 换电站：据2026年半年度报告，公司主营业务涉及新能源行业储能锂电池包业务与新能源汽车换电站业务，为新能源汽车提供快速自动换电站等系列产品，以及从研发到制造的一站式服务；新能源汽车换电站由公司控股孙公司昆山斯沃普智能装备有限公司销售部门销售，由下游客户提供主要材料，公司提供代加工生产并收取代加工费用"
+     },
+     {
+      "code": "301313",
+      "name": "凡拓数创",
+      "board": "5天3板",
+      "concept": "数据采集、物理AI",
+      "reason": "数据采集+物理AI；1. 数据采集：据2026年9月15日投资者关系活动记录表，公司具备全栈无本体数据采集与标注训练软硬件能力，利用EGO、UMI等设备采集不依赖特定机器人形态的3D手物交互、人体动作与环境交互序列；遥操数采平台集成动捕、遥操作等硬件，可同步采集视觉、力觉、位姿等多源数据\r\n\r\n2. 物理AI：据2026年9月15日投资者关系活动记录表，公司围绕物理AI与具身训练所需的空间数据、仿真交互数据、无本体数据、本体数据四大类数据构建物理AI数据基座；FunSim具身智能数据仿真平台与自研FTE引擎深度协同，具备从数据采集、仿真验证到真机部署全链路能力。"
+     },
+     {
+      "code": "605488",
+      "name": "福莱新材",
+      "board": "5天3板",
+      "concept": "数据采集、灵巧手",
+      "reason": "数据采集+灵巧手；1. 数据采集：据2026年10月21日福莱新材官微，美国加州当地时间10月20日，全球人机交互与端侧AI芯片企业Synaptics（新突思国际科技公司，纳斯达克：SYNA）在圣何塞总部举办Tech Day 2026技术日活动。福莱新材受邀参加，并携美国全资子公司APEX Sensing，在“机器人与物理AI”展区带来了多模态触觉数据采集手套、曲面指尖传感器和端侧触觉识别三项展示。\r\n\r\n2. 灵巧手：据2026年9月24日投资者关系活动记录表，福莱新材柔性传感业务现阶段重点聚焦四大主线：赋予灵巧手灵敏触觉的触觉传感系统；服务精密制造的工业检测数字感压；覆盖电池全生命周期安全监测；重塑人机交互体验的智能交互感知。"
+     },
+     {
+      "code": "688787",
+      "name": "海天瑞声",
+      "board": "首板",
+      "concept": "数据采集、web3.0",
+      "reason": "数据采集+数据要素；1. 数据采集：据2026年10月12日公告，海天瑞声具身智能数据业务具备全球化数据采集与低成本交付资源，已在北京运营首个具身智能数据训练场，依托百台机器人实现高效数据产出。\r\n\r\n2. 数据要素：据2026年半年报，公司ToG可信数据空间业务取得里程碑式突破，与国家级数据标注试点城市达成深度合作，输出全栈式可信数据空间综合解决方案，助力地方构建安全可控、合规流通的数据要素基础设施，推动区域数据资源资产化、价值化落地。"
+     },
+     {
+      "code": "603448",
+      "name": "天博智能",
+      "board": "首板",
+      "concept": "注册制次新股、传感器",
+      "reason": "机器人概念+次新股；据2026年9月1日公告，天博智能具身智能机器人多维力传感器研发项目投入583万元，该项目进行中；天博智能亦开始了在机器人传感器产品领域的前瞻性开发及研究"
+     },
+     {
+      "code": "300296",
+      "name": "利亚德",
+      "board": "3天2板",
+      "concept": "数据采集、宇树机器人",
+      "reason": "数据采集+物理AI；1. 数据采集：据2026年10月14日投资者关系活动记录表，Optitrack从前端数据采集，到数据处理，经过一键重定向后进行模拟训练，最后到真机训练，利亚德可为客户提供全方位一站式的具身智能动作训练所需产品、技术与解决方案。\r\n\r\n2. 物理AI：据2026年8月24日互动易，公司OptiTrack光学动捕技术通过将非结构化的动作行为转化为算法可读的结构化数据，并沉淀为可复用的行业资产，其产生的高精度物理世界运动和空间数据正是训练物理AI大模型的“燃料”"
+     },
+     {
+      "code": "000559",
+      "name": "万向钱潮",
+      "board": "首板",
+      "concept": "AI办公、MCU",
+      "reason": "机器人概念+AI智能体；1. 机器人概念：据2026年半年报，公司已将机器人业务确立为第三大战略支柱，系统布局具身智能精密部件、专用轴承与关节总成，将深厚的轴承、传动与电控技术深度融合，为机器人产业提供高可靠、高性能的运动解决方案。\r\n\r\n2. AI智能体：据2026年半年报，万向钱潮围绕“研、产、供、销、服、管”全价值链深度部署19个AI智能体，由AI智能体驱动“问题确认—根因分析—对策制定—验证—预防”闭环；万向钱潮举办首届AI智能体大赛，11项参赛成果均源自生产经营一线。"
+     },
+     {
+      "code": "603466",
+      "name": "风语筑  ",
+      "board": "首板",
+      "concept": "数据采集、宇树机器人",
+      "reason": "数据采集+物理AI；1. 数据采集：据2026年半年报，公司互动技术指通过先进的视频动作捕捉系统和成熟的三维图像引擎将传统空间转换为互动空间的一种技术。公司全资子公司浙江风语筑具身智能科技有限公司围绕具身智能应用场景及空间数据技术开展业务探索，推动空间数据在具身智能训练与应用中的落地。\r\n\r\n2. 物理AI：据2026年半年报，公司投资参股松应科技，围绕物理AI仿真引擎开展技术合作；公司与松应科技共同设立控股子公司风应科技，风应科技聚焦物理AI仿真环境构建、合成数据生成及相关训练基础设施等方向开展业务"
+     },
+     {
+      "code": "688071",
+      "name": "华依科技",
+      "board": "首板",
+      "concept": "数据采集、机器人传感器",
+      "reason": "数据采集+物理AI；1. 数据采集：据2026年10月20日互动易，公司的IMU产品可以用于AI/世界模型的训练数据采集设备；公司研发的AI数采专用IMU产品兼顾高频采样、低零漂、小型化、高可靠性等特性，可搭载于各类可穿戴数采设备，保障运动轨迹、姿态信息高精度采集；公司数采专用IMU产品已进入供货阶段。\r\n\r\n2. 物理AI：据2026年半年报，物理AI训练数据采集成为IMU行业增量赛道，公司IMU产品可输出连续无遮挡运动时序数据；公司与多家头部机器人企业及物理AI数据采集企业合作，已实现人形机器人类别IMU小批量供货"
+     },
+     {
+      "code": "002988",
+      "name": "豪美新材",
+      "board": "首板",
+      "concept": "小鹏产业链、机器人概念",
+      "reason": "机器人概念；据2026年7月2日晚公告，豪美新材拟向不超过35名特定对象发行股票，募资总额不超过17.51亿元。其中，“研发创新中心建设项目”拟投入募集资金1.57亿元，项目规划了“机器人轻量化关节与结构系统产品开发”等前沿研发课题。"
+     },
+     {
+      "code": "603901",
+      "name": "永创智能",
+      "board": "首板",
+      "concept": "数据采集、工业机器人",
+      "reason": "机器人概念(数据采集)；据2025年年报，报告期内，公司以500万元增资获得艾欧智能（深圳）有限公司2.0408%的股权，艾欧智能（深圳）有限公司的主营业务为机器人数据采集系统等软件的开发、销售。"
+     },
+     {
+      "code": "000810",
+      "name": "创维数字",
+      "board": "首板",
+      "concept": "数据采集、智能音箱",
+      "reason": "数据采集+AI眼镜；1. 数据采集：据2026年半年报，公司EGO数据采集设备面向具身智能与机器人训练场景，已在海内外市场形成销售。\r\n\r\n2. AI眼镜：据2026年7月28日互动易，公司深耕VR/MR/AI眼镜/AR眼镜多年，VR/MR/AI眼镜自有品牌已在海外运营商及B端渠道实现出货，全场景眼镜已实现量产商用，并已入围江苏移动选型项目"
+     },
+     {
+      "code": "301428",
+      "name": "世纪恒通",
+      "board": "首板",
+      "concept": "数据采集、物理AI",
+      "reason": "数据采集+物理AI；据2026年5月11日投资者关系活动记录表，公司主攻高附加值的数据标注、数据服务等赛道，扩大在自动驾驶、AI大模型、具身智能等前沿应用领域的服务占比。公司正在交付部分具身智能（EGO）数据采集与标注业务。"
+     },
+     {
+      "code": "300307",
+      "name": "慈星股份",
+      "board": "首板",
+      "concept": "工业机器人、滤波器",
+      "reason": "机器人概念；据2026年半年报，公司于2026年6月收购德国STOLL，技术研发与STOLL形成深度协同，加速针织机器人及无人化工厂等前沿产品的商业化落地；子公司宁波慈星机器人技术有限公司从事工业机器人智能成套装备研究、制造。"
+     },
+     {
+      "code": "002979",
+      "name": "雷赛智能",
+      "board": "首板",
+      "concept": "灵巧手、工业机器人",
+      "reason": "灵巧手+三季报增长；1. 灵巧手：据2026年10月9日公告，公司伺服系统类产品主要包括主要应用于机器人领域的高密度无框力矩电机、空心杯电机、关节模组及灵巧手等，其中灵巧手产品代表性系列为通用型DH系列。\r\n\r\n2. 三季报增长：10月22日晚公告，2026年1-9月归属上市公司股东的净利润：2.99亿元，同比上年增长：86.80%。"
+     },
+     {
+      "code": "688836",
+      "name": "宇树科技",
+      "board": "首板",
+      "concept": "物理AI、注册制次新股",
+      "reason": "机器人概念+物理AI；10月22日，宇树科技王兴兴：目前物理AI已经看到被击穿的苗头，很可能最近1-2年或2-3年，目前具身智能迈过ChatGPT时刻的最核心挑战是AI模型的输入输出和真实机器人的对齐。\r\n\r\n1. 机器人概念：《科创板日报》10月21日讯，宇树科技发布人形机器人“H2-X功夫传奇”，最长续航时间约8小时。据2026年8月18日上市公告书，公司目前在售的主要型号产品包括人形机器人G1、H2、R1以及四足机器人Go2、B2、A2等均已取得FCC认证\r\n\r\n2. 物理AI：据2026年8月14日公告，宇树科技于2026年1月开源发布通用VLA模型UnifoLM-VLA-0，该模型旨在打破传统VLM模型应用在具身物理世界操作中的技术局限，使其从通用的“图文理解”进化为具备物理常识与操作能力的具身智能“大脑”。"
+     },
+     {
+      "code": "000700",
+      "name": "模塑科技",
+      "board": "首板",
+      "concept": "小米机器人、奇瑞产业链",
+      "reason": "机器人概念+特斯拉概念；1. 机器人概念：据2026年9月22日投资者关系活动记录表，江南模塑科技股份有限公司复用汽车外饰成熟的模具、大型注塑、喷涂及质量体系，聚焦人形机器人外覆盖件，开展轻量化（以塑代钢和精密结构）及功能性工程材料注塑产品，并与国内外多家头部人形机器人整机厂商开展对接、送样及交付。\r\n\r\n2. 特斯拉概念：据2026年半年报，公司年汽车保险杠生产能力超600万套（包括参股公司），主要为宝马、上汽奥迪、北美知名电动车企等汽车厂商提供保险杠等内外装饰件。"
+     },
+     {
+      "code": "002931",
+      "name": "锋龙股份",
+      "board": "首板",
+      "concept": "机器人概念、汽车零部件",
+      "reason": "机器人概念+实控人变更；据2026年7月8日投资者关系活动记录表，2026年3月11日完成29.99%股份的协议转让过户手续，锋龙股份控股股东、实控人分别变更为优必选、周剑。据优必选官网，优必选科技是人形机器人的领导者和智能服务机器人的领航企业。公司布局了人形机器人全栈式技术，并在此基础上开展智能服务机器人解决方案的研发、设计、智能生产和商业化应用，涵盖了多个行业的企业级和消费级广泛应用场景。"
+     },
+     {
+      "code": "002380",
+      "name": "科远智慧",
+      "board": "首板",
+      "concept": "数据采集、信创",
+      "reason": "数据采集+AI应用；1. 数据采集：据2026年半年报，科远智慧工业自动化板块为国家能源及基础工业提供控制系统软硬件支撑，保障工业现场数据采集与指令执行的准确性，并配套高精度智能传感器与执行机构，确保底层现场物理量采集的真实性与稳定性；智能巡检机器人承担高危、高温环境下的巡检监控、数据采集任务。\r\n\r\n2. AI应用：据2026年半年报，公司构建了“控制系统+工业AI大脑+流程工业垂类大模型+场景智能体”技术体系，打造出无人化作业、无人监盘、巡检、管理四类工业智能体产品矩阵。"
+     },
+     {
+      "code": "001283",
+      "name": "豪鹏科技",
+      "board": "4天2板",
+      "concept": "数据采集、AI眼镜",
+      "reason": "数据采集+AI眼镜；1. 数据采集：据2026年10月13日投资者关系活动记录表，公司机器人电池和数据采集电池已批量出货，客户包括智元、智身、优必选等；数据采集电池已实现头部客户大批量出货，预计2026年机器人相关业务收入接近亿元\r\n\r\n2. AI眼镜：据2026年10月13日投资者关系活动记录表，豪鹏科技AI眼镜电池方面，钢壳叠片电池已规模量产，并向北美头部及国内外一线AI眼镜品牌批量供货，产品覆盖带屏显示型等不同应用场景；2025年公司已位居全球AI可穿戴锂电池第一梯队"
+     },
+     {
+      "code": "603341",
+      "name": "龙旗科技",
+      "board": "4天2板",
+      "concept": "数据采集、智元机器人",
+      "reason": "数据采集+AI眼镜；1. 数据采集：据2026年半年报，公司持续打造面向具身机器人的数据采集设备，为合作伙伴提供高质量的数据采集支持；同时为机器人本体企业提供核心零部件及ODM研发制造服务，构建覆盖数据采集与研发制造的产业支撑能力。目前数据采集设备已通过客户验证，量产进程正加速推进。\r\n\r\n2. AI眼镜：据2026年半年报，龙旗科技智能眼镜业务维持稳健增长态势，国内外头部客户项目按计划稳定推进中；公司积极融入Google Android XR生态，联合Xreal推出Puck形态全新产品，该产品已成为Android XR通用方案之一；制造端，公司SiP产线已先后在上海、马来西亚启动。"
+     },
+     {
+      "code": "603286",
+      "name": "日盈电子",
+      "board": "首板",
+      "concept": "工业4.0、传感器",
+      "reason": "机器人概念；据2026年半年报，日盈电子及子公司报告期内新增发明专利5项、实用新型专利13项，其中包含“一种灵巧手手指回弹组件”实用新型专利，专利权人为日盈电子；公司全资子公司常州日盈智能机器人有限公司注册资本5000万元。"
+     },
+     {
+      "code": "002747",
+      "name": "埃斯顿",
+      "board": "首板",
+      "concept": "工业机器人、物理AI",
+      "reason": "机器人概念；据2026年10月20日埃斯顿自动化官微，近日，由中央广播电视总台主办的“智竞未来——首届智能机器人应用技能大展”南京站活动在南京开幕。埃斯顿作为国产工业机器人第一品牌，携机器人“十八罗汉”亮相：18台iER系列智能机器人同台，灵智系列轮式具身智能机器人作为领舞，共同演绎\"千手观音\"，用科技诠释柔美与力量。"
+     },
+     {
+      "code": "688686",
+      "name": "奥普特  ",
+      "board": "首板",
+      "concept": "数据采集、物理AI",
+      "reason": "数据采集+机器视觉；1. 数据采集：据2026年6月22日投资者关系活动记录表，双方将融合越疆高精度机器人数据采集平台与公司的视觉数据能力，共同建设工业具身智能数据集，开展数据采集、标注与清洗，形成数据驱动的技术迭代闭环；双方以越疆全形态具身机器人为载体，与公司的视觉器件及感知方案融合\r\n\r\n2. 机器视觉：据2026年8月24日互动易，公司3D视觉完整覆盖线激光、投影结构光、双目散斑等主流技术路线，公司持续推进核心技术迭代、完善全系列产品矩阵、升级量产制造体系，进一步巩固在国产高端3D机器视觉领域的领先市场地位"
+     }
+    ]
+   },
+   {
+    "name": "其他",
+    "count": 10,
+    "stocks": [
+     {
+      "code": "603280",
+      "name": "南方路机",
+      "board": "2连板",
+      "concept": "工业机器人、ERP",
+      "reason": "乌克兰概念+机器人概念；乌克兰总统泽连斯基10月21日表示，俄罗斯已同意举行新一轮美乌俄三方谈判。美方提议尽快启动会谈，乌克兰予以支持，各方争取在11月初或更早时间召开会议。\r\n\r\n1. 乌克兰概念：2025年11月20日互动，公司的产品较早就出口至俄罗斯及乌克兰等泛俄地区，在泛俄地区已树立了口碑、有较高的影响力。南方路机的产品从骨料加工、到工程搅拌、再到骨料资源化再生利用的全生态产业链，包括智能、环保、节能、减排等整体建设需求解决方案，完全能够全覆盖俄乌战后重建。\r\n\r\n2. 机器人概念：据2026年半年报，公司深度融合人工智能技术，推出C&D智能气动分选系统及建筑垃圾自动分拣机器人，助力客户提高生产效率，减少人工失误与成本"
+     },
+     {
+      "code": "600506",
+      "name": "统一股份",
+      "board": "首板",
+      "concept": "汽车零部件、汽车热管理",
+      "reason": "石油石化；据2026年半年报，公司的主营业务为润滑油脂的研发、生产和销售，产品包括传统润滑油液和新能源行业液冷及特种油脂，公司拥有汽机油、柴机油、变速箱油、齿轮油、摩托车油、工程机械专用油、农用机械专用油等多个品类润滑油。"
+     },
+     {
+      "code": "002945",
+      "name": "华林证券",
+      "board": "首板",
+      "concept": "字节概念、互联网金融",
+      "reason": "证券+AI应用；据2026年半年报，华林证券全力布局“AI券商”建设，其全资子公司海豚科技聚焦新一代App建设，搭建以“海豚”智能体为统一入口的金融智能服务体系，并推动AI技术与财富管理业务场景融合。"
+     },
+     {
+      "code": "001216",
+      "name": "华瓷股份",
+      "board": "5天3板",
+      "concept": "智能穿戴、端侧AI",
+      "reason": "电阻电容+氧化锆；1. 电阻电容：据2026年9月11日互动易，公司子公司氧化锆粉体纯度最高可达99.995%，产品可适配新能源研磨、齿科陶瓷、MLCC等不同领域使用需求。\r\n\r\n2. 氧化锆：据2026年9月16日公告，公司销售给潮州三环的氧化锆粉体尚处于小量验证阶段，暂未实现批量供货；2026年上半年公司陶瓷新材料业务收入主要来源于氧化锆研磨微珠、齿科陶瓷；公司氧化锆粉体纯度最高为99.995%（4N5）级别。"
+     },
+     {
+      "code": "600094",
+      "name": "大名城  ",
+      "board": "首板",
+      "concept": "数字经济、无人机",
+      "reason": "房地产+算力；1. 房地产：据2026年8月28日公告，截至2026年6月30日，公司2026年半年度房地产销售面积3.75万平方米。\r\n\r\n2. 算力：据2026年6月27日公告：公司通过控股子公司福建名城数字科技有限公司及参股公司福建数产名商科技有限公司开展算力服务业务，智算公司建成采用H800 GPU的智能算力集群，FP16非稀疏算法下算力值不低于1000P，稀疏算法下可达2000P。"
+     },
+     {
+      "code": "000972",
+      "name": "中基健康",
+      "board": "首板",
+      "concept": "医疗器械、平台经济",
+      "reason": "农业；据2026年半年报，中基健康作为兵团重点支持的农业产业化龙头企业，集番茄种植、生产、加工、贸易、研发于一体，主要开展大包装番茄酱、小包装番茄制品、番茄红素软胶囊等产品的研发、生产与销售。"
+     },
+     {
+      "code": "002612",
+      "name": "朗姿股份",
+      "board": "首板",
+      "concept": "医疗器械、北京市",
+      "reason": "医美+中日韩贸易；1. 医美：据2026年9月1日投资者关系活动记录表，朗姿股份医疗美容业务将通过存量机构增长、自建及并购共同推进员工持股计划设定的收入目标；晶肤新门店模型已于2026年7月在重庆3家样板店试运行\r\n\r\n2. 中日韩贸易：据2026年半年报，2014年，公司成为品牌历史超40年的韩国知名童装品牌上市公司阿卡邦（韩国KOSDAQ上市公司，证券代码：）的第一大股东，将时尚的触角由中高端女装拓展到婴幼服装及用品"
+     },
+     {
+      "code": "002687",
+      "name": "乔治白",
+      "board": "首板",
+      "concept": "浙江、网红经济",
+      "reason": "服装家纺；据2026年半年报，公司核心业务为“乔治白”品牌职业装及校服的研发、生产与销售；职业装业务为公司的支柱业务，主要产品包括制式套装、日常通勤服及劳保用品等；校服业务主打制式与运动式校服"
+     },
+     {
+      "code": "603838",
+      "name": "四通股份",
+      "board": "首板",
+      "concept": "广东省、贬值受益",
+      "reason": "ST摘帽+装修家具；1. ST摘帽：据2026年10月17日公告，公司股票自2026年10月20日起复牌交易，证券简称由“*ST四通”变更为“四通股份”，证券代码仍为603838。\r\n\r\n2. 装修家具：据2026年半年报，四通股份是一家集研发、设计、生产、销售于一体的新型家居生活陶瓷企业，产品涵盖日用陶瓷、卫生陶瓷、艺术陶瓷三大品类，卫生陶瓷应用于卫浴空间。"
+     },
+     {
+      "code": "001359",
+      "name": "平安电工",
+      "board": "首板",
+      "concept": "汽车零部件、汽车热管理",
+      "reason": "电子布+固态电池；1. 电子布：据2026年10月20日投资者关系活动记录表，公司拟向特定对象发行股票募资不超过13亿元，投向泰国及国内高性能电子布生产基地建设，重点布局超薄电子级玻纤布、低热膨胀系数电子布、石英纤维布，补齐国内高端电子布规模化产能短板。\r\n\r\n2. 固态电池：据2025年10月21日互动易，云母是一种天然绝缘材料，耐高温、绝缘性能好，因此可以在固态电池中有潜在的应用价值；公司已经与相关固态电池客户保持紧密沟通，并正在进行相关产品的验证工作"
+     }
+    ]
+   },
+   {
+    "name": "AI应用",
+    "count": 7,
+    "stocks": [
+     {
+      "code": "002474",
+      "name": "榕基软件",
+      "board": "首板",
+      "concept": "web3.0、华为鲲鹏",
+      "reason": "AI应用(AI政务)；据2026年半年报，报告期内公司持续深化“人工智能+政务”融合应用，聚焦垂直领域大模型、智能体开发平台，加强智能政务服务平台迭代升级，探索政务大模型在智能问答、智能导办、材料预审、并联审批等场景的深度应用。"
+     },
+     {
+      "code": "002343",
+      "name": "慈文传媒",
+      "board": "首板",
+      "concept": "AI视频、AI眼镜",
+      "reason": "AI视频+短剧；1. AI视频：据2026年4月17日公告，公司与业内头部技术与内容团队战略合作，通过AI创作的全新手段，共同研发改编经典IP衍生互动剧，并打造互动剧宇宙；在科技板块，探索AI与影视、动画等内容创作结合，拟与智象未来（HiDream AI）共同探讨战略投资事宜。\r\n\r\n2. 短剧：据2026年9月12日公告，慈文传媒的全资子公司江西慈文影视文化传媒有限公司与关联方签订微短剧《合作协议》，其中《开标之战》《铁血信使》由该子公司负责制作发行；《开标之战》的合作平台为央视频，《铁血信使》的合作平台为红果“果燃计划”。"
+     },
+     {
+      "code": "002322",
+      "name": "理工能科",
+      "board": "首板",
+      "concept": "信创、国产软件",
+      "reason": "AI应用+数据要素；1. AI应用：据2026年半年报，报告期内公司持续深化轻量AI技术的行业落地应用，迭代升级AI辅助造价、AI智能评审、AI文档生成等场景化功能；数智物联业务以人工智能物联网建设为核心，融合AI、物联网、数字孪生等数字化技术；环保智能仪器深度融合AI与机器人技术，持续升级环保智能水站解决方案。\r\n\r\n2. 数据要素：据2026年半年报，公司在全国率先开创“中心监管——专业公司全托管运营模式”，首先提出政府采购环境监测数据模式，具有“四省一快”的特点，能够凭借强劲的信息化能力进行数据处理，打通数据到监控、数据到管理、数据到监督、数据到治理、数据到执法五大通道，实现数据应用。"
+     },
+     {
+      "code": "603721",
+      "name": "中广天择",
+      "board": "3天2板",
+      "concept": "数据采集、AI视频",
+      "reason": "AI视频+数据采集；1. AI视频：据2026年9月14日互动易，公司和字节火山引擎合作的AI漫剧工具已经落地应用，并用于漫剧生产；公司目前上线和制作的AI漫剧都使用该应用工具。\r\n\r\n2. 数据采集：据2026年半年报，旗下数智中心创新落地“采标一体”数据生产模式，项目入选全省首批高质量数据集先行先试名单；以自研数据集为基础，布局AIGC、具身智能、世界模型等前沿方向，打造产业级AI算料底座"
+     },
+     {
+      "code": "300369",
+      "name": "绿盟科技",
+      "board": "首板",
+      "concept": "MCP、MLOps",
+      "reason": "AI安全+数据安全；据10月23日绿盟科技官微，绿盟科技携产品\"智慧安全4.0\"亮相2026 TechWorld智慧安全大会，重写AI时代安全范式。\r\n\r\n1. AI安全：据2026年10月8日互动易，公司AI安全产品已实现全栈国产化适配，并在智算中心核心场景、智能体安全场景及AI应用全生命周期场景拓展；公司已形成风云卫和清风卫两大产品矩阵\r\n\r\n2. 数据安全：据2026年半年报，公司抓住数据要素化发展机遇，在数据安全流通等核心技术方向上取得突破；公司以可信连接器作为核心基础设施，构建覆盖数据流转全链路的安全防护体系，该方案已在医疗、政务、公共数据运营场景落地。"
+     },
+     {
+      "code": "002439",
+      "name": "启明星辰",
+      "board": "首板",
+      "concept": "VPN、华为鲲鹏",
+      "reason": "AI安全+数据安全；1. AI安全：据2026年10月15日的互动易信息，启明星辰已布局AI应用安全、智能体安全、AI赋能安全等方向，推出大模型、智能体应用场景下的新安全产品，由融合AI技术带动的业务收入规模已初步形成，其中大模型应用防火墙、智能安全运营等产品的收入均保持良好增长。\r\n\r\n2. 数据安全：据2026年10月15日互动易，中国移动丰富的数据业务场景帮助公司覆盖数据安全全场景客户需求，公司积极把握数据要素市场化机遇，推动安全产品与数据业务的融合。"
+     },
+     {
+      "code": "000156",
+      "name": "华数传媒",
+      "board": "首板",
+      "concept": "智能音箱、AI视频",
+      "reason": "AI视频+机器人概念；据2026年10月22日华数传媒官微，由华数传媒牵头申报的《以智能体为统一入口的广电视听服务新场景研究与应用示范》成功获批立项。\r\n\r\n1. AI视频：据2026年10月21日投资者关系活动记录表，华数传媒自研诗画AIGC一体化平台，配套灵蕴AI创作平台、灵晰超高清、蒲公英AI智审平台，打通剧本、分镜、角色、成片、审核全链路，实现AI真人短剧、AI漫剧、AI动画批量生产，目前推出了文旅微短剧、城市人文短剧等，上线的短剧包括《新父与子》《不止山海》《明月照铁衣之碧蹄馆》《基因飞驰》等\r\n\r\n2. 机器人概念：据2026年7月27日互动易，公司牵头申报的“面向城市公共安全治理的机器人集群与协同平台及示范场景”项目获数字中国创新大赛智能赛道一等奖，该项目为商业化落地项目并已完成验收，是公司作为场景应用方探索具身智能在城市治理场景的应用"
+     }
+    ]
+   },
+   {
+    "name": "芯片",
+    "count": 6,
+    "stocks": [
+     {
+      "code": "603933",
+      "name": "睿能科技",
+      "board": "2连板",
+      "concept": "MCU、电机电控",
+      "reason": "存储+机器人概念；1. 存储：据2026年9月29日互动易，公司IC分销业务中代理的存储芯片产品的收入占比很小，对公司经营业绩无重大影响。\r\n\r\n2. 机器人概念：据2026年9月8日公告，睿能科技面向人形机器人等新行业，积极布局用于关节模组的环形驱动器、编码器、无框力矩电机等产品，并持续推进机器人专用多轴驱动器、直线电机的研发。"
+     },
+     {
+      "code": "002077",
+      "name": "大港股份",
+      "board": "首板",
+      "concept": "汽车芯片、电池回收",
+      "reason": "芯片(芯片封测)；据2026年半年报，公司集成电路测试业务主要是为集成电路设计企业、制造企业以及封装企业提供测试程序开发、设计验证、晶圆测试及成品测试；公司已拥有完整的中高端IC测试服务业务体系，主打12英寸、8英寸的晶圆测试以及QFP、BGA、DIP、SOP、QFN等封装芯片测试。"
+     },
+     {
+      "code": "301660",
+      "name": "粤芯半导",
+      "board": "首板",
+      "concept": "注册制次新股、汽车芯片",
+      "reason": "芯片+次新股；2026年9月15日上市招股意向书：公司已通过了IATF 16949 汽车质量管理体系认证，且有多种工艺技术平台和丰富的制程节点工艺，能够满足汽车芯片行业客户对晶圆代工服务的需求。"
+     },
+     {
+      "code": "001298",
+      "name": "好上好",
+      "board": "首板",
+      "concept": "RISC-V、电子后视镜",
+      "reason": "芯片+端侧AI；1. 芯片：据2026年10月14日投资者关系活动记录表，公司围绕AI SoC、AI协处理器、存储、智能模组及周边元器件持续完善产品布局，已与星宸科技、摩尔线程、后摩、爱芯元智等国内知名及新锐AI芯片公司建立合作关系\r\n\r\n2. 端侧AI：据2023年5月26日矽递科技公告，好上好旗下香港北高智是矽递科技主要元器件供应商。据矽递科技招股说明书，矽递科技是一家创新型物联网科技公司，主营业务为边缘计算硬件、网络通信硬件、智能传感硬件的研发、生产及销售，并提供各类研发辅助产品及服务。"
+     },
+     {
+      "code": "603713",
+      "name": "密尔克卫",
+      "board": "首板",
+      "concept": "MCP、智能物流",
+      "reason": "芯片+三季报增长；1. 芯片：据2026年半年报，公司形成化工品、新能源及芯片半导体行业物贸一体化服务；半导体物流围绕光刻胶、电子特气、硅片、晶圆、成品芯片等展开，2026年是公司进军半导体物流行业实现订单爆发、客户粘性增长的关键之年。\r\n\r\n2. 三季报增长：10月22日晚公告，2026年1-9月归属上市公司股东的净利润：5.93亿元，同比上年增长：12.96%。"
+     },
+     {
+      "code": "688368",
+      "name": "晶丰明源",
+      "board": "首板",
+      "concept": "模拟芯片、MCU",
+      "reason": "芯片+三季报增长；1. 芯片：据2026年10月1日公告，晶丰明源拟以增资方式取得控制权的上海凯芯励微电子有限公司自创立以来专注高性能模拟与数模混合芯片研发，深耕中高端电池管理芯片领域多年，现有产品覆盖保护、前端采集、智能管理SoC等解决方案，凯芯励微电子电池管理芯片可与公司自研MCU模块深度协同。\r\n\r\n2. 三季报增长：10月22日晚公告，2026年1-9月归属上市公司股东的净利润：2.51亿元，同比上年增长：977.18%。"
+     }
+    ]
+   },
+   {
+    "name": "三季报增长",
+    "count": 4,
+    "stocks": [
+     {
+      "code": "002982",
+      "name": "湘佳股份",
+      "board": "首板",
+      "concept": "三季报增长、业绩增长",
+      "reason": "三季报增长+鸡肉；1. 三季报增长：10月22日晚公告，2026年1-9月归属上市公司股东的净利润：6387.96万元，同比上年增长：185.84%。\r\n\r\n2. 鸡肉：据2026年10月9日公告，湘佳股份2026年9月份销售活禽351.97万只，销售均价12.38元/公斤。"
+     },
+     {
+      "code": "001328",
+      "name": "登康口腔",
+      "board": "首板",
+      "concept": "AI应用、人工智能",
+      "reason": "三季报增长+美容护理；1. 三季报增长：10月22日晚公告，2026年1-9月归属上市公司股东的净利润：1.61亿元，同比上年增长：18.32%。\r\n\r\n2. 美容护理：据2026年半年报，公司形成了成人基础口腔护理产品、儿童基础口腔护理产品、电动口腔护理产品、口腔医疗与美容护理产品等四大产品矩阵；智能口腔、口腔医疗与美容业务上半年销售收入实现同比快速增长"
+     },
+     {
+      "code": "300584",
+      "name": "海辰药业",
+      "board": "首板",
+      "concept": "硫化物、固态电池",
+      "reason": "三季报增长+电解液；1. 三季报增长：10月22日晚公告，2026年1-9月归属上市公司股东的净利润：6225.56万元，同比上年增长：90.51%。\r\n\r\n2. 电解液：据2026年10月22日晚公告，海辰药业锂电池电解液添加剂已稳定批量供货，其中，VC（碳酸亚乙烯酯）、硫酸酯类添加剂实现销售收入。"
+     },
+     {
+      "code": "301101",
+      "name": "明月镜片",
+      "board": "首板",
+      "concept": "AI眼镜、小米概念",
+      "reason": "三季报增长+AI眼镜；据10月21日明月镜片官微，央视提醒：选购近视防控镜片，需重视临床验证与正品溯源。明月轻松控镜片坚持产品创新，用可验证的临床效果，交出国产科学近视管理方案，守护孩子眼健康。\r\n\r\n1. 三季报增长：10月22日晚公告，2026年1-9月归属上市公司股东的净利润：1.76亿元，同比上年增长：18.29%。\r\n\r\n2. AI眼镜：据2026年半年报，公司成为小米AI眼镜独家官方光学镜片合作供应商，实现国产光学方案对海外同类产品替代突破；自研1.71高折射率树脂单体，在600度、60mm镜片规格下单片重量降至12.4g，阿贝数可达37"
+     }
+    ]
+   },
+   {
+    "name": "金融概念",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "300561",
+      "name": "汇金科技",
+      "board": "首板",
+      "concept": "金融科技、金融概念",
+      "reason": "金融概念(金融科技)；据2026年半年报，汇金科技主营业务是运用物联网、人工智能、动态密码、边缘计算、安全加密等技术，为金融行业客户提供运营管理、风险控制、网点转型等“云+端”整体解决方案和服务。"
+     },
+     {
+      "code": "601519",
+      "name": "大智慧  ",
+      "board": "首板",
+      "concept": "鸿蒙概念、互联网金融",
+      "reason": "金融概念(互联网金融)；据2026年半年报，大智慧是国内领先的互联网金融信息服务提供商，主要业务聚焦证券信息服务、大数据及数据工程服务、境外业务三大板块；证券信息服务以移动APP、PC版软件、云服务等方式向广大投资者提供证券信息和数据服务。"
+     },
+     {
+      "code": "603171",
+      "name": "税友股份",
+      "board": "首板",
+      "concept": "金融科技、信创",
+      "reason": "金融科技+财税数字化；《全国税务行政处罚裁量基准(2026年版)》自2026年11月1日起正式施行。该基准首次将社保费纳入全国统一的税务行政处罚裁量体系。\r\n\r\n1. 金融科技：据2026年半年报，公司子公司亿企兆睿开展业财税大数据商业服务，探索财税数据要素多场景应用，重点布局“数据要素×金融服务”场景的新产品和新服务，将数据及数据模型服务运用于交易撮合、风险评估等场景，降低交易风险。\r\n\r\n2. 财税数字化：据2026年半年报，公司自成立以来一直聚焦财税数字化领域，已形成数智财税、数字政务两大业务板块，并构建亿企赢财税AIBM生态服务平台，打造以AI原生驱动的基础财税、合规税优、财经管理等Agent应用。"
+     }
+    ]
+   },
+   {
+    "name": "军工",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "002535",
+      "name": "林州重机",
+      "board": "2连板",
+      "concept": "工业机器人、机器人概念",
+      "reason": "军工+专用设备；10月19日起至10月29日，美日等国将以日本九州和西南群岛为中心举行所谓“利剑”联合演习。\r\n\r\n1. 军工：据2026年半年报，公司军工业务主要为军工企业提供零部件配套，生产模式为订单定制或来料加工。\r\n\r\n2. 专用设备：据2026年半年报，林州重机主营业务涵盖煤矿机械及综合服务业务、军工业务两大板块，其中煤矿机械及综合服务业务为核心业务板块；煤机整机系列包括液压支架、采煤机、掘进机、刮板机及电液控制系统等产品。"
+     },
+     {
+      "code": "002724",
+      "name": "海洋王",
+      "board": "6连板",
+      "concept": "AI应用、无人机",
+      "reason": "军工+AI应用；10月19日起至10月29日，美日等国将以日本九州和西南群岛为中心举行所谓“利剑”联合演习。\r\n\r\n1. 军工：据2026年半年报，公司产品广泛应用于部队、公安、消防等关系到国计民生的重要基础行业。\r\n\r\n2. AI应用：据2026年10月20日公告，公司AI+智慧照明相关业务属于公司“照明+”战略下的布局，公司依托自有移动摄像照明产品，通过AI视觉识别算法挖掘现场数据价值，打造智能仓储、智慧工地等行业定制方案。"
+     },
+     {
+      "code": "600303",
+      "name": "曙光股份",
+      "board": "首板",
+      "concept": "汽车零部件、新能源汽车",
+      "reason": "军工+汽车零部件；10月19日起至10月29日，美日等国将以日本九州和西南群岛为中心举行所谓“利剑”联合演习。\r\n\r\n1. 军工：据2026年半年报，曙光股份整车产品拥有中国石油、国家电网、大庆油田、公交公司、科研院所、部队下属军工单位等多个领域及行业的优质客户；公司特种车成功开发优质新客户2家，进入相关供应商名录\r\n\r\n2. 汽车零部件：据2026年半年报，公司主营业务为汽车车桥及零部件业务和汽车整车业务；车桥产品形成微/轻型车桥、中/重型车桥、新能源产品和零部件等五大平台、20个系列100多种产品，已批量供货江淮汽车、北汽福田、吉利汽车等国内一线自主品牌"
+     }
+    ]
+   },
+   {
+    "name": "零售",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "600838",
+      "name": "上海九百",
+      "board": "3连板",
+      "concept": "上海市、业绩增长",
+      "reason": "零售+物业服务；2026年10月22日国新办新闻发布会上，商务部表示，今年前三季度，服务零售额同比增长5%，比商品零售额高出4个百分点，预计未来一段时期，商品消费增速将保持平稳增长。\r\n\r\n1. 零售：公司位于上海市。据2026年半年报，上海九百参股投资的商贸零售企业上海久光百货有限公司（公司参股公司，主要业务为商业零售）自开业以来经营业绩持续稳健发展，成为静安寺商圈地标性商业百货，已成为公司利润的主要来源；公司立足商贸零售、商业地产、洗染服务各项业务。\r\n\r\n2. 物业服务：据2026年3月27日ESG报告，公司通过在静安寺、南京西路等核心商圈自有和拥有长期使用权的商业物业，积极打造高品质商业生态圈，提升物业能级和含金量，取得长期而稳定的收益。"
+     },
+     {
+      "code": "600785",
+      "name": "新华百货",
+      "board": "首板",
+      "concept": "智能家居、送转填权",
+      "reason": "零售；2026年10月22日国新办新闻发布会上，商务部表示，今年前三季度，服务零售额同比增长5%，比商品零售额高出4个百分点，预计未来一段时期，商品消费增速将保持平稳增长。\r\n\r\n零售：据2026年半年报，公司持续深化商业零售、物流配套、商业物业运营三大业务协同发展格局，零售业务实现全业态覆盖，运营百货商场、综合购物中心、连锁超市、家电通讯连锁门店，截至报告期末各业态运营327家实体门店。"
+     },
+     {
+      "code": "600865",
+      "name": "百大集团",
+      "board": "首板",
+      "concept": "蚂蚁概念、杭州",
+      "reason": "零售；2026年10月22日国新办新闻发布会上，商务部表示，今年前三季度，服务零售额同比增长5%，比商品零售额高出4个百分点，预计未来一段时期，商品消费增速将保持平稳增长。\r\n\r\n零售：据2026年10月23日公告，百大集团拥有杭州百货大楼一家门店，位于杭州市中心武林广场南侧，经营业态为百货商场；2008年起公司已将杭州百货大楼委托给浙江银泰百货有限公司经营管理，每年收取稳定的委托经营利润。"
+     }
+    ]
+   },
+   {
+    "name": "物理AI",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "002421",
+      "name": "达实智能",
+      "board": "首板",
+      "concept": "物理AI、华为鲲鹏",
+      "reason": "物理AI+AI智能体；1. 物理AI：据2026年半年报，公司进一步锚定“AI+物联网平台”核心研发方向，重点推动AI从数字世界向建筑、园区等真实物理空间延伸落地；公司正式发布AIoT智能物联网平台V7.1版本，平台汇聚物理空间的设备、环境和人员多维感知数据，通过AI算法引擎实现空调、照明等设施的智能优化调控。\r\n\r\n2. AI智能体：据2026年半年报，公司正式发布AIoT智能物联网平台V7.1版本，通过AI智能体引擎搭建“1个超级智能体+15个场景智能体”的多智能体应用，覆盖会议预订、环境调控、报事报修、能源分析、设备分析等场景"
+     },
+     {
+      "code": "603859",
+      "name": "能科科技",
+      "board": "首板",
+      "concept": "物理AI、ERP",
+      "reason": "物理AI+机器人概念；1. 物理AI：据2026年3月13日互动易，物理AI是公司AI业务的重点方向之一，公司具身智能端侧已有AI产品和方案落地，包括能科机械臂焊接智能体、能科具身巡检智能体、能科具身低空物流智能体等。\r\n\r\n2. 机器人概念：据2026年半年报，能科科技构建自主研发的“灵系列”产品体系，“灵智”精准卡位具身智能“大脑”角色，覆盖多种形态机器人在焊接、巡检等场景落地。"
+     }
+    ]
+   },
+   {
+    "name": "消费电子",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "603160",
+      "name": "汇顶科技",
+      "board": "首板",
+      "concept": "RISC-V、模拟芯片",
+      "reason": "消费电子+芯片；10月23日《科创板日报》报道，苹果首款折叠屏iPhone Duo现货发售，部分款式溢价1500—2500元\r\n\r\n1. 消费电子：据2026年9月14日互动易，公司在巩固指纹和触控产品市场领先地位的基础上，加大超声波指纹传感器、安全产品（NFC/eSE/eSIM）等市场推广力度，客户和应用市场从手机逐步拓展至PC、可穿戴设备、物联网、汽车电子等领域。\r\n\r\n2. 芯片：据2026年10月19日汇顶科技官微，公司聚焦IoT与AI端侧应用需求，汇顶科技指纹方案在MoH与MoC两种主流架构之上，创新推出具备硬件级安全保护能力的\"指纹MoC+安全eSE\"一站式解决方案，为终端设备客户提供更多样、更安全的定制化方案选择。"
+     },
+     {
+      "code": "002241",
+      "name": "歌尔股份",
+      "board": "首板",
+      "concept": "智能音箱、无线耳机",
+      "reason": "苹果概念+机器人概念；10月23日《科创板日报》报道，苹果首款折叠屏iPhone Duo现货发售，部分款式溢价1500—2500元\r\n\r\n1. 苹果概念：据2025年3月26日歌尔股份官网公司新闻，Apple首席运营官Jeff Williams访问歌尔，了解歌尔在智能制造、绿色制造、人才培养等领域的创新成果。歌尔自2010年开始与苹果开展合作，至今已在麦克风、扬声器、受话器、精密结构件、光学零组件，以及AirPods、AirPod Max、HomePod等整机组装等领域建立深度合作。\r\n\r\n2. 机器人概念：据2026年9月22日投资者关系活动记录表，歌尔股份在面向工业和消费的多种形态的机器人产品及其核心零组件上进行业务探索；公司机器人业务首先满足自身制造模式升级的需求，在机器人相关的传感器、电机、结构件等零组件领域内具有相应的产品解决方案能力。"
+     }
+    ]
+   },
+   {
+    "name": "锂电池",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "001301",
+      "name": "尚太科技",
+      "board": "首板",
+      "concept": "石墨负极、三季报增长",
+      "reason": "负极+三季报增长；1. 负极：据2026年10月21日投资者关系活动记录表，2026年第三季度，公司负极材料产品仍处于供不应求状态，自有产能无法满足客户和市场需求，外协加工采购比重继续提升，山西四期项目投产在即，山西五期项目建设加速。\r\n\r\n2. 三季报增长：10月20日晚公告，2026年1-9月归属上市公司股东的净利润：7.50亿元，同比上年增长：5.42%。"
+     },
+     {
+      "code": "002812",
+      "name": "恩捷股份",
+      "board": "首板",
+      "concept": "硫化物、比亚迪产业链",
+      "reason": "固态电池+三季报增长；1. 固态电池：据2026年9月30日互动易，公司在半固态电池材料和全固态电池材料领域有长期的关注和投入，全固态电池及材料的商业化尚处于极早期阶段，主要应用将集中在“三深”（深空、深海、深地）等细分市场，公司专注于材料而非整体电芯制造。\r\n\r\n2. 三季报增长：10月13日晚公告，预计2026年1-9月归属于上市公司股东的净利润盈利:154,000万元至205,000万元,同比上年增长162,632.3万元至213,632.3万元。"
+     }
+    ]
+   },
+   {
+    "name": "ST板块",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "600187",
+      "name": "*ST国中 ",
+      "board": "首板",
+      "concept": "业绩增长、中报增长",
+      "reason": "ST板块；据2026年10月23日公告，公司拟以集中竞价方式回购股份，资金总额不低于2000万元且不超过2500万元，回购股份将全部注销并减少注册资本。"
+     },
+     {
+      "code": "600745",
+      "name": "*ST闻泰 ",
+      "board": "首板",
+      "concept": "汽车芯片、AI PC",
+      "reason": "ST板块+IGBT；2026年8月23日，安世中国举办新品全球发布会，核心管理团队集体公开亮相。面对全球供应链变局、技术封锁，安世中国选择了一条主动重建的道路。安世中国首席执行官张秋明称，公司重新搭建组织，建立完全自主的运营体系。\r\n\r\nST板块+IGBT：公司旗下安世半导体是全球领先的分立与功率芯片IDM龙头厂商，安世在各个细分领域均处于全球领先，其中小信号二极管和晶体管出货量全球第一、逻辑芯片全球第二、ESD保护器件全球第一、小信号MOSFET全球排名第一、车规级PowerMOS全球排名第二。"
+     }
+    ]
+   }
+  ],
+  "withdrawal": {
+   "num": 4,
+   "stocks": [
+    [
+     "301718",
+     "C通则",
+     -11.08
+    ],
+    [
+     "600293",
+     "三峡新材",
+     -6.12
+    ],
+    [
+     "001360",
+     "南矿集团",
+     -3.77
+    ]
+   ]
+  }
+ }
+}
