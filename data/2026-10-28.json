@@ -1,8 +1,118 @@
 {
  "brief_date": "2026-10-28",
- "generated_at": "2026-10-28 15:30",
+ "generated_at": "2026-10-28 16:30",
  "lookback_hours": 16,
  "news": [
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 17419,
+   "content": "【奥士康：拟投资60亿元建设智算与高速互联PCB产业基地项目】财联社10月28日电，奥士康(002913.SZ)公告称，公司与海门经济技术开发区管理委员会签署《产业项目发展协议》，投资建设“奥士康南通智算与高速互联PCB产业基地项目”，总规划投资预计60亿元，分三期投入，其中一期投资约25亿元。一期规划建设4-5个工厂，主要生产高阶、高多层、高频高速等PCB产品，应用于人工智能、智能汽车、高端通讯等领域。项目用地约907亩，一期用地约408亩。二期、三期是否启动由公司根据一期经营情况等自主决定。本次投资尚需提交股东会审议。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "",
+   "user_id": 295,
+   "is_top": 1,
+   "brief": "【奥士康：拟投资60亿元建设智算与高速互联PCB产业基地项目】财联社10月28日电，奥士康(002913.SZ)公告称，公司与海门经济技术开发区管理委员会签署《产业项目发展协议》，投资建设“奥士康南通智算与高速互联PCB产业基地项目”，总规划投资预计60亿元，分三期投入，其中一期投资约25亿元。一期规划建设4-5个工厂，主要生产高阶、高多层、高频高速等PCB产品，应用于人工智能、智能汽车、高端通讯等领域。项目用地约907亩，一期用地约408亩。二期、三期是否启动由公司根据一期经营情况等自主决定。本次投资尚需提交股东会审议。",
+   "id": 2517888,
+   "ctime": 1793175895,
+   "type": -1,
+   "title": "奥士康：拟投资60亿元建设智算与高速互联PCB产业基地项目",
+   "bold": 0,
+   "sort_score": 1793175895,
+   "comment_num": 0,
+   "modified_time": 1793176142,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2517888?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 49,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0527,
+     "RiseRange": 5.27,
+     "name": "奥士康",
+     "StockID": "sz002913",
+     "schema": "cailianshe://stock_detail?stock_id=sz002913",
+     "status": "L",
+     "last": 63.1,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2517888,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239411,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261028/162903KgSzoxZcaU1J.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.cninfo.com.cn/finalpage/2026-10-29/1225633781.PDF",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
   {
    "author_extends": "",
    "assocFastFact": {
@@ -16,7 +126,386 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 134254,
+   "reading_num": 91953,
+   "content": "【美股存储股票盘前多数上涨 SK海力士大涨近8%】财联社10月28日电，受SK海力士公布的炸裂财报影响，美股盘前，存储股票多数上涨。SK海力士涨7.73%，闪迪涨4.43%，美光科技涨4.22%；西部数据涨0.59%。希捷科技则跌5.50%。此前一个交易日，西部数据上涨6.95%，闪迪上涨3.92%，希捷科技上涨3.67%，美光科技上涨2.77%。\n\n周三早间，韩国存储芯片巨头SK海力士公布了创纪录的第三季度财报，其7月至9月的业绩表现远超市场预期。营业收入104.62万亿韩元，环比增长32%、同比增长328%；营业利润83.33万亿韩元，环比增长38%、同比增长632%，预期为77.5万亿韩元；SK海力士计划2026年至少派发30万亿韩元现金股息，并至少回购和注销60万亿韩元股票。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 0,
+   "img": "https://image.cls.cn/images/20261028/AO1x3nB57Y_918x450.png",
+   "user_id": 87,
+   "is_top": 0,
+   "brief": "【美股存储股票多数上涨 SK海力士大涨近8%】财联社10月28日电，受SK海力士公布的炸裂财报影响，美股盘前，存储股票多数上涨。SK海力士涨7.73%，闪迪涨4.43%，美光科技涨4.22%；西部数据涨0.59%。希捷科技则跌5.50%。此前一个交易日，西部数据上涨6.95%，闪迪上涨3.92%，希捷科技上涨3.67%，美光科技上涨2.77%。\n\n周三早间，韩国存储芯片巨头SK海力士公布了创纪录的第三季度财报，其7月至9月的业绩表现远超市场预期。营业收入104.62万亿韩元，环比增长32%、同比增长328%；营业利润83.33万亿韩元，环比增长38%、同比增长632%，预期为77.5万亿韩元；",
+   "id": 2517859,
+   "ctime": 1793174580,
+   "type": -1,
+   "title": "美股存储股票盘前多数上涨 SK海力士大涨近8%",
+   "bold": 0,
+   "sort_score": 1793174580,
+   "comment_num": 4,
+   "modified_time": 1793174639,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2517859?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 97,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261028/AO1x3nB57Y_918x450.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2517859,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 172765,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2517859,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 70087,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2517859,
+     "subject_id": 2409,
+     "subject_name": "存储芯片",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 20063,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 412,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2517859,
+     "subject_id": 1279,
+     "subject_name": "半导体芯片",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 106273,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 457,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261028/1604005oHT9vpoqPgd.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 147722,
+   "content": "【兴森科技：第三季度净利润同比增长220% 环比增长257%】财联社10月28日电，兴森科技(002436.SZ)公告称，第三季度营收为27.32亿元，同比增长40.32%；净利润为3.28亿元，同比增长219.77%。前三季度营收为67.70亿元，同比增长26.00%；净利润为4.39亿元，同比增长233.70%。小财注：公司Q3净利润3.28亿，Q2净利润0.92亿，据此计算，Q3净利润环比增长257%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 0,
+   "img": "https://img.cls.cn/fad/yeji/20261028/sz002436836850_info.png",
+   "user_id": 615,
+   "is_top": 1,
+   "brief": "【兴森科技：第三季度净利润同比增长219.77% Q3净利润环比增长257%】财联社10月28日电，兴森科技(002436.SZ)公告称，第三季度营收为27.32亿元，同比增长40.32%；净利润为3.28亿元，同比增长219.77%。前三季度营收为67.70亿元，同比增长26.00%；净利润为4.39亿元，同比增长233.70%。小财注：公司Q3净利润3.28亿，Q2净利润0.92亿，据此计算，Q3净利润环比增长257%。",
+   "id": 2517842,
+   "ctime": 1793174009,
+   "type": -1,
+   "title": "兴森科技：第三季度净利润同比增长220% 环比增长257%",
+   "bold": 0,
+   "sort_score": 1793174009,
+   "comment_num": 6,
+   "modified_time": 1793174196,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2517842?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 91,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://img.cls.cn/fad/yeji/20261028/sz002436836850_info.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0861,
+     "RiseRange": 8.61,
+     "name": "兴森科技",
+     "StockID": "sz002436",
+     "schema": "cailianshe://stock_detail?stock_id=sz002436",
+     "status": "L",
+     "last": 33.68,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2517842,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239411,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261028/155637JSOfI7iwEPKR.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.cninfo.com.cn/finalpage/2026-10-29/1225633003.PDF",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 227013,
+   "content": "【一图看懂2026基金三季报：中际旭创蝉联公募及主动偏股头号重仓股 电子、通信仍是公募前20大持仓股主力】财联社10月28日电，近日，公募基金三季报披露收官。截至三季度末，公募基金总规模近39.3万亿元，较二季度末下降近0.9%。其中，ETF市场规模4.9万亿元，较二季度末增长近3.9%；进入10月以来继续攀升，目前已逼近5万亿元。分类型看，股票型ETF中，风格指数、宽基指数ETF三季度资产净值较二季度末分别增长17.1%和8.9%，主题指数、行业指数ETF规模则明显下降。重仓股方面，中际旭创蝉联公募基金及主动偏股基金头号重仓股，新易盛在两类榜单中均居第二；药明康德排名提升较快，分列公募重仓股第五、主动偏股基金第三。从持仓结构看，主动偏股基金前20大重仓股仍集中于通信、电子板块，并覆盖医药生物、电力设备、有色金属。若按基金类型拆分，在三季报前十大重仓股口径下，中际旭创、宁德时代、中微公司、源杰科技等热门标的呈现主动偏股基金重仓持股下降、被动指数基金重仓持股上升的特征。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261028/5dBbYCE8rw_750x8029.png",
+   "user_id": 430,
+   "is_top": 0,
+   "brief": "【一图看懂2026基金三季报：药明康德跻身主动偏股基金前三大重仓股 电子、通信仍是公募前20大持仓股主力】财联社10月28日电，近日，公募基金三季报披露收官。截至三季度末，公募基金总规模近39.3万亿元，较二季度末下降近0.9%。其中，ETF市场规模4.9万亿元，较二季度末增长近3.9%；进入10月以来继续攀升，目前已逼近5万亿元。分类型看，股票型ETF中，风格指数、宽基指数ETF三季度资产净值较二季度末分别增长17.1%和8.9%，主题指数、行业指数ETF规模则明显下降。重仓股方面，中际旭创蝉联公募基金及主动偏股基金头号重仓股，新易盛在两类榜单中均居第二；药明康德排名提升较快，分列公募重仓股",
+   "id": 2517802,
+   "ctime": 1793173402,
+   "type": -1,
+   "title": "一图看懂2026基金三季报：中际旭创蝉联公募及主动偏股头号重仓股 电子、通信仍是公募前20大持仓股主力",
+   "bold": 0,
+   "sort_score": 1793173402,
+   "comment_num": 4,
+   "modified_time": 1793173402,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2517802?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 359,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261028/5dBbYCE8rw_750x8029.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2517802,
+     "subject_id": 1103,
+     "subject_name": "盘面直播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 184127,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2517802,
+     "subject_id": 1349,
+     "subject_name": "公募基金动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 25261,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2517802,
+     "subject_id": 1724,
+     "subject_name": "一图看懂",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 12436,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261028/154322KHjiVxBBS9mi.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 422841,
    "content": "【《北京市“十五五”时期新型能源体系规划》：聚焦钙钛矿太阳能电池及高效光伏组件研发及设备制造 推广建筑光伏一体化】财联社10月28日电，北京市人民政府印发《北京市“十五五”时期新型能源体系规划》。其中指出，提升风电产业高端化水平。聚焦大兆瓦风机叶片复合材料等核心部件研发,突破防强风等关键技术,强化风电企业总部集聚效应,打造分散式风电示范项目。拓展光伏技术创新场景应用。聚焦钙钛矿太阳能电池及高效光伏组件研发及设备制造,推广建筑光伏一体化。加快地热及热泵产业化应用。推进高效换热器等关键技术装备研发制造,培育热泵装备制造骨干企业,推进规模化应用。强化智能电网技术装备攻关。聚焦电力芯片等核心零部件研发,加强智能化输变电设备等关键技术攻关,扩大在京装备制造规模,探索车网互动、虚拟电厂等商业模式创新。推进新型储能产业集群化发展。推动固态、液流等电池技术研发,发展系统集成与高端制造,促进电网侧、用户侧储能应用,新型储能装机达到60万千瓦。",
    "in_roll": 1,
    "recommend": 1,
@@ -40,7 +529,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517776?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 456,
+   "share_num": 609,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -149,7 +638,7 @@
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 327,
-     "channel": "stib,cls"
+     "channel": "cls,stib"
     },
     {
      "article_id": 2517776,
@@ -245,7 +734,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 157155,
+   "reading_num": 479582,
    "content": "【10月28日涨停分析】财联社10月28日电，今日全市场共71股涨停，连板股总数8只，69股封板未遂，封板率为51%（不含ST股、退市股）。焦点股方面，鱼粉概念股百洋股份14天9板，机器人概念股襄阳轴承5连板。",
    "in_roll": 1,
    "recommend": 1,
@@ -261,7 +750,7 @@
    "title": "10月28日涨停分析",
    "bold": 0,
    "sort_score": 1793171390,
-   "comment_num": 6,
+   "comment_num": 8,
    "modified_time": 1793171409,
    "status": 1,
    "collection": 0,
@@ -269,7 +758,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517769?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 130,
+   "share_num": 191,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -320,7 +809,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184125,
+     "attention_num": 184127,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -368,7 +857,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 209442,
+   "reading_num": 495624,
    "content": "【收评：创业板指震荡反弹涨超3% 全市场超4100只个股上涨】财联社10月28日电，市场震荡反弹，创业板指涨超3%，深成指、科创50指数涨超2%。沪深两市成交额1.63万亿，较上一个交易日放量1675亿。全市场超4100只个股上涨。盘面上，热点快速轮动，人形机器人概念爆发，襄阳轴承5连板，光洋股份3连板，万向钱潮4天3板，宁波东力、五洲新春等多股涨停；短剧概念表现活跃，文投控股2连板，百纳千成、掌阅科技涨停；创新药、CRO概念盘中走高，百普赛斯、近岸蛋白20CM涨停，义翘神州涨超17%；CPO中际旭创涨超10%，杰普特涨超16%。下跌方面，食品饮料板块震荡调整，桂发祥、安记食品、金徽酒等纷纷下挫。截至收盘，沪指涨0.91%，深成指涨2.02%，创业板指涨3.4%。",
    "in_roll": 1,
    "recommend": 1,
@@ -384,7 +873,7 @@
    "title": "收评：创业板指震荡反弹涨超3% 全市场超4100只个股上涨",
    "bold": 0,
    "sort_score": 1793170895,
-   "comment_num": 72,
+   "comment_num": 88,
    "modified_time": 1793170966,
    "status": 1,
    "collection": 0,
@@ -392,7 +881,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517749?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 421,
+   "share_num": 582,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -432,7 +921,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184125,
+     "attention_num": 184127,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -486,7 +975,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 387919,
+   "reading_num": 659137,
    "content": "财联社10月28日电，乙二醇期货主力合约触及涨停，涨幅6%，报5276元/吨。",
    "in_roll": 1,
    "recommend": 1,
@@ -510,7 +999,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517704?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 173,
+   "share_num": 179,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -599,7 +1088,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 393367,
+   "reading_num": 697881,
    "content": "【韩国KOSPI指数收涨6.63% SK海力士涨近11%】财联社10月28日电，日经225指数收涨1.08%，报63954.19点；韩国KOSPI指数收涨6.63%，报6012.44点。其中，SK海力士涨近11%，三星电子涨超9%。",
    "in_roll": 1,
    "recommend": 1,
@@ -615,7 +1104,7 @@
    "title": "韩国KOSPI指数收涨6.63% SK海力士涨近11%",
    "bold": 0,
    "sort_score": 1793169118,
-   "comment_num": 7,
+   "comment_num": 9,
    "modified_time": 1793169218,
    "status": 1,
    "collection": 0,
@@ -623,7 +1112,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517700?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 55,
+   "share_num": 69,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -650,7 +1139,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 172763,
+     "attention_num": 172765,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -698,7 +1187,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 937737,
+   "reading_num": 1178368,
    "content": "【部分年金、保险、公募基金等机构近日加大买入力度】财联社10月28日电，记者获悉，当前投资机构普遍认为市场出现超调，部分年金、保险、公募基金等机构已加大买入力度。 （财联社记者 王晨）",
    "in_roll": 1,
    "recommend": 1,
@@ -714,7 +1203,7 @@
    "title": "部分年金、保险、公募基金等机构近日加大买入力度",
    "bold": 0,
    "sort_score": 1793164538,
-   "comment_num": 23,
+   "comment_num": 24,
    "modified_time": 1793166219,
    "status": 1,
    "collection": 0,
@@ -722,7 +1211,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517596?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 496,
+   "share_num": 637,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -783,7 +1272,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1152556,
+   "reading_num": 1369876,
    "content": "【财联社10月28日午间新闻精选】\n1、截至午间收盘，上证指数涨0.72%，深证成指涨1.99%，创业板指涨3%。\n2、港股午间收盘，恒生指数涨0.43%，恒生科技指数涨1.8%。\n3、Wind数据显示，10月27日股票ETF仅净流入236.71亿元，较周一的311.11亿元，上周五的585.12亿元有所减少。\n4、SK海力士CEO称，未来三年DRAM以及HBM产能近乎售罄，中长期销售能见度大幅提升。公司估值被低估，因此以回购手段提升每股价值。\n5、韩国KOSPI指数涨幅扩大至6%，三星电子涨超8%，SK海力士涨近10%。",
    "in_roll": 1,
    "recommend": 1,
@@ -807,7 +1296,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517536?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 65,
+   "share_num": 70,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -868,7 +1357,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1057427,
+   "reading_num": 1268990,
    "content": "【10月28日午间涨停分析】财联社10月28日电，今日午盘全市场共79股涨停，连板股总数8只，21股封板未遂，封板率为79%（不含ST股、退市股）。焦点股方面，机器人概念股襄阳轴承5连板、福莱新材8天5板。",
    "in_roll": 1,
    "recommend": 1,
@@ -892,7 +1381,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517502?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 91,
+   "share_num": 94,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -943,7 +1432,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184125,
+     "attention_num": 184127,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -991,7 +1480,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1173042,
+   "reading_num": 1372170,
    "content": "【SK海力士涨幅扩大至10%】财联社10月28日电，受Q3财报利好提振，SK海力士涨幅扩大至10%；三星电子现涨9.5%。周三披露的财报显示，SK海力士第三季度营业收入104.62万亿韩元，单季历史首次突破100万亿韩元，环比增长32%、同比增长328%，预期为98.96万亿韩元；营业利润83.33万亿韩元，环比增长38%、同比增长632%，预期为77.5万亿韩元。SK海力士CEO在财报会上表示，未来三年DRAM以及HBM产能近乎售罄，中长期销售能见度大幅提升。",
    "in_roll": 1,
    "recommend": 1,
@@ -1015,7 +1504,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517496?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 531,
+   "share_num": 537,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1078,7 +1567,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1140211,
+   "reading_num": 1359766,
    "content": "【午评：创业板指半日涨3% 人形机器人概念股集体爆发】财联社10月28日电，市场高开回落后再度震荡走强，创业板指涨3%，深成指涨近2%。沪深两市半日成交额1.01万亿，较上个交易日放量1437亿。全市场近4500只个股上涨。盘面上，人形机器人概念爆发，襄阳轴承5连板，光洋股份3连板，万向钱潮4天3板，宁波东力、五洲新春、浙江荣泰、安培龙等多股涨停，宇树科技涨超12%；AI漫剧概念表现活跃，文投控股2连板，掌阅科技涨停；AI制药百普赛斯、义翘神州均涨超11%；下跌方面，食品饮料板块震荡调整，安记食品、五粮液、皇台酒业等纷纷下挫。截至收盘，沪指涨0.72%，深成指涨1.99%，创业板指涨3%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1102,7 +1591,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517493?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 493,
+   "share_num": 496,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1142,7 +1631,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184125,
+     "attention_num": 184127,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1196,7 +1685,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1173499,
+   "reading_num": 1395013,
    "content": "【沪深两市成交额突破1万亿 较上一日此时放量超1300亿】财联社10月28日电，据财联社盯盘数据显示，沪深两市成交额突破1万亿，较上一日此时放量超1300亿，预计全天成交金额超1.6万亿。",
    "in_roll": 1,
    "recommend": 1,
@@ -1220,7 +1709,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517486?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 45,
+   "share_num": 47,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1249,7 +1738,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184125,
+     "attention_num": 184127,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1297,7 +1786,7 @@
    "depth_extends": "[]",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1228760,
+   "reading_num": 1434977,
    "content": "【创业板指涨逾3% 上涨个股近4400只】财联社10月28日电，指数大幅走强，创业板指拉升涨逾3%，沪指涨0.68%，深成指涨1.95%。物理AI、创新药、算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股近4400只。",
    "in_roll": 1,
    "recommend": 1,
@@ -1321,7 +1810,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517481?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 129,
+   "share_num": 134,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1359,7 +1848,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184125,
+     "attention_num": 184127,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1407,7 +1896,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1253297,
+   "reading_num": 1488322,
    "content": "【SK海力士CEO：未来三年DRAM以及HBM产能近乎售罄 中长期销售能见度大幅提升】财联社10月28日电，SK海力士CEO郭鲁正周三在财报会上透露：“已经敲定的LTA订单，叠加当前和客户正在磋商的需求，未来三年直至2029年，我们的DRAM以及HBM产能实际上已经近乎售罄。磋商当中的订单，均基于客户明确的采购规划，落地概率很高。综合来看，中长期销售的能见度已经大幅提升。”",
    "in_roll": 1,
    "recommend": 1,
@@ -1423,7 +1912,7 @@
    "title": "SK海力士CEO：未来三年DRAM以及HBM产能近乎售罄 中长期销售能见度大幅提升",
    "bold": 0,
    "sort_score": 1793156672,
-   "comment_num": 9,
+   "comment_num": 10,
    "modified_time": 1793157313,
    "status": 1,
    "collection": 0,
@@ -1431,7 +1920,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517470?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 133,
+   "share_num": 148,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1484,11 +1973,11 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 73082,
+     "attention_num": 73083,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 207,
-     "channel": "cls,stib"
+     "channel": "stib,cls"
     }
    ],
    "audio_url": [
@@ -1532,7 +2021,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1424645,
+   "reading_num": 1618158,
    "content": "【人形机器人概念涨势扩大 福莱新材8天5板创历史新高】财联社10月28日电，人形机器人概念日内涨势扩大，福莱新材走出8天5板，创历史新高，此前恒工精密、宁波东力、五洲新春、万向钱潮、东贝集团等十余股涨停，安培龙、精锻科技、斯菱智驱、上纬新材均涨超10%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1556,7 +2045,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517416?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 99,
+   "share_num": 103,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1674,7 +2163,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184125,
+     "attention_num": 184127,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1735,7 +2224,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1454400,
+   "reading_num": 1638948,
    "content": "【开盘半小时两市放量超300亿 预计全天成交约1.6万亿】财联社10月28日电，据财联社盯盘数据显示，开盘半小时，沪深两市成交额突破5100亿，较上一日此时放量超300亿，预计全天成交金额约1.6万亿。",
    "in_roll": 1,
    "recommend": 1,
@@ -1759,7 +2248,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517402?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 45,
+   "share_num": 48,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1788,7 +2277,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184125,
+     "attention_num": 184127,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1836,7 +2325,7 @@
    "depth_extends": "[]",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1618161,
+   "reading_num": 1798528,
    "content": "【创业板指涨逾2% 上涨个股近3900只】财联社10月28日电，指数走强，创业板指拉升涨逾2.00%，沪指涨0.66%，深成指涨1.30%。物理AI、机器人、算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股近3900只。",
    "in_roll": 1,
    "recommend": 1,
@@ -1860,7 +2349,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2517379?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 98,
+   "share_num": 101,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1908,7 +2397,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184125,
+     "attention_num": 184127,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1942,918 +2431,24 @@
    "is_fad": 0,
    "disclaimer": "",
    "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1511184,
-   "content": "【韩国KOSPI指数涨幅扩大至6%】财联社10月28日电，韩国KOSPI指数涨幅扩大至6%，现报5978.51点。三星电子涨9%，SK海力士涨超8%。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 1,
-   "img": "https://image.cls.cn/images/20261028/rgAbGF9x12_1169x1545.jpg",
-   "user_id": 79,
-   "is_top": 0,
-   "brief": "财联社10月28日电，韩国KOSPI指数涨幅扩大至6%，三星电子涨9%，SK海力士涨超8%。",
-   "id": 2517376,
-   "ctime": 1793151676,
-   "type": -1,
-   "title": "韩国KOSPI指数涨幅扩大至6%",
-   "bold": 0,
-   "sort_score": 1793151676,
-   "comment_num": 5,
-   "modified_time": 1793151802,
-   "status": 1,
-   "collection": 0,
-   "has_img": 1,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2517376?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 414,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [
-    "https://image.cls.cn/images/20261028/rgAbGF9x12_1169x1545.jpg"
-   ],
-   "explain_num": -1,
-   "stock_list": [],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2517376,
-     "subject_id": 1556,
-     "subject_name": "环球市场情报",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 172763,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261028/0943238mFAzfcMzIu1.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1563003,
-   "content": "【竞价看龙头】财联社10月28日电，市场焦点股海洋王（8天7板）低开6.04%，零售板块上海九百（5板）高开4.28%、新华百货（3天2板）低开6.04%，机器人概念股襄阳轴承（4板）高开5.93%、赛福天（4板）低开6.97%、多伦科技（4板）低开3.55%，食品饮料行业青岛食品（2板）竞价涨停、阳光乳业（2板）高开1.73%、桂发祥（2板）高开1.07%，并购重组的科瑞思（创业板2板）低开2.32%，数据要素概念股国脉科技（2板）低开1.77%。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 0,
-   "img": "https://image.cls.cn/images/20261028/dPQAoiMvYr_720x429.png",
-   "user_id": 431,
-   "is_top": 0,
-   "brief": "【竞价看龙头】财联社10月28日电，市场焦点股海洋王（8天7板）低开6.04%，零售板块上海九百（5板）高开4.28%、新华百货（3天2板）低开6.04%，机器人概念股襄阳轴承（4板）高开5.93%、赛福天（4板）低开6.97%、多伦科技（4板）低开3.55%，食品饮料行业青岛食品（2板）竞价涨停、阳光乳业（2板）高开1.73%、桂发祥（2板）高开1.07%，并购重组的科瑞思（创业板2板）低开2.32%，数据要素概念股国脉科技（2板）低开1.77%。",
-   "id": 2517354,
-   "ctime": 1793150866,
-   "type": -1,
-   "title": "竞价看龙头",
-   "bold": 0,
-   "sort_score": 1793150866,
-   "comment_num": 2,
-   "modified_time": 1793150866,
-   "status": 1,
-   "collection": 0,
-   "has_img": 1,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2517354?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 46,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [
-    "https://image.cls.cn/images/20261028/dPQAoiMvYr_720x429.png"
-   ],
-   "explain_num": -1,
-   "stock_list": [
-    {
-     "rise_range_has_null": 0.1001,
-     "RiseRange": 10.01,
-     "name": "青岛食品",
-     "StockID": "sz001219",
-     "schema": "cailianshe://stock_detail?stock_id=sz001219",
-     "status": "L",
-     "last": 16.48,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0995,
-     "RiseRange": -9.95,
-     "name": "多伦科技",
-     "StockID": "sh603528",
-     "schema": "cailianshe://stock_detail?stock_id=sh603528",
-     "status": "L",
-     "last": 8.87,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0,
-     "RiseRange": 0,
-     "name": "阳光乳业",
-     "StockID": "sz001318",
-     "schema": "cailianshe://stock_detail?stock_id=sz001318",
-     "status": "L",
-     "last": 13.31,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0999,
-     "RiseRange": 9.99,
-     "name": "襄阳轴承",
-     "StockID": "sz000678",
-     "schema": "cailianshe://stock_detail?stock_id=sz000678",
-     "status": "L",
-     "last": 17.61,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0237,
-     "RiseRange": 2.3700001,
-     "name": "海洋王",
-     "StockID": "sz002724",
-     "schema": "cailianshe://stock_detail?stock_id=sz002724",
-     "status": "L",
-     "last": 13.4,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0511,
-     "RiseRange": 5.11,
-     "name": "上海九百",
-     "StockID": "sh600838",
-     "schema": "cailianshe://stock_detail?stock_id=sh600838",
-     "status": "L",
-     "last": 13.99,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0767,
-     "RiseRange": -7.67,
-     "name": "桂发祥",
-     "StockID": "sz002820",
-     "schema": "cailianshe://stock_detail?stock_id=sz002820",
-     "status": "L",
-     "last": 10.35,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0068,
-     "RiseRange": 0.68,
-     "name": "赛福天",
-     "StockID": "sh603028",
-     "schema": "cailianshe://stock_detail?stock_id=sh603028",
-     "status": "L",
-     "last": 10.4,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0065,
-     "RiseRange": 0.65000004,
-     "name": "新华百货",
-     "StockID": "sh600785",
-     "schema": "cailianshe://stock_detail?stock_id=sh600785",
-     "status": "L",
-     "last": 13.99,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0172,
-     "RiseRange": -1.72,
-     "name": "科瑞思",
-     "StockID": "sz301314",
-     "schema": "cailianshe://stock_detail?stock_id=sz301314",
-     "status": "L",
-     "last": 66.21,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0126,
-     "RiseRange": 1.26,
-     "name": "国脉科技",
-     "StockID": "sz002093",
-     "schema": "cailianshe://stock_detail?stock_id=sz002093",
-     "status": "L",
-     "last": 8.03,
-     "is_stib": false
-    }
-   ],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2517354,
-     "subject_id": 1103,
-     "subject_name": "盘面直播",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 184125,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261028/092746Ri5RDLNfgCEi.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "[]",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1611388,
-   "content": "【创业板指高开1.77%】财联社10月28日电，三大指数集体高开，沪指高开0.78%，深成指高开1.01%，创业板指高开1.77%，算力硬件、半导体芯片等板块指数涨幅居前。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 1,
-   "img": "",
-   "user_id": 350,
-   "is_top": 0,
-   "brief": "【三大指数集体高开】财联社10月28日电，沪指高开0.78%，深成指高开1.01%，创业板指高开1.77%，HBM、玻纤、铜箔/覆铜板等板块指数涨幅居前，AI语料、影视院线、出版等板块指数跌幅居前。",
-   "id": 2517351,
-   "ctime": 1793150760,
-   "type": -1,
-   "title": "创业板指高开1.77%",
-   "bold": 0,
-   "sort_score": 1793150760,
-   "comment_num": 27,
-   "modified_time": 1793150760,
-   "status": 1,
-   "collection": 0,
-   "has_img": 0,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2517351?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 113,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [],
-   "explain_num": -1,
-   "stock_list": [
-    {
-     "rise_range_has_null": 0.034,
-     "RiseRange": 3.4,
-     "name": "创业板指",
-     "StockID": "sz399006",
-     "schema": "cailianshe://stock_detail?stock_id=sz399006",
-     "status": "L",
-     "last": 2634.76,
-     "is_stib": false
-    }
-   ],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2517351,
-     "subject_id": 1103,
-     "subject_name": "盘面直播",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 184125,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261028/092600QqB5Bxe7wu7d.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1652364,
-   "content": "财联社10月28日电，富时中国A50指数期货涨幅扩大至1%。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 0,
-   "img": "",
-   "user_id": 79,
-   "is_top": 0,
-   "brief": "财联社10月28日电，富时中国A50指数期货涨幅扩大至1%。",
-   "id": 2517344,
-   "ctime": 1793150491,
-   "type": -1,
-   "title": "",
-   "bold": 0,
-   "sort_score": 1793150491,
-   "comment_num": 0,
-   "modified_time": 1793150543,
-   "status": 1,
-   "collection": 0,
-   "has_img": 0,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2517344?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 19,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [],
-   "explain_num": -1,
-   "stock_list": [],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2517344,
-     "subject_id": 1556,
-     "subject_name": "环球市场情报",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 172763,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261028/0922246tmwPP8oa26o.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
   }
  ],
  "recap": {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "stats": {
-   "涨停": 41,
-   "跌停": 21,
-   "上涨": 605,
-   "下跌": 4921,
-   "实际涨停": 41,
-   "实际跌停": 21,
-   "市场人气": "市场人气一般"
+   "涨停": 71,
+   "跌停": 5,
+   "上涨": 4155,
+   "下跌": 1239
   },
   "ladder": {
-   "首板": 26,
-   "2板": 11,
+   "首板": 0,
+   "2板": 0,
    "3板": 0,
-   "高度板": 5,
-   "总计": 42,
-   "连板率": 20.0
+   "高度板": 0,
+   "总计": 0
   },
-  "sectors": [
-   {
-    "name": "机器人概念",
-    "count": 12,
-    "stocks": [
-     {
-      "code": "603028",
-      "name": "赛福天  ",
-      "board": "4连板",
-      "concept": "钢铁、地方国企",
-      "reason": "机器人概念；据2025年年报，公司深化与海柔创新合作，开拓智能仓储机器人企业合作，全年订单金额约50万元；聚焦具身机器人赛道，研发超高分子钢丝绳、钨丝绳等适配产品送样，与上海卓益得签署战略合作协议。"
-     },
-     {
-      "code": "603528",
-      "name": "多伦科技",
-      "board": "4连板",
-      "concept": "小鹏机器人、汽车检测",
-      "reason": "数据采集+机器视觉；1. 数据采集：据2026年半年报，子公司江苏擎安机器人有限公司（多伦科技持股65%）配套建设了机器人场景数据采集中心与创新展示中心，依托公司多业务场景进行数据采集，为机器人应用场景落地提供数据支撑；江苏擎安机器人还面向机器人企业、高校等提供数据采集、算法训练、模型验证全流程服务。\r\n\r\n2. 机器视觉：据2026年半年报，公司机场围界无人化智能防控产品利用人工智能、机器视觉和自动驾驶技术对围界目标进行实时探知和行为分析；智慧交通板块新增交通态势智能巡查、警用无人机智能巡查等视觉AI应用"
-     },
-     {
-      "code": "002708",
-      "name": "光洋股份",
-      "board": "2连板",
-      "concept": "线控底盘、奇瑞产业链",
-      "reason": "机器人概念+汽车零部件；1. 机器人概念：据2026年9月4日公告，公司正全面切入机器人及AI应用领域，围绕机器人专用轴承、关节模组、整机制造三大方向纵深推进，全力开拓市场；目前人形机器人行业整体仍处于产业化初期，公司机器人业务尚处于市场拓展阶段，尚未实现盈利\r\n\r\n2. 汽车零部件：据2026年半年报，光洋股份专注于新能源与燃油汽车精密零部件、智能机器人零部件、电子线路板及电子元器件的研发、生产与销售，主要产品包括滚针轴承、离合器分离轴承、轮毂轴承单元、同步器、行星排、空心轴等。"
-     },
-     {
-      "code": "002093",
-      "name": "国脉科技",
-      "board": "2连板",
-      "concept": "数据采集、低价股",
-      "reason": "数据采集+AI智能体；1. 数据采集：据2025年8月8日互动易，公司身联网技术聚焦大健康、养老领域，通过持续、精准、长期的生理与行为数据收集与分析，推进个人的精准健康管理。据2025年9月11日互动易，国脉科技研发的AI与身联网技术未来可与机器人很好地融合，AI提供认知决策能力，身联网提供更为强大的感知能力，机器人作为具身智能载体实现物理交互。\r\n\r\n2. AI智能体：据2026年5月15日投资者关系活动记录表，2025年度公司未来战略业务取得阶段性突破，国脉科技推出的居家养老AI智能体与身联网社区“国脉大学养老”形成协同生态，通过技术与场景深度融合重构智慧养老服务体系"
-     },
-     {
-      "code": "000678",
-      "name": "襄阳轴承",
-      "board": "4连板",
-      "concept": "减速器、新能源汽车",
-      "reason": "机器人概念+汽车零部件；1. 机器人概念：据2025年年报，公司研发项目“机器人用精密轴承产品研发”，研究机器人轴承高刚度、长寿命、低振动等核心技术，已进入新产品的开发试制阶段。\r\n\r\n2. 汽车零部件：据2026年10月24日公告，襄阳轴承主要从事汽车轴承及其零部件的生产、科研、销售及相关业务，其主要产品为汽车轴承、等速万向节、轮毂轴承单元等。"
-     },
-     {
-      "code": "001331",
-      "name": "胜通能源",
-      "board": "2连板",
-      "concept": "天然气、物流",
-      "reason": "机器人概念；据2026年7月29日投资者关系活动记录表，控股股东七腾机器人有限公司依托深厚的防爆特种机器人研发积淀，主体现已搭建起品类丰富、形态多元的工业防爆机器人及配套软硬件产品体系，产品按照行走结构划分为四足、轮式、挂轨、履带四大核心机器人品类，同时配套防爆充电设施、传感硬件、空间测绘软件等周边配套产品，全方位覆盖油气、化工、电力等高危场景巡检、安防、消防作业需求。"
-     },
-     {
-      "code": "301682",
-      "name": "宏明电子",
-      "board": "首板",
-      "concept": "超级电容、国有企业",
-      "reason": "机器人概念+汽车零部件；1. 机器人概念：据2026年10月22日公告，公司子公司宏明双新拟新增“高端智能装备零部件研发”方向，主要研发机器人结构件、AI算力结构件等高端智能装备核心零部件；宏明双新已完成无框力矩电机样品试制，20款AI算力结构件实现批量交付，对接三十余家机器人、算力设备客户\r\n\r\n2. 汽车零部件：据2026年10月12日互动易，宏明电子与比亚迪、华为存在业务合作，主要集中在精密零组件领域，产品分别应用于新能源汽车、消费电子方向"
-     },
-     {
-      "code": "002249",
-      "name": "大洋电机",
-      "board": "首板",
-      "concept": "电机电控、高股息精选",
-      "reason": "机器人概念+汽车零部件；1. 机器人概念：据2026年9月15日投资者关系活动记录表，公司机器人关节模组研发项目正按计划稳步推进，其中外骨骼关节模组已进入客户实测阶段；公司针对人形机器人、四足机器人推出的60~130全系列关节模组，目前正处于研发验证与可靠性测试环节。\r\n\r\n2. 汽车零部件：据2026年半年报，公司形成以建筑及家居电器电机为主的BHM事业部和以汽车用关键零部件为主的车辆事业集团（EVBG）两大板块，销售新能源汽车动力总成系统、车辆旋转电器、氢燃料电池系统及关键零部件等产品。"
-     },
-     {
-      "code": "301479",
-      "name": "弘景光电",
-      "board": "首板",
-      "concept": "数据采集、智元机器人",
-      "reason": "智元机器人+智能座舱；1. 智元机器人：据2026年10月14日公告，截至2026年6月30日，弘景光电的具身机器人摄像模组产品已完成项目定点并进入试产阶段；公司联合智元创新（上海）科技股份有限公司共同设立“具身智能视觉联合实验室”。\r\n\r\n2. 智能座舱：据2026年10月14日公告，智能座舱方向公司DMS镜头及摄像模组采用高像素红外光学系统，具备短总长、有限距、超低鬼像眩光表现等性能特点，可有效识别驾驶员人脸状态并监控，摄像模组搭载红外光源，在黑暗环境也可实现有效监测；乘客监测系统（OMS）镜头及摄像模组可实现车内驾驶员及后排乘客全天候监控。"
-     },
-     {
-      "code": "300539",
-      "name": "横河精密",
-      "board": "首板",
-      "concept": "减速器、华为汽车",
-      "reason": "机器人概念+汽车零部件；1. 机器人概念：据2026年半年报，横河精密齿轮箱、齿轮箱驱动系统的代表产品为应用于扫地机器人、咖啡机等智能家电的高精度齿轮箱及其驱动系统，公司产品在保证家电设备静音、稳定的运行状态下实现精准的输出\r\n\r\n2. 汽车零部件：据2026年半年报，公司产品涵盖中大型轻量化汽车内外饰零部件等，相关产品应用于汽车智能座舱、大型汽车轻量化内外饰领域；在汽车零部件领域，公司已进入上汽、吉利汽车、比亚迪汽车、华为、引望、恺博等知名企业的供应商体系"
-     },
-     {
-      "code": "605333",
-      "name": "沪光股份",
-      "board": "2连板",
-      "concept": "奇瑞产业链、小鹏产业链",
-      "reason": "机器人概念+汽车零部件；1. 机器人概念：据2026年10月26日昆山沪光公众号消息，10月25日，沪光股份携手启元机器人迎来第5000台机器人正式交付，下线的启元T1可变形机器人支持轮足人形与四足自主切换，产线日产能提升至200余台。\r\n\r\n2. 汽车零部件：据2026年半年报，沪光股份专注于汽车高低压线束的研发、生产及销售，所属行业为“汽车零部件及配件制造”，主营产品可分类为成套线束、发动机线束及其他线束，主要涵盖新能源汽车高压线束、电池包线束等"
-     },
-     {
-      "code": "603370",
-      "name": "华新精科",
-      "board": "4天2板",
-      "concept": "电机电控、新能源汽车",
-      "reason": "机器人概念+电机电控；据2026年半年报，华新精科精密铁芯主要包括汽车用铁芯、非汽车用铁芯、具身智能关节及灵巧手电机铁芯三大类，具身智能板块主营无框力矩电机铁芯、空心杯电机铁芯等具身智能关节精密铁芯零部件。"
-     }
-    ]
-   },
-   {
-    "name": "汽车零部件",
-    "count": 9,
-    "stocks": [
-     {
-      "code": "600303",
-      "name": "曙光股份",
-      "board": "3天2板",
-      "concept": "汽车整车、振兴东北",
-      "reason": "汽车零部件+军工；1. 汽车零部件：据2026年半年报，公司主营业务为汽车车桥及零部件业务和汽车整车业务；车桥产品形成微/轻型车桥、中/重型车桥、新能源产品和零部件等五大平台、20个系列100多种产品，已批量供货江淮汽车、北汽福田、吉利汽车等国内一线自主品牌\r\n\r\n2. 军工：据2026年半年报，曙光股份整车产品拥有中国石油、国家电网、大庆油田、公交公司、科研院所、部队下属军工单位等多个领域及行业的优质客户；公司特种车成功开发优质新客户2家，进入相关供应商名录"
-     },
-     {
-      "code": "603758",
-      "name": "秦安股份",
-      "board": "首板",
-      "concept": "重庆市、长安汽车概念",
-      "reason": "汽车零部件+机器人概念；1. 汽车零部件：据2026年半年报，公司主要从事汽车发动机核心零部件气缸体、气缸盖、曲轴及变速器关重零部件箱体、壳体、纯电动车电机壳体等产品的研发、生产与销售，客户群体覆盖乘用车与商用车领域，以长安福特、理想汽车、中国一汽、吉利汽车等整车及动力平台为核心。\r\n\r\n2. 机器人概念：据2026年8月14日公告，公司开展少量财务性股权投资，持有墨现科技5%股权，墨现科技主营业务聚焦触觉传感器领域，主要从事柔性压力传感器相关产品的研发与应用；公司主营业务不涉及人形机器人及零配件的生产制造"
-     },
-     {
-      "code": "601956",
-      "name": "东贝集团",
-      "board": "首板",
-      "concept": "绿色电力、电力",
-      "reason": "汽车零部件+机器人概念；1. 汽车零部件：据2026年半年报，子公司黄石东贝铸造主要从事生产汽车零配件铸件，年产能20万吨铸件及1000万片制动盘零件，汽车零配件铸件包含制动盘、卡钳、支架、转向节、差速器等\r\n\r\n2. 机器人概念：据2026年2月3日互动易，东贝集团机器人关节电机产品目前尚未实现市场销售。"
-     },
-     {
-      "code": "001400",
-      "name": "江顺科技",
-      "board": "首板",
-      "concept": "工程机械、汽车热管理",
-      "reason": "汽车零部件+3D打印；1. 汽车零部件：据2026年半年报，公司铝型材挤压模具及配件、铝型材挤压配套设备面向铝型材制造行业，公司铝型材挤压模具用于铝型材的挤压成型，铝型材应用于汽车轻量化等领域；公司微通道挤压模具生产的铝型材主要应用于汽车动力电池热管理系统。\r\n\r\n2. 3D打印：据2026年6月9日公告，公司3D打印业务尚处于投入期，暂未形成销售收入；公司控股子公司江宇科技（江阴）有限公司成立于2025年9月19日，公司持股比例为75%，江宇科技主营业务涵盖3D打印服务、金属表面处理及热处理加工等"
-     },
-     {
-      "code": "603376",
-      "name": "大明电子",
-      "board": "首板",
-      "concept": "小鹏产业链、长安汽车概念",
-      "reason": "汽车电子+无人驾驶；1. 汽车电子：据2026年半年报，公司专注于汽车电子配套领域三十余年，是国内领先的汽车车身电子电器控制系统设计、开发、生产和销售的综合解决方案供应商，与国内主流整车厂客户形成了长期、稳定的合作关系。\r\n\r\n2. 无人驾驶：据2026年半年报，大明电子驾驶辅助系统相关产品包括组合控制总成、方向盘控制总成、仪表板控制总成，其中仪表板控制总成拥有全景影像、自动泊车等功能。"
-     },
-     {
-      "code": "603813",
-      "name": "原尚股份",
-      "board": "首板",
-      "concept": "氢燃料电池、氢能源",
-      "reason": "汽车零部件+物流；据2026年10月16日投资者关系活动记录表，作为国内汽车零部件物流赛道的老牌上市企业，原尚股份在行业内沉淀了20余年的服务经验，依托覆盖华南、华东、华中、西南、华北、东北六大区域的11个配送中心，手握超31万平方米的优质仓储资源。"
-     },
-     {
-      "code": "002823",
-      "name": "凯中精密",
-      "board": "首板",
-      "concept": "电机电控、SOFC电池",
-      "reason": "汽车零部件+机器人概念；1. 汽车零部件：据2026年半年报，凯中精密专业定制开发各类高技术要求的连接器、换向器及其他精密零组件，汽车连接器及集成组件已为全球众多知名品牌汽车企业及国内头部新能源车企的新一代平台配套相关产品，具体包括动力电池零组件、驱动电机连接器、汽车轻量化零件\r\n\r\n2. 机器人概念：据2026年5月15日投资者关系活动记录表，公司正密切关注和积极布局人形机器人、AI 数据中心等战略新兴领域。"
-     },
-     {
-      "code": "603037",
-      "name": "凯众股份",
-      "board": "首板",
-      "concept": "聚氨酯、小鹏产业链",
-      "reason": "汽车零部件+机器人概念；1. 汽车零部件：据2026年半年报，公司主营业务所属行业为汽车零部件制造业，主要从事汽车底盘悬架系统减震元件和操控系统轻量化踏板总成的设计、研发、生产和销售；报告期内，公司实现新能源车型配套减震元件销售数量约966.7万件。\r\n\r\n2. 机器人概念：据2026年半年报，凯众股份已于2025年组建专业团队开发机器人零部件系列产品，依托自主知识产权材料配方和生产工艺技术，目前已成功开发相关产品，将在机器人零部件软包领域成为技术领先者。"
-     },
-     {
-      "code": "600626",
-      "name": "申达股份",
-      "board": "首板",
-      "concept": "上海国资、地方国企",
-      "reason": "汽车零部件；据2026年半年报，申达股份汽车内饰及声学元件业务是公司产业用纺织品的核心业务，主要为下游客户提供汽车内饰件及车内降噪声学解决方案，主要产品包括地板系统、声学元件及软饰小件。"
-     }
-    ]
-   },
-   {
-    "name": "其他",
-    "count": 6,
-    "stocks": [
-     {
-      "code": "000058",
-      "name": "深赛格",
-      "board": "首板",
-      "concept": "零售、光伏组件",
-      "reason": "商业航天+AI应用；10月26日上海市经济和信息化委员会等六部门印发《上海市卫星互联网产业创新发展行动方案（2027-2030年）》，到2030年在轨卫星总数超3000颗 核心产业规模突破800亿元\r\n\r\n1. 商业航天：据2026年半年报，公司的检验检测认证业务在商业航天领域实现突破，助力长征十二号乙运载火箭（CZ-12B）首飞任务圆满成功。\r\n\r\n2. AI应用：据2026年9月22日互动易，公司积极推动数智化转型，已上线“赛格专业市场”AI智能导购小程序，以科技赋能运营管理，提升交易效率、管理效能和服务体验，推动公司从“物理空间运营商”向“产业生态服务商”转型"
-     },
-     {
-      "code": "002011",
-      "name": "盾安环境",
-      "board": "首板",
-      "concept": "冰雪产业、钢铁",
-      "reason": "业绩增长+汽车热管理；1. 业绩增长：据2026年10月26日晚公告，盾安环境前三季度营业收入同比增长10.74%，报告期内公司数据中心相关产品收入规模同比翻番，成为制冷空调零部件业务重要的第二增长曲线。\r\n\r\n2. 汽车热管理：据2026年半年报，公司新能源汽车热管理业务产品覆盖冷媒侧阀件、水侧水泵与阀件、OBD智能电控产品，报告期内新增120余项玲珑系列电子膨胀阀、三通电子阀等项目定点及近20项乘用车水侧水泵项目定点。"
-     },
-     {
-      "code": "600715",
-      "name": "文投控股",
-      "board": "首板",
-      "concept": "影视院线、网红经济",
-      "reason": "AI视频+互动影游；10月26日界面新闻报道，根据QuestMobile的数据，截至今年8月，腾讯绿泡泡短剧小程序月活跃用户规模达1.43亿。10月首周周活跃用户达8968万，较9月首周提升44.1%。\r\n\r\n1. AI视频：据2026年10月13日公告，公司子公司中轴线为帧以AI技术赋能文化内容生产，先后与多家产业链优势企业达成合作，实现从剧本→分镜→视频→剪辑的全流程制作体系搭建；报告期内累计签约储备漫剧92部，累计上线漫剧34部。\r\n\r\n2. 互动影游：据2025年年报，公司在耀莱影城五棵松店落地全国首家巨幕沉浸泛娱乐空间“MIRRA奇镜派对融合厅”，依托“巨幕+VR”设备与多源融合动作捕捉、实时8K渲染技术，实现“影游联动”，并配备三面环绕的LED互动屏。"
-     },
-     {
-      "code": "002205",
-      "name": "国统股份",
-      "board": "首板",
-      "concept": "新疆、国有企业",
-      "reason": "基础建设；据2026年9月13日投资者关系活动记录表，公司筛选城乡供水、防洪排涝及小型管网、市政管道类项目，依托集团供应链资源挖掘相关领域业务机会，作为PCCP主业的有效补充"
-     },
-     {
-      "code": "002623",
-      "name": "亚玛顿",
-      "board": "首板",
-      "concept": "光伏玻璃、POE胶膜",
-      "reason": "光伏玻璃+钙钛矿电池；1. 光伏玻璃：据2026年8月29日公告，公司原募投项目“年产4000万平方米超薄光伏背板玻璃深加工项目”原计划形成年产4000万平方米1.6mm超薄光伏背板玻璃的生产能力，目前该项目已建成3条超薄光伏背板玻璃深加工产线并均已投产\r\n\r\n2. 钙钛矿电池：据2026年5月8日投资者关系活动记录表，公司超薄轻型钢化ITO玻璃已向钙钛矿组件厂商小批量供货。"
-     },
-     {
-      "code": "301314",
-      "name": "科瑞思",
-      "board": "2连板",
-      "concept": "新能源汽车、变压器",
-      "reason": "并购重组+通信；据2026年10月25日晚公告，科瑞思拟以发行股份及支付现金方式购买李刚等7名交易对方持有的宏钢光电100%股份，并向不超过35名特定投资者发行股份募集配套资金，总额尚未确定。标的公司从事激光器、光通讯、混合集成电路、半导体功率器件等领域的封装壳体及高功率光纤激光器芯片热沉的研发、生产与销售。"
-     }
-    ]
-   },
-   {
-    "name": "零售",
-    "count": 5,
-    "stocks": [
-     {
-      "code": "600838",
-      "name": "上海九百",
-      "board": "5连板",
-      "concept": "上海国资、参股券商",
-      "reason": "零售+物业服务；1. 零售：公司位于上海市。据2026年半年报，上海九百参股投资的商贸零售企业上海久光百货有限公司（公司参股公司，主要业务为商业零售）自开业以来经营业绩持续稳健发展，成为静安寺商圈地标性商业百货，已成为公司利润的主要来源；公司立足商贸零售、商业地产、洗染服务各项业务。\r\n\r\n2. 物业服务：据2026年3月27日ESG报告，公司通过在静安寺、南京西路等核心商圈自有和拥有长期使用权的商业物业，积极打造高品质商业生态圈，提升物业能级和含金量，取得长期而稳定的收益。"
-     },
-     {
-      "code": "600828",
-      "name": "茂业商业",
-      "board": "首板",
-      "concept": "信托概念、零售",
-      "reason": "零售；据2026年10月23日公告，报告期内公司无新增门店，关闭茂业包头东河店、茂业时代城店及茂业购物中心店3家门店；截至本报告披露日，公司拥有各业态零售门店合计20家。"
-     },
-     {
-      "code": "002187",
-      "name": "广百股份",
-      "board": "首板",
-      "concept": "免税、破净股概念",
-      "reason": "零售；据2026年半年报，公司从事的主要业务为百货零售，经营业态包括百货商场、购物中心、超市、专业店以及线上商品销售等，公司采用的经营模式主要包括联销、购销及物业出租"
-     },
-     {
-      "code": "600785",
-      "name": "新华百货",
-      "board": "3天2板",
-      "concept": "零售、宁夏回族自治区",
-      "reason": "零售；据2026年半年报，公司持续深化商业零售、物流配套、商业物业运营三大业务协同发展格局，零售业务实现全业态覆盖，运营百货商场、综合购物中心、连锁超市、家电通讯连锁门店，截至报告期末各业态运营327家实体门店。"
-     },
-     {
-      "code": "601086",
-      "name": "国芳集团",
-      "board": "首板",
-      "concept": "甘肃省、参股券商",
-      "reason": "零售；据2026年9月11日投资者关系活动记录表，国芳集团公司力行转型升级战略，推动重点门店改造，深耕当地商圈，“一店一策”打造特色消费场景，紧贴圈层化、国潮化、悦己化、社交化消费趋势，聚焦首店效应与头部品牌，提升品牌力与商品力。"
-     }
-    ]
-   },
-   {
-    "name": "三季报增长",
-    "count": 4,
-    "stocks": [
-     {
-      "code": "002284",
-      "name": "亚太股份",
-      "board": "首板",
-      "concept": "线控底盘、AEBS",
-      "reason": "三季报增长+无人驾驶；1. 三季报增长：10月26日晚公告，2026年1-9月归属上市公司股东的净利润：4.30亿元，同比上年增长：31.00%。\r\n\r\n2. 无人驾驶：据2026年半年报，亚太股份已成功构建了涵盖智能汽车环境感知、主动安全控制及移动互联技术的无人驾驶产业链，顺利实现了77GHz毫米波雷达与视觉系统（含控制器）的产业化应用。"
-     },
-     {
-      "code": "603565",
-      "name": "中谷物流",
-      "board": "首板",
-      "concept": "航运、物流",
-      "reason": "三季报增长+航运；1. 三季报增长：10月26日晚公告，2026年1-9月归属上市公司股东的净利润：19.28亿元，同比上年增长：36.70%。\r\n\r\n2. 航运：据2026年10月26日晚公告，中谷物流报告期内外贸运力投放增多，并且外贸运价上涨，利润因此同比增加。"
-     },
-     {
-      "code": "002724",
-      "name": "海洋王",
-      "board": "8天7板",
-      "concept": "基础建设、三季报增长",
-      "reason": "三季报增长+AI应用；1. 三季报增长：10月26日晚公告，2026年1-9月归属上市公司股东的净利润：6263.81万元，同比上年增长：14.32%。\r\n\r\n2. AI应用：据2026年10月20日公告，公司AI+智慧照明相关业务属于公司“照明+”战略下的布局，公司依托自有移动摄像照明产品，通过AI视觉识别算法挖掘现场数据价值，打造智能仓储、智慧工地等行业定制方案。"
-     },
-     {
-      "code": "300504",
-      "name": "天邑股份",
-      "board": "首板",
-      "concept": "西部大开发、光纤概念",
-      "reason": "三季报增长+光纤概念；1. 三季报增长：10月26日晚公告，2026年1-9月归属上市公司股东的净利润：9797.64万元，同比上年增长：277.38%。\r\n\r\n2. 光纤概念：据2026年半年报，天邑股份的通信网络物理连接与保护设备涵盖光纤快速活动连接器、分路器、光缆接头盒、光缆交接箱、光缆分纤箱、光缆终端盒等产品，广泛运用于FTTX光纤接入网和智能组网系统建设，并在OLT和ONU之间提供光连接与传输通道。"
-     }
-    ]
-   },
-   {
-    "name": "食品饮料",
-    "count": 3,
-    "stocks": [
-     {
-      "code": "001219",
-      "name": "青岛食品",
-      "board": "2连板",
-      "concept": "食品饮料、地方国企",
-      "reason": "食品饮料+三季报增长；1. 食品饮料：据2026年半年报，青岛食品主要从事饼干、花生酱及休闲食品的研发、生产及销售，“青食”商标为“中华老字号”，在巩固钙奶饼干核心业务的同时持续探索“第二增长曲线”。\r\n\r\n2. 三季报增长：10月23日晚公告，2026年1-9月归属上市公司股东的净利润：1.02亿元，同比上年增长：10.38%。"
-     },
-     {
-      "code": "001318",
-      "name": "阳光乳业",
-      "board": "2连板",
-      "concept": "乳业、食品饮料",
-      "reason": "食品饮料(乳业)；据2026年10月25日阳光乳业公众号消息，市委常委、市纪委书记、市监委代理主任石军英莅临江西阳光乳业调研。据2026年10月20日阳光乳业公众号消息，阳光乳业奉新嘉牧生态牧场入选2025全国规模牧场“12吨俱乐部”，成母牛单产达到12100公斤；阳光乳业在江西布局三大自有现代化牧场，为阳光鲜奶供给优质生鲜乳。"
-     },
-     {
-      "code": "002820",
-      "name": "桂发祥",
-      "board": "2连板",
-      "concept": "预制菜、零售",
-      "reason": "食品饮料；据2026年9月3日投资者关系活动记录表，公司今年以来开发上市“清风玉食”粗粮轻养系列夹馅麻花，自主研发“麻焙焙”“好事发生”系列烘焙小麻花，以及“蝴蝶酥”“桃酥”系列休闲糕点、轻伴手礼。"
-     }
-    ]
-   },
-   {
-    "name": "旅游",
-    "count": 1,
-    "stocks": [
-     {
-      "code": "000888",
-      "name": "峨眉山Ａ",
-      "board": "首板",
-      "concept": "冰雪产业、谷子经济",
-      "reason": "旅游+冰雪产业；1. 旅游：据2026年9月16日互动易，峨眉山景区藏酋猴属于国家二级保护动物，是峨眉山世界双遗产地的重要生态标识；公司立足文旅主业，开发系列猴主题文创产品和AI互动产品，持续挖掘藏酋猴的文化旅游价值。\r\n\r\n2. 冰雪产业：据2025年度环境、社会与治理（ESG）报告，2025年12月14日公司协同景区管委会创新组织第27届峨眉山冰雪温泉季活动，通过大象巡游、爆点话题炒作、沉浸式产品推介等创新方式，成功引爆今年峨眉山冬游序幕。"
-     }
-    ]
-   },
-   {
-    "name": "服装家纺",
-    "count": 1,
-    "stocks": [
-     {
-      "code": "601566",
-      "name": "九牧王  ",
-      "board": "首板",
-      "concept": "高股息精选、零售",
-      "reason": "服装家纺+海峡两岸；公司位于福建省厦门市。据2026年10月20日互动，公司秋冬季产品有羊毛衣、羊毛衫及羊绒大衣等相关产品。目前产品均已上市。据2026年半年度报告，九牧王是中国男裤行业的龙头企业，以“打造全球最好的裤子”为使命，专注男裤领域 37 年。"
-     }
-    ]
-   },
-   {
-    "name": "ST板块",
-    "count": 1,
-    "stocks": [
-     {
-      "code": "603843",
-      "name": "*ST正平 ",
-      "board": "首板",
-      "concept": "锂矿、ST板块",
-      "reason": "ST板块；"
-     }
-    ]
-   }
-  ],
-  "withdrawal": {
-   "num": 10,
-   "stocks": [
-    [
-     "002535",
-     "林州重机",
-     -9.91
-    ],
-    [
-     "603657",
-     "春光科技",
-     -8.94
-    ],
-    [
-     "002696",
-     "百洋股份",
-     -5.14
-    ]
-   ]
-  }
+  "sectors": [],
+  "withdrawal": null
  }
 }
