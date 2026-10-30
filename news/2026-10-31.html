@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>新闻存档 · 2026-10-31</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="back" href="index.html">&#8249; 存档索引</a>
+<header class="top">
+<div class="day">2026年10月31日 周六</div>
+<h1>&#128240; 新闻存档</h1>
+<div class="sub">加红 0 条（全文）&nbsp;·&nbsp;全部 3 条</div>
+</header>
+<div class="arcbar">
+<button id="f-all" class="on" type="button">全部 3</button>
+<button id="f-red" type="button">只看加红 0</button>
+<button id="f-open" type="button">展开全文</button>
+</div>
+<div id="list">
+<div class="arc" data-cat="all"><span class="t">00:28</span><span class="h plain">OpenAI表示，ChatGPT将自动终止表现出暴力执念的对话。若多段对话被终止，可能触发账户的临时暂停。</span></div><div class="arc" data-cat="all"><span class="t">00:10</span><span class="h plain">对AI融资潮的恐慌再创新高 英特尔、亚马逊等债券违约保护成本飙升</span></div><div class="arc" data-cat="all"><span class="t">00:03</span><span class="h plain">Meta在开庭前与一名社交媒体成瘾诉讼原告达成了和解。</span></div>
+</div>
+<script>
+(function(){
+  var list=document.getElementById('list');
+  function setFilter(mode){
+    document.getElementById('f-all').className = mode==='all'?'on':'';
+    document.getElementById('f-red').className = mode==='red'?'on':'';
+    Array.prototype.forEach.call(list.children,function(el){
+      el.style.display = (mode==='red' && el.dataset.cat!=='red') ? 'none' : '';
+    });
+  }
+  document.getElementById('f-all').onclick=function(){setFilter('all');};
+  document.getElementById('f-red').onclick=function(){setFilter('red');};
+  var open=false;
+  document.getElementById('f-open').onclick=function(){
+    open=!open; this.textContent = open?'收起全文':'展开全文';
+    Array.prototype.forEach.call(list.querySelectorAll('details'),function(d){d.open=open;});
+  };
+})();
+</script>
+<footer>数据来源：财联社电报 · 开盘啦<br>生成于 2026-10-31 00:30 ｜ <a href="archive/index.html">简报归档</a> ｜ <a href="news/index.html">新闻存档</a></footer>
+</body>
+</html>
