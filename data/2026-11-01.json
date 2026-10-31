@@ -1,0 +1,1625 @@
+{
+ "brief_date": "2026-11-01",
+ "generated_at": "2026-11-01 00:30",
+ "lookback_hours": 16,
+ "news": [
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 529576,
+   "content": "【DeepSeek发布全新Agent架构】财联社10月31日电，DeepSeek Harness 团队10月31日晚在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的Agent 系统》。\n\nDeepSeek表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog等思路，DeepSeek团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。\n\nDeepSeek把这种Agent形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部Super-agent实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness自身的迭代。当团队成员在群聊中反馈软件问题时，即使没有人主动@ AI，它也能识别潜在缺陷，在后台尝试复现问题、寻找修复方案。 （第一财经）",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "",
+   "user_id": 638,
+   "is_top": 0,
+   "brief": "【DeepSeek发布全新Agent架构】财联社10月31日电，DeepSeek Harness 团队10月31日晚在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的Agent 系统》。\n\nDeepSeek表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog等思路，DeepSeek团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体",
+   "id": 2521643,
+   "ctime": 1793457417,
+   "type": -1,
+   "title": "DeepSeek发布全新Agent架构",
+   "bold": 0,
+   "sort_score": 1793457417,
+   "comment_num": 0,
+   "modified_time": 1793458037,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2521643?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 1132,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2521643,
+     "subject_id": 1321,
+     "subject_name": "人工智能",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 73139,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 207,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2521643,
+     "subject_id": 1302,
+     "subject_name": "国产软件",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 22950,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 200,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261031/224718DFwZXLLuFlmW.mp3"
+   ],
+   "author": "第一财经",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 538153,
+   "content": "【英伟达披露下一代CPO技术 原型样品已就位】财联社10月31日电，英伟达近日在SEMICON West 2026上公开展示了下一代共封装光学（CPO）技术，名为OOI（Optics‑on‑Interposer，中介层上集成光学）。不同于现有CPO方案，OOI选择拿下有机封装基板，将光引擎直接集成到承载GPU的硅中介层之上，把光电转换环节进一步向芯片内核靠拢，为下一代超大规模AI集群提供全新互联思路。据英伟达研究院首席研究科学家尼古拉•内多维奇（Nikola Nedovic）介绍，该方案以更大面积的中介层取代现行有机封装基板，目前英伟达已拿到原型样品。OOI目前仍处于研究阶段，暂无商业化时间表。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "",
+   "user_id": 638,
+   "is_top": 0,
+   "brief": "【英伟达披露下一代CPO技术 原型样品已就位】财联社10月31日电，英伟达近日在SEMICON West 2026上公开展示了下一代共封装光学（CPO）技术，名为OOI（Optics‑on‑Interposer，中介层上集成光学）。不同于现有CPO方案，OOI选择拿下有机封装基板，将光引擎直接集成到承载GPU的硅中介层之上，把光电转换环节进一步向芯片内核靠拢，为下一代超大规模AI集群提供全新互联思路。据英伟达研究院首席研究科学家尼古拉•内多维奇（Nikola Nedovic）介绍，该方案以更大面积的中介层取代现行有机封装基板，目前英伟达已拿到原型样品。",
+   "id": 2521640,
+   "ctime": 1793455963,
+   "type": -1,
+   "title": "英伟达披露下一代CPO技术 原型样品已就位",
+   "bold": 0,
+   "sort_score": 1793455963,
+   "comment_num": 0,
+   "modified_time": 1793457291,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2521640?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 2239,
+   "sub_titles": [
+    {
+     "article_id": "2521558",
+     "name": "英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位",
+     "schema": "cailianshe://article_detail?article_id=2521558",
+     "external_link": "",
+     "img": "https://image.cls.cn/img/vcg/VCG111678361460_c72ed33159f44b468c0b7633f47d64ed_1793436527.jpeg",
+     "ctime": 1793437141,
+     "author": "",
+     "brief": "",
+     "type": 0,
+     "reading_num": 0,
+     "level": "",
+     "channel": "cls,stib"
+    }
+   ],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2521640,
+     "subject_id": 1321,
+     "subject_name": "人工智能",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 73139,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 207,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2521640,
+     "subject_id": 1279,
+     "subject_name": "半导体芯片",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 106283,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 457,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2521640,
+     "subject_id": 10407,
+     "subject_name": "CPO",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 10200,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 1937,
+     "channel": "stib,cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261031/223452S1Gs5YY2PG5W.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 678552,
+   "content": "【10月31日周六《新闻联播》要闻18条】财联社10月31日电，今天《新闻联播》主要内容有：\n1、【学习贯彻党的二十届五中全会精神】走在前作表率 奋力谱写持之以恒推进全面从严治党新篇章；\n2、人民日报评论员文章：坚持服务党的使命任务——论学习贯彻党的二十届五中全会精神；\n3、算力网加速织就 助力数字中国建设；\n4、外资企业加快在中国建设全球创新枢纽；\n5、我国找矿行动取得一批较好成果；\n6、我国月球探测工程登月阶段任务扎实推进；\n7、第140届广交会第三期今天开展；\n8、前三季度全国可再生能源发电量同比增长约8%；\n9、一批国家标准11月1日起实施；\n10、我国进一步健全社会组织退出机制；\n11、全球最大规模液态空气储能国家示范项目并网发电；\n12、我国开展水资源调度的跨省江河达89条；\n13、姚家平水利枢纽工程今天实现大江截流；\n14、山东海阳核电项目三期工程开工建设；\n15、2026中国航空产业大会在江西南昌开幕；\n16、国际人士：二十届五中全会展现中国共产党全面从严治党的信心和决心；\n17、俄称筹备会谈不代表俄承诺限制军事行动；\n18、加拿大欧盟启动构建“未来联盟”。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "",
+   "user_id": 638,
+   "is_top": 0,
+   "brief": "【10月31日周六《新闻联播》要闻18条】财联社10月31日电，今天《新闻联播》主要内容有：\n1、【学习贯彻党的二十届五中全会精神】走在前作表率 奋力谱写持之以恒推进全面从严治党新篇章；\n2、人民日报评论员文章：坚持服务党的使命任务——论学习贯彻党的二十届五中全会精神；\n3、算力网加速织就 助力数字中国建设；\n4、外资企业加快在中国建设全球创新枢纽；\n5、我国找矿行动取得一批较好成果；\n6、我国月球探测工程登月阶段任务扎实推进；\n7、第140届广交会第三期今天开展；\n8、前三季度全国可再生能源发电量同比增长约8%；\n9、一批国家标准11月1日起实施；\n10、我国进一步健全社会组织退出机制；\n1",
+   "id": 2521602,
+   "ctime": 1793447887,
+   "type": -1,
+   "title": "10月31日周六《新闻联播》要闻18条",
+   "bold": 0,
+   "sort_score": 1793447887,
+   "comment_num": 0,
+   "modified_time": 1793447887,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2521602?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 629,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2521602,
+     "subject_id": 1134,
+     "subject_name": "新闻联播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 33212,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261031/195808gOaJRXjzMpJ6.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 872828,
+   "content": "【伊朗最高领袖：要对敌方威胁立即采取有效应对措施】财联社10月31日电，伊朗最高领袖穆杰塔巴·哈梅内伊当地时间10月31日向伊朗武装部队高级指挥官下达命令。穆杰塔巴表示，将“做好充分战备准备与敌人进行强有力的对抗”视为伊朗“最大威慑”的要求之一，必须立即采取有效应对措施，不受地域限制，以应对任何级别和类型的威胁。穆杰塔巴指出，如果敌人再次发动军事或恐怖袭击，伊朗武装部队和伊朗人民将决定何时以及在何种条件下结束战争。穆杰塔巴还强调，要加强军事信息架构，深化“理论”和“战术”两大领域的本土防御，利用新技术提升国防和安全能力。另一项措施是，决定更新目标库，使美以敌人的各种有形和无形资产都处于伊朗武装部队的打击范围之内。 （央视新闻）",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "",
+   "user_id": 638,
+   "is_top": 0,
+   "brief": "【伊朗最高领袖：要对敌方威胁作出立即有力回应】财联社10月31日电，伊朗最高领袖穆杰塔巴10月31日在社交媒体上发文说，要对任何敌方威胁作出立即、有力且“不受地理限制的回应”。穆杰塔巴当天会见三名伊朗武装力量高级指挥官时作出上述表态。",
+   "id": 2521595,
+   "ctime": 1793443254,
+   "type": -1,
+   "title": "伊朗最高领袖：要对敌方威胁立即采取有效应对措施",
+   "bold": 0,
+   "sort_score": 1793443254,
+   "comment_num": 14,
+   "modified_time": 1793443787,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2521595?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 348,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2521595,
+     "subject_id": 10986,
+     "subject_name": "中东冲突",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 53286,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261031/184948yQZoMMDBbzbm.mp3"
+   ],
+   "author": "央视新闻",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 1079760,
+   "content": "【原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查】财联社10月31日电，中央纪委国家监委网站10月31日通报，原中国石油化工集团公司党组书记、董事长傅成玉涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "https://image.cls.cn/images/20261031/bvZ34wjN0b_1282x425.png",
+   "user_id": 638,
+   "is_top": 0,
+   "brief": "【原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查】财联社10月31日电，原中国石油化工集团公司党组书记、董事长傅成玉涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
+   "id": 2521566,
+   "ctime": 1793439028,
+   "type": -1,
+   "title": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查",
+   "bold": 0,
+   "sort_score": 1793439028,
+   "comment_num": 1,
+   "modified_time": 1793439244,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2521566?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 899,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261031/bvZ34wjN0b_1282x425.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2521566,
+     "subject_id": 9845,
+     "subject_name": "纪委动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 9755,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261031/173405tgDLo02P1R72.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 1150748,
+   "content": "【近40家A股上市公司三季度获中国国新、中国诚通新进或增仓】财联社10月31日电，据财联社不完全统计，截至发稿，云路股份、中材国际、国博电子、华大九天、国睿科技、中国动力、华能蒙电、时代电气、中瓷电子、中航光电、中金黄金、云铝股份、国电南瑞、国机精工、光迅科技、有研新材、东方钽业、福能股份、中国神华、海光信息、五矿发展、烽火通信、中航沈飞、华能水电、中国船舶、中国电信、中国中车、中远海控、中国卫通、中国石化、中国石油、中国铝业、中国巨石、中国联通、招商轮船、华润微、长电科技、中煤能源、中船特气在内的多家上市公司三季度A股获中国国新、中国诚通两大国有资本运营公司新进或增仓。其中，国新投资Q3新进成为烽火通信第七大股东，新进成为五矿发展第三大股东；国新宏盛Q3新进成为中国船舶第八大股东。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261031/3jOgTUesvf_810x999.png",
+   "user_id": 708,
+   "is_top": 0,
+   "brief": "【近40家A股上市公司三季度获中国国新、中国诚通新进或增仓】财联社10月31日电，据财联社不完全统计，截至发稿，云路股份、中材国际、国博电子、华大九天、国睿科技、中国动力、华能蒙电、时代电气、中瓷电子、中航光电、中金黄金、云铝股份、国电南瑞、国机精工、光迅科技、有研新材、东方钽业、福能股份、中国神华、海光信息、五矿发展、烽火通信、中航沈飞、华能水电、中国船舶、中国电信、中国中车、中远海控、中国卫通、中国石化、中国石油、中国铝业、中国巨石、中国联通、招商轮船、华润微、长电科技、中煤能源、中船特气在内的多家上市公司三季度A股获中国国新、中国诚通两大国有资本运营公司新进或增仓。其中，国新投资Q3新进",
+   "id": 2521561,
+   "ctime": 1793437417,
+   "type": -1,
+   "title": "近40家A股上市公司三季度获中国国新、中国诚通新进或增仓",
+   "bold": 0,
+   "sort_score": 1793437417,
+   "comment_num": 68,
+   "modified_time": 1793437485,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2521561?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 1294,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261031/3jOgTUesvf_810x999.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": -0.0372,
+     "RiseRange": -3.72,
+     "name": "时代电气",
+     "StockID": "sh688187",
+     "schema": "cailianshe://stock_detail?stock_id=sh688187",
+     "status": "L",
+     "last": 44.05,
+     "is_stib": true
+    },
+    {
+     "rise_range_has_null": -0.0122,
+     "RiseRange": -1.22,
+     "name": "中航光电",
+     "StockID": "sz002179",
+     "schema": "cailianshe://stock_detail?stock_id=sz002179",
+     "status": "L",
+     "last": 33.14,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0506,
+     "RiseRange": -5.06,
+     "name": "有研新材",
+     "StockID": "sh600206",
+     "schema": "cailianshe://stock_detail?stock_id=sh600206",
+     "status": "L",
+     "last": 31.92,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0729,
+     "RiseRange": -7.29,
+     "name": "中瓷电子",
+     "StockID": "sz003031",
+     "schema": "cailianshe://stock_detail?stock_id=sz003031",
+     "status": "L",
+     "last": 80.3,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0142,
+     "RiseRange": 1.42,
+     "name": "中国铝业",
+     "StockID": "sh601600",
+     "schema": "cailianshe://stock_detail?stock_id=sh601600",
+     "status": "L",
+     "last": 8.55,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0021,
+     "RiseRange": 0.21,
+     "name": "中航沈飞",
+     "StockID": "sh600760",
+     "schema": "cailianshe://stock_detail?stock_id=sh600760",
+     "status": "L",
+     "last": 47.65,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0559,
+     "RiseRange": -5.59,
+     "name": "中国巨石",
+     "StockID": "sh600176",
+     "schema": "cailianshe://stock_detail?stock_id=sh600176",
+     "status": "L",
+     "last": 27.68,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0254,
+     "RiseRange": -2.54,
+     "name": "五矿发展",
+     "StockID": "sh600058",
+     "schema": "cailianshe://stock_detail?stock_id=sh600058",
+     "status": "L",
+     "last": 8.05,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0332,
+     "RiseRange": -3.32,
+     "name": "中金黄金",
+     "StockID": "sh600489",
+     "schema": "cailianshe://stock_detail?stock_id=sh600489",
+     "status": "L",
+     "last": 19.23,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0108,
+     "RiseRange": 1.08,
+     "name": "中国中车",
+     "StockID": "sh601766",
+     "schema": "cailianshe://stock_detail?stock_id=sh601766",
+     "status": "L",
+     "last": 6.55,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0844,
+     "RiseRange": -8.44,
+     "name": "海光信息",
+     "StockID": "sh688041",
+     "schema": "cailianshe://stock_detail?stock_id=sh688041",
+     "status": "L",
+     "last": 170.2,
+     "is_stib": true
+    },
+    {
+     "rise_range_has_null": 0.0072,
+     "RiseRange": 0.71999997,
+     "name": "中国神华",
+     "StockID": "sh601088",
+     "schema": "cailianshe://stock_detail?stock_id=sh601088",
+     "status": "L",
+     "last": 51.99,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.015,
+     "RiseRange": 1.5,
+     "name": "福能股份",
+     "StockID": "sh600483",
+     "schema": "cailianshe://stock_detail?stock_id=sh600483",
+     "status": "L",
+     "last": 10.81,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.118,
+     "RiseRange": -11.8,
+     "name": "华大九天",
+     "StockID": "sz301269",
+     "schema": "cailianshe://stock_detail?stock_id=sz301269",
+     "status": "L",
+     "last": 86.17,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0023,
+     "RiseRange": -0.23,
+     "name": "中国联通",
+     "StockID": "sh600050",
+     "schema": "cailianshe://stock_detail?stock_id=sh600050",
+     "status": "L",
+     "last": 4.39,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.006,
+     "RiseRange": -0.6,
+     "name": "国电南瑞",
+     "StockID": "sh600406",
+     "schema": "cailianshe://stock_detail?stock_id=sh600406",
+     "status": "L",
+     "last": 23.16,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0722,
+     "RiseRange": -7.2200003,
+     "name": "华润微",
+     "StockID": "sh688396",
+     "schema": "cailianshe://stock_detail?stock_id=sh688396",
+     "status": "L",
+     "last": 45.12,
+     "is_stib": true
+    },
+    {
+     "rise_range_has_null": 0.011,
+     "RiseRange": 1.1,
+     "name": "中国石油",
+     "StockID": "sh601857",
+     "schema": "cailianshe://stock_detail?stock_id=sh601857",
+     "status": "L",
+     "last": 13.84,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0019,
+     "RiseRange": -0.19,
+     "name": "华能水电",
+     "StockID": "sh600025",
+     "schema": "cailianshe://stock_detail?stock_id=sh600025",
+     "status": "L",
+     "last": 10.69,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0498,
+     "RiseRange": 4.98,
+     "name": "中国石化",
+     "StockID": "sh600028",
+     "schema": "cailianshe://stock_detail?stock_id=sh600028",
+     "status": "L",
+     "last": 5.9,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0393,
+     "RiseRange": -3.9299998,
+     "name": "云路股份",
+     "StockID": "sh688190",
+     "schema": "cailianshe://stock_detail?stock_id=sh688190",
+     "status": "L",
+     "last": 60.21,
+     "is_stib": true
+    },
+    {
+     "rise_range_has_null": -0.0139,
+     "RiseRange": -1.39,
+     "name": "中国船舶",
+     "StockID": "sh600150",
+     "schema": "cailianshe://stock_detail?stock_id=sh600150",
+     "status": "L",
+     "last": 33.39,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0702,
+     "RiseRange": 7.0200005,
+     "name": "中远海控",
+     "StockID": "sh601919",
+     "schema": "cailianshe://stock_detail?stock_id=sh601919",
+     "status": "L",
+     "last": 17.84,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0613,
+     "RiseRange": -6.1299996,
+     "name": "烽火通信",
+     "StockID": "sh600498",
+     "schema": "cailianshe://stock_detail?stock_id=sh600498",
+     "status": "L",
+     "last": 26.18,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0069,
+     "RiseRange": 0.69,
+     "name": "中材国际",
+     "StockID": "sh600970",
+     "schema": "cailianshe://stock_detail?stock_id=sh600970",
+     "status": "L",
+     "last": 7.32,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0303,
+     "RiseRange": 3.03,
+     "name": "招商轮船",
+     "StockID": "sh601872",
+     "schema": "cailianshe://stock_detail?stock_id=sh601872",
+     "status": "L",
+     "last": 17.71,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0239,
+     "RiseRange": -2.39,
+     "name": "国睿科技",
+     "StockID": "sh600562",
+     "schema": "cailianshe://stock_detail?stock_id=sh600562",
+     "status": "L",
+     "last": 26.97,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0558,
+     "RiseRange": -5.58,
+     "name": "国机精工",
+     "StockID": "sz002046",
+     "schema": "cailianshe://stock_detail?stock_id=sz002046",
+     "status": "L",
+     "last": 51.93,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0029,
+     "RiseRange": 0.29,
+     "name": "中国电信",
+     "StockID": "sh601728",
+     "schema": "cailianshe://stock_detail?stock_id=sh601728",
+     "status": "L",
+     "last": 7.01,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0318,
+     "RiseRange": -3.1800003,
+     "name": "中国动力",
+     "StockID": "sh600482",
+     "schema": "cailianshe://stock_detail?stock_id=sh600482",
+     "status": "L",
+     "last": 29.79,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0114,
+     "RiseRange": 1.14,
+     "name": "华能蒙电",
+     "StockID": "sh600863",
+     "schema": "cailianshe://stock_detail?stock_id=sh600863",
+     "status": "L",
+     "last": 5.33,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0556,
+     "RiseRange": -5.56,
+     "name": "中船特气",
+     "StockID": "sh688146",
+     "schema": "cailianshe://stock_detail?stock_id=sh688146",
+     "status": "L",
+     "last": 127.5,
+     "is_stib": true
+    },
+    {
+     "rise_range_has_null": -0.0155,
+     "RiseRange": -1.55,
+     "name": "中煤能源",
+     "StockID": "sh601898",
+     "schema": "cailianshe://stock_detail?stock_id=sh601898",
+     "status": "L",
+     "last": 13.94,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0867,
+     "RiseRange": -8.67,
+     "name": "光迅科技",
+     "StockID": "sz002281",
+     "schema": "cailianshe://stock_detail?stock_id=sz002281",
+     "status": "L",
+     "last": 102.6,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.061,
+     "RiseRange": -6.1,
+     "name": "东方钽业",
+     "StockID": "sz000962",
+     "schema": "cailianshe://stock_detail?stock_id=sz000962",
+     "status": "L",
+     "last": 36.34,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0663,
+     "RiseRange": -6.6299996,
+     "name": "国博电子",
+     "StockID": "sh688375",
+     "schema": "cailianshe://stock_detail?stock_id=sh688375",
+     "status": "L",
+     "last": 59.69,
+     "is_stib": true
+    },
+    {
+     "rise_range_has_null": -0.0494,
+     "RiseRange": -4.94,
+     "name": "中国卫通",
+     "StockID": "sh601698",
+     "schema": "cailianshe://stock_detail?stock_id=sh601698",
+     "status": "L",
+     "last": 21.96,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": 0.0108,
+     "RiseRange": 1.08,
+     "name": "云铝股份",
+     "StockID": "sz000807",
+     "schema": "cailianshe://stock_detail?stock_id=sz000807",
+     "status": "L",
+     "last": 25.36,
+     "is_stib": false
+    },
+    {
+     "rise_range_has_null": -0.0553,
+     "RiseRange": -5.53,
+     "name": "长电科技",
+     "StockID": "sh600584",
+     "schema": "cailianshe://stock_detail?stock_id=sh600584",
+     "status": "L",
+     "last": 49,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2521561,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 239858,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2521561,
+     "subject_id": 10426,
+     "subject_name": "A股上市公司业绩巡礼",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 10901,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261031/170445Wg2hdfJ2rzXt.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 2253934,
+   "content": "【国家统计局：10月份制造业采购经理指数（PMI）为49.3%】财联社10月31日电，国家统计局数据显示，10月份，制造业采购经理指数（PMI）为49.3%，比上月下降0.8个百分点，制造业景气水平有所回落。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "",
+   "user_id": 639,
+   "is_top": 0,
+   "brief": "【国家统计局：10月份制造业采购经理指数（PMI）为49.3%】财联社10月31日电，国家统计局数据显示，10月份，制造业采购经理指数（PMI）为49.3%，比上月下降0.8个百分点，制造业景气水平有所回落。",
+   "id": 2521439,
+   "ctime": 1793410288,
+   "type": -1,
+   "title": "国家统计局：10月份制造业采购经理指数（PMI）为49.3%",
+   "bold": 0,
+   "sort_score": 1793410288,
+   "comment_num": 12,
+   "modified_time": 1793410401,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2521439?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 847,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2521439,
+     "subject_id": 1225,
+     "subject_name": "经济数据及解读",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 37864,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261031/093321dcYegHmPBSSi.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  }
+ ],
+ "recap": {
+  "date": "2026-10-30",
+  "stats": {
+   "涨停": 47,
+   "跌停": 82,
+   "上涨": 892,
+   "下跌": 4602,
+   "实际涨停": 47,
+   "实际跌停": 82,
+   "市场人气": "市场人气低迷"
+  },
+  "ladder": {
+   "首板": 38,
+   "2板": 7,
+   "3板": 3,
+   "高度板": 1,
+   "总计": 49,
+   "连板率": 20.7
+  },
+  "sectors": [
+   {
+    "name": "三季报增长",
+    "count": 9,
+    "stocks": [
+     {
+      "code": "000897",
+      "name": "津滨发展",
+      "board": "首板",
+      "concept": "破净股概念、地方国企",
+      "reason": "三季报增长+房地产；1. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：1.23亿元，同比上年增长：575.78%。\r\n\r\n2. 房地产：据2026年9月3日投资者关系活动记录表，公司主营业务为房地产开发，未来两到三年主要业绩贡献来自梅江项目、津和泰诚项目、滨和泰达项目、泰城联创项目、泰嘉宸筑项目，公司将按照项目开发计划及时完成结算。"
+     },
+     {
+      "code": "605169",
+      "name": "洪通燃气",
+      "board": "首板",
+      "concept": "新疆、天然气",
+      "reason": "三季报增长+天然气；1. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：2.05亿元，同比上年增长：121.60%。\r\n\r\n2. 天然气：据2026年半年报，公司主营业务为LNG、CNG的生产、加工、储运和销售；公司拥有3座LNG液化工厂，具备年产50万吨LNG加工产能，运营6座CNG母站，拥有日充装150万方CNG的生产能力。"
+     },
+     {
+      "code": "603029",
+      "name": "天鹅股份",
+      "board": "首板",
+      "concept": "棉花、新疆",
+      "reason": "三季报增长+供销社；1. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：6737.80万元，同比上年增长：28.59%。\r\n\r\n2. 供销社：据2026年半年报，山东省供销集团有限公司持有公司7085.68万股，持股比例58.39%。"
+     },
+     {
+      "code": "001287",
+      "name": "中电港",
+      "board": "首板",
+      "concept": "中字头、国有企业",
+      "reason": "三季报增长+存储；1. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：11.84亿元，同比上年增长：359.77%。\r\n\r\n2. 存储：据2026年10月29日晚公告，中电港营业收入变动主要系全球存储行业迎来阶段性爆发式增长，存储芯片价格持续上涨。"
+     },
+     {
+      "code": "000525",
+      "name": "红太阳",
+      "board": "首板",
+      "concept": "保健品、NMN",
+      "reason": "三季报增长+农药；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 三季报增长：10月23日晚公告，2026年1-9月归属上市公司股东的净利润：6157.82万元，同比上年增长：122.68%。\r\n\r\n2. 农药：据2026年半年报，红太阳股份是一家由云南曲靖国资控股的深市主板上市公司，主营业务覆盖绿色环保农药、三药中间体的研发、生产、销售及技术服务，并已构建从“基础原材料—关键中间体—原药研发生产—制剂加工—国内外终端销售”核心竞争力优势，产品畅销全球。"
+     },
+     {
+      "code": "000410",
+      "name": "沈阳机床",
+      "board": "首板",
+      "concept": "振兴东北、国有企业",
+      "reason": "三季报增长+工业母机；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 三季报增长：据2026年10月29日晚三季度报告，公司第三季度归属于上市公司股东的净利润同比增长121.57%，扣除非经常性损益的净利润同比增长91.56%，基本每股收益同比增长119.28%；研发费用同比增长37.80%\r\n\r\n2. 工业母机：据2026年9月11日投资者关系活动记录表，沈阳机床已成长为中国最大的中高端数控机床研发生产基地，主导产品涵盖五轴联动数控机床等全系列产品，公司立足工业母机产业定位，聚焦高端化突破与国产化替代。"
+     },
+     {
+      "code": "601083",
+      "name": "锦江航运",
+      "board": "首板",
+      "concept": "高股息精选、航运",
+      "reason": "三季报增长+航运；1. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：12.27亿元，同比上年增长：3.54%。\r\n\r\n2. 航运：据2026年10月29日晚公告，锦江航运2026年8月全新开设华南—印尼航线、华东华南—印巴航线，继续扩容东南亚及南亚区域航线服务能级；截至报告期末总运力达6.6万标准箱，同比增加0.7万标准箱；1-9月完成集装箱承运总箱量217.22万标准箱。"
+     },
+     {
+      "code": "000676",
+      "name": "智度股份",
+      "board": "首板",
+      "concept": "香港牌照、业绩增长",
+      "reason": "三季报增长+AI营销；1. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：2.42亿元，同比上年增长：102.48%。\r\n\r\n2. AI营销：据2026年半年报，公司深耕行业多年，已构建高竞争力的互联网流量经营平台，长期深度合作Meta、谷歌、雅虎、必应、亚马逊、百度等海内外头部媒体；公司移动端流量入口业务通过广告展示、搜索、应用聚合等形式，向谷歌、Meta、雅虎等全球知名企业提供精准流量变现服务。"
+     },
+     {
+      "code": "002652",
+      "name": "扬子新材",
+      "board": "首板",
+      "concept": "病毒防治、医疗器械",
+      "reason": "三季报增长+洁净室；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”等谐音yang的个股频频异动。\r\n\r\n1. 三季报增长：据2026年10月29日晚公告，扬子新材2026年第三季度营业收入同比增长41.50%，年初至报告期末同比增长30.55%，主要系公司报告期内销量增加所致；归属于上市公司股东的净利润较上年同期减亏58.72%，扣除非经常性损益的净利润减亏59.20%\r\n\r\n2. 洁净室：据2026年8月13日互动易，公司的主要产品包括高洁净彩涂板、抗静电彩涂板、高韧耐污彩涂板等，主要用于集成电路厂房、医疗场所等建设项目，下游主要客户为净化及洁净类公司"
+     }
+    ]
+   },
+   {
+    "name": "食品饮料",
+    "count": 6,
+    "stocks": [
+     {
+      "code": "001219",
+      "name": "青岛食品",
+      "board": "5连板",
+      "concept": "食品饮料、地方国企",
+      "reason": "食品饮料+实控人变更；1. 食品饮料：据2026年半年报，青岛食品主要从事饼干、花生酱及休闲食品的研发、生产及销售，“青食”商标为“中华老字号”，在巩固钙奶饼干核心业务的同时持续探索“第二增长曲线”。\r\n\r\n2. 实控人变更：据2026年10月28日晚公告，控股股东华通集团正筹划将其持有的5701.76万股（占总股本29.24%）以非公开协议方式转让给青岛啤酒集团，协议尚未签署，交易价格等核心条款仍在论证磋商。交易完成后，青啤集团将成为控股股东，公司实际控制人由华通集团变更为青岛市国资委。"
+     },
+     {
+      "code": "000716",
+      "name": "黑芝麻",
+      "board": "首板",
+      "concept": "食品饮料、种植业",
+      "reason": "食品饮料+三季报增长；1. 食品饮料：据2026年半年报，公司所属行业和主要产品为食品业、电商业，主要产品为黑芝麻糊类食品、黑芝麻饮品、富硒食品、糖果饼干类；公司主营业务主要包括冲饮食品业务、黑色休闲食品业务、黑色饮品（粥）类业务、大米加工业务、电商业务等。\r\n\r\n2. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：6790.12万元，同比上年增长：895.72%。"
+     },
+     {
+      "code": "600189",
+      "name": "泉阳泉  ",
+      "board": "首板",
+      "concept": "食品饮料、远东开发",
+      "reason": "食品饮料+三季报增长；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 食品饮料：据2026年10月26日晚公告，公司本报告期矿泉水业务销量同比增加，矿泉水板块销量同比增加带动整体利润规模上升。\r\n\r\n2. 三季报增长：10月26日晚公告，2026年1-9月归属上市公司股东的净利润：4686.50万元，同比上年增长：89.94%。"
+     },
+     {
+      "code": "002582",
+      "name": "好想你",
+      "board": "首板",
+      "concept": "啤酒、酿酒",
+      "reason": "食品饮料+三季报增长；1. 食品饮料：据2026年10月29日晚公告，2026年1-9月，好想你产品销售收入9.60亿元，增幅约7%，其中糯香枣项目（去皮去核枣、三蒸三制枣、黑金枣）实现销售收入1.30亿元，同比增长0.47亿元，增幅约56%。\r\n\r\n2. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：11.70亿元，同比上年增长：24939.49%。"
+     },
+     {
+      "code": "605338",
+      "name": "巴比食品",
+      "board": "2连板",
+      "concept": "高股息精选、食品饮料",
+      "reason": "食品饮料+三季报增长；1. 食品饮料：据2026年9月4日投资者关系活动记录表，巴比食品现有上海、南京、东莞、天津、武汉五大鲜食中央厨房布局，整体产能能够满足当前业务需要。\r\n\r\n2. 三季报增长：10月28日晚公告，2026年1-9月归属上市公司股东的净利润：2.12亿元，同比上年增长：5.12%。"
+     },
+     {
+      "code": "002946",
+      "name": "新乳业",
+      "board": "首板",
+      "concept": "乳业、食品饮料",
+      "reason": "乳业+三季报增长；1. 乳业：据2026年半年报，公司坚持“鲜立方战略”为核心，聚焦低温鲜奶与特色酸奶主导品类，通过持续产品创新与“八鲜”全链路保障体系夯实“鲜价值”优势。\r\n\r\n2. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：7.05亿元，同比上年增长：13.23%。"
+     }
+    ]
+   },
+   {
+    "name": "医药",
+    "count": 6,
+    "stocks": [
+     {
+      "code": "002365",
+      "name": "永安药业",
+      "board": "首板",
+      "concept": "保健品、维生素",
+      "reason": "医药+三季报增长；1. 医药：据2026年9月7日互动易，公司在回复投资者时表示，牛磺酸在医药领域的应用占比相对较小，目前主要应用于食品、饮料、饲料行业；牛磺酸在中医药领域已有一定的应用基础，在《中国药典》中，人工牛黄的成分中含有牛磺酸。\r\n\r\n2. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：1.14亿元，同比上年增长：348.81%。"
+     },
+     {
+      "code": "002275",
+      "name": "桂林三金",
+      "board": "2连板",
+      "concept": "中药、创新药",
+      "reason": "中药+业绩增长；1. 中药：据2026年半年报，公司主要业务为中成药的研发、制造与销售，同时涵盖化学药、生物药、日化健康与大健康等多个细分行业，在咽喉、口腔、泌尿系统中成药用药领域已形成较强的专业和市场优势，代表产品三金牌西瓜霜系列、三金片成为全国同类中成药的前列品牌。\r\n\r\n2. 业绩增长：据2026年10月28日公告，桂林三金第三季度归属于上市公司股东的净利润1.14亿元，同比增长15.52%；扣除非经常性损益的净利润1.09亿元，同比增长25.35%；基本每股收益0.19元，同比增长11.76%"
+     },
+     {
+      "code": "600285",
+      "name": "羚锐制药",
+      "board": "首板",
+      "concept": "中药、高股息精选",
+      "reason": "中药+三季报增长；1. 中药：据2026年半年报，羚锐制药拥有橡胶膏剂、片剂、胶囊剂、软膏剂、喷雾剂等十余种剂型、百余种产品；通络祛痛膏为独家品种、中药保护品种、国家基药品种、国家医保品种；公司依托河南省中药现代化产业研究院等科研平台推进新产品研发。\r\n\r\n2. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：7.19亿元，同比上年增长：10.43%。"
+     },
+     {
+      "code": "603233",
+      "name": "大参林  ",
+      "board": "首板",
+      "concept": "高股息精选、医药零售",
+      "reason": "医药零售+三季报增长；1. 医药零售：据2026年10月29日晚公告，公司拥有门店19,791家（含加盟店8,615家），2026年1-9月净增门店2,033家，其中新开门店421家，收购门店488家，加盟店1,325家，关闭门店201家。\r\n\r\n2. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：12.71亿元，同比上年增长：17.56%。"
+     },
+     {
+      "code": "301520",
+      "name": "万邦医药",
+      "board": "首板",
+      "concept": "CRO、减肥药",
+      "reason": "医药(CRO)；据2026年半年报，公司是一家提供药学和临床研究一站式服务的综合型医疗健康CRO企业，通过合同形式为制药企业等研发机构提供专业研发外包服务，是国内较早提供药物研发和临床研究服务的CRO企业之一，报告期内，公司完成对赛德盛75.52%股权的收购，进一步完善了创新药临床试验运营、注册申报及独立第三方稽查等业务链条。"
+     },
+     {
+      "code": "600721",
+      "name": "百花医药",
+      "board": "首板",
+      "concept": "CRO、肝炎概念",
+      "reason": "医药(CRO)；据2026年9月4日投资者关系活动记录表，公司作为依托药学研究、临床试验及生物分析检测一体化CRO服务企业，业务覆盖新药早期发现与筛选、药物CMC开发、临床试验、注册申报等全链条，并推动业务结构向高端、难仿、复杂制剂等高附加值领域延伸。"
+     }
+    ]
+   },
+   {
+    "name": "机器人概念",
+    "count": 5,
+    "stocks": [
+     {
+      "code": "003032",
+      "name": "传智教育",
+      "board": "2连板",
+      "concept": "业绩增长、三季报增长",
+      "reason": "机器人概念+三季报增长；1. 机器人概念：据2026年半年报，传智教育以“黑马程序员”“博学谷”为平台开展AI具身智能机器人开发、AI嵌入式+机器人开发等课程；2026年7月，公司举办具身智能课程与硬件产品专场发布会，推出完整闭环式具身智能人才培养解决方案，并同步发布6款分层教学机器人硬件。\r\n\r\n2. 三季报增长：10月28日晚公告，2026年1-9月归属上市公司股东的净利润：7769.71万元，同比上年增长：1012.67%。"
+     },
+     {
+      "code": "688045",
+      "name": "必易微  ",
+      "board": "3天2板",
+      "concept": "业绩增长、三季报增长",
+      "reason": "机器人概念+三季报增长；1. 机器人概念：据2026年3月18日投资者关系活动记录表，公司持续布局机器人领域，各类机器人都已有客户导入和出货：家用机器人出货ACDC、磁传感器、电机驱动，2025年出货金额约500-600万元；工业机器人出货电流传感器、磁传感器、电机驱动，出货金额约300-500万元；人形机器人的磁传感器、磁编码器已小批量出货\r\n\r\n2. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：8849.24万元，同比上年增长：3268.37%。"
+     },
+     {
+      "code": "600215",
+      "name": "派斯林  ",
+      "board": "首板",
+      "concept": "底盘、物业服务",
+      "reason": "机器人概念+业绩增长；1. 机器人概念：据2026年半年报，派斯林已构建起覆盖工业机器人系统集成全生命周期的完善技术能力矩阵，覆盖方案设计、技术研发、生产制造、系统集成及现场调试等关键环节\r\n\r\n2. 业绩增长：据2026年10月29日晚公告，派斯林2026年第三季度营业收入同比增长127.75%，主要原因是北美市场订单增长、收入增加；净利润变动的主要原因是北美市场订单增长，收入及毛利增加，公司同时加强费用管控、期间费用下降。"
+     },
+     {
+      "code": "301187",
+      "name": "欧圣电气",
+      "board": "首板",
+      "concept": "储气罐、养老概念",
+      "reason": "机器人概念+业绩增长；1. 机器人概念：据2026年5月11日投资者关系活动记录表，欧圣电气在原有设备销售模式之外，又推出以护理机器人导入为核心的专属养老服务运营模式，目前该模式已在苏州吴江多家养老试点机构运营，今年公司将在上海及江浙沪区域推广复制该模式。\r\n\r\n2. 业绩增长：据2026年10月29日晚公告，苏州欧圣电气股份有限公司本报告期营业收入同比增长6.02%，年初至报告期末营业收入同比增长35.18%，主要系经营业务活动增加；本报告期归属于上市公司股东的净利润同比增长314.11%，扣除非经常性损益的净利润同比增长207.95%。"
+     },
+     {
+      "code": "603273",
+      "name": "天元智能",
+      "board": "首板",
+      "concept": "水泥、装配式建筑",
+      "reason": "机器人概念+三季报增长；1. 机器人概念：据2026年半年报，公司子公司聚通领先（江苏）智能装备有限责任公司经营范围包括工业机器人制造、专用设备制造、工业自动控制系统装置制造，公司持股70%。\r\n\r\n2. 三季报增长：据2026年10月29日晚公告，公司2026年第三季度报告期内营业收入同比增长92.55%，年初至报告期末营业收入同比增长6.68%，主要系本报告期蒸压加气混凝土装备的成套生产线确认项目增加，同时工程机械客户的出货量较上年同期增长。"
+     }
+    ]
+   },
+   {
+    "name": "酿酒(白酒)",
+    "count": 4,
+    "stocks": [
+     {
+      "code": "603198",
+      "name": "迎驾贡酒",
+      "board": "首板",
+      "concept": "白酒、酿酒",
+      "reason": "白酒+三季报增长；1. 白酒：据2026年半年报，公司主要从事白酒的研发、生产和销售，主要白酒产品包括大师版、洞藏、贡酒、金银星系列、百年迎驾等系列，洞藏、贡酒系列是中国生态白酒的主要代表产品。\r\n\r\n2. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：15.75亿元，同比上年增长：4.25%。"
+     },
+     {
+      "code": "000596",
+      "name": "古井贡酒",
+      "board": "首板",
+      "concept": "白酒、酿酒",
+      "reason": "白酒+业绩增长；1. 白酒：据2026年半年报，公司主要从事白酒的生产和销售，古井贡酒是公司的主导产品，公司线上销售的主要产品为年份原浆系列、古井贡酒系列等产品，成品酒设计年产能为18万吨。\r\n\r\n2. 业绩增长：据2026年10月29日晚三季度报告，公司第三季度实现营业收入26.39亿元，同比增长3.69%。"
+     },
+     {
+      "code": "000995",
+      "name": "皇台酒业",
+      "board": "首板",
+      "concept": "白酒、酿酒",
+      "reason": "酿酒(白酒)；据2026年半年报，公司主要从事白酒酿造与销售，白酒产品包括皇台奔马系列（奔马天马、奔马龙马、奔马金马等）及窖底原浆系列。"
+     },
+     {
+      "code": "000568",
+      "name": "泸州老窖",
+      "board": "首板",
+      "concept": "啤酒、白酒",
+      "reason": "酿酒(白酒)；据2026年半年报，公司属酒、饮料和精制茶制造业中的白酒细分行业，以专业化白酒产品设计、生产、销售为主要经营模式，主要产品包括“国窖1573”“泸州老窖”等系列白酒，主要综合指标位于白酒行业前列；"
+     }
+    ]
+   },
+   {
+    "name": "其他",
+    "count": 4,
+    "stocks": [
+     {
+      "code": "002172",
+      "name": "澳洋健康",
+      "board": "3连板",
+      "concept": "中药、保健品",
+      "reason": "脑机接口+民营医院；10月30日马斯克在社交平台发文称，Neuralink首款产品Telepathy只需通过思考，就能实现与计算机或人类的超高速沟通。第二款产品Blindsight将使完全失明或从未见过的人也能看见。\r\n2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 脑机接口：根据2026年5月10日澳洋健康官微：澳洋健康下属港城康复医院于5月8日揭牌港城首家“脑机接口智能康复病房”，携手西安臻泰围绕非侵入式脑机接口技术深度合作。\r\n\r\n2. 民营医院：据2026年半年报，公司医疗服务业务形成以澳洋医院总院为核心，澳洋医院三兴分院、顺康医院、港城康复医院、澳洋唯恩医美协同联动的专科化、集群化发展格局，总床位保持超1800张"
+     },
+     {
+      "code": "002088",
+      "name": "鲁阳节能",
+      "board": "首板",
+      "concept": "高股息精选、光热储能",
+      "reason": "非金属材料；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n非金属材料：据2026年半年报，公司具备年产约58万吨陶瓷纤维产品的生产能力，拥有山东、内蒙古、贵州陶瓷纤维生产基地，陶瓷纤维产能布局辐射全国。"
+     },
+     {
+      "code": "600510",
+      "name": "黑牡丹  ",
+      "board": "首板",
+      "concept": "破净股概念、养老概念",
+      "reason": "地产链(房地产)；据2026年8月25日公告，公司新型城镇化建设业务涵盖市政建设、商品房、工程施工、产业园区投建运、商业服务等，相关业务协同发展；在房地产领域重点攻坚存量去化，执行“一盘一策”及“一事一议”机制，报告期内签约面积5.03万㎡"
+     },
+     {
+      "code": "603200",
+      "name": "上海洗霸",
+      "board": "首板",
+      "concept": "钠电池、凝聚态电池",
+      "reason": "锂电池(固态电池)；据2026年10月29日公告，上海洗霸控股子公司上海科源固能新能源科技有限公司以定向增资方式引入投资者，并新设项目公司在浙江省丽水市缙云县实施0.5GWh固液混合电芯及500吨/年固态电解质粉体产业化项目，计划投资金额为1亿元"
+     }
+    ]
+   },
+   {
+    "name": "商业航天",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "600261",
+      "name": "阳光照明",
+      "board": "2连板",
+      "concept": "电解槽、参股券商",
+      "reason": "商业航天+LED；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 商业航天：据2026年半年报，公司使用自有资金3000万元参与蓝星光域（上海）航天科技有限公司融资，完成后持有其1.1%股权；蓝星光域专注于全场景激光通信解决方案，核心产品包括星载同轨/异轨激光通信终端、机载平流层激光通信终端等，主要应用于卫星间、星地间高速率通信。\r\n\r\n2. LED：据2026年半年报，公司主要从事照明电器的研发、生产和销售，并为客户提供综合照明解决方案；照明类产品主要包括LED光源产品（球泡、射灯等）、LED灯具产品、照明控制系统及智能照明解决方案。"
+     },
+     {
+      "code": "603131",
+      "name": "上海沪工",
+      "board": "3连板",
+      "concept": "业绩增长、三季报增长",
+      "reason": "商业航天+三季报增长；1. 商业航天：据2025年年度报告，公司子公司上海沪航卫星科技有限公司主营卫星相关制造业务，沪航卫星及孙公司上海博创空间热能技术有限公司均被认定为高新技术企业\r\n\r\n2. 三季报增长：10月27日晚公告，2026年1-9月归属上市公司股东的净利润：1159.11万元，同比上年增长：687.43%。"
+     },
+     {
+      "code": "603703",
+      "name": "盛洋科技",
+      "board": "2连板",
+      "concept": "低价股、股权转让",
+      "reason": "商业航天；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n商业航天：据2026年9月15日投资者关系活动记录表，公司子公司FTA基于DVB-NIP技术，为欧洲卫星运营商SES提供卫星互联网终端及“硬件+软件+服务”一体化解决方案，南美项目正按计划推进；公司取得CANAL+ GROUP等客户多批订单，报告期内相关订单已完成出货约80%。"
+     }
+    ]
+   },
+   {
+    "name": "通信",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "002636",
+      "name": "金安国纪",
+      "board": "3天2板",
+      "concept": "中药、新冠药概念",
+      "reason": "覆铜板+三季报增长；1. 覆铜板：据2026年三季度报告，金安国纪营业收入变动主要系本期覆铜板售价上涨以及销量增长。\r\n\r\n2. 三季报增长：10月27日晚三季报公告，2026年1-9月归属上市公司股东的净利润：19.24亿元，同比上年增长：1012.67%。"
+     },
+     {
+      "code": "605058",
+      "name": "澳弘电子",
+      "board": "首板",
+      "concept": "业绩增长、三季报增长",
+      "reason": "PCB+三季报增长；1. PCB：据2026年10月26日晚公告，澳弘电子拟将“新建高端PCB定制化生产基地”项目投资总额由3.3亿元变更为10亿元，产品主要定位于高多层板和高密度互连板，重点面向AI算力电源及冷却系统、汽车电子、工业控制、人形机器人等场景\r\n\r\n2. 三季报增长：10月26日晚公告，2026年1-9月归属上市公司股东的净利润：1.49亿元，同比上年增长：39.03%。"
+     },
+     {
+      "code": "301132",
+      "name": "满坤科技",
+      "board": "首板",
+      "concept": "业绩增长、三季报增长",
+      "reason": "PCB+三季报增长；1. PCB：据2026年9月24日投资者关系活动记录表，满坤科技泰国高端印制电路板生产基地项目主要产品以四层板、六层及以上、HDI板为主，重点面向汽车电子、AI服务器电源等下游领域，建成投产后将新增年产110万平方米印制电路板的产能。\r\n\r\n2. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：1.72亿元，同比上年增长：69.04%。"
+     }
+    ]
+   },
+   {
+    "name": "医疗器械",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "002432",
+      "name": "九安医疗",
+      "board": "首板",
+      "concept": "血氧仪、流感",
+      "reason": "医疗器械+三季报增长；1. 医疗器械：据2026年半年报，九安医疗属于医疗器械生产行业，主营业务为电子血压计、血糖仪、体外诊断试剂等医疗设备销售；研发成果已应用于血压监测、血糖监测、IVD试剂盒等多个医疗器械领域。\r\n\r\n2. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：52.05亿元，同比上年增长：227.57%。"
+     },
+     {
+      "code": "002086",
+      "name": "东方海洋",
+      "board": "5天3板",
+      "concept": "CRO、水产品",
+      "reason": "医疗器械+水产品；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 医疗器械：据2026年10月9日公告，东方海洋子公司质谱生物科技有限公司自主研发的水溶性维生素测定试剂盒（液相色谱-串联质谱法）获得山东省药品监督管理局颁发的医疗器械注册证，用于体外定量检测人血清中多种维生素含量\r\n\r\n2. 水产品：据2026年半年报，东方海洋主要从事海水苗种繁育、养殖，水产品加工，生物科技，保税仓储物流以及体外诊断试剂的研发、生产与销售和检测服务等业务，所处行业为水产品养殖及加工。"
+     },
+     {
+      "code": "300030",
+      "name": "阳普医疗",
+      "board": "首板",
+      "concept": "呼吸机、流感",
+      "reason": "医疗器械；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n医疗器械：据2026年10月28日公告，2026年第三季度阳普医疗集中展示真空采血系统、智能采血管理系统、全自动血栓弹力图仪、全自动凝血分析仪等核心产品与整体解决方案，推动检验新技术下沉与医院采血流程智慧化升级。"
+     }
+    ]
+   },
+   {
+    "name": "零售",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "000417",
+      "name": "合百集团",
+      "board": "首板",
+      "concept": "啤酒、酿酒",
+      "reason": "零售+三季报增长；1. 零售：据2026年9月17日投资者关系活动记录表，公司目前主营业务为零售与农产品批发；公司属于零售行业，主要采用现款销售模式\r\n\r\n2. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：3.95亿元，同比上年增长：129.64%。"
+     },
+     {
+      "code": "600113",
+      "name": "浙江东日",
+      "board": "首板",
+      "concept": "食品饮料、预制菜",
+      "reason": "零售；据2026年半年报，浙江东日主要从事批发交易市场管理业务、商品销售业务及配套农批市场开发业务；子公司雪顶豆制品从事豆制品研发、生产和销售，产品包括绢豆腐、玉子豆腐、豆奶、豆乳等。"
+     }
+    ]
+   },
+   {
+    "name": "ST板块",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "688066",
+      "name": "*ST航图 ",
+      "board": "首板",
+      "concept": "ST板块、北京市",
+      "reason": "ST板块+商业航天；据2026年10月30日公告，2026年10月29日，航天宏图收到河南省鹤壁市中级人民法院通知及债权人国泽基金管理（山东）有限公司的《告知函》，申请人以公司不能清偿到期债务且资产不足以清偿全部债务、但仍具备重整价值为由，向鹤壁中院申请对公司进行重整\r\n\r\nST板块+商业航天：2026年1月6日互动易，2023年至2024年公司已成功发射12颗高分辨率商业雷达卫星，形成覆盖高分辨率雷达、多光谱遥感等多维观测能力的“天基”监测网络，显著提升了全天候、全要素数据获取能力。"
+     },
+     {
+      "code": "600745",
+      "name": "*ST闻泰 ",
+      "board": "首板",
+      "concept": "破净股概念、ST板块",
+      "reason": "ST板块+IGBT；2026年10月29日互动易，公司与荷兰安世半导体管理人就谈判事项已达成保密安排，双方在具体谈判过程中需严格遵守。如在谈判过程中涉及重大决策事项或达到上市公司信息披露标准，公司将严格按照相关规定，履行审议程序、及时进行信息披露，具体内容请以公司公告为准，敬请投资者谅解。因相关事项涉及跨境司法程序、跨境公司治理等多重复杂外部因素影响，进展及结果存在不确定性。\r\n\r\nST板块+IGBT：公司旗下安世半导体是全球领先的分立与功率芯片IDM龙头厂商，安世在各个细分领域均处于全球领先，其中小信号二极管和晶体管出货量全球第一、逻辑芯片全球第二、ESD保护器件全球第一、小信号MOSFET全球排名第一、车规级PowerMOS全球排名第二。"
+     }
+    ]
+   },
+   {
+    "name": "旅游(酒店)",
+    "count": 1,
+    "stocks": [
+     {
+      "code": "600258",
+      "name": "首旅酒店",
+      "board": "首板",
+      "concept": "酒店、地方国企",
+      "reason": "酒店+三季报增长；1. 酒店：据2026年10月29日晚公告，在2026年第三季度，首旅酒店新开店数量为406家，其中直营店4家、特许加盟店402家；截至2026年9月30日，首旅酒店的酒店数量为8169家（含境外2家），客房间数为57.03万间。\r\n\r\n2. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：8.22亿元，同比上年增长：8.87%。"
+     }
+    ]
+   },
+   {
+    "name": "服装家纺",
+    "count": 1,
+    "stocks": [
+     {
+      "code": "603587",
+      "name": "地素时尚",
+      "board": "首板",
+      "concept": "生育概念、业绩增长",
+      "reason": "服装家纺+三季报增长；1. 服装家纺：据2026年10月29日晚公告，地素时尚DA指DAZZLE品牌、DM指DIAMOND DAZZLE品牌、DZ指d'zzit品牌，其他指MACKAGE品牌（公司于2026年第三季度完成收购并纳入合并报表范围）、RAZZLE品牌。\r\n\r\n2. 三季报增长：10月29日晚公告，2026年1-9月归属上市公司股东的净利润：2.83亿元，同比上年增长：19.78%。"
+     }
+    ]
+   }
+  ],
+  "withdrawal": {
+   "num": 22,
+   "stocks": [
+    [
+     "600592",
+     "龙溪股份",
+     -9.94
+    ],
+    [
+     "603536",
+     "惠发食品",
+     -9.39
+    ],
+    [
+     "300839",
+     "博汇股份",
+     -5.16
+    ]
+   ]
+  }
+ }
+}
