@@ -1,6 +1,6 @@
 {
  "brief_date": "2026-11-01",
- "generated_at": "2026-11-01 08:45",
+ "generated_at": "2026-11-01 09:15",
  "lookback_hours": 16,
  "news": [
   {
@@ -16,7 +16,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 969669,
+   "reading_num": 1144577,
    "content": "【DeepSeek发布全新Agent架构】财联社10月31日电，DeepSeek Harness 团队10月31日晚在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的Agent 系统》。\n\nDeepSeek表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog等思路，DeepSeek团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。\n\nDeepSeek把这种Agent形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部Super-agent实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness自身的迭代。当团队成员在群聊中反馈软件问题时，即使没有人主动@ AI，它也能识别潜在缺陷，在后台尝试复现问题、寻找修复方案。 （第一财经）",
    "in_roll": 1,
    "recommend": 1,
@@ -40,7 +40,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2521643?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 1704,
+   "share_num": 1737,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -67,11 +67,11 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 73148,
+     "attention_num": 73149,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 207,
-     "channel": "stib,cls"
+     "channel": "cls,stib"
     },
     {
      "article_id": 2521643,
@@ -80,11 +80,11 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 22952,
+     "attention_num": 22954,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 200,
-     "channel": "cls,stib"
+     "channel": "stib,cls"
     }
    ],
    "audio_url": [
@@ -128,7 +128,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 971816,
+   "reading_num": 1141387,
    "content": "【英伟达披露下一代CPO技术 原型样品已就位】财联社10月31日电，英伟达近日在SEMICON West 2026上公开展示了下一代共封装光学（CPO）技术，名为OOI（Optics‑on‑Interposer，中介层上集成光学）。不同于现有CPO方案，OOI选择拿下有机封装基板，将光引擎直接集成到承载GPU的硅中介层之上，把光电转换环节进一步向芯片内核靠拢，为下一代超大规模AI集群提供全新互联思路。据英伟达研究院首席研究科学家尼古拉•内多维奇（Nikola Nedovic）介绍，该方案以更大面积的中介层取代现行有机封装基板，目前英伟达已拿到原型样品。OOI目前仍处于研究阶段，暂无商业化时间表。",
    "in_roll": 1,
    "recommend": 1,
@@ -152,7 +152,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2521640?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 2847,
+   "share_num": 2899,
    "sub_titles": [
     {
      "article_id": "2521558",
@@ -194,7 +194,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 73148,
+     "attention_num": 73149,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 207,
@@ -207,11 +207,11 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 106282,
+     "attention_num": 106283,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 457,
-     "channel": "cls,stib"
+     "channel": "stib,cls"
     },
     {
      "article_id": 2521640,
@@ -220,11 +220,11 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 10204,
+     "attention_num": 10205,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 1937,
-     "channel": "stib,cls"
+     "channel": "cls,stib"
     }
    ],
    "audio_url": [
@@ -268,7 +268,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1059413,
+   "reading_num": 1196971,
    "content": "【10月31日周六《新闻联播》要闻18条】财联社10月31日电，今天《新闻联播》主要内容有：\n1、【学习贯彻党的二十届五中全会精神】走在前作表率 奋力谱写持之以恒推进全面从严治党新篇章；\n2、人民日报评论员文章：坚持服务党的使命任务——论学习贯彻党的二十届五中全会精神；\n3、算力网加速织就 助力数字中国建设；\n4、外资企业加快在中国建设全球创新枢纽；\n5、我国找矿行动取得一批较好成果；\n6、我国月球探测工程登月阶段任务扎实推进；\n7、第140届广交会第三期今天开展；\n8、前三季度全国可再生能源发电量同比增长约8%；\n9、一批国家标准11月1日起实施；\n10、我国进一步健全社会组织退出机制；\n11、全球最大规模液态空气储能国家示范项目并网发电；\n12、我国开展水资源调度的跨省江河达89条；\n13、姚家平水利枢纽工程今天实现大江截流；\n14、山东海阳核电项目三期工程开工建设；\n15、2026中国航空产业大会在江西南昌开幕；\n16、国际人士：二十届五中全会展现中国共产党全面从严治党的信心和决心；\n17、俄称筹备会谈不代表俄承诺限制军事行动；\n18、加拿大欧盟启动构建“未来联盟”。",
    "in_roll": 1,
    "recommend": 1,
@@ -292,7 +292,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2521602?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 954,
+   "share_num": 964,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -367,7 +367,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1231552,
+   "reading_num": 1372813,
    "content": "【伊朗最高领袖：要对敌方威胁立即采取有效应对措施】财联社10月31日电，伊朗最高领袖穆杰塔巴·哈梅内伊当地时间10月31日向伊朗武装部队高级指挥官下达命令。穆杰塔巴表示，将“做好充分战备准备与敌人进行强有力的对抗”视为伊朗“最大威慑”的要求之一，必须立即采取有效应对措施，不受地域限制，以应对任何级别和类型的威胁。穆杰塔巴指出，如果敌人再次发动军事或恐怖袭击，伊朗武装部队和伊朗人民将决定何时以及在何种条件下结束战争。穆杰塔巴还强调，要加强军事信息架构，深化“理论”和“战术”两大领域的本土防御，利用新技术提升国防和安全能力。另一项措施是，决定更新目标库，使美以敌人的各种有形和无形资产都处于伊朗武装部队的打击范围之内。 （央视新闻）",
    "in_roll": 1,
    "recommend": 1,
@@ -391,7 +391,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2521595?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 503,
+   "share_num": 506,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -418,7 +418,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 53292,
+     "attention_num": 53294,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -466,7 +466,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1414716,
+   "reading_num": 1567094,
    "content": "【原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查】财联社10月31日电，中央纪委国家监委网站10月31日通报，原中国石油化工集团公司党组书记、董事长傅成玉涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
    "in_roll": 1,
    "recommend": 1,
@@ -490,7 +490,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2521566?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 1014,
+   "share_num": 1018,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -528,511 +528,6 @@
    ],
    "audio_url": [
     "https://image.cls.cn/admin/20261031/173405tgDLo02P1R72.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1484958,
-   "content": "【近40家A股上市公司三季度获中国国新、中国诚通新进或增仓】财联社10月31日电，据财联社不完全统计，截至发稿，云路股份、中材国际、国博电子、华大九天、国睿科技、中国动力、华能蒙电、时代电气、中瓷电子、中航光电、中金黄金、云铝股份、国电南瑞、国机精工、光迅科技、有研新材、东方钽业、福能股份、中国神华、海光信息、五矿发展、烽火通信、中航沈飞、华能水电、中国船舶、中国电信、中国中车、中远海控、中国卫通、中国石化、中国石油、中国铝业、中国巨石、中国联通、招商轮船、华润微、长电科技、中煤能源、中船特气在内的多家上市公司三季度A股获中国国新、中国诚通两大国有资本运营公司新进或增仓。其中，国新投资Q3新进成为烽火通信第七大股东，新进成为五矿发展第三大股东；国新宏盛Q3新进成为中国船舶第八大股东。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 1,
-   "jpush": 1,
-   "img": "https://image.cls.cn/images/20261031/3jOgTUesvf_810x999.png",
-   "user_id": 708,
-   "is_top": 0,
-   "brief": "【近40家A股上市公司三季度获中国国新、中国诚通新进或增仓】财联社10月31日电，据财联社不完全统计，截至发稿，云路股份、中材国际、国博电子、华大九天、国睿科技、中国动力、华能蒙电、时代电气、中瓷电子、中航光电、中金黄金、云铝股份、国电南瑞、国机精工、光迅科技、有研新材、东方钽业、福能股份、中国神华、海光信息、五矿发展、烽火通信、中航沈飞、华能水电、中国船舶、中国电信、中国中车、中远海控、中国卫通、中国石化、中国石油、中国铝业、中国巨石、中国联通、招商轮船、华润微、长电科技、中煤能源、中船特气在内的多家上市公司三季度A股获中国国新、中国诚通两大国有资本运营公司新进或增仓。其中，国新投资Q3新进",
-   "id": 2521561,
-   "ctime": 1793437417,
-   "type": -1,
-   "title": "近40家A股上市公司三季度获中国国新、中国诚通新进或增仓",
-   "bold": 0,
-   "sort_score": 1793437417,
-   "comment_num": 68,
-   "modified_time": 1793437485,
-   "status": 1,
-   "collection": 0,
-   "has_img": 1,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2521561?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 1555,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [
-    "https://image.cls.cn/images/20261031/3jOgTUesvf_810x999.png"
-   ],
-   "explain_num": -1,
-   "stock_list": [
-    {
-     "rise_range_has_null": -0.0372,
-     "RiseRange": -3.72,
-     "name": "时代电气",
-     "StockID": "sh688187",
-     "schema": "cailianshe://stock_detail?stock_id=sh688187",
-     "status": "L",
-     "last": 44.05,
-     "is_stib": true
-    },
-    {
-     "rise_range_has_null": -0.0122,
-     "RiseRange": -1.22,
-     "name": "中航光电",
-     "StockID": "sz002179",
-     "schema": "cailianshe://stock_detail?stock_id=sz002179",
-     "status": "L",
-     "last": 33.14,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0506,
-     "RiseRange": -5.06,
-     "name": "有研新材",
-     "StockID": "sh600206",
-     "schema": "cailianshe://stock_detail?stock_id=sh600206",
-     "status": "L",
-     "last": 31.92,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0729,
-     "RiseRange": -7.29,
-     "name": "中瓷电子",
-     "StockID": "sz003031",
-     "schema": "cailianshe://stock_detail?stock_id=sz003031",
-     "status": "L",
-     "last": 80.3,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0142,
-     "RiseRange": 1.42,
-     "name": "中国铝业",
-     "StockID": "sh601600",
-     "schema": "cailianshe://stock_detail?stock_id=sh601600",
-     "status": "L",
-     "last": 8.55,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0021,
-     "RiseRange": 0.21,
-     "name": "中航沈飞",
-     "StockID": "sh600760",
-     "schema": "cailianshe://stock_detail?stock_id=sh600760",
-     "status": "L",
-     "last": 47.65,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0559,
-     "RiseRange": -5.59,
-     "name": "中国巨石",
-     "StockID": "sh600176",
-     "schema": "cailianshe://stock_detail?stock_id=sh600176",
-     "status": "L",
-     "last": 27.68,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0254,
-     "RiseRange": -2.54,
-     "name": "五矿发展",
-     "StockID": "sh600058",
-     "schema": "cailianshe://stock_detail?stock_id=sh600058",
-     "status": "L",
-     "last": 8.05,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0332,
-     "RiseRange": -3.32,
-     "name": "中金黄金",
-     "StockID": "sh600489",
-     "schema": "cailianshe://stock_detail?stock_id=sh600489",
-     "status": "L",
-     "last": 19.23,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0108,
-     "RiseRange": 1.08,
-     "name": "中国中车",
-     "StockID": "sh601766",
-     "schema": "cailianshe://stock_detail?stock_id=sh601766",
-     "status": "L",
-     "last": 6.55,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0844,
-     "RiseRange": -8.44,
-     "name": "海光信息",
-     "StockID": "sh688041",
-     "schema": "cailianshe://stock_detail?stock_id=sh688041",
-     "status": "L",
-     "last": 170.2,
-     "is_stib": true
-    },
-    {
-     "rise_range_has_null": 0.0072,
-     "RiseRange": 0.71999997,
-     "name": "中国神华",
-     "StockID": "sh601088",
-     "schema": "cailianshe://stock_detail?stock_id=sh601088",
-     "status": "L",
-     "last": 51.99,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.015,
-     "RiseRange": 1.5,
-     "name": "福能股份",
-     "StockID": "sh600483",
-     "schema": "cailianshe://stock_detail?stock_id=sh600483",
-     "status": "L",
-     "last": 10.81,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.118,
-     "RiseRange": -11.8,
-     "name": "华大九天",
-     "StockID": "sz301269",
-     "schema": "cailianshe://stock_detail?stock_id=sz301269",
-     "status": "L",
-     "last": 86.17,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0023,
-     "RiseRange": -0.23,
-     "name": "中国联通",
-     "StockID": "sh600050",
-     "schema": "cailianshe://stock_detail?stock_id=sh600050",
-     "status": "L",
-     "last": 4.39,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.006,
-     "RiseRange": -0.6,
-     "name": "国电南瑞",
-     "StockID": "sh600406",
-     "schema": "cailianshe://stock_detail?stock_id=sh600406",
-     "status": "L",
-     "last": 23.16,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0722,
-     "RiseRange": -7.2200003,
-     "name": "华润微",
-     "StockID": "sh688396",
-     "schema": "cailianshe://stock_detail?stock_id=sh688396",
-     "status": "L",
-     "last": 45.12,
-     "is_stib": true
-    },
-    {
-     "rise_range_has_null": 0.011,
-     "RiseRange": 1.1,
-     "name": "中国石油",
-     "StockID": "sh601857",
-     "schema": "cailianshe://stock_detail?stock_id=sh601857",
-     "status": "L",
-     "last": 13.84,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0019,
-     "RiseRange": -0.19,
-     "name": "华能水电",
-     "StockID": "sh600025",
-     "schema": "cailianshe://stock_detail?stock_id=sh600025",
-     "status": "L",
-     "last": 10.69,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0498,
-     "RiseRange": 4.98,
-     "name": "中国石化",
-     "StockID": "sh600028",
-     "schema": "cailianshe://stock_detail?stock_id=sh600028",
-     "status": "L",
-     "last": 5.9,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0393,
-     "RiseRange": -3.9299998,
-     "name": "云路股份",
-     "StockID": "sh688190",
-     "schema": "cailianshe://stock_detail?stock_id=sh688190",
-     "status": "L",
-     "last": 60.21,
-     "is_stib": true
-    },
-    {
-     "rise_range_has_null": -0.0139,
-     "RiseRange": -1.39,
-     "name": "中国船舶",
-     "StockID": "sh600150",
-     "schema": "cailianshe://stock_detail?stock_id=sh600150",
-     "status": "L",
-     "last": 33.39,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0702,
-     "RiseRange": 7.0200005,
-     "name": "中远海控",
-     "StockID": "sh601919",
-     "schema": "cailianshe://stock_detail?stock_id=sh601919",
-     "status": "L",
-     "last": 17.84,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0613,
-     "RiseRange": -6.1299996,
-     "name": "烽火通信",
-     "StockID": "sh600498",
-     "schema": "cailianshe://stock_detail?stock_id=sh600498",
-     "status": "L",
-     "last": 26.18,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0069,
-     "RiseRange": 0.69,
-     "name": "中材国际",
-     "StockID": "sh600970",
-     "schema": "cailianshe://stock_detail?stock_id=sh600970",
-     "status": "L",
-     "last": 7.32,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0303,
-     "RiseRange": 3.03,
-     "name": "招商轮船",
-     "StockID": "sh601872",
-     "schema": "cailianshe://stock_detail?stock_id=sh601872",
-     "status": "L",
-     "last": 17.71,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0239,
-     "RiseRange": -2.39,
-     "name": "国睿科技",
-     "StockID": "sh600562",
-     "schema": "cailianshe://stock_detail?stock_id=sh600562",
-     "status": "L",
-     "last": 26.97,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0558,
-     "RiseRange": -5.58,
-     "name": "国机精工",
-     "StockID": "sz002046",
-     "schema": "cailianshe://stock_detail?stock_id=sz002046",
-     "status": "L",
-     "last": 51.93,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0029,
-     "RiseRange": 0.29,
-     "name": "中国电信",
-     "StockID": "sh601728",
-     "schema": "cailianshe://stock_detail?stock_id=sh601728",
-     "status": "L",
-     "last": 7.01,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0318,
-     "RiseRange": -3.1800003,
-     "name": "中国动力",
-     "StockID": "sh600482",
-     "schema": "cailianshe://stock_detail?stock_id=sh600482",
-     "status": "L",
-     "last": 29.79,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0114,
-     "RiseRange": 1.14,
-     "name": "华能蒙电",
-     "StockID": "sh600863",
-     "schema": "cailianshe://stock_detail?stock_id=sh600863",
-     "status": "L",
-     "last": 5.33,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0556,
-     "RiseRange": -5.56,
-     "name": "中船特气",
-     "StockID": "sh688146",
-     "schema": "cailianshe://stock_detail?stock_id=sh688146",
-     "status": "L",
-     "last": 127.5,
-     "is_stib": true
-    },
-    {
-     "rise_range_has_null": -0.0155,
-     "RiseRange": -1.55,
-     "name": "中煤能源",
-     "StockID": "sh601898",
-     "schema": "cailianshe://stock_detail?stock_id=sh601898",
-     "status": "L",
-     "last": 13.94,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0867,
-     "RiseRange": -8.67,
-     "name": "光迅科技",
-     "StockID": "sz002281",
-     "schema": "cailianshe://stock_detail?stock_id=sz002281",
-     "status": "L",
-     "last": 102.6,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.061,
-     "RiseRange": -6.1,
-     "name": "东方钽业",
-     "StockID": "sz000962",
-     "schema": "cailianshe://stock_detail?stock_id=sz000962",
-     "status": "L",
-     "last": 36.34,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0663,
-     "RiseRange": -6.6299996,
-     "name": "国博电子",
-     "StockID": "sh688375",
-     "schema": "cailianshe://stock_detail?stock_id=sh688375",
-     "status": "L",
-     "last": 59.69,
-     "is_stib": true
-    },
-    {
-     "rise_range_has_null": -0.0494,
-     "RiseRange": -4.94,
-     "name": "中国卫通",
-     "StockID": "sh601698",
-     "schema": "cailianshe://stock_detail?stock_id=sh601698",
-     "status": "L",
-     "last": 21.96,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0108,
-     "RiseRange": 1.08,
-     "name": "云铝股份",
-     "StockID": "sz000807",
-     "schema": "cailianshe://stock_detail?stock_id=sz000807",
-     "status": "L",
-     "last": 25.36,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.0553,
-     "RiseRange": -5.53,
-     "name": "长电科技",
-     "StockID": "sh600584",
-     "schema": "cailianshe://stock_detail?stock_id=sh600584",
-     "status": "L",
-     "last": 49,
-     "is_stib": false
-    }
-   ],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2521561,
-     "subject_id": 1555,
-     "subject_name": "A股公告速递",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 239863,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls,stib"
-    },
-    {
-     "article_id": 2521561,
-     "subject_id": 10426,
-     "subject_name": "A股上市公司业绩巡礼",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 10901,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls,stib"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261031/170445Wg2hdfJ2rzXt.mp3"
    ],
    "author": "",
    "plate_list": [],
