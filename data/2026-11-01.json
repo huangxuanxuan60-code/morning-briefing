@@ -1,6 +1,6 @@
 {
  "brief_date": "2026-11-01",
- "generated_at": "2026-11-01 10:30",
+ "generated_at": "2026-11-01 11:30",
  "lookback_hours": 16,
  "news": [
   {
@@ -16,7 +16,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1527222,
+   "reading_num": 1738059,
    "content": "【DeepSeek发布全新Agent架构】财联社10月31日电，DeepSeek Harness 团队10月31日晚在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的Agent 系统》。\n\nDeepSeek表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog等思路，DeepSeek团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。\n\nDeepSeek把这种Agent形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部Super-agent实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness自身的迭代。当团队成员在群聊中反馈软件问题时，即使没有人主动@ AI，它也能识别潜在缺陷，在后台尝试复现问题、寻找修复方案。 （第一财经）",
    "in_roll": 1,
    "recommend": 1,
@@ -40,7 +40,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2521643?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 1793,
+   "share_num": 1832,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -67,11 +67,11 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 73151,
+     "attention_num": 73153,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 207,
-     "channel": "cls,stib"
+     "channel": "stib,cls"
     },
     {
      "article_id": 2521643,
@@ -128,7 +128,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1520280,
+   "reading_num": 1710174,
    "content": "【英伟达披露下一代CPO技术 原型样品已就位】财联社10月31日电，英伟达近日在SEMICON West 2026上公开展示了下一代共封装光学（CPO）技术，名为OOI（Optics‑on‑Interposer，中介层上集成光学）。不同于现有CPO方案，OOI选择拿下有机封装基板，将光引擎直接集成到承载GPU的硅中介层之上，把光电转换环节进一步向芯片内核靠拢，为下一代超大规模AI集群提供全新互联思路。据英伟达研究院首席研究科学家尼古拉•内多维奇（Nikola Nedovic）介绍，该方案以更大面积的中介层取代现行有机封装基板，目前英伟达已拿到原型样品。OOI目前仍处于研究阶段，暂无商业化时间表。",
    "in_roll": 1,
    "recommend": 1,
@@ -152,7 +152,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2521640?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 2993,
+   "share_num": 3066,
    "sub_titles": [
     {
      "article_id": "2521558",
@@ -194,7 +194,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 73151,
+     "attention_num": 73153,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 207,
@@ -211,7 +211,7 @@
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 457,
-     "channel": "stib,cls"
+     "channel": "cls,stib"
     },
     {
      "article_id": 2521640,
@@ -224,7 +224,7 @@
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 1937,
-     "channel": "cls,stib"
+     "channel": "stib,cls"
     }
    ],
    "audio_url": [
@@ -268,7 +268,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1558896,
+   "reading_num": 1729646,
    "content": "【10月31日周六《新闻联播》要闻18条】财联社10月31日电，今天《新闻联播》主要内容有：\n1、【学习贯彻党的二十届五中全会精神】走在前作表率 奋力谱写持之以恒推进全面从严治党新篇章；\n2、人民日报评论员文章：坚持服务党的使命任务——论学习贯彻党的二十届五中全会精神；\n3、算力网加速织就 助力数字中国建设；\n4、外资企业加快在中国建设全球创新枢纽；\n5、我国找矿行动取得一批较好成果；\n6、我国月球探测工程登月阶段任务扎实推进；\n7、第140届广交会第三期今天开展；\n8、前三季度全国可再生能源发电量同比增长约8%；\n9、一批国家标准11月1日起实施；\n10、我国进一步健全社会组织退出机制；\n11、全球最大规模液态空气储能国家示范项目并网发电；\n12、我国开展水资源调度的跨省江河达89条；\n13、姚家平水利枢纽工程今天实现大江截流；\n14、山东海阳核电项目三期工程开工建设；\n15、2026中国航空产业大会在江西南昌开幕；\n16、国际人士：二十届五中全会展现中国共产党全面从严治党的信心和决心；\n17、俄称筹备会谈不代表俄承诺限制军事行动；\n18、加拿大欧盟启动构建“未来联盟”。",
    "in_roll": 1,
    "recommend": 1,
@@ -292,7 +292,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2521602?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 997,
+   "share_num": 1013,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -330,105 +330,6 @@
     "https://image.cls.cn/admin/20261031/195808gOaJRXjzMpJ6.mp3"
    ],
    "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1688686,
-   "content": "【伊朗最高领袖：要对敌方威胁立即采取有效应对措施】财联社10月31日电，伊朗最高领袖穆杰塔巴·哈梅内伊当地时间10月31日向伊朗武装部队高级指挥官下达命令。穆杰塔巴表示，将“做好充分战备准备与敌人进行强有力的对抗”视为伊朗“最大威慑”的要求之一，必须立即采取有效应对措施，不受地域限制，以应对任何级别和类型的威胁。穆杰塔巴指出，如果敌人再次发动军事或恐怖袭击，伊朗武装部队和伊朗人民将决定何时以及在何种条件下结束战争。穆杰塔巴还强调，要加强军事信息架构，深化“理论”和“战术”两大领域的本土防御，利用新技术提升国防和安全能力。另一项措施是，决定更新目标库，使美以敌人的各种有形和无形资产都处于伊朗武装部队的打击范围之内。 （央视新闻）",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 0,
-   "img": "",
-   "user_id": 638,
-   "is_top": 0,
-   "brief": "【伊朗最高领袖：要对敌方威胁作出立即有力回应】财联社10月31日电，伊朗最高领袖穆杰塔巴10月31日在社交媒体上发文说，要对任何敌方威胁作出立即、有力且“不受地理限制的回应”。穆杰塔巴当天会见三名伊朗武装力量高级指挥官时作出上述表态。",
-   "id": 2521595,
-   "ctime": 1793443254,
-   "type": -1,
-   "title": "伊朗最高领袖：要对敌方威胁立即采取有效应对措施",
-   "bold": 0,
-   "sort_score": 1793443254,
-   "comment_num": 14,
-   "modified_time": 1793443787,
-   "status": 1,
-   "collection": 0,
-   "has_img": 0,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2521595?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 519,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [],
-   "explain_num": -1,
-   "stock_list": [],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2521595,
-     "subject_id": 10986,
-     "subject_name": "中东冲突",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 53299,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261031/184948yQZoMMDBbzbm.mp3"
-   ],
-   "author": "央视新闻",
    "plate_list": [],
    "assocArticleUrl": "",
    "assocVideoTitle": "",
