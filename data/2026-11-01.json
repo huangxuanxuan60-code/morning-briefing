@@ -1,6 +1,6 @@
 {
  "brief_date": "2026-11-01",
- "generated_at": "2026-11-01 12:30",
+ "generated_at": "2026-11-01 13:30",
  "lookback_hours": 16,
  "news": [
   {
@@ -16,7 +16,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1844930,
+   "reading_num": 2014685,
    "content": "【DeepSeek发布全新Agent架构】财联社10月31日电，DeepSeek Harness 团队10月31日晚在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的Agent 系统》。\n\nDeepSeek表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog等思路，DeepSeek团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。\n\nDeepSeek把这种Agent形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部Super-agent实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness自身的迭代。当团队成员在群聊中反馈软件问题时，即使没有人主动@ AI，它也能识别潜在缺陷，在后台尝试复现问题、寻找修复方案。 （第一财经）",
    "in_roll": 1,
    "recommend": 1,
@@ -40,7 +40,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2521643?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 1861,
+   "share_num": 1896,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -80,7 +80,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 22954,
+     "attention_num": 22955,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 200,
@@ -128,7 +128,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1805443,
+   "reading_num": 1956271,
    "content": "【英伟达披露下一代CPO技术 原型样品已就位】财联社10月31日电，英伟达近日在SEMICON West 2026上公开展示了下一代共封装光学（CPO）技术，名为OOI（Optics‑on‑Interposer，中介层上集成光学）。不同于现有CPO方案，OOI选择拿下有机封装基板，将光引擎直接集成到承载GPU的硅中介层之上，把光电转换环节进一步向芯片内核靠拢，为下一代超大规模AI集群提供全新互联思路。据英伟达研究院首席研究科学家尼古拉•内多维奇（Nikola Nedovic）介绍，该方案以更大面积的中介层取代现行有机封装基板，目前英伟达已拿到原型样品。OOI目前仍处于研究阶段，暂无商业化时间表。",
    "in_roll": 1,
    "recommend": 1,
@@ -152,7 +152,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2521640?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 3134,
+   "share_num": 3187,
    "sub_titles": [
     {
      "article_id": "2521558",
