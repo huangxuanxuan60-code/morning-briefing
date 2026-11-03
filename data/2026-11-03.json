@@ -1,6 +1,6 @@
 {
  "brief_date": "2026-11-03",
- "generated_at": "2026-11-03 16:30",
+ "generated_at": "2026-11-03 17:30",
  "lookback_hours": 16,
  "news": [
   {
@@ -16,31 +16,31 @@
    "depth_extends": "[]",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 66848,
-   "content": "【神农集团：实控人何祖训离婚分割股份 罗婉瑜获14.88%股权】财联社11月3日电，神农集团(605296.SH)公告称，公司控股股东、实际控制人何祖训与罗婉瑜解除婚姻关系，根据法院调解书，何祖训将直接持有的公司7830.5万股股份(占总股本14.88%)归罗婉瑜所有。本次权益变动后，何祖训持股比例由49.60%降至34.72%，罗婉瑜持股14.88%。双方签署一致行动协议，构成一致行动人关系。本次变动不触及要约收购，不会导致公司控股股东、实际控制人变化，不涉及控制权变更。股份过户尚需办理相关手续。",
+   "reading_num": 24373,
+   "content": "【新易盛：11月2日至11月3日累计耗资约4亿元回购213.91万股 成交价172.05元/股-199.75元/股】财联社11月3日电，新易盛(300502.SZ)公告称，截至2026年10月31日，公司通过股份回购专用证券账户以集中竞价交易方式回购公司股份97.56万股，占公司总股本的0.0700%，最高成交价为213.27元/股，最低成交价为196.97元/股，成交总金额为约2亿元（不含交易费用）。2026年11月2日至2026年11月3日期间，公司通过股份回购专用证券账户以集中竞价交易方式回购公司股份213.91万股，占公司总股本的0.1534%，最高成交价为199.75元/股，最低成交价为172.05元/股，成交总金额约4亿元（不含交易费用）。",
    "in_roll": 1,
    "recommend": 1,
    "confirmed": 1,
-   "jpush": 0,
+   "jpush": 1,
    "img": "",
-   "user_id": 823,
+   "user_id": 295,
    "is_top": 1,
-   "brief": "【神农集团：实控人何祖训离婚分割股份 罗婉瑜获14.88%股权】财联社11月3日电，神农集团(605296.SH)公告称，公司控股股东、实际控制人何祖训与罗婉瑜解除婚姻关系，根据法院调解书，何祖训将直接持有的公司7830.5万股股份(占总股本14.88%)归罗婉瑜所有。本次权益变动后，何祖训持股比例由49.60%降至34.72%，罗婉瑜持股14.88%。双方签署一致行动协议，构成一致行动人关系。本次变动不触及要约收购，不会导致公司控股股东、实际控制人变化，不涉及控制权变更。股份过户尚需办理相关手续。",
-   "id": 2523800,
-   "ctime": 1793693404,
+   "brief": "【新易盛：11月2日至11月3日累计耗资约4亿元回购213.91万股 成交价172.05元/股-199.75元/股】财联社11月3日电，新易盛(300502.SZ)公告称，截至2026年10月31日，公司通过股份回购专用证券账户以集中竞价交易方式回购公司股份97.56万股，占公司总股本的0.0700%，最高成交价为213.27元/股，最低成交价为196.97元/股，成交总金额为约2亿元（不含交易费用）。2026年11月2日至2026年11月3日期间，公司通过股份回购专用证券账户以集中竞价交易方式回购公司股份213.91万股，",
+   "id": 2523939,
+   "ctime": 1793697875,
    "type": -1,
-   "title": "神农集团：实控人何祖训离婚分割股份 罗婉瑜获14.88%股权",
+   "title": "新易盛：11月2日至11月3日累计耗资约4亿元回购213.91万股 成交价172.05元/股-199.75元/股",
    "bold": 0,
-   "sort_score": 1793693404,
-   "comment_num": 5,
-   "modified_time": 1793693414,
+   "sort_score": 1793697875,
+   "comment_num": 31,
+   "modified_time": 1793698054,
    "status": 1,
    "collection": 0,
    "has_img": 0,
    "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2523800?os=web&sv=8.4.6&app=CailianpressWeb",
+   "shareurl": "https://api3.cls.cn/share/article/2523939?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 16,
+   "share_num": 209,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -48,13 +48,13 @@
    "explain_num": -1,
    "stock_list": [
     {
-     "rise_range_has_null": 0.0638,
-     "RiseRange": 6.38,
-     "name": "神农集团",
-     "StockID": "sh605296",
-     "schema": "cailianshe://stock_detail?stock_id=sh605296",
+     "rise_range_has_null": -0.0946,
+     "RiseRange": -9.46,
+     "name": "新易盛",
+     "StockID": "sz300502",
+     "schema": "cailianshe://stock_detail?stock_id=sz300502",
      "status": "L",
-     "last": 31.7,
+     "last": 173.36,
      "is_stib": false
     }
    ],
@@ -72,13 +72,13 @@
    },
    "subjects": [
     {
-     "article_id": 2523800,
+     "article_id": 2523939,
      "subject_id": 1555,
      "subject_name": "A股公告速递",
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 240013,
+     "attention_num": 240019,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -86,11 +86,231 @@
     }
    ],
    "audio_url": [
-    "https://image.cls.cn/admin/20261103/161015wE9u6vDlYA2h.mp3"
+    "https://image.cls.cn/admin/20261103/1727345AcWGAtgoMVj.mp3"
    ],
    "author": "",
    "plate_list": [],
-   "assocArticleUrl": "http://static.sse.com.cn//disclosure/listedinfo/announcement/c/new/2026-11-04/605296_20261104_9CZ1.pdf",
+   "assocArticleUrl": "http://static.cninfo.com.cn/finalpage/2026-11-03/1225655406.PDF",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 40339,
+   "content": "【三星新材：因涉嫌信息披露违法违规被证监会立案】财联社11月3日电，三星新材(603578.SH)公告称，公司于2026年11月3日收到证监会下发的《立案告知书》，因涉嫌信息披露违法违规，证监会决定对公司立案。目前公司生产经营活动正常开展，将积极配合调查并履行信息披露义务。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 0,
+   "img": "",
+   "user_id": 615,
+   "is_top": 1,
+   "brief": "【三星新材：因涉嫌信息披露违法违规被证监会立案】财联社11月3日电，三星新材(603578.SH)公告称，公司于2026年11月3日收到证监会下发的《立案告知书》，因涉嫌信息披露违法违规，证监会决定对公司立案。目前公司生产经营活动正常开展，将积极配合调查并履行信息披露义务。",
+   "id": 2523925,
+   "ctime": 1793697474,
+   "type": -1,
+   "title": "三星新材：因涉嫌信息披露违法违规被证监会立案",
+   "bold": 0,
+   "sort_score": 1793697474,
+   "comment_num": 3,
+   "modified_time": 1793697504,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2523925?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 15,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": -0.0359,
+     "RiseRange": -3.5900002,
+     "name": "三星新材",
+     "StockID": "sh603578",
+     "schema": "cailianshe://stock_detail?stock_id=sh603578",
+     "status": "L",
+     "last": 12.61,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2523925,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 240019,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "stib,cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261103/171824XKQl0gbn1wq9.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.sse.com.cn//disclosure/listedinfo/announcement/c/new/2026-11-04/603578_20261104_7WRL.pdf",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 94729,
+   "content": "【纳尔股份澄清：当事人薛银飞非公司员工 公司及相关人员未因涉嫌内幕交易被调查或处罚】财联社11月3日电，纳尔股份(002825.SZ)发布媒体报道澄清公告称，公司关注到相关媒体平台近日发布了题为《纳尔股份薛银飞涉内幕交易遭罚没合计216.94万元控制3个账户累计交易超297万元》的文章（简称“上述文章”）。为避免对投资者造成误导，公司现就相关内容澄清如下：一、上述文章之标题与事实不符；二、上述文章之标题提及的当事人薛银飞，时任拟重组标的公司的副总经理，其任职主体为上海菲莱测试技术有限公司；三、公司于2026年1月14日公告终止了就该重组标的公司的《股权收购意向协议》。当事人薛银飞与纳尔股份无任何关系，非公司员工。四、纳尔股份及其董事、高级管理人员和员工均未涉嫌内幕交易而被调查或处罚。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 0,
+   "img": "",
+   "user_id": 295,
+   "is_top": 1,
+   "brief": "【纳尔股份澄清：当事人薛银飞非公司员工 公司及相关人员未因涉嫌内幕交易被调查或处罚】财联社11月3日电，纳尔股份(002825.SZ)发布媒体报道澄清公告称，公司关注到相关媒体平台近日发布了题为《纳尔股份薛银飞涉内幕交易遭罚没合计216.94万元控制3个账户累计交易超297万元》的文章（简称“上述文章”）。为避免对投资者造成误导，公司现就相关内容澄清如下：一、上述文章之标题与事实不符；二、上述文章之标题提及的当事人薛银飞，时任拟重组标的公司的副总经理，其任职主体为上海菲莱测试技术有限公司；三、公司于2026年1月14日公告终止了就该重组标的公司的《股权收购意向协议》。当事人薛银飞与纳尔股份无任",
+   "id": 2523898,
+   "ctime": 1793696569,
+   "type": -1,
+   "title": "纳尔股份澄清：当事人薛银飞非公司员工 公司及相关人员未因涉嫌内幕交易被调查或处罚",
+   "bold": 0,
+   "sort_score": 1793696569,
+   "comment_num": 0,
+   "modified_time": 1793696600,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2523898?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 24,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0039,
+     "RiseRange": 0.39,
+     "name": "纳尔股份",
+     "StockID": "sz002825",
+     "schema": "cailianshe://stock_detail?stock_id=sz002825",
+     "status": "L",
+     "last": 7.79,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2523898,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 240019,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261103/170320MT2djJkMryNt.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.cninfo.com.cn/finalpage/2026-11-04/1225655011.PDF",
    "assocVideoTitle": "",
    "assocVideoUrl": "",
    "assocCreditRating": [],
@@ -126,7 +346,244 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 303743,
+   "reading_num": 91185,
+   "content": "财联社11月3日电，苹果股价盘前下跌5%，此前该公司预测假日季度毛利率将下降。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "https://image.cls.cn/images/20261103/8vqO9XvGD0_742x650.png",
+   "user_id": 87,
+   "is_top": 0,
+   "brief": "财联社11月3日电，苹果股价盘前下跌4%，此前该公司预测假日季度毛利率将下降。",
+   "id": 2523896,
+   "ctime": 1793696526,
+   "type": -1,
+   "title": "",
+   "bold": 0,
+   "sort_score": 1793696526,
+   "comment_num": 3,
+   "modified_time": 1793697062,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2523896?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 39,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261103/8vqO9XvGD0_742x650.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2523896,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173234,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2523896,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 70348,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261103/171103oL9ioNXOmwoZ.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "[]",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 140262,
+   "content": "【品茗科技：因涉嫌操纵证券市场 实控人莫绪军遭证监会立案】财联社11月3日电，品茗科技(688109.SH)公告称，公司控股股东、实际控制人莫绪军收到证监会下发的《立案告知书》，因涉嫌操纵证券市场，证监会决定对其立案。本次立案系对莫绪军个人的调查，其除担任公司名誉董事长外未参与日常经营管理，与公司经营无关，不会对公司产生重大影响，公司生产经营及财务状况正常。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "",
+   "user_id": 295,
+   "is_top": 1,
+   "brief": "【品茗科技：因涉嫌操纵证券市场 实控人莫绪军遭证监会立案】财联社11月3日电，品茗科技(688109.SH)公告称，公司控股股东、实际控制人莫绪军收到证监会下发的《立案告知书》，因涉嫌操纵证券市场，证监会决定对其立案。本次立案系对莫绪军个人的调查，其除担任公司名誉董事长外未参与日常经营管理，与公司经营无关，不会对公司产生重大影响，公司生产经营及财务状况正常。",
+   "id": 2523859,
+   "ctime": 1793695485,
+   "type": -1,
+   "title": "品茗科技：因涉嫌操纵证券市场 实控人莫绪军遭证监会立案",
+   "bold": 0,
+   "sort_score": 1793695485,
+   "comment_num": 3,
+   "modified_time": 1793695637,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2523859?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 63,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": -0.0131,
+     "RiseRange": -1.3100001,
+     "name": "品茗科技",
+     "StockID": "sh688109",
+     "schema": "cailianshe://stock_detail?stock_id=sh688109",
+     "status": "L",
+     "last": 55.57,
+     "is_stib": true
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2523859,
+     "subject_id": 1555,
+     "subject_name": "A股公告速递",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 240019,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2523859,
+     "subject_id": 1810,
+     "subject_name": "科创板公司面面观",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 17806,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261103/164718PZns6hsbAb9q.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "http://static.sse.com.cn//disclosure/listedinfo/announcement/c/new/2026-11-04/688109_20261104_1222.pdf",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 1,
+   "disclaimer": "免责声明：本文内容与数据仅供参考，不构成投资建议，更不代表财联社观点，使用前请核实。稿件基于人工智能辅助处理，编辑人工审核亦不能保证绝对无差错。如有投资者据此操作，风险自担。",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 471408,
    "content": "财联社11月3日电，截至目前，南向资金净买入额达200亿港元。",
    "in_roll": 1,
    "recommend": 1,
@@ -150,7 +607,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2523750?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 203,
+   "share_num": 227,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -177,7 +634,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 48857,
+     "attention_num": 48858,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -194,7 +651,7 @@
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
-     "channel": "stib,cls"
+     "channel": "cls,stib"
     }
    ],
    "audio_url": [
@@ -238,7 +695,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 366714,
+   "reading_num": 516061,
    "content": "【广东：鼓励上市公司建立健全常态化分红机制 强化国有控股上市公司市值管理】财联社11月3日电，广东省发展改革委印发《广东省扩大消费实施方案》。其中提到，多渠道促进居民增收。完善按要素分配政策，强化技能价值和知识价值激励导向，促进多劳者多得、技高者多得、创新者多得。优化最低工资标准评估与正常调整机制，落实我省最低工资标准，稳步提高低收入职工收入水平。健全省市区三级企业薪酬调查和信息发布体系，积极推行工资集体协商制度。持续改善小微企业和个体工商户经营环境，落实融资担保降费、税费减免等优惠政策。鼓励上市公司建立健全常态化分红机制，强化国有控股上市公司市值管理。丰富个人养老金产品供给。发展壮大新型农村集体经济，增加农民财产性收入。推动新型就业，推介“共富工坊”等典型经验，开展“商业主理人”能力提升行动，扶持文创手作、家居生活、食品茶饮等领域“新匠人”群体。",
    "in_roll": 1,
    "recommend": 1,
@@ -254,7 +711,7 @@
    "title": "广东：鼓励上市公司建立健全常态化分红机制 强化国有控股上市公司市值管理",
    "bold": 0,
    "sort_score": 1793690544,
-   "comment_num": 11,
+   "comment_num": 12,
    "modified_time": 1793690544,
    "status": 1,
    "collection": 0,
@@ -262,7 +719,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2523730?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 260,
+   "share_num": 292,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -415,7 +872,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 407758,
+   "reading_num": 564331,
    "content": "【广东：支持商业银行用好服务消费与养老再贷款、支农支小再贷款、再贴现等结构性货币政策工具 加大服务消费与养老领域信贷支持】财联社11月3日电，广东省发展改革委印发《广东省扩大消费实施方案》。其中提到，强化财政金融协同发力。合理提高公共服务支出占财政支出比重，持续加大民生领域投入，用好各类普惠消费工具，推动补贴直达消费者。统筹使用中央预算内投资、超长期特别国债等资金，支持消费基础设施建设和消费品以旧换新。统筹使用中央国际化消费环境试点、消费新业态新模式新场景试点资金，不断优化消费环境，扩大服务消费，增强消费意愿。支持商业银行用好服务消费与养老再贷款、支农支小再贷款、再贴现等结构性货币政策工具，加大服务消费与养老领域信贷支持。鼓励金融机构丰富消费金融产品供给，针对人工智能产品消费等新型消费量身定制金融产品和服务。用足用好财政金融协同促内需专项资金，落实好个人消费贷款和服务业经营主体贷款贴息、创业担保贷款贴息、中小微企业贷款贴息等政策。鼓励保险机构围绕汽车、家电、家居等商品消费场景，量身提供保险产品。推动“数字人民币+消费”场景应用。",
    "in_roll": 1,
    "recommend": 1,
@@ -431,7 +888,7 @@
    "title": "广东：支持商业银行用好服务消费与养老再贷款、支农支小再贷款、再贴现等结构性货币政策工具 加大服务消费与养老领域信贷支持",
    "bold": 0,
    "sort_score": 1793690322,
-   "comment_num": 3,
+   "comment_num": 4,
    "modified_time": 1793690767,
    "status": 1,
    "collection": 0,
@@ -439,7 +896,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2523722?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 219,
+   "share_num": 246,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -466,7 +923,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 73193,
+     "attention_num": 73195,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 207,
@@ -631,7 +1088,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 399036,
+   "reading_num": 557596,
    "content": "【广东：加力支持智能网联汽车发展 推动整车企业依规争取L3级自动驾驶车型准入和上路通行试点】财联社11月3日电，广东省发展改革委印发《广东省扩大消费实施方案》。其中提出，加快发展“人工智能+消费”，推动人工智能手机和电脑、智能穿戴、智能机器人、桌面级三维（3D）打印设备等高端化发展，加快智能安防、视频照护系统等研发及互联互通，丰富数字产品消费选择。加力支持智能网联汽车发展，推动整车企业依规争取L3级自动驾驶车型准入和上路通行试点，有序开展大湾区智能驾驶测试和商业化运营。创新数字服务与内容消费，运用人工智能、虚拟现实赋能景区街区、文博场馆，推出优质数字文博、超高清视听、虚拟现实电影等产品，拓展智能体应用场景。积极培育新电商发展，健全品质电商标准，拓展虚拟主播、数字人、3D直播间等新型带货模式，鼓励发展AI虚拟试穿、AIGC商品内容生成等数字消费场景。加快建设消费领域（移动终端方向）国家人工智能应用中试基地，打造全栈国产化AI终端创新平台，提升新型消费品供给能力。",
    "in_roll": 1,
    "recommend": 1,
@@ -655,7 +1112,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2523723?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 73,
+   "share_num": 103,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -682,7 +1139,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 73193,
+     "attention_num": 73195,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 207,
@@ -756,7 +1213,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 440351,
+   "reading_num": 610909,
    "content": "【11月3日涨停分析】财联社11月3日电，今日全市场共48股涨停，连板股总数15只，34股封板未遂，封板率为59%（不含ST股、退市股）。焦点股方面，“羊”字辈的百洋股份18天10板、东方海洋10天6板、阳光照明9天5板，短剧概念股文投控股10天6板。",
    "in_roll": 1,
    "recommend": 1,
@@ -780,7 +1237,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2523711?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 196,
+   "share_num": 230,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -810,7 +1267,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184368,
+     "attention_num": 184369,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -823,7 +1280,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 21137,
+     "attention_num": 21139,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -871,7 +1328,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 499489,
+   "reading_num": 658953,
    "content": "【沪深300ETF华泰柏瑞（510300）等多只宽基ETF成交额创9个多月天量】财联社11月3日电，据财联社盯盘数据显示，尾盘热门宽基ETF量能持续放大，沪深300ETF华泰柏瑞（510300）尾盘半小时成交88亿，全天成交超190亿，创2026年1月28日以来天量，上证50ETF华夏（510050）成交超129亿，创2026年1月28日以来天量，中证1000ETF南方（512100）成交超124亿，创2026年1月21日以来天量。",
    "in_roll": 1,
    "recommend": 1,
@@ -887,7 +1344,7 @@
    "title": "沪深300ETF华泰柏瑞（510300）等多只宽基ETF成交额创9个多月天量",
    "bold": 0,
    "sort_score": 1793689468,
-   "comment_num": 56,
+   "comment_num": 63,
    "modified_time": 1793689468,
    "status": 1,
    "collection": 0,
@@ -895,7 +1352,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2523696?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 922,
+   "share_num": 1084,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -953,7 +1410,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184368,
+     "attention_num": 184369,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -966,7 +1423,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 13238,
+     "attention_num": 13239,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1014,7 +1471,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 513681,
+   "reading_num": 671033,
    "content": "【收评：科创50指数跌3.81% 四只热门宽基ETF成交突破百亿】财联社11月3日电，市场震荡调整，深成指跌超1%。午后上证50ETF华夏（510050）、创业板ETF易方达（159915）、沪深300ETF华泰柏瑞（510300）、科创50ETF华夏（588000）持续放量，自2024年“924行情”以来首次出现同一日内4只宽基ETF成交额突破百亿。沪深两市成交额1.7万亿，较上一个交易日缩量803亿。全市场超3300只个股下跌。盘面上，AI漫剧概念盘中走强，文投控股6天5板，浙文影业、大晟文化、龙版传媒2连板；电池紫竹高科2连板，龙蟠科技、丰元股份、尚水智能涨停；食品饮料概念局部活跃，皇台酒业3连板，均瑶健康、阳光乳业涨停。下跌方面，算力硬件概念集体走弱，新易盛、中际旭创、光库科技、天孚通信等纷纷下挫；物理AI概念震荡调整，世纪恒通20CM跌停，华依科技、奥普特跌超10%。截至收盘，沪指跌0.82%，深成指跌1.21%，创业板指跌2.73%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1030,15 +1487,15 @@
    "title": "收评：科创50指数跌3.81% 四只热门宽基ETF成交突破百亿",
    "bold": 0,
    "sort_score": 1793689367,
-   "comment_num": 56,
-   "modified_time": 1793689432,
+   "comment_num": 58,
+   "modified_time": 1793697678,
    "status": 1,
    "collection": 0,
    "has_img": 1,
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2523690?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 695,
+   "share_num": 775,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1078,7 +1535,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184368,
+     "attention_num": 184369,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1086,13 +1543,13 @@
     }
    ],
    "audio_url": [
-    "https://image.cls.cn/admin/20261103/150353ITXRPoZxg9gs.mp3"
+    "https://image.cls.cn/admin/20261103/172118wZNwaTGsxwJz.mp3"
    ],
    "author": "",
    "plate_list": [],
    "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
+   "assocVideoTitle": "【小财复盘】科创50低开低走跌3.81%，芯片产业链持续疲软，固态电池概念逆势走强",
+   "assocVideoUrl": "cailianshe://tiny_video_detail?video_id=2523886",
    "assocCreditRating": [],
    "invest_calendar": {
     "id": 0,
@@ -1126,7 +1583,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 650758,
+   "reading_num": 791254,
    "content": "财联社11月3日电，截至目前，南向资金净买入额达150亿港元。",
    "in_roll": 1,
    "recommend": 1,
@@ -1150,7 +1607,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2523655?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 32,
+   "share_num": 37,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1177,7 +1634,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 48857,
+     "attention_num": 48858,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1190,7 +1647,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 28248,
+     "attention_num": 28249,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1238,7 +1695,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 766637,
+   "reading_num": 914001,
    "content": "【同日4只热门宽基ETF成交超100亿 为924行情以来首次】财联社11月3日电，据财联社盯盘数据显示，午后宽基ETF持续放量，上证50ETF华夏（510050）成交超110亿，环比上一日增超3倍，创业板ETF易方达（159915）成交超150亿，沪深300ETF华泰柏瑞（510300）、科创50ETF华夏（588000）成交超100亿元，自2024年“924行情”以来首次出现同一日内4只ETF成交额超100亿，中证500ETF南方（510500）成交超90亿，已超上一日全天。",
    "in_roll": 1,
    "recommend": 1,
@@ -1262,7 +1719,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2523622?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 1043,
+   "share_num": 1060,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1340,7 +1797,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184368,
+     "attention_num": 184369,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1353,7 +1810,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 13238,
+     "attention_num": 13239,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1401,7 +1858,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 896078,
+   "reading_num": 1039130,
    "content": "【科创50跌超5% 创业板指跌近3%】财联社11月3日电，指数继续走低，科创50指数跌超5%，创业板指跌近3%，深成指、沪指跌超1.5%，北证50指数跌近4%。算力硬件、半导体芯片、医药生物等方向跌幅居前，沪深京三市下跌个股近3600只。",
    "in_roll": 1,
    "recommend": 1,
@@ -1425,7 +1882,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2523596?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 403,
+   "share_num": 405,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1473,7 +1930,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184368,
+     "attention_num": 184369,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1521,7 +1978,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1113551,
+   "reading_num": 1234129,
    "content": "财联社11月3日电，截至目前，南向资金净买入额达130亿港元。",
    "in_roll": 1,
    "recommend": 1,
@@ -1572,7 +2029,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 48857,
+     "attention_num": 48858,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1620,7 +2077,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1208545,
+   "reading_num": 1330756,
    "content": "【CPO概念持续下挫 中际旭创跌超9%失守500元关口】财联社11月3日电，午后CPO概念持续下挫，中际旭创跌超9%，失守500元关口，A+H股总市值跌破6000亿，股价自2026年6月22日历史高点回撤近65%，蘅东光跌超20%，光库科技、联特科技、源杰科技、天孚通信均跌超8%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1644,7 +2101,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2523539?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 165,
+   "share_num": 172,
    "sub_titles": [
     {
      "article_id": "2523691",
@@ -1747,7 +2204,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184368,
+     "attention_num": 184369,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1808,7 +2265,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1340323,
+   "reading_num": 1454524,
    "content": "【央行于今日开展了1000亿元证券、基金、保险公司互换便利操作 中标费率为10bp】财联社11月3日电，央行官网发布证券、基金、保险公司互换便利（SFISF）操作结果公告 [2026]第1号，根据参与机构需求情况，中国人民银行于2026年11月3日开展了证券、基金、保险公司互换便利操作。本次操作金额1000亿元，采用费率招标方式，31家证券、基金公司参与投标，中标费率为10bp。",
    "in_roll": 1,
    "recommend": 1,
@@ -1832,7 +2289,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2523517?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 985,
+   "share_num": 1004,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1872,7 +2329,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 687805,
+     "attention_num": 687806,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1920,7 +2377,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1289150,
+   "reading_num": 1399405,
    "content": "财联社11月3日电，韩国KOSPI指数跌幅扩大至4%，SK海力士跌逾6%，三星电子跌近5%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1944,7 +2401,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2523508?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 108,
+   "share_num": 110,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1971,7 +2428,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 173231,
+     "attention_num": 173233,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -2020,7 +2477,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1292474,
+   "reading_num": 1402072,
    "content": "【财联社11月3日午间新闻精选】\n1、截至午间收盘，沪指跌0.71%，深证成指跌0.16%，创业板指跌0.94%。\n2、港股午间收盘，恒生指数涨0.52%，恒生科技指数涨0.96%。\n3、证监会副主席李超在香港国际金融领袖投资峰会上表示，将全力维护资本市场平稳运行。今年以来，面对多重超预期输入性风险挑战，证监会密切加强监测监控和稳市机制建设，着力夯实市场稳的基础，进一步健全长钱长投制度生态，深入推进公募基金改革，推动社保、年金、保险等中长期资金入市规模和比例稳步提升。\n4、国家发改委在新闻发布会上介绍，到“十五五”末，新兴支柱产业的产值有望翻一番，达到10万亿元以上，成为支撑经济高质量发展的重要力量。\n5、据财联社盯盘数据显示，开盘1小时，多只宽基ETF显著放量，其中，上证50ETF华夏（510050）成交超70亿，环比上一日增超1.5倍。\n6、美东时间11月2日，有美国官员透露，美国当天袭击了伊朗格什姆岛。",
    "in_roll": 1,
    "recommend": 1,
@@ -2044,7 +2501,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2523494?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 93,
+   "share_num": 95,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -2091,617 +2548,6 @@
    "is_fad": 0,
    "disclaimer": "",
    "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1281753,
-   "content": "【11月3日午间涨停分析】财联社11月3日电，今日午盘全市场共52股涨停，连板股总数20只，15股封板未遂，封板率为78%（不含ST股、退市股）。焦点股方面，“羊”字辈的百洋股份18天10板、东方海洋10天6板、阳光照明9天5板，短剧概念股文投控股10天6板。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 0,
-   "img": "https://image.cls.cn/images/20261103/560qgioGjL_1000x11787.jpg,https://image.cls.cn/images/20261103/5237OLGpvk_1740x682.png",
-   "user_id": 431,
-   "is_top": 0,
-   "brief": "【11月3日午间涨停分析】财联社11月3日电，今日午盘全市场共52股涨停，连板股总数20只，15股封板未遂，封板率为78%（不含ST股、退市股）。焦点股方面，“羊”字辈的百洋股份18天10板、东方海洋10天6板、阳光照明9天5板，短剧概念股文投控股10天6板。",
-   "id": 2523480,
-   "ctime": 1793677891,
-   "type": -1,
-   "title": "11月3日午间涨停分析",
-   "bold": 0,
-   "sort_score": 1793677891,
-   "comment_num": 5,
-   "modified_time": 1793677891,
-   "status": 1,
-   "collection": 0,
-   "has_img": 1,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2523480?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 103,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [
-    "https://image.cls.cn/images/20261103/560qgioGjL_1000x11787.jpg",
-    "https://image.cls.cn/images/20261103/5237OLGpvk_1740x682.png"
-   ],
-   "explain_num": -1,
-   "stock_list": [
-    {
-     "rise_range_has_null": 0.0996,
-     "RiseRange": 9.96,
-     "name": "百洋股份",
-     "StockID": "sz002696",
-     "schema": "cailianshe://stock_detail?stock_id=sz002696",
-     "status": "L",
-     "last": 12.36,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0982,
-     "RiseRange": 9.82,
-     "name": "文投控股",
-     "StockID": "sh600715",
-     "schema": "cailianshe://stock_detail?stock_id=sh600715",
-     "status": "L",
-     "last": 2.46,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.1,
-     "RiseRange": 10,
-     "name": "阳光照明",
-     "StockID": "sh600261",
-     "schema": "cailianshe://stock_detail?stock_id=sh600261",
-     "status": "L",
-     "last": 4.95,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0997,
-     "RiseRange": 9.969999,
-     "name": "东方海洋",
-     "StockID": "sz002086",
-     "schema": "cailianshe://stock_detail?stock_id=sz002086",
-     "status": "L",
-     "last": 3.42,
-     "is_stib": false
-    }
-   ],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2523480,
-     "subject_id": 1103,
-     "subject_name": "盘面直播",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 184368,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261103/115132TKWNAdccMOSs.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1482702,
-   "content": "【午评：科创50指数半日跌2.54% AI漫剧概念股集体走强】财联社11月3日电，科创50指数早盘低开低走，创业板指、深成指冲高回落。沪深两市半日成交额9926亿，较上个交易日缩量1475亿。全市场超3300只个股上涨。盘面上，热点快速轮动，AI漫剧概念走强，文投控股6天5板，掌阅科技5天3板，浙文影业、大晟文化、龙版传媒、华智数媒2连板；电池紫竹高科2连板，龙蟠科技、盟固利、丰元股份、尚水智能涨停；食品饮料概念局部活跃，皇台酒业3连板，均瑶健康、阳光乳业涨停。下跌方面，算力硬件概念集体走弱，中际旭创、光库科技、天孚通信、生益科技等纷纷下挫；银行板块震荡调整，中国银行、上海银行、中信银行等盘中回落。截至收盘，沪指跌0.71%，深成指跌0.16%，创业板指跌0.94%。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 1,
-   "img": "https://image.cls.cn/images/20261103/uBADb5G461_1320x1897.jpg",
-   "user_id": 914,
-   "is_top": 0,
-   "brief": "【午评：科创50指数半日跌2.54% AI漫剧概念股集体走强】财联社11月3日电，科创50指数早盘低开低走，创业板指、深成指冲高回落。沪深两市半日成交额9926亿，较上个交易日缩量1475亿。全市场超3300只个股上涨。盘面上，热点快速轮动，AI漫剧概念走强，文投控股6天5板，掌阅科技5天3板，浙文影业、大晟文化、龙版传媒、华智数媒2连板；电池紫竹高科2连板，龙蟠科技、盟固利、丰元股份、尚水智能涨停；食品饮料概念局部活跃，皇台酒业3连板，均瑶健康、阳光乳业涨停。下跌方面，算力硬件概念集体走弱，中际旭创、光库科技、天孚通信、生益科技等纷纷下挫；银行板块震荡调整，中国银行、上海银行、中信银行等盘中",
-   "id": 2523473,
-   "ctime": 1793676747,
-   "type": -1,
-   "title": "午评：科创50指数半日跌2.54% AI漫剧概念股集体走强",
-   "bold": 0,
-   "sort_score": 1793676747,
-   "comment_num": 67,
-   "modified_time": 1793676786,
-   "status": 1,
-   "collection": 0,
-   "has_img": 1,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2523473?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 438,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [
-    "https://image.cls.cn/images/20261103/uBADb5G461_1320x1897.jpg"
-   ],
-   "explain_num": -1,
-   "stock_list": [
-    {
-     "rise_range_has_null": -0.0381,
-     "RiseRange": -3.81,
-     "name": "科创50",
-     "StockID": "sh000688",
-     "schema": "cailianshe://stock_detail?stock_id=sh000688",
-     "status": "L",
-     "last": 1151.282,
-     "is_stib": false
-    }
-   ],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2523473,
-     "subject_id": 1103,
-     "subject_name": "盘面直播",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 184368,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261103/113307bX2HwjLxEoG6.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1614226,
-   "content": "【多只宽基ETF显著放量 上证50ETF华夏（510050）成交额环比上一日增超1.5倍】财联社11月3日电，据财联社盯盘数据显示，开盘1小时，多只宽基ETF显著放量，上证50ETF华夏（510050）成交超70亿，环比上一日增超1.5倍，沪深300ETF华泰柏瑞（510300）、创业板ETF易方达（159915）、科创50ETF华夏（588000）均成交超65亿元。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 1,
-   "img": "",
-   "user_id": 684,
-   "is_top": 0,
-   "brief": "【多只宽基ETF显著放量 上证50ETF华夏（510050）成交额环比上一日增超1.5倍】财联社11月3日电，据财联社盯盘数据显示，开盘1小时，多只宽基ETF显著放量，上证50ETF华夏（510050）成交超70亿，环比上一日增超1.5倍，沪深300ETF华泰柏瑞（510300）、创业板ETF易方达（159915）、科创50ETF华夏（588000）均成交超65亿元。\n",
-   "id": 2523385,
-   "ctime": 1793673432,
-   "type": -1,
-   "title": "多只宽基ETF显著放量 上证50ETF华夏（510050）成交额环比上一日增超1.5倍",
-   "bold": 1,
-   "sort_score": 1793673432,
-   "comment_num": 16,
-   "modified_time": 1793673432,
-   "status": 1,
-   "collection": 0,
-   "has_img": 0,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2523385?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 361,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [],
-   "explain_num": -1,
-   "stock_list": [
-    {
-     "rise_range_has_null": -0.0381,
-     "RiseRange": -3.81,
-     "name": "科创50",
-     "StockID": "sh000688",
-     "schema": "cailianshe://stock_detail?stock_id=sh000688",
-     "status": "L",
-     "last": 1151.282,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.002,
-     "RiseRange": -0.2,
-     "name": "沪深300",
-     "StockID": "sz399300",
-     "schema": "cailianshe://stock_detail?stock_id=sz399300",
-     "status": "L",
-     "last": 4008.874,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": -0.002,
-     "RiseRange": -0.2,
-     "name": "沪深300",
-     "StockID": "sh000300",
-     "schema": "cailianshe://stock_detail?stock_id=sh000300",
-     "status": "L",
-     "last": 4008.874,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0021,
-     "RiseRange": 0.21,
-     "name": "上证50",
-     "StockID": "sh000016",
-     "schema": "cailianshe://stock_detail?stock_id=sh000016",
-     "status": "L",
-     "last": 2768.273,
-     "is_stib": false
-    }
-   ],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2523385,
-     "subject_id": 1103,
-     "subject_name": "盘面直播",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 184368,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    },
-    {
-     "article_id": 2523385,
-     "subject_id": 1797,
-     "subject_name": "ETF最新动态",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 13238,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261103/103712KrxRkzt348EO.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1681223,
-   "content": "【AI漫剧概念持续走高 华智数媒20cm2连板】财联社11月3日电，AI漫剧概念盘中持续走高，华智数媒20cm2连板，此前大晟文化、龙版传媒、慈文传媒、浙文影业等多股涨停，海看股份、芒果超媒、上海电影、果麦文化等多股涨超5%。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 0,
-   "img": "",
-   "user_id": 684,
-   "is_top": 0,
-   "brief": "【AI漫剧概念持续走高 华智数媒20cm2连板】财联社11月3日电，AI漫剧概念盘中持续走高，华智数媒20cm2连板，此前大晟文化、龙版传媒、慈文传媒、浙文影业等多股涨停，海看股份、芒果超媒、上海电影、果麦文化等多股涨超5%。",
-   "id": 2523357,
-   "ctime": 1793672140,
-   "type": -1,
-   "title": "AI漫剧概念持续走高 华智数媒20cm2连板",
-   "bold": 1,
-   "sort_score": 1793672140,
-   "comment_num": 12,
-   "modified_time": 1793672140,
-   "status": 1,
-   "collection": 0,
-   "has_img": 0,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2523357?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 99,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [],
-   "explain_num": -1,
-   "stock_list": [
-    {
-     "rise_range_has_null": -0.0212,
-     "RiseRange": -2.12,
-     "name": "果麦文化",
-     "StockID": "sz301052",
-     "schema": "cailianshe://stock_detail?stock_id=sz301052",
-     "status": "L",
-     "last": 38.36,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.056,
-     "RiseRange": 5.6000004,
-     "name": "慈文传媒",
-     "StockID": "sz002343",
-     "schema": "cailianshe://stock_detail?stock_id=sz002343",
-     "status": "L",
-     "last": 8.3,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0389,
-     "RiseRange": 3.8899999,
-     "name": "芒果超媒",
-     "StockID": "sz300413",
-     "schema": "cailianshe://stock_detail?stock_id=sz300413",
-     "status": "L",
-     "last": 27.8,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.1007,
-     "RiseRange": 10.07,
-     "name": "大晟文化",
-     "StockID": "sh600892",
-     "schema": "cailianshe://stock_detail?stock_id=sh600892",
-     "status": "L",
-     "last": 4.81,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.1009,
-     "RiseRange": 10.09,
-     "name": "浙文影业",
-     "StockID": "sh601599",
-     "schema": "cailianshe://stock_detail?stock_id=sh601599",
-     "status": "L",
-     "last": 3.82,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0112,
-     "RiseRange": 1.12,
-     "name": "上海电影",
-     "StockID": "sh601595",
-     "schema": "cailianshe://stock_detail?stock_id=sh601595",
-     "status": "L",
-     "last": 30.59,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.1,
-     "RiseRange": 10,
-     "name": "龙版传媒",
-     "StockID": "sh605577",
-     "schema": "cailianshe://stock_detail?stock_id=sh605577",
-     "status": "L",
-     "last": 14.3,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.0259,
-     "RiseRange": 2.5900002,
-     "name": "海看股份",
-     "StockID": "sz301262",
-     "schema": "cailianshe://stock_detail?stock_id=sz301262",
-     "status": "L",
-     "last": 23.76,
-     "is_stib": false
-    },
-    {
-     "rise_range_has_null": 0.1628,
-     "RiseRange": 16.28,
-     "name": "华智数媒",
-     "StockID": "sz300426",
-     "schema": "cailianshe://stock_detail?stock_id=sz300426",
-     "status": "L",
-     "last": 9,
-     "is_stib": false
-    }
-   ],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2523357,
-     "subject_id": 1103,
-     "subject_name": "盘面直播",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 184368,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    },
-    {
-     "article_id": 2523357,
-     "subject_id": 11050,
-     "subject_name": "短剧",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 9241,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 2453,
-     "channel": "cls,stib"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261103/101540YKm7r3dnJxgl.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
   }
  ],
  "recap": {
@@ -2713,13 +2559,480 @@
    "下跌": 3308
   },
   "ladder": {
-   "首板": 0,
-   "2板": 0,
-   "3板": 0,
-   "高度板": 0,
-   "总计": 0
+   "首板": 31,
+   "2板": 17,
+   "3板": 1,
+   "高度板": 3,
+   "总计": 52
   },
-  "sectors": [],
+  "sectors": [
+   {
+    "name": "锂电池",
+    "count": 10,
+    "stocks": [
+     {
+      "code": "002580",
+      "name": "圣阳股份",
+      "board": "首板",
+      "concept": "磷酸铁锂、钠电池",
+      "reason": "固态电池+算力；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 固态电池：据2026年半年报，公司已形成覆盖锂离子电池、铅蓄电池、钠离子电池及固态电池等新型化学电源及电源系统、储能系统集成的综合研发能力\r\n\r\n2. 算力：据2026年11月2日圣阳股份公众号消息，圣阳股份作为主要起草单位之一参与编制国家标准指导性技术文件《算力中心储能系统 第1部分：选型指南》，该文件已正式发布。"
+     },
+     {
+      "code": "002088",
+      "name": "鲁阳节能",
+      "board": "3天2板",
+      "concept": "光热发电、低价股",
+      "reason": "锂电池+非金属材料；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 锂电池：据2026年6月10日互动易及5月15日投资者关系活动记录表，新能源电池行业是公司重点拓展的主要市场之一，公司目前已形成“陶铠”与“炽盾”两大品牌系列，纤维纸产品主要是为电池防火包覆材料加工厂家提供加工基材，已通过IATF16949体系认证。公司纤维纸产品可以用于新能源汽车锂电池防火隔热。\r\n\r\n2. 非金属材料：据2026年半年报，公司具备年产约58万吨陶瓷纤维产品的生产能力，拥有山东、内蒙古、贵州陶瓷纤维生产基地，陶瓷纤维产能布局辐射全国。"
+     },
+     {
+      "code": "603906",
+      "name": "龙蟠科技",
+      "board": "首板",
+      "concept": "磷酸铁锂、钠电池",
+      "reason": "固态电池+液冷；1. 固态电池：据2026年10月15日公告，公司依托深圳、南京、常州三大研发中心及CNAS认证测试平台，重点强化在磷酸铁锂正极材料、钠离子电池正极材料及固态电池技术方面的研发投入\r\n\r\n2. 液冷：据2026年半年报，公司冷却液包含数据中心冷板式冷却液、数据中心浸没式冷却液等产品；2026年3月21日公司推出第二代算力中心冷却液，该产品已被华为列入《计算集群硬件液冷可部署要求》认证名单"
+     },
+     {
+      "code": "002058",
+      "name": "紫竹高科",
+      "board": "2连板",
+      "concept": "金属铝、创投",
+      "reason": "锂电池(固态电池)；据2026年9月7日投资者关系活动记录表，公司铝塑膜产品主要用于软包锂电池，在下游动力储能领域目前软包锂电池的市场份额较小，固态电池方面各大电池厂商仍处于研发阶段，软包目前仍是各家的主要技术方向，公司与主要电池厂商在固态电池研发方面持续保持合作。"
+     },
+     {
+      "code": "605378",
+      "name": "野马电池",
+      "board": "首板",
+      "concept": "超跌、生育概念",
+      "reason": "锂电池+电源；1. 锂电池：据2026年5月7日公告，公司关联方深圳市中金岭南科技有限公司（公司董事会秘书朱翔担任其董事）经营范围包括锂一次纽扣电池、锂二次纽扣电池、锂离子纽扣电池、扣式超级电容器及配件的研发及生产销售\r\n\r\n2. 电源：据2026年半年报，公司专注于高性能、环保锌锰电池的研发、生产和销售，主营产品涵盖碱性电池（LR系列）与碳性电池（R系列），全部产品均已实现无汞化、无镉化，广泛应用于遥控器、钟表、玩具、智能家居等领域。"
+     },
+     {
+      "code": "600293",
+      "name": "三峡新材",
+      "board": "2连板",
+      "concept": "光伏玻璃、动力电池",
+      "reason": "电解液+并购重组；据2026年11月2日晚公告，三峡新材全资子公司三峡新材硅业（宜昌）有限公司成功竞得宜昌市夷陵区红岩头玻璃用砂岩矿采矿权，并与夷陵区自然资源和规划局签订《采矿权出让合同》。\r\n\r\n电解液+并购重组：据2026年10月19日晚公告，三峡新材拟以发行股份及支付现金方式购买珠海赛纬100%股权，并向包括当阳城投在内的不超过35名特定对象募集配套资金不超过10亿元；公告称剩余资金不低于80%用于标的公司基地建设。标的公司主要从事锂离子电池电解液的研发、生产和销售。"
+     },
+     {
+      "code": "002805",
+      "name": "丰元股份",
+      "board": "首板",
+      "concept": "磷酸铁锂、钠电池",
+      "reason": "固态电池+磷酸铁锂；1. 固态电池：据2026年10月20日投资者关系活动记录表，公司在固态电池正极材料领域进行了前瞻性研发布局，并参股了固态电池生产企业，但持股比例较低，未纳入公司合并报表范围，不会对公司当前主营业务及经营业绩构成重大影响\r\n\r\n2. 磷酸铁锂：据2026年10月20日投资者关系活动记录表，公司磷酸铁锂正极材料已建成产能22.5万吨，分布在山东枣庄、安徽安庆、云南玉溪三地，另有2.5万吨产能处于在建阶段"
+     },
+     {
+      "code": "301513",
+      "name": "尚水智能",
+      "board": "首板",
+      "concept": "钠电池、锂电设备",
+      "reason": "固态电池+次新股；据2026年10月15日互动易，公司持续开展干法及固态电池相关工艺装备的研发与应用，相关产品目前主要处于研发验证及小批量交付阶段，尚未形成规模化收入。"
+     },
+     {
+      "code": "600241",
+      "name": "时代万恒",
+      "board": "首板",
+      "concept": "大圆柱电池、地方国企",
+      "reason": "锂电池+电源；1. 锂电池：据2026年10月8日晚公告，公司锂电池产品主要应用于电动工具领域，镍氢电池产品主要应用于个人护理、民用消费品、电动工具等领域。\r\n\r\n2. 电源：据2025年10月14日互动易，公司仅向第三方少量出货用于BBU备用电源的电池，出货量占比不大"
+     },
+     {
+      "code": "002992",
+      "name": "宝明科技",
+      "board": "首板",
+      "concept": "超跌、固态电池",
+      "reason": "固态电池+PCB铜箔；1. 固态电池：据2026年4月14日互动易，公司开发出的新一代锂电复合铜箔大幅提升了产品的各项性能指标，具有低面阻、免辊焊的特点，并在硅碳负极及固态电池的应用上具有更好的性能优势，该产品已实现批量供货。\r\n\r\n2. PCB铜箔：据2026年8月5日互动易，公司研发用于AI服务器的HVLP4/5高端铜箔，目前HVLP4/5铜箔主要技术指标已完成厂内验证，正布局向下游客户送样"
+     }
+    ]
+   },
+   {
+    "name": "其他",
+    "count": 8,
+    "stocks": [
+     {
+      "code": "603289",
+      "name": "泰瑞机器",
+      "board": "首板",
+      "concept": "低价股、病毒防治",
+      "reason": "并购重组+存储；据2026年11月2日晚公告，泰瑞机器拟以增资及股权转让方式收购亿芯微半导体科技（深圳）有限公司不低于51%股权：支付现金对价不超过4480万元受让16%股权，并现金增资不超过2亿元取得41.67%股权。标的公司主营存储模组业务研发、生产制造及销售，依托自建封测产线生产BGA颗粒、SSD、eMMC、TF卡及封装测试服务等产品。交易完成后，亿芯微将成为公司控股子公司。"
+     },
+     {
+      "code": "600261",
+      "name": "阳光照明",
+      "board": "4连板",
+      "concept": "参股券商、电解槽",
+      "reason": "商业航天+LED；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 商业航天：据2026年半年报，公司使用自有资金3000万元参与蓝星光域（上海）航天科技有限公司融资，完成后持有其1.1%股权；蓝星光域专注于全场景激光通信解决方案，核心产品包括星载同轨/异轨激光通信终端、机载平流层激光通信终端等，主要应用于卫星间、星地间高速率通信。\r\n\r\n2. LED：据2026年半年报，公司主要从事照明电器的研发、生产和销售，并为客户提供综合照明解决方案；照明类产品主要包括LED光源产品（球泡、射灯等）、LED灯具产品、照明控制系统及智能照明解决方案。"
+     },
+     {
+      "code": "000599",
+      "name": "青岛双星",
+      "board": "2连板",
+      "concept": "轮胎、中日韩贸易",
+      "reason": "汽车零部件(轮胎)；据2026年10月30日公告，公司优化产品结构，高附加值产品及EV新能源产品销售占比稳步提升，并持续深化双星轮胎与锦湖轮胎产品、渠道、产能、供应链的协同"
+     },
+     {
+      "code": "000151",
+      "name": "中成股份",
+      "board": "首板",
+      "concept": "中字头、远东开发",
+      "reason": "中字头+一带一路；1. 中字头：公司是中字头股票，公司实控人为国务院国有资产监督管理委员会。\r\n\r\n2. 一带一路：据2026年半年报，公司承接控股股东COMPLANT品牌，在亚非拉及“一带一路”沿线国家赢得很高知名度、良好的声誉和较大的品牌影响力；公司在科特迪瓦、巴巴多斯、阿塞拜疆等重点国别项目均按计划稳步推进"
+     },
+     {
+      "code": "000608",
+      "name": "阳光股份",
+      "board": "首板",
+      "concept": "租售同权、房地产",
+      "reason": "地产链(房地产)；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n房地产：据2026年半年报，公司核心业务体系涵盖商业运营管理、物业租赁及房屋销售三大板块；报告期内公司商业运营和物业租赁业务主要集中在北京、上海、深圳、成都和沈阳；房屋销售业务主要推进北京阳光上东项目车位销售及成都锦尚项目商办写字楼及配套车位销售"
+     },
+     {
+      "code": "002652",
+      "name": "扬子新材",
+      "board": "3天2板",
+      "concept": "低价股、雄安新区",
+      "reason": "三季报增长+洁净室；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”等谐音yang的个股频频异动。\r\n\r\n1. 三季报增长：据2026年10月29日晚公告，扬子新材2026年第三季度营业收入同比增长41.50%，年初至报告期末同比增长30.55%，主要系公司报告期内销量增加所致；归属于上市公司股东的净利润较上年同期减亏58.72%，扣除非经常性损益的净利润减亏59.20%\r\n\r\n2. 洁净室：据2026年8月13日互动易，公司的主要产品包括高洁净彩涂板、抗静电彩涂板、高韧耐污彩涂板等，主要用于集成电路厂房、医疗场所等建设项目，下游主要客户为净化及洁净类公司"
+     },
+     {
+      "code": "002522",
+      "name": "浙江众成",
+      "board": "首板",
+      "concept": "地方国企、国有企业",
+      "reason": "成人用品+光纤概念；据2026年11月3日城市金融网报道，心言机器人创始人任永亮称，AI家庭陪伴机器人赛道正处发展拐点，核心比拼的是共情交互与分寸感，而非硬件运动能力\r\n\r\n1. 成人用品：据2026年6月30日互动易，公司控股子公司浙江众立合成材料的氢化苯乙烯/异戊二烯嵌段共聚物（SEPS）系列产品可用于实体娃娃等成人用品领域，其下游客户经改性后可用于加工实体娃娃的肌肤部分，已具备成熟的规模化生产能力。\r\n\r\n2. 光纤概念：据2026年半年报，公司控股子公司众立合成材料形成以SEP（光纤油膏）、SEPS、SEBS为主的三大类高端产品，及年产7万吨左右的弹性体产品产能规模；众立合成材料的高端产品中光缆光纤用油膏已实现工业化生产并批量供货。"
+     },
+     {
+      "code": "601123",
+      "name": "马矿股份",
+      "board": "首板",
+      "concept": "铁矿石、钢铁",
+      "reason": "次新股+海峡两岸；公司位于福建省龙岩市。据2026年9月10日互动易，根据公司招股书披露，截至2025年末，马坑铁矿共伴生钼矿金属量为4.33万吨；公司的钼矿属于铁矿石的共伴生资源，并非独立的钼矿矿山，钼精矿是公司在铁矿石采选过程中综合回收利用的副产品。"
+     }
+    ]
+   },
+   {
+    "name": "食品饮料",
+    "count": 4,
+    "stocks": [
+     {
+      "code": "605388",
+      "name": "均瑶健康",
+      "board": "首板",
+      "concept": "食品饮料、网络直播",
+      "reason": "食品饮料+三季报增长；据2026年10月30日公告，均瑶健康2026年前三季度营业收入同比增长10.52%，其中依托KA渠道定制化产品放量以及每日博士纤维饮等产品销售贡献提升，其他饮品和食品业务营业收入同比增长288.45%；每日博士C3系列为代表的产品市场认可度持续提升，益生菌食品业务营业收入同比增长11.58%。"
+     },
+     {
+      "code": "600358",
+      "name": "国旅联合",
+      "board": "首板",
+      "concept": "食品饮料、地方国企",
+      "reason": "食品饮料+互联网营销；1. 食品饮料：据2026年9月21日投资者交流活动记录表，润田以明月山温汤深层水源打造“润田翠”天然含硒矿泉水，并同步依托吉安东固高偏硅酸水源构建“含硒+高偏硅酸”双水源产品矩阵；润田采取多品类产品布局策略，产品涵盖苏打水、蜂蜜水、电解质水，并同步布局无糖茶等新品类。\r\n\r\n2. 互联网营销：据2026年9月21日投资者交流活动记录表，公司保留新线中视（互联网数字营销）及海际购（跨境电商）两块轻资产业务，经营定位已从追求营收规模转向追求利润，2026年上半年基本实现盈亏平衡，形成以互联网数字营销和跨境电商为两翼的业务格局"
+     },
+     {
+      "code": "001318",
+      "name": "阳光乳业",
+      "board": "首板",
+      "concept": "乳业、食品饮料",
+      "reason": "食品饮料(乳业)；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n乳业：据2026年10月25日阳光乳业公众号消息，市委常委、市纪委书记、市监委代理主任石军英莅临江西阳光乳业调研。据2026年10月20日阳光乳业公众号消息，阳光乳业奉新嘉牧生态牧场入选2025全国规模牧场“12吨俱乐部”，成母牛单产达到12100公斤；阳光乳业在江西布局三大自有现代化牧场，为阳光鲜奶供给优质生鲜乳。"
+     },
+     {
+      "code": "601366",
+      "name": "利群股份",
+      "board": "首板",
+      "concept": "破净股概念、食品饮料",
+      "reason": "食品饮料；据2026年半年报，公司下设青岛福昌科技等专业化子公司，自主研发豆制品、米面制品、烘焙面包、预制菜、粉丝、薯条等500余种单品；上半年公司推进“利群甄选”品牌体系建设，新增方便速食、酒水饮料等新品类。"
+     }
+    ]
+   },
+   {
+    "name": "ST板块",
+    "count": 4,
+    "stocks": [
+     {
+      "code": "600537",
+      "name": "*ST亿晶 ",
+      "board": "2连板",
+      "concept": "光伏组件、ST板块",
+      "reason": "ST板块+光伏；据2026年11月2日公告，公司与预重整引导人及产业投资人中润光能、宁波瑞廉签署补充协议，中润光能出资约7.19亿元认购不低于3.995亿股，宁波瑞廉出资1亿元认购不低于5554.94万股；重整完成后实控人拟变更为龙大强、孟丽叶。\r\n\r\nST板块+光伏：据2026年半年报，公司属于光伏行业，主营业务为高效晶体硅太阳能电池、组件的研发、生产和销售，同时开展光伏电站开发、建设和运营业务。"
+     },
+     {
+      "code": "600734",
+      "name": "*ST实达 ",
+      "board": "2连板",
+      "concept": "ST板块、地方国企",
+      "reason": "ST板块；2026年10月30日晚公告，公司正在筹划以现金方式收购福建省凯特科技有限公司不低于51%股权。据披露，凯特科技为国有实际控制高新技术企业，主营业务为数字安全领域相关的软件开发、技术服务、系统集成业务等，本次交易预计构成重大资产重组。"
+     },
+     {
+      "code": "000838",
+      "name": "*ST发展",
+      "board": "首板",
+      "concept": "成渝经济圈、ST板块",
+      "reason": "ST板块+房地产；10月26日公告，公司目前仍处于预重整阶段，公司将继续积极配合预重整辅助机构及法院推进相关工作\r\n\r\nST板块+房地产：据2026年半年报，公司房地产开发行业的主要经营范围为房地产开发，销售自行开发的商品房"
+     },
+     {
+      "code": "300010",
+      "name": "ST豆神",
+      "board": "2连板",
+      "concept": "ST板块、短剧",
+      "reason": "ST板块+算力；据2026年10月21日公告，公司全资孙公司豆神香港有限公司与客户VB签署《云计算服务协议》，豆神香港为客户VB提供GPU算力租赁、部署及运维云计算服务，订单总金额118,855,680.00美元(不含税，折合人民币约800,504,890.37元)，服务期限60个月。"
+     }
+    ]
+   },
+   {
+    "name": "海峡两岸",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "002300",
+      "name": "太阳电缆",
+      "board": "首板",
+      "concept": "福建自贸区、绿色电力",
+      "reason": "海峡两岸+电气设备；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n海峡两岸+电气设备：公司位于福建省南平市。据2026年半年报，公司主营业务为电线电缆的研发、生产与销售，主要产品涵盖500kV及以下交联聚乙烯绝缘电力电缆、核电站电缆、风力电缆、35～500kV海底电力电缆等；中、高压系列海底电缆项目已顺利投产。"
+     },
+     {
+      "code": "600802",
+      "name": "福建水泥",
+      "board": "首板",
+      "concept": "水泥、参股券商",
+      "reason": "海峡两岸+水泥；公司是福建省最大的水泥生产企业，拥有\"建福\"、\"炼石\"两个品牌商标，均是\"福建省著名商标\"。据2026年半年报，公司主要从事水泥及熟料的生产及销售，拥有新型干法熟料水泥生产线共5条，熟料设计产能785万吨，产品主要有\"建福\"\"炼石\"两个品牌的各等级硅酸盐水泥，并取得核电工程用硅酸盐水泥、海工硅酸盐水泥两个特种水泥的生产许可。"
+     },
+     {
+      "code": "002578",
+      "name": "闽发铝业",
+      "board": "2连板",
+      "concept": "光伏支架、地方国企",
+      "reason": "海峡两岸+光伏支架；公司地处福建省。据2026年半年报，公司工业铝型材积极拓展新能源汽车型材、光伏边框及支架型材、液冷铝型材等高增长赛道，不断丰富高端工业型材产品体系，提升产品附加值与市场竞争力。"
+     }
+    ]
+   },
+   {
+    "name": "游戏(互动影游)",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "600892",
+      "name": "大晟文化",
+      "board": "2连板",
+      "concept": "互动影游、短剧",
+      "reason": "互动影游+短剧；据2026年10月30日晚公告，公司于2026年10月29日与北京昆仑万合签署《产权转让合同》，以36.6万元公开挂牌转让所持中联传动100%股权，剥离电影、影视剧投资制作等低效资产，聚焦短剧及定制剧承制等核心业务，降低运营成本与控制风险，实现整体资源优化配置。\r\n\r\n1. 互动影游：据2026年半年报，公司影视业务板块管理团队长期深耕影视领域，具备成熟的制片管理机制、丰富的行业人脉及产业链协同资源，并积极布局短剧、互动影游等新兴形态，持续提升运营效能。\r\n\r\n2. 短剧：据2026年10月24日公告，大晟文化在海外短剧领域已构建独立运营体系，国外平台分为自有平台（cafe drama）及其他海外平台运营，自有海外短剧平台已完成多语言版本上线；公司在短剧领域已构建覆盖国内与海外的全产业链运营体系"
+     },
+     {
+      "code": "603258",
+      "name": "电魂网络",
+      "board": "2连板",
+      "concept": "互动影游、短剧",
+      "reason": "互动影游+AI视频；1. 互动影游：据2026年9月16日公告，2025年公司上线了养成游戏《吾家有女Ai》，支持自然语言交互，角色行为随玩家引导动态变化，实现\"千人千面\"的多元结局。\r\n\r\n2. AI视频：据2026年10月31日电魂网络公众号消息，电魂网络依托其国风《梦三国》IP打造的AI漫剧《梦启三国·破界之战》已在红果平台开放预约，即将全平台上线；电魂网络作为IP持有方与出品方，搭建专属AI资产库，采用人工创意主导、AI技术辅助的工业化模式推进制作"
+     },
+     {
+      "code": "600715",
+      "name": "文投控股",
+      "board": "6天5板",
+      "concept": "互动影游、影视院线",
+      "reason": "互动影游+AI视频；1. 互动影游：据2025年年报，公司在耀莱影城五棵松店落地全国首家巨幕沉浸泛娱乐空间“MIRRA奇镜派对融合厅”，依托“巨幕+VR”设备与多源融合动作捕捉、实时8K渲染技术，实现“影游联动”，并配备三面环绕的LED互动屏。\r\n\r\n2. AI视频：据2026年10月31日文投控股公众号消息，文投控股下属子公司北京中轴线为帧科技发展有限公司、北京耀莱国际影城管理有限公司参与联合出品制作的三部AIGC剧集《宅妖记》《零号玩家》《饿塔》入选北京大视听“追光计划”优秀项目"
+     }
+    ]
+   },
+   {
+    "name": "服装家纺",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "002029",
+      "name": "七匹狼",
+      "board": "2连板",
+      "concept": "破净股概念、网络直播",
+      "reason": "服装家纺+海峡两岸；公司地位为福建省泉州市。据2026年半年报，公司主要从事“七匹狼”品牌男装及针纺类产品的设计、生产和销售，主要产品包括衬衫、西服、裤装、夹克衫、针织衫以及内衣、内裤、袜子等；除主标“七匹狼”产品外，公司还经营国际轻奢品牌“Karl Lagerfeld”。"
+     },
+     {
+      "code": "601566",
+      "name": "九牧王  ",
+      "board": "首板",
+      "concept": "高股息精选、零售",
+      "reason": "服装家纺+海峡两岸；公司位于福建省厦门市。据2026年10月20日互动，公司秋冬季产品有羊毛衣、羊毛衫及羊绒大衣等相关产品。目前产品均已上市。据2026年半年度报告，九牧王是中国男裤行业的龙头企业，以“打造全球最好的裤子”为使命，专注男裤领域 37 年。"
+     },
+     {
+      "code": "600630",
+      "name": "龙头股份",
+      "board": "首板",
+      "concept": "上海国资、地方国企",
+      "reason": "服装家纺+跨境电商；1. 服装家纺：据2026年半年报，公司所属行业为纺织、服装、服饰业，以品牌经营和国际贸易为主营业务；自主品牌以三枪、鹅牌、菊花、海螺、民光等品牌为主，经营针织、服饰、家纺类产品。\r\n\r\n2. 跨境电商：据2026年半年报，公司强化内外贸易联动，注重内外部资源共享，有效丰富产品线，为各品牌的渠道模式升级服务，并通过跨境电商等渠道，积极推动以三枪为首的民族品牌拓展北美、非洲、欧洲等海外市场。"
+     }
+    ]
+   },
+   {
+    "name": "零售",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "600327",
+      "name": "大东方  ",
+      "board": "首板",
+      "concept": "免税、信托概念",
+      "reason": "零售+民营医院；1. 零售：据2026年10月28日公告，公司商业零售的门店中，江苏百货自有物业门店1家、建筑面积8.21万平米，江苏超市租赁物业门店2家；截至报告期末，湖北7-11便利店共有46家门店，其中直营店8家、加盟店38家；三凤桥食品专卖店共有57家门店，其中直营店46家、加盟店11家。\r\n\r\n2. 民营医院：据2026年半年报，公司“均瑶医疗”旗下拥有一家二甲综合医院“沭阳中心医院”，并构建了以儿童全成长发育周期医疗服务为核心的“健高儿科”、以儿童心理与言语障碍等特需儿童康复为核心的“雅恩健康”、以儿童保健服务为核心的“知贝医疗”，形成连锁诊疗机构体系。"
+     },
+     {
+      "code": "000679",
+      "name": "大连友谊",
+      "board": "首板",
+      "concept": "振兴东北、房地产",
+      "reason": "零售；据2026年半年报，公司线下百货业态持续坚持“一店一策”经营理念，扩大适销商品品类，有序调减低销低效品牌，不断引入优质新锐品牌，形成主力店+配套业态的品牌互补组合；公司线上新零售业务已搭建淘宝、拼多多、抖音、快手、京东等公域及APP、小程序等私域全域线上渠道，形成公域引流+私域留存矩阵，销售品类涵盖美妆、奶粉、保健品等多个品类。"
+     },
+     {
+      "code": "600778",
+      "name": "友好集团",
+      "board": "首板",
+      "concept": "免税、食品饮料",
+      "reason": "零售；据2026年半年报，友好集团主营业务为商业零售业务，经营业态包括百货商场、购物中心、标准超市、超市便利店等；截至报告期末，公司旗下共开设百货商场及购物中心12家、标准超市11家、“YO+友好生活”便利店53家"
+     }
+    ]
+   },
+   {
+    "name": "AI应用(AI视频)",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "601599",
+      "name": "浙文影业",
+      "board": "2连板",
+      "concept": "影视院线、短剧",
+      "reason": "AI视频+三季报增长；1. AI视频：据2026年半年报，公司依托自有AI内容评估平台“帧想”构建AI协同的专业剧本评估体系，已赋能多个项目的评估工作，AI技术也在公司项目宣传环节得到应用；公司并探索AI真人剧等创制合作，推进创新内容形态的项目孵化。\r\n\r\n2. 三季报增长：10月28日晚公告，2026年1-9月归属上市公司股东的净利润：1.43亿元，同比上年增长：4.21%。"
+     },
+     {
+      "code": "605577",
+      "name": "龙版传媒",
+      "board": "2连板",
+      "concept": "黑龙江自贸区、网络直播",
+      "reason": "AI视频+文化传媒；1. AI视频：据2026年半年报，公司首部AI漫剧《穿越1988》完成170集制作上线，全网播放量突破1.2亿，红果热度值超4000万；“耕耘”大模型启动多模态升级，“耕耘易校通”实现公司出版单位部署应用。\r\n\r\n2. 文化传媒：据2026年半年报，公司主要从事图书、期刊及电子出版物的出版、发行及印刷服务等业务，打造了具有区域文化特色的精品图书系列，在黑龙江省具有较强的文化影响力；公司拥有出版物“编、印、发”完整的产业链，构建了图书、期刊、数字出版等各种传媒业态协调发展、相互补充的良好格局。"
+     }
+    ]
+   },
+   {
+    "name": "并购重组",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "002827",
+      "name": "高争民爆",
+      "board": "2连板",
+      "concept": "民用爆破、地方国企",
+      "reason": "并购重组+金属铜；11月2日复牌。\r\n\r\n并购重组+金属铜：据2026年11月1日晚公告，高争民爆拟以发行股份方式购买控股股东西藏地质矿产集团有限公司持有的西藏紫源铜业有限公司51%股权、西藏晟源矿业有限责任公司100%股权，并募集配套资金，构成关联交易。紫源铜业拟注入马牧普矿区矿权，主营铜等金属矿勘探、开采及选矿；晟源矿业为持股平台，拟划入巨龙铜业10.12%股权及拉果资源27%股权，巨龙铜业主营铜金属矿勘探、采选和销售，拉果资源主营盐湖锂矿开采及锂盐生产。"
+     },
+     {
+      "code": "002692",
+      "name": "远程股份",
+      "board": "首板",
+      "concept": "地方国企、国有企业",
+      "reason": "并购重组+碳纤维；据2026年11月2日晚公告，远程股份拟与连星投资组成联合体，以自筹资金通过公开摘牌方式收购中复碳芯不低于40%股权，公司出资不超过5亿元，交易完成后中复碳芯将纳入合并报表。标的公司主要从事复合材料拉挤板材、碳纤维复合芯导线、各类特种导线及高端拉挤复合材料制品的研发、生产与销售。本次收购旨在快速进入拉挤复合材料及风电关键材料领域，延伸上游关键原材料，实现碳纤维复合芯棒与导线成品配套协同。"
+     }
+    ]
+   },
+   {
+    "name": "机器人概念",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "002105",
+      "name": "信隆健康",
+      "board": "首板",
+      "concept": "自行车、两轮车",
+      "reason": "机器人概念；据2026年5月18日投资者关系活动记录表，信隆健康康复事业部长期策略制定了对智能电动轮椅、自动驾驶电动代步车、外骨骼机器人等的开发规划，目前正从人才引进、加强研发投入等方面建构研发能力，有一些产品正进行开发、测试、与客户洽谈中，计划通过合作生产，或股权投资、收购等方式合作。"
+     },
+     {
+      "code": "600558",
+      "name": "大西洋  ",
+      "board": "首板",
+      "concept": "乌克兰概念、地方国企",
+      "reason": "机器人概念+可控核聚变；1. 机器人概念：据2026年6月8日互动易，制造机器人本身需要的焊接材料较少，但机器人配套设备的制造可以使用公司的焊接材料\r\n\r\n2. 可控核聚变：据2026年9月10日互动易，公司长期为装备制造业提供优质焊接材料，应用领域包括航空航天和可控核聚变装备等，具体订单数额不便统计"
+     }
+    ]
+   },
+   {
+    "name": "农业(水产品)",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "002086",
+      "name": "东方海洋",
+      "board": "7天5板",
+      "concept": "水产品、养殖业",
+      "reason": "水产品+医疗器械；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 水产品：据2026年半年报，东方海洋主要从事海水苗种繁育、养殖，水产品加工，生物科技，保税仓储物流以及体外诊断试剂的研发、生产与销售和检测服务等业务，所处行业为水产品养殖及加工。\r\n\r\n2. 医疗器械：据2026年10月9日公告，东方海洋子公司质谱生物科技有限公司自主研发的水溶性维生素测定试剂盒（液相色谱-串联质谱法）获得山东省药品监督管理局颁发的医疗器械注册证，用于体外定量检测人血清中多种维生素含量"
+     },
+     {
+      "code": "002696",
+      "name": "百洋股份",
+      "board": "首板",
+      "concept": "水产品、养殖业",
+      "reason": "农业(水产品)；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n水产品：据2026年10月15日公告，饲料业务方面，鱼粉是核心原料之一，价格上行将直接增加饲料生产成本，对该板块盈利形成一定压力。远洋捕捞及相关水产品加工业务则将受益于鱼粉涨价行情，产品盈利空间有望提升。"
+     }
+    ]
+   },
+   {
+    "name": "光伏",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "603381",
+      "name": "永臻股份",
+      "board": "首板",
+      "concept": "绿色电力、电力",
+      "reason": "光伏+机器人概念；1. 光伏：据2026年10月9日投资者关系活动记录表，公司越南基地年产18万吨光伏铝边框项目已于2025年三季度实现全面满产，产品直接辐射美国、印度等核心海外市场，目前订单需求良好。\r\n\r\n2. 机器人概念：据2026年6月17日互动易消息，公司凭借在铝合金材料和铝挤压产业链的研发、工艺和生产优势，已与头部人形机器人企业达成合作，并形成机器人精密铝合金部件批量订单。"
+     },
+     {
+      "code": "000591",
+      "name": "太阳能",
+      "board": "首板",
+      "concept": "光伏组件、光伏EPC",
+      "reason": "光伏；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n光伏：据2026年9月24日投资者关系活动记录表，公司取得第一个绿电直连项目备案，在鄂尔多斯获得1GW光伏治沙项目。"
+     }
+    ]
+   },
+   {
+    "name": "体育产业(冰雪产业)",
+    "count": 1,
+    "stocks": [
+     {
+      "code": "601188",
+      "name": "龙江交通",
+      "board": "4天2板",
+      "concept": "黑龙江自贸区、振兴东北",
+      "reason": "冰雪产业+AI应用；据2026年10月29日中国证券报报道，多家银行从信贷到消费端融入冰雪产业链，支持雪场造雪、装备更新及消费分期；长白山华美胜地定于11月14日试滑、21日运营，北大湖11月7日试滑，长白山万达11月21日开板。\r\n\r\n1. 冰雪产业：据2026年半年报，龙江交通哈大分公司圆满完成春运、两会、冰雪旅游季等关键时期的保畅任务，分析不同时期车流量特点并及时做出判断，实现关键时期“零拥堵、零差错”\r\n\r\n2. AI应用：据2026年11月2日龙江交通官微，子公司龙运现代召开人工智能应用推广月启动会议，公司车辆安全综合管理平台上线“AI智识”与“AI智问”，在证件智能识别、自然语言查询等方面取得阶段性突破。"
+     }
+    ]
+   },
+   {
+    "name": "旅游",
+    "count": 1,
+    "stocks": [
+     {
+      "code": "603402",
+      "name": "陕西旅游",
+      "board": "首板",
+      "concept": "旅游、国有企业",
+      "reason": "旅游+次新股；据2026年半年报，公司业务集旅游演艺、旅游索道、旅游餐饮为一体，依托华清宫、华山等优质旅游资源，已成为以“景区+文化旅游”为核心业务的旅游目的地企业龙头；公司旅游演艺业务包括《长恨歌》《1212西安事变》。"
+     }
+    ]
+   },
+   {
+    "name": "酿酒(白酒)",
+    "count": 1,
+    "stocks": [
+     {
+      "code": "000995",
+      "name": "皇台酒业",
+      "board": "3连板",
+      "concept": "白酒、酿酒",
+      "reason": "酿酒(白酒)；据2026年半年报，公司主要从事白酒酿造与销售，白酒产品包括皇台奔马系列（奔马天马、奔马龙马、奔马金马等）及窖底原浆系列。"
+     }
+    ]
+   },
+   {
+    "name": "文化传媒",
+    "count": 1,
+    "stocks": [
+     {
+      "code": "002292",
+      "name": "奥飞娱乐",
+      "board": "2连板",
+      "concept": "影视院线、网络直播",
+      "reason": "影视院线+AI玩具；2027年是农历羊年。奥飞娱乐子公司广东原创动力文化传播有限公司拥有“喜羊羊与灰太狼”完整版权。\r\n\r\n1. 影视院线：据2026年10月26日互动易，“喜羊羊与灰太狼”IP动画大电影项目正有序推进，计划明年上映，具体档期尚未确定；此外，公司计划面向年轻群体推出全新升级的喜羊羊，以新形象、新内容、新姿态与粉丝见面\r\n\r\n2. AI玩具：据2026年10月27日互动易，公司以“IP情感连接+AI技术赋能”为方向，重点研发智能化、场景化AI硬件产品，此前已陆续推出AI智趣喜羊羊、AI智趣懒羊羊等IP智能陪伴产品。"
+     }
+    ]
+   }
+  ],
   "withdrawal": null
  }
 }
