@@ -1,0 +1,3071 @@
+{
+ "brief_date": "2026-11-06",
+ "generated_at": "2026-11-06 08:25",
+ "lookback_hours": 16,
+ "news": [
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 66517,
+   "content": "财联社11月6日电，日经225指数跌超5%，较6月高点下跌20%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "https://image.cls.cn/images/20261106/5Hc6Zuu9sn_2556x678.png",
+   "user_id": 144,
+   "is_top": 0,
+   "brief": "财联社11月6日电，日经225指数跌超5%，较6月高点下跌20%，进入技术性熊市。",
+   "id": 2526858,
+   "ctime": 1793924240,
+   "type": -1,
+   "title": "",
+   "bold": 0,
+   "sort_score": 1793924240,
+   "comment_num": 1,
+   "modified_time": 1793924525,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526858?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 83,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261106/5Hc6Zuu9sn_2556x678.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526858,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173610,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526858,
+     "subject_id": 1103,
+     "subject_name": "盘面直播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 184503,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/082206y4qrHV0vvAnK.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 99931,
+   "content": "财联社11月6日电，美股纳指期货转涨，此前一度跌超1%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "https://image.cls.cn/images/20261106/xZkb97G2ZD_1530x1173.png",
+   "user_id": 144,
+   "is_top": 0,
+   "brief": "财联社11月6日电，美股纳指期货转涨，此前一度跌超1%。",
+   "id": 2526855,
+   "ctime": 1793923969,
+   "type": -1,
+   "title": "",
+   "bold": 0,
+   "sort_score": 1793923969,
+   "comment_num": 5,
+   "modified_time": 1793924321,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526855?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 159,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261106/xZkb97G2ZD_1530x1173.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526855,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173610,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526855,
+     "subject_id": 1103,
+     "subject_name": "盘面直播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 184503,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/081842hiJJlqgAWTvu.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 115522,
+   "content": "【投资日历：周五资本市场大事提醒】\n①今日共有1只新股上市，为北交所的森峰激光（920085）。\n②国家主席习近平特别代表、国家副主席韩正将应邀于11月6日至12日赴土耳其出席《联合国气候变化框架公约》第三十一次缔约方大会安塔利亚领导人峰会，并访问格鲁吉亚。\n③国务院新闻办公室将于11月6日举行新闻发布会，水利部副部长王宝恩介绍治理黄河80年有关情况。\n④2026第五届绿色金融论坛将于11月6日在上海举行。\n⑤第三届软通天枢物理AI大会将于11月6日举办。\n⑥2026中国多智能体应用大会将于11月6日举行。\n⑦今日有150亿元7天期逆回购到期。\n⑧今日将公布美国10月失业率、美国10月季调后非农就业人口等数据。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "",
+   "user_id": 431,
+   "is_top": 0,
+   "brief": "【投资日历：周五资本市场大事提醒】\n①今日共有1只新股上市，为北交所的森峰激光（920085）。\n②国家主席习近平特别代表、国家副主席韩正将应邀于11月6日至12日赴土耳其出席《联合国气候变化框架公约》第三十一次缔约方大会安塔利亚领导人峰会，并访问格鲁吉亚。\n③国务院新闻办公室将于11月6日举行新闻发布会，水利部副部长王宝恩介绍治理黄河80年有关情况。\n④2026第五届绿色金融论坛将于11月6日在上海举行。\n⑤第三届软通天枢物理AI大会将于11月6日举办。\n⑥2026中国多智能体应用大会将于11月6日举行。\n⑦今日有150亿元7天期逆回购到期。\n⑧今日将公布美国10月失业率、美国10月季调后非",
+   "id": 2526828,
+   "ctime": 1793923819,
+   "type": -1,
+   "title": "投资日历：周五资本市场大事提醒",
+   "bold": 0,
+   "sort_score": 1793923819,
+   "comment_num": 0,
+   "modified_time": 1793923819,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526828?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 137,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526828,
+     "subject_id": 1103,
+     "subject_name": "盘面直播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 184503,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526828,
+     "subject_id": 9829,
+     "subject_name": "提醒电报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 21161,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/081019z6ZQDGqsOOH5.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 914394,
+    "data_id": 24691,
+    "r_id": "914394-24691-n",
+    "type": 2,
+    "calendar_time": "2026-11-06 00:00:00",
+    "setting_time": "",
+    "event": {
+     "articles": null,
+     "country": "中国",
+     "country_icon": "",
+     "interpret": "论坛将设置开幕致辞、主旨演讲、圆桌讨论等环节，邀请有关部门及金融、产业、科研领域代表开展研讨与交流。主旨演讲将围绕绿色金融体系建设、产业绿色转型路径，以及金融机构绿色金融顶层设计、新兴产业绿色金融服务等方向展开讨论。",
+     "interpret_img": [],
+     "out_codes": "",
+     "outs": null,
+     "plate": null,
+     "plate_code": "",
+     "star": 5,
+     "stock_codes": "",
+     "stocks": null,
+     "title": "2026第五届绿色金融论坛将于11月6日在上海举行"
+    },
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 163061,
+   "content": "财联社11月6日电，韩国KOSPI指数跌超8%触发熔断机制，交易暂停20分钟。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261106/n55EhXTTwM_912x902.png",
+   "user_id": 79,
+   "is_top": 0,
+   "brief": "财联社11月6日电，韩国KOSPI指数跌超8%触发熔断机制，交易暂停20分钟。",
+   "id": 2526846,
+   "ctime": 1793923449,
+   "type": -1,
+   "title": "",
+   "bold": 0,
+   "sort_score": 1793923449,
+   "comment_num": 33,
+   "modified_time": 1793924409,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526846?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 1521,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261106/n55EhXTTwM_912x902.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526846,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173610,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526846,
+     "subject_id": 1103,
+     "subject_name": "盘面直播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 184503,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/082010MVlhiPy429L9.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 183084,
+   "content": "【韩国KOSPI指数跌逾8% 跌破5000点关口】财联社11月6日电，韩国KOSPI指数跌逾8%，跌破5000点关口。SK海力士跌逾12%，三星电子跌超10%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261106/xem11b7QYF_912x902.png",
+   "user_id": 79,
+   "is_top": 0,
+   "brief": "财联社11月6日电，韩国KOSPI指数跌逾8%，三星电子跌超10%。",
+   "id": 2526842,
+   "ctime": 1793923378,
+   "type": -1,
+   "title": "韩国KOSPI指数跌逾8% 跌破5000点关口",
+   "bold": 0,
+   "sort_score": 1793923378,
+   "comment_num": 19,
+   "modified_time": 1793924074,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526842?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 864,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261106/xem11b7QYF_912x902.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526842,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173610,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/081435QLGIY30FpO3V.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 194203,
+   "content": "【财联社11月6日早间新闻精选】 \n1、中共中央政治局委员、国务院副总理何立峰11月4日至5日到北京调研。何立峰指出，要强化科技创新与产业创新深度融合，推动经济持续向新向优向好发展。何立峰还指出，加大对人工智能、算力网建设等领域的金融支持和要素保障，统筹做好创新发展与风险防控，有序扩大新型基础设施建设投资。\n2、隔夜美股遭遇史诗级暴跌，三大指数集体大幅下挫，道指跌3.44%，纳指跌5.52%，标普500指数跌4.35%并创下自2025年4月以来最大单日跌幅。纳斯达克100指数下跌6.4%，市值蒸发2.3万亿美元。费城半导体指数下跌12%，创2020年以来最大跌幅，英伟达跌超9%。AI产业链遭重挫，闪迪跌超22%，西部数据、美光科技跌超17%。\n3、商务部新闻发言人黄玲在5日举行的例行新闻发布会上回答有关进口美国农产品的提问时表示，中方一直对扩大自美采购农产品持开放态度，但前提是双方达成的“300亿对300亿”对等降税安排落地。希望美方与中方共同努力，通过共同降低关税、减少非关税壁垒、扩大市场准入等方式，为两国农产品贸易创造更多有利条件。\n4、近一月多只宽基ETF规模翻倍。易方达沪深300ETF最新规模为1050.64亿元，较10月8日增长1.06倍并突破千亿关口；南方中证1000ETF最新规模为523.68亿元，增长1.5倍；华夏上证50ETF最新规模为478.48亿元，增长1.36倍。\n5、为建立统一的机器人产品“身份证”，规范机器人产品生产制造，支撑机器人行业安全治理，工业和信息化部装备工业一司研究编制了《机器人产品标识码管理暂行办法（征求意见稿）》，公开征求社会各界意见。\n6、染料产业链涨价仍在推进。继还原物、H酸等中间体价格上调后，浙江龙盛近期发布调价函，自11月1日起上调活性染料审批价格，涨幅因产品而异，为3000元/吨至5000元/吨。此外，亚邦股份10月两次调价，南通隆润化工近期亦发布提价通知。\n7、国家能源局消息，今年前三季度我国氢能产业总投资287亿元，同比增长108%，实现翻番。截至目前，我国可再生能源制氢项目建成投运年产能累计超过35万吨，占全球产能比重超过50%。\n8、超聚变创业板IPO将于11月12日上会。\n9、晶合集成公告，拟与合肥建投、合肥勤合对晶奕集成增资91亿元。\n10、百济神州公告，第三季度净利润27.85亿元，同比增长304%、环比增长67%。同日公告，上调2026年度营业收入预测为463亿元至470亿元。\n11、华虹宏力公告，第三季度净利润8.35亿元，同比增长136%。同日公告，预计第四季度销售收入10.8亿-10.9亿美元，毛利率25%-26%。\n12、侨源股份公告，拟投资31.58亿元建设含氟高纯电子特气项目，一期建设六氟化钨装置600t/a。天赐材料公告，全资子公司与亿纬锂能签订45万吨电解液长期供货协议。\n13、金刚光伏公告，子公司拟签署不超15.36亿元算力云服务合同。\n14、英国央行加息25个基点至4.00%，为2023年8月以来首次加息，符合市场预期。\n15、据报道，美国国务卿鲁比奥在共和党中期选举失利后考虑离开特朗普政府。\n16、伊朗据悉通过卡塔尔向美国提交了核提案。美国正在审阅伊朗的核提案。\n17、谷歌承诺投入170亿美元，在怀俄明州建设其首个数据中心。\n18、苹果公司计划通过一年多来首次发行投资级债券筹资约70亿美元，用于支持股票回购等用途。\n19、谷歌推出Gemini Omni 1.2 Flash视频生成模型，将720p分辨率下的价格下调30%至每秒0.07美元，并将原生视频片段时长延长至15秒。\n20、高盛将2026年底的黄金价格预测下调至每盎司4150美元，并将2027年底的预测下调至每盎司4800美元。\n21、国际油价走高，12月交割的WTI原油价格上涨2.7%，收于每桶90.52美元；1月布伦特原油上涨3.9%，收于每桶98.29美元。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "",
+   "user_id": 264,
+   "is_top": 0,
+   "brief": "【财联社11月6日早间新闻精选】 \n1、中共中央政治局委员、国务院副总理何立峰11月4日至5日到北京调研。何立峰指出，要强化科技创新与产业创新深度融合，推动经济持续向新向优向好发展。何立峰还指出，加大对人工智能、算力网建设等领域的金融支持和要素保障，统筹做好创新发展与风险防控，有序扩大新型基础设施建设投资。\n2、隔夜美股史诗级暴跌，三大指数集体大幅下挫，道指跌3.44%，纳指跌5.52%，标普500指数跌4.35%并创下自2025年4月以来最大单日跌幅。纳斯达克100指数下跌6.4%，市值蒸发2.3万亿美元。费城半导体指数下跌12%，创2020年以来最大跌幅，英伟达跌超9%。AI产业链遭重挫，",
+   "id": 2526832,
+   "ctime": 1793923264,
+   "type": -1,
+   "title": "财联社11月6日早间新闻精选",
+   "bold": 0,
+   "sort_score": 1793923264,
+   "comment_num": 3,
+   "modified_time": 1793923394,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526832?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 750,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526832,
+     "subject_id": 1103,
+     "subject_name": "盘面直播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 184503,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526832,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173610,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526832,
+     "subject_id": 1279,
+     "subject_name": "半导体芯片",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 106344,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 457,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2526832,
+     "subject_id": 1583,
+     "subject_name": "原油市场动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 48338,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 316,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/080315bcrIICasSuhr.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 183848,
+   "content": "财联社11月6日电，日经225指数期货早盘下跌7%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "",
+   "user_id": 79,
+   "is_top": 0,
+   "brief": "财联社11月6日电，日经225指数期货早盘下跌7%。",
+   "id": 2526835,
+   "ctime": 1793922581,
+   "type": -1,
+   "title": "",
+   "bold": 0,
+   "sort_score": 1793922581,
+   "comment_num": 11,
+   "modified_time": 1793922608,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526835?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 248,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526835,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173607,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/075009I2SCxqneiil0.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 206233,
+   "content": "【得州候任州长：并不反对数据中心产业本身 可在符合条件的前提下与马斯克及其旗下企业保持良好合作关系】财联社11月6日电，据报道，得克萨斯州候任州长吉娜・伊诺霍萨称，在出台保护得州民众的相关举措前，我们必须叫停当前的数据中心项目。并不反对数据中心产业本身，但反对现行政策下科技巨头享受大额税收减免、无序消耗水电资源、成本向普通居民转嫁的模式。我们可以在符合条件的前提下，与马斯克及其旗下企业保持良好合作关系。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "",
+   "user_id": 144,
+   "is_top": 0,
+   "brief": "【得州候任州长：并不反对数据中心产业本身 可在符合条件的前提下与马斯克及其旗下企业保持良好合作关系】财联社11月6日电，据报道，得克萨斯州候任州长吉娜・伊诺霍萨称，在出台保护得州民众的相关举措前，我们必须叫停当前的数据中心项目。并不反对数据中心产业本身，但反对现行政策下科技巨头享受大额税收减免、无序消耗水电资源、成本向普通居民转嫁的模式。我们可以在符合条件的前提下，与马斯克及其旗下企业保持良好合作关系。",
+   "id": 2526833,
+   "ctime": 1793922497,
+   "type": -1,
+   "title": "得州候任州长：并不反对数据中心产业本身 可在符合条件的前提下与马斯克及其旗下企业保持良好合作关系",
+   "bold": 0,
+   "sort_score": 1793922497,
+   "comment_num": 37,
+   "modified_time": 1793923435,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526833?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 1226,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526833,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173610,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/080356qJOIXdKS7FxI.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 197729,
+   "content": "财联社11月6日电，美股股指期货扩大跌幅，其中纳指期货跌超1%，标普500指数期货跌超0.6%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "",
+   "user_id": 144,
+   "is_top": 0,
+   "brief": "财联社11月6日电，美股股指期货扩大跌幅，其中纳指期货跌超1% ,标普500指数期货跌超0.6%。",
+   "id": 2526815,
+   "ctime": 1793920712,
+   "type": -1,
+   "title": "",
+   "bold": 0,
+   "sort_score": 1793920712,
+   "comment_num": 7,
+   "modified_time": 1793922213,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526815?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 126,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526815,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173609,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526815,
+     "subject_id": 1103,
+     "subject_name": "盘面直播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 184502,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/074333Llkgnwv1ISg1.mp3",
+    "https://image.cls.cn/admin/20261106/074333ZPfv7Q73gLqg.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 208995,
+   "content": "财联社11月6日电，三星电子、SK海力士在韩国Nextrade盘前交易中分别跌12%和15%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 0,
+   "img": "",
+   "user_id": 144,
+   "is_top": 0,
+   "brief": "财联社11月6日电，三星电子、SK海力士在韩国Nextrade盘前交易中跌12%和15%。\n",
+   "id": 2526811,
+   "ctime": 1793919972,
+   "type": -1,
+   "title": "",
+   "bold": 0,
+   "sort_score": 1793919972,
+   "comment_num": 23,
+   "modified_time": 1793922551,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526811?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 407,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526811,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173609,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526811,
+     "subject_id": 1103,
+     "subject_name": "盘面直播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 184502,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526811,
+     "subject_id": 1279,
+     "subject_name": "半导体芯片",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 106344,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 457,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/074912R1DXIaiArYWs.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 226960,
+   "content": "【周五你需要知道的隔夜全球要闻：纳斯达克100指数收跌6.5%，AI产业链遭重挫；消息称鲁比奥考虑离开特朗普政府；微软加强审查部分数据中心项目】\n全球要闻\n1、据报道，美国国务卿鲁比奥在共和党中期选举失利后考虑离开特朗普政府。\n2、伊朗据悉通过卡塔尔向美国提交了核提案。美国正在审阅伊朗的核提案。\n3、微软据悉正加强对Nebius Group NV、IREN Ltd.和Nscale Plc部分数据中心项目的监督，退出认为风险较高的项目，并且还在内部讨论是否还要签署新的新云交易。\n4、谷歌承诺投入170亿美元，在怀俄明州建设其首个数据中心。\n5、苹果公司计划通过一年多来首次发行投资级债券筹资约70亿美元，用于支持股票回购等用途。\n6、微芯科技预计第三财季调整后每股收益87至95美分，预估94美分；净销售15.7亿至16.4亿美元，预估16.2亿美元；每股收益47至50美分。\n7、光通信公司Applied Optoelectronics第三季度调整后每股收益为17美分，高于预估的14美分；营收为2.699亿美元，高于预估的2.683亿美元。\n8、美国国防部长海格塞斯据悉最早可能下周就面临弹劾投票。\n9、标普将宝马集团评级下调至“A-”，展望为负面。\n10、伊朗最高国家安全委员会秘书雷扎伊11月5日在莫斯科向俄罗斯总统普京转达了来自伊朗最高领袖穆杰塔巴·哈梅内伊的讯息。双方还讨论了双边关系和地区最新局势。\n11、美国财政部外国资产控制办公室宣布，将2名个人、6家企业和2艘船舶列入涉古巴制裁名单，并对已受制裁的2家企业和3艘船舶追加制裁。\n12、巴拉圭众议院通过了对总统圣地亚哥·佩尼亚的弹劾动议。\n13、谷歌推出Gemini Omni 1.2 Flash视频生成模型，将720p分辨率下的价格下调30%至每秒0.07美元，并将原生视频片段时长延长至15秒。\n14、高盛将2026年底的黄金价格预测下调至每盎司4150美元，并将2027年底的预测下调至每盎司4800美元。\n\n环球市场\n1、美股三大指数集体大幅下挫，道指跌3.44%，纳指跌5.52%，标普500指数跌4.35%并创下自2025年4月以来最大单日跌幅。纳斯达克100指数下跌6.4%，市值蒸发2.3万亿美元。费城半导体指数下跌12%，创2020年以来最大跌幅。英伟达跌9.18%，市值蒸发4470亿美元。特斯拉跌10.86%。AI产业链遭重挫，闪迪跌超22%，西部数据、美光科技跌超17%，Lumentum跌超18%，迈威尔科技跌超16%，甲骨文跌超7%，CoreWeave跌超9%，NEBIUS跌超14%。\n2、国际油价走高，12月交割的WTI原油价格上涨2.7%，收于每桶90.52美元；1月布伦特原油上涨3.9%，收于每桶98.29美元。\n3、国际贵金属涨跌不一，现货黄金价格涨0.69%，报4087.98美元/盎司；现货白银价格跌0.84%，报51.76美元/盎司。\n4、利弗莫尔中概股龙头指数收跌3.15%。成分股中，奇景光电跌超26%，日月光控股跌超20%，南茂跌超17%，联电跌超16%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "",
+   "user_id": 183,
+   "is_top": 0,
+   "brief": "【周五你需要知道的隔夜全球要闻：纳斯达克100指数收跌6.5%，AI产业链遭重挫；消息称鲁比奥考虑离开特朗普政府；微软加强审查部分数据中心项目】\n全球要闻\n1、据报道，美国国务卿鲁比奥在共和党中期选举失利后考虑离开特朗普政府。\n2、伊朗据悉通过卡塔尔向美国提交了核提案。美国正在审阅伊朗的核提案。\n3、微软据悉正加强对Nebius Group NV、IREN Ltd.和Nscale Plc部分数据中心项目的监督，退出认为风险较高的项目，并且还在内部讨论是否还要签署新的新云交易。\n4、谷歌承诺投入170亿美元，在怀俄明州建设其首个数据中心。\n5、苹果公司计划通过一年多来首次发行投资级债券筹资约70",
+   "id": 2526793,
+   "ctime": 1793917227,
+   "type": -1,
+   "title": "周五你需要知道的隔夜全球要闻：纳斯达克100指数收跌6.5%，AI产业链遭重挫；消息称鲁比奥考虑离开特朗普政府；微软加强审查部分数据中心项目",
+   "bold": 0,
+   "sort_score": 1793917227,
+   "comment_num": 12,
+   "modified_time": 1793920240,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526793?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 3435,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526793,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173609,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526793,
+     "subject_id": 1103,
+     "subject_name": "盘面直播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 184503,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/071041DawnWtw3oYsD.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 253865,
+   "content": "【纳斯达克100指数收跌6.5% 市值蒸发2.3万亿美元 AI产业链遭重挫】财联社11月6日电，美股三大指数集体大幅下挫，道指跌3.44%，纳指跌5.52%，标普500指数跌4.35%并创下自2025年4月以来最大单日跌幅。纳斯达克100指数下跌6.4%，市值蒸发2.3万亿美元。费城半导体指数下跌12%，创2020年以来最大跌幅。AI产业链集体走低，存储板块方面，闪迪跌超22%，西部数据、美光科技跌超17%，海力士跌超13%；光通信股方面，Lumentum跌超18%，迈威尔科技跌超16%，康宁跌超12%；云服务公司方面，甲骨文跌超7%，CoreWeave跌超9%，NEBIUS跌超14%。美股“科技七巨头”集体下挫，英伟达跌9.18%，市值蒸发4470亿美元；苹果跌1.39%，谷歌跌1.95%，亚马逊跌1.99%，微软跌3.54%，Meta Platforms跌3.84%，特斯拉跌10.86%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261106/77n3rWeBpS_1206x619.jpg",
+   "user_id": 183,
+   "is_top": 0,
+   "brief": "【纳指收盘大跌5.5% AI产业链遭重挫】美股三大指数集体大幅下挫，道指跌3.44%，纳指跌5.52%，标普500指数跌4.35%。AI产业链集体走低，存储板块方面，闪迪跌超22%，西部数据、美光科技跌超17%，海力士跌超13%；光通信股方面，Lumentum跌超18%，迈威尔科技跌超16%，康宁跌超12%；云服务公司方面，甲骨文跌超7%，CoreWeave跌超9%，NEBIUS跌超14%。\n",
+   "id": 2526773,
+   "ctime": 1793912502,
+   "type": -1,
+   "title": "纳斯达克100指数收跌6.5% 市值蒸发2.3万亿美元 AI产业链遭重挫",
+   "bold": 0,
+   "sort_score": 1793912502,
+   "comment_num": 27,
+   "modified_time": 1793922998,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526773?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 2379,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261106/77n3rWeBpS_1206x619.jpg"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526773,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 70745,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526773,
+     "subject_id": 1103,
+     "subject_name": "盘面直播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 184503,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/075639FzL5h5ImGRyS.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 324656,
+   "content": "【谷歌将投资170亿美元 在怀俄明州建设其首个数据中心】财联社11月6日电，谷歌承诺投入170亿美元，在怀俄明州建设其首个数据中心，并与Tallgrass Energy、Black Hills Energy、American Electric Power及Related Digital签署约束性协议，为拉勒米县带来就业与基础设施。谷歌提供170亿美元资本，Bloom Energy提供燃料电池技术。项目包含一个702兆瓦的燃料电池开发项目，配备碳捕集与封存，已与美国电力公司（AEP）签约。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "",
+   "user_id": 183,
+   "is_top": 0,
+   "brief": "财联社11月6日电，谷歌将投资170亿美元，在怀俄明州建设其首个数据中心。",
+   "id": 2526731,
+   "ctime": 1793898116,
+   "type": -1,
+   "title": "谷歌将投资170亿美元 在怀俄明州建设其首个数据中心",
+   "bold": 0,
+   "sort_score": 1793898116,
+   "comment_num": 11,
+   "modified_time": 1793923147,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526731?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 675,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526731,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 70744,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526731,
+     "subject_id": 1321,
+     "subject_name": "人工智能",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 73224,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 207,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2526731,
+     "subject_id": 10581,
+     "subject_name": "数据中心",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 8120,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 453,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/075909gBSQ5RQ2qVx9.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 343975,
+   "content": "【美股史诗级抛售 前五大身价缩水富豪财富单日蒸发1500亿美元 马斯克一人损失近1000亿美元】财联社11月6日电，美股周四遭遇大幅抛售，科技股成为重灾区。盘中，道指、标普500指数和纳斯达克综合指数最大跌幅一度分别达到2.38%、3.57%和5.35%，费城半导体指数跌幅一度扩大至11.6%，AI硬件产业链遭遇集中抛售。英伟达一度大跌9%，台积电、SpaceX、特斯拉一度大跌11%。\n\n福布斯实时亿万富豪排行榜显示，美股下跌令全球多位科技富豪身价大幅缩水。埃隆·马斯克单日身价减少912亿美元，跌幅10.50%；戴尔科技创始人迈克尔·戴尔减少205亿美元，跌幅9.60%；英伟达CEO黄仁勋减少151亿美元，跌幅8.70%；甲骨文创始人拉里·埃里森减少132亿美元，跌幅8.05%；Meta创始人马克·扎克伯格减少129亿美元，跌幅5.98%。\n\n上述五位富豪单日身价合计缩水1529亿美元。其中，马斯克一人身价减少额占五人合计损失的近六成。此次财富缩水主要反映相关上市公司股价下跌对富豪持股估值的影响。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261106/BSAgrYLq1k_894x524.png,https://image.cls.cn/images/20261106/r20h00u97S_2136x1346.png",
+   "user_id": 87,
+   "is_top": 0,
+   "brief": "【美股史诗级抛售 前五大身价缩水富豪财富单日蒸发1500亿美元 马斯克一人损失近1000亿美元】财联社11月6日电，美股周四遭遇大幅抛售，科技股成为重灾区。盘中，道指、标普500指数和纳斯达克综合指数最大跌幅一度分别达到2.38%、3.57%和5.35%，费城半导体指数跌幅一度扩大至11.6%，AI硬件产业链遭遇集中抛售。英伟达一度大跌9%，台积电、SpaceX、特斯拉一度大跌11%。\n\n福布斯实时亿万富豪排行榜显示，美股下跌令全球多位科技富豪身价大幅缩水。埃隆·马斯克单日身价减少912亿美元，跌幅10.50%；戴尔科技创始人迈克尔·戴尔减少205亿美元，跌幅9.60%；英伟达CEO黄仁勋减少",
+   "id": 2526728,
+   "ctime": 1793897126,
+   "type": -1,
+   "title": "美股史诗级抛售 前五大身价缩水富豪财富单日蒸发1500亿美元 马斯克一人损失近1000亿美元",
+   "bold": 0,
+   "sort_score": 1793897126,
+   "comment_num": 12,
+   "modified_time": 1793897491,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526728?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 1500,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261106/BSAgrYLq1k_894x524.png",
+    "https://image.cls.cn/images/20261106/r20h00u97S_2136x1346.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526728,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173607,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526728,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 70744,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/005132WKRbpkGfJypk.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "<p>财联社11月6日电，美股周四遭遇大幅抛售，科技股成为重灾区。盘中，道指、标普500指数和纳斯达克综合指数最大跌幅一度分别达到2.38%、3.57%和5.35%，<u>费城半导体指数跌幅一度扩大至11.6%，AI硬件产业链遭遇集中抛售。英伟达一度大跌9%，台积电、SpaceX、特斯拉一度大跌11%。</u></p><p></p><p>福布斯实时亿万富豪排行榜显示，美股下跌令全球多位科技富豪身价大幅缩水。<strong>埃隆·马斯克单日身价减少912亿美元，跌幅10.50%</strong>；戴尔科技创始人迈克尔·戴尔减少205亿美元，跌幅9.60%；英伟达CEO黄仁勋减少151亿美元，跌幅8.70%；甲骨文创始人拉里·埃里森减少132亿美元，跌幅8.05%；Meta创始人马克·扎克伯格减少129亿美元，跌幅5.98%。</p><p></p><p><strong>上述五位富豪单日身价合计缩水1529亿美元</strong>。其中，马斯克一人身价减少额占五人合计损失的近六成。此次财富缩水主要反映相关上市公司股价下跌对富豪持股估值的影响。</p>",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 742039,
+   "content": "【美股恐慌指数VIX飙升逾62% 突破27点关口】财联社11月5日电，美国股市波动率急剧攀升，标普500波动率指数（VIX）报27.03点，大涨10.42点，涨幅达62.73%，盘中最高触及27.03点，距离52周高点35.30点进一步收窄。与此同时，美股三大指数集体下跌，道指跌2.38%，标普500指数跌3.57%，纳指综合指数跌5.35%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261105/10dksIf7UE_1258x534.png",
+   "user_id": 87,
+   "is_top": 0,
+   "brief": "【美股恐慌指数VIX飙升逾62% 突破27点关口】财联社11月5日电，美国股市波动率急剧攀升，标普500波动率指数（VIX）报27.03点，大涨10.42点，涨幅达62.73%，盘中最高触及27.03点，距离52周高点35.30点进一步收窄。与此同时，美股三大指数集体下跌，道指跌2.38%，标普500指数跌3.57%，纳指综合指数跌5.35%。",
+   "id": 2526704,
+   "ctime": 1793894001,
+   "type": -1,
+   "title": "美股恐慌指数VIX飙升逾62% 突破27点关口",
+   "bold": 0,
+   "sort_score": 1793894001,
+   "comment_num": 40,
+   "modified_time": 1793895384,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526704?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 1181,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261105/10dksIf7UE_1258x534.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526704,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173609,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526704,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 70745,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/0016253CWTFFnJirEF.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "<p>财联社11月5日电，美国股市波动率急剧攀升，标普500波动率指数（VIX）报27.03点，大涨10.42点，涨幅达62.73%，<u>盘中最高触及27.03点，距离52周高点35.30点进一步收窄</u>。与此同时，美股三大指数集体下跌，道指跌2.38%，标普500指数跌3.57%，<strong>纳指综合指数跌5.35%</strong>。</p>",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 787354,
+   "content": "【纳斯达克综合指数跌近5% AI硬件产业链全线重挫 费城半导体指数暴跌逾10% 闪迪跌近20%】财联社11月5日电，截至发稿，道琼斯指数跌2.12%，标普500指数跌3.22%，纳斯达克综合指数跌4.86%。美股AI硬件产业链遭遇大规模抛售，芯片、存储、半导体设备及光通信板块全线下挫。费城半导体指数跌10.14%，月初至今累计下跌13.67%。\n\n个股方面，芯片股中，AMD跌15.51%，英伟达跌7.86%，台积电跌9.23%，博通跌8.41%，Arm跌12.66%；存储板块跌幅更为显著，美光科技跌14.72%，SK海力士跌12.50%，闪迪跌19.27%，西部数据跌16.06%，希捷科技跌15.38%。\n\n半导体设备及光通信板块同样承压，迈威尔科技跌12.92%，Lumentum跌15.52%，Coherent跌15.20%，应用材料跌10.29%，泛林集团跌12.09%，阿斯麦跌7.67%。\n\n此外，三倍做多半导体ETF跌31.63%，月初至今累计下跌40.83%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "",
+   "user_id": 87,
+   "is_top": 0,
+   "brief": "【AI硬件产业链全线重挫 费城半导体指数暴跌逾10% 闪迪跌近20%】财联社11月5日电，美股AI硬件产业链遭遇大规模抛售，芯片、存储、半导体设备及光通信板块全线下挫。费城半导体指数跌10.14%，月初至今累计下跌13.67%。\n\n个股方面，芯片股中，AMD跌15.51%，英伟达跌7.86%，台积电跌9.23%，博通跌8.41%，Arm跌12.66%；存储板块跌幅更为显著，美光科技跌14.72%，SK海力士跌12.50%，闪迪跌19.27%，西部数据跌16.06%，希捷科技跌15.38%。\n\n半导体设备及光通信板块同样承压，迈威尔科技跌12.92%，Lumentum跌15.52%，Cohere",
+   "id": 2526701,
+   "ctime": 1793893737,
+   "type": -1,
+   "title": "纳斯达克综合指数跌近5% AI硬件产业链全线重挫 费城半导体指数暴跌逾10% 闪迪跌近20%",
+   "bold": 0,
+   "sort_score": 1793893737,
+   "comment_num": 57,
+   "modified_time": 1793895719,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526701?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 1447,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526701,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173609,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526701,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 70745,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526701,
+     "subject_id": 2409,
+     "subject_name": "存储芯片",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 20112,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 412,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2526701,
+     "subject_id": 1279,
+     "subject_name": "半导体芯片",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 106344,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 457,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/002200YkqdgXPiJX2s.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "<p>财联社11月5日电，截至发稿，道琼斯指数跌2.12%，标普500指数跌3.22%，<strong>纳斯达克综合指数跌4.86%</strong>。美股AI硬件产业链遭遇大规模抛售，芯片、存储、半导体设备及光通信板块全线下挫。<u>费城半导体指数跌10.14%，月初至今累计下跌13.67%。</u></p><p></p><p><strong>个股方面，</strong>芯片股中，AMD跌15.51%，英伟达跌7.86%，台积电跌9.23%，博通跌8.41%，Arm跌12.66%；存储板块跌幅更为显著，美光科技跌14.72%，SK海力士跌12.50%，闪迪跌19.27%，西部数据跌16.06%，希捷科技跌15.38%。</p><p></p><p><strong>半导体设备及光通信板块同样承压，</strong>迈威尔科技跌12.92%，Lumentum跌15.52%，Coherent跌15.20%，应用材料跌10.29%，泛林集团跌12.09%，阿斯麦跌7.67%。</p><p></p><p><u>此外，三倍做多半导体ETF跌31.63%，月初至今累计下跌40.83%。</u></p>",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 772689,
+   "content": "【费城半导体指数跌幅扩大至10%】财联社11月5日电，费城半导体指数跌幅扩大至10%，报9226.25点。闪迪跌超19%，西部数据跌超16%，AMD、希捷科技跌超15%，Cerebras、高通跌超12%，应用材料跌超10%，台积电跌超9%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261105/h01wk897l4_1206x1493.jpg",
+   "user_id": 183,
+   "is_top": 0,
+   "brief": "【费城半导体指数跌幅扩大至10%】费城半导体指数跌幅扩大至10%，报9226.25点。闪迪跌超19%，西部数据跌超16%，AMD、希捷科技跌超15%，Cerebras、高通跌超12%，应用材料跌超10%，台积电跌超9%。",
+   "id": 2526700,
+   "ctime": 1793893694,
+   "type": -1,
+   "title": "费城半导体指数跌幅扩大至10%",
+   "bold": 0,
+   "sort_score": 1793893694,
+   "comment_num": 33,
+   "modified_time": 1793923198,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526700?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 820,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261105/h01wk897l4_1206x1493.jpg"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526700,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 70744,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/075958vFv8nf9CDfu8.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "<p>财联社11月5日电，截至发稿，道琼斯指数跌2.12%，标普500指数跌3.22%，<strong>纳斯达克综合指数跌4.86%</strong>。美股AI硬件产业链遭遇大规模抛售，芯片、存储、半导体设备及光通信板块全线下挫。<u>费城半导体指数跌10.14%，月初至今累计下跌13.67%</u>。</p><p></p><p><strong>个股方面，</strong>芯片股中，AMD跌15.51%，英伟达跌7.86%，台积电跌9.23%，博通跌8.41%，Arm跌12.66%；存储板块跌幅更为显著，美光科技跌14.72%，SK海力士跌12.50%，闪迪跌19.27%，西部数据跌16.06%，希捷科技跌15.38%。</p><p></p><p><strong>半导体设备及光通信板块同样承压，</strong>迈威尔科技跌12.92%，Lumentum跌15.52%，Coherent跌15.20%，应用材料跌10.29%，泛林集团跌12.09%，阿斯麦跌7.67%。</p><p></p><p><strong>此外，三倍做多半导体ETF跌31.63%</strong>，月初至今累计下跌40.83%。</p>",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 779383,
+   "content": "【微软对押注“新云”渐生悔意 加强审查部分数据中心项目】财联社11月6日电，微软曾帮助催生“新云”热潮。为了满足市场对其云服务和AI服务的巨大需求，该公司与新兴数据中心运营商签署了数百亿美元的合同。如今，随着新云公司面临项目延误、监管障碍和高昂成本，微软一些主要高管心中升起悔意。知情人士透露，微软正加强对Nebius Group NV、IREN Ltd.和Nscale Plc部分数据中心项目的监督，退出认为风险较高的项目，并且还在内部讨论是否还要签署新的新云交易。这种摩擦在微软最近一次财报电话会议上有所显现。当时首席财务官Amy Hood表示，部分第三方算力交付延迟正在扰乱公司的支出计划。这已经是她第三次在财报电话会议上点出这类问题。据知情人士透露，最近出现的一些问题涉及IREN在德州开发的一个项目的布线。数据中心服务器通过复杂的光纤网络相互连接。该园区4月还发生过发电机起火事故，IREN在8月披露当地存在硬件交付延迟。知情人士称，IREN和微软的管理人士上周举行会谈，并协商出一份新的时间表，可能使该项目的完工时间推迟数周甚至数月。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "",
+   "user_id": 183,
+   "is_top": 0,
+   "brief": "财联社11月5日电，微软因数据中心交付延迟与成本上升而对新兴云服务商态度转冷，并加强了对Nebius、IREN与Nscale的监督。微软已退出三个Nscale项目，其数据中心延迟与IREN位于得克萨斯州的站点有关。",
+   "id": 2526697,
+   "ctime": 1793893489,
+   "type": -1,
+   "title": "微软对押注“新云”渐生悔意 加强审查部分数据中心项目",
+   "bold": 0,
+   "sort_score": 1793893489,
+   "comment_num": 2,
+   "modified_time": 1793923206,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526697?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 187,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526697,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 70745,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/0800079JkVrwgRIGEE.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 820769,
+   "content": "【美股恐慌指数VIX飙升逾47% 突破24关口创4月7日以来新高】财联社11月5日电，美国股市波动率显著上升，标普500波动率指数（VIX）报24.44点，大涨7.83点，涨幅达47.14%，盘中最高触及24.44点，创4月7日以来新高。与此同时，美股三大指数集体下跌，道指跌1.50%，标普500指数跌2.65%，纳指综合指数跌4.25%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261105/gatmPILdS4_1004x388.png",
+   "user_id": 87,
+   "is_top": 0,
+   "brief": "【美股恐慌指数VIX飙升逾47% 突破24关口创4月7日以来新高】财联社11月5日电，美国股市波动率显著上升，标普500波动率指数（VIX）报24.44点，大涨7.83点，涨幅达47.14%，盘中最高触及24.44点，创4月7日以来新高。与此同时，美股三大指数集体下跌，道指跌1.50%，标普500指数跌2.65%，纳指综合指数跌4.25%。",
+   "id": 2526689,
+   "ctime": 1793892581,
+   "type": -1,
+   "title": "美股恐慌指数VIX飙升逾47% 突破24关口创4月7日以来新高",
+   "bold": 0,
+   "sort_score": 1793892581,
+   "comment_num": 42,
+   "modified_time": 1793895466,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526689?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 1183,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261105/gatmPILdS4_1004x388.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526689,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173609,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526689,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 70745,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526689,
+     "subject_id": 1279,
+     "subject_name": "半导体芯片",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 106344,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 457,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261106/001747opXIkNMocigl.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "<p>财联社11月5日电，美国股市波动率显著上升，标普500波动率指数（VIX）报24.44点，大涨7.83点，<u>涨幅达47.14%，盘中最高触及24.44点</u>，创4月7日以来新高。与此同时，美股三大指数集体下跌，道指跌1.50%，标普500指数跌2.65%，<strong>纳指综合指数跌4.25%</strong>。</p>",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 781019,
+   "content": "财联社11月5日电，费城半导体指数日内跌9%，现报9331点。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 0,
+   "img": "",
+   "user_id": 87,
+   "is_top": 0,
+   "brief": "财联社11月5日电，费城半导体指数日内跌9%，现报9331点。",
+   "id": 2526687,
+   "ctime": 1793892326,
+   "type": -1,
+   "title": "",
+   "bold": 0,
+   "sort_score": 1793892326,
+   "comment_num": 2,
+   "modified_time": 1793892326,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2526687?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 200,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2526687,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173607,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526687,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 70744,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2526687,
+     "subject_id": 1279,
+     "subject_name": "半导体芯片",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 106344,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 457,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261105/232526AQRWkOVRiIhF.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  }
+ ],
+ "recap": {
+  "date": "2026-11-05",
+  "stats": {
+   "涨停": 84,
+   "跌停": 0,
+   "上涨": 4869,
+   "下跌": 624,
+   "实际涨停": 84,
+   "实际跌停": 0,
+   "市场人气": "市场人气高涨"
+  },
+  "ladder": {
+   "首板": 56,
+   "2板": 19,
+   "3板": 3,
+   "高度板": 7,
+   "总计": 85,
+   "连板率": 16.0
+  },
+  "sectors": [
+   {
+    "name": "光伏",
+    "count": 18,
+    "stocks": [
+     {
+      "code": "002578",
+      "name": "闽发铝业",
+      "board": "4连板",
+      "concept": "光伏支架、光伏",
+      "reason": "光伏支架+海峡两岸；公司地处福建省。据2026年半年报，公司工业铝型材积极拓展新能源汽车型材、光伏边框及支架型材、液冷铝型材等高增长赛道，不断丰富高端工业型材产品体系，提升产品附加值与市场竞争力。"
+     },
+     {
+      "code": "603381",
+      "name": "永臻股份",
+      "board": "3连板",
+      "concept": "光伏设备、光伏",
+      "reason": "光伏+机器人概念；1. 光伏：据2026年10月9日投资者关系活动记录表，公司越南基地年产18万吨光伏铝边框项目已于2025年三季度实现全面满产，产品直接辐射美国、印度等核心海外市场，目前订单需求良好。\r\n\r\n2. 机器人概念：据2026年6月17日互动易消息，公司凭借在铝合金材料和铝挤压产业链的研发、工艺和生产优势，已与头部人形机器人企业达成合作，并形成机器人精密铝合金部件批量订单。"
+     },
+     {
+      "code": "301697",
+      "name": "贝特利",
+      "board": "2连板",
+      "concept": "太空光伏、异质结电池",
+      "reason": "太空光伏+次新股；据2026年11月3日网易报道，《金融时报》援引三名知情人士称，监管以非正式窗口指导要求暂缓推进IPO并限制大股东大额减持；路透转引但称未独立核实，监管部门未予回应。\r\n\r\n太空光伏+次新股：据2026年9月7日互动易，太空光伏以HJT、钙钛矿等低温电池路线为主，金属化需在≤200℃条件下完成，对浆料体系提出特殊要求；公司在低温浆料领域拥有十多年的研发生产经验，公司的HJT浆料、钙钛矿浆料等产品可应用于太空光伏领域。"
+     },
+     {
+      "code": "002529",
+      "name": "海源复材",
+      "board": "2连板",
+      "concept": "异质结电池、TOPCon",
+      "reason": "光伏+储能；1. 光伏：据2026年半年报，公司属复合材料制品行业及光伏行业，主要经营活动为复合材料轻量化制品、光伏组件的研发、生产和销售；公司光伏业务以光伏组件为核心，产品主要覆盖182mm、210mm等多种主流规格的多主栅整片及半片组件，并广泛应用双玻双面发电技术。\r\n\r\n2. 储能：据2026年6月12日公告，海源复材复合材料业务在储能电池相关领域的应用取得突破，应用场景及覆盖范围逐步扩大；公司成功开拓厦门海辰储能科技股份有限公司等优质客户，同时其汽车配件业务对重庆海辰储能科技有限公司、厦门海辰储能科技股份有限公司分别有564.40万元、128.71万元在手订单。"
+     },
+     {
+      "code": "603212",
+      "name": "赛伍技术",
+      "board": "首板",
+      "concept": "太空光伏、BC电池",
+      "reason": "光伏+光伏胶膜；1. 光伏：据2026年10月30日公告，公司2026年第三季度太阳能封装胶膜产量7,378.25万平米、销量6,595.41万平米。\r\n\r\n2. 光伏胶膜：据2026年7月6日投资者关系活动记录表，Raybo® Film镭博光转膜是公司重点推进的差异化产品之一，其核心价值在于将对组件有害的紫外光转换为可发电的可见光，从而帮助组件提升发电能力，并降低紫外光衰风险。公司围绕该产品已构建起完善的全球专利布局，能够更好地帮助下游客户降低知识产权合规风险，这也是公司坚定扩大光转膜销售占比的重要基础。"
+     },
+     {
+      "code": "002506",
+      "name": "协鑫集成",
+      "board": "首板",
+      "concept": "太空光伏、异质结电池",
+      "reason": "光伏组件+储能；1. 光伏组件：据2026年半年报，协鑫集成截至2026年6月底组件事业部拥有30GW高效N型产能，部分产线兼具XBC及TOPCon的制程能力，上半年公司整体出货量稳居行业前十，BC全黑组件完成量产并实现规模化出货。\r\n\r\n2. 储能：据2026年半年报，公司由光伏EPC厂商向光储融合系统集成+成套装备供给转型，依托光伏组件、储能等核心装备产业链优势，具备方案设计、成套装备、工程交付、能源运营一体化服务能力，面向算力中心、零碳工业园区输出定制化微电网解决方案。"
+     },
+     {
+      "code": "002309",
+      "name": "中利集团",
+      "board": "2连板",
+      "concept": "异质结电池、钙钛矿电池",
+      "reason": "光伏+储能；1. 光伏：据2026年半年报，中利集团光伏产品覆盖全系N型TOPCon组件及BC组件，规格覆盖48片至78片等多种版型、功率440W-735W；公司已拥有TOPCon电池及组件相关专利36项并实现全系TOPCon组件量产\r\n\r\n2. 储能：据2025年年报，公司明确“产品+光储系统+服务”一体化发展战略，依托光伏制造与渠道优势，聚焦工商业分布式、户用分布式及集中式地面电站的开发建设，并配套提供储能系统解决方案。公司通过持续推动技术创新与产品迭代，着力打造“光伏+储能”综合能源系统解决方案，致力于成为绿色能源领域的综合服务商与价值创造者。"
+     },
+     {
+      "code": "688429",
+      "name": "时创能源",
+      "board": "首板",
+      "concept": "科创板、光伏",
+      "reason": "光伏；据2026年9月2日投资者关系活动记录表，公司目前优先推动类叠栅（40BB）技术作为量产推广路线，该技术可基于现有TOPCon工艺，通过组件端的设备升级、使用三角导电丝节约银耗，从而实现降本增效的目的。"
+     },
+     {
+      "code": "600481",
+      "name": "双良节能",
+      "board": "首板",
+      "concept": "石英坩埚、光伏设备",
+      "reason": "光伏硅片+液冷；1. 光伏硅片：据2026年半年报，双良节能前瞻性布局大尺寸硅片产能，现有及规划新增产能全部采用1600炉型单晶炉及相应拉晶工艺，可满足182mm、210mm及其他规格硅片生产要求\r\n\r\n2. 液冷：据2026年11月4日双良节能公众号消息，双良节能推动全钢结构冷却塔从电力冷端延伸至算力冷端与工业循环水领域；单座大型间冷塔热负荷可达数百MW，多塔模块化组合可支撑吉瓦级数据工厂的冷却需求。"
+     },
+     {
+      "code": "001269",
+      "name": "欧晶科技",
+      "board": "首板",
+      "concept": "石英坩埚、石英材料",
+      "reason": "石英坩埚+半导体设备；1. 石英坩埚：据2026年5月28日投资者关系活动记录表，公司石英坩埚产品主要应用于光伏和半导体两大领域，可支持客户高温条件下连续拉晶；40英寸太阳能级石英坩埚已为下游客户供货，已完成42英寸太阳能级石英坩埚研发并具备量产能力。\r\n\r\n2. 半导体设备：据2026年9月16日互动易，公司已完成36英寸半导体级石英坩埚的研发并具备量产能力，已与北京、山东、内蒙古、四川、安徽等区域客户达成合作并供货。"
+     },
+     {
+      "code": "002135",
+      "name": "东南网架",
+      "board": "首板",
+      "concept": "光伏、杭州",
+      "reason": "光伏；据2026年半年报，公司新能源板块业务主要为光伏建筑业务领域，涵盖光伏电站EPC、光伏电站运营、储能等，以“装配式+EPC+BIPV”模式拓展光伏建筑一体化市场；零碳桃源里110MW农光互补项目今年5月完成首批并网发电"
+     },
+     {
+      "code": "603098",
+      "name": "森特股份",
+      "board": "首板",
+      "concept": "分布式光伏、腾讯概念",
+      "reason": "分布式光伏+储能；1. 分布式光伏：据2026年4月13日互动易，BIPV是公司的主营业务之一。公司具备为包括数据中心、工业厂房、文体场馆、煤棚、产业园区、机场等各类工商业屋顶，提供光充储一体化、分布式光伏系统设计、采购、施工、运维一体化解决方案的能力。\r\n\r\n2. 储能：据2026年半年报，森特股份前瞻布局光储充一体化业务，延伸建筑光伏一体化（BIPV）服务链条，自主搭建能源管理云平台“森特云”，整合光伏、储能、充电与新能源卡车等绿色运力资源，推出“新能源卡车光储充一体化”整体解决方案。"
+     },
+     {
+      "code": "002865",
+      "name": "钧达股份",
+      "board": "首板",
+      "concept": "太空光伏、BC电池",
+      "reason": "太空光伏+商业航天；1. 太空光伏：据2026年半年报，钧达股份2026年1月参股星翼芯能，加强钙钛矿-晶硅叠层电池及CPI膜材料研发能力；同月与星翼芯能合资设立控股子公司捷泰航天，开展太空光伏解决方案的商业化探索\r\n\r\n2. 商业航天：据2026年10月12日互动易，公司持续开展钙钛矿电池相关项目研发测试，推进商业卫星相关业务发展。"
+     },
+     {
+      "code": "603185",
+      "name": "弘元绿能",
+      "board": "首板",
+      "concept": "光伏设备、光伏硅片",
+      "reason": "光伏(光伏硅片)；据2026年9月12日公告，公司8GW单晶硅拉晶生产项目募集资金累计投入进度为90.99%。据2026年半年报，公司业务涵盖高端智能装备、高纯晶硅、单晶硅片、高效电池和组件等"
+     },
+     {
+      "code": "600396",
+      "name": "华电辽能",
+      "board": "首板",
+      "concept": "光伏、储能",
+      "reason": "光伏+储能；1. 光伏：据2026年半年报，公司风力发电和光伏发电分别通过风力和太阳能等一次能源加工转换成电力产品并入电网；截至2026年6月底，公司已投运控股装机容量307.25万千瓦，其中新能源装机81.25万千瓦\r\n\r\n2. 储能：据2026年9月17日公告，公司向控股子公司华创（多伦）新能源科技有限公司增资建设容量200MW/800MWh磷酸铁锂电池构网型储能项目，该项目已列入内蒙古自治区能源局2026年第二批独立新型储能建设项目清单"
+     },
+     {
+      "code": "600539",
+      "name": "狮头股份",
+      "board": "首板",
+      "concept": "小红书概念、AI应用",
+      "reason": "光伏+物理AI；1. 光伏：据2026年9月25日公告，公司拟发行股份及支付现金购买利珀科技97.4399%股份，利珀科技下游应用覆盖光伏，2025年全球光伏组件出货量前十二大厂商中十一家为其客户。\r\n\r\n2. 物理AI：据2026年7月29日公告，狮头股份拟通过发行股份及支付现金方式购买利珀科技97.4399%股份，交易价格6.62亿元，并募集配套资金2.2亿元用于支付现金对价及相关税费。标的公司主要从事机器视觉相关技术产品的研发、生产与销售，掌握工业机器视觉经典算法及AI算法和计算成像等核心技术。本次交易后，上市公司将切入机器视觉领域，打造第二增长曲线，加快向新质生产力转型。"
+     },
+     {
+      "code": "300093",
+      "name": "金刚光伏",
+      "board": "首板",
+      "concept": "异质结电池、算力租赁",
+      "reason": "光伏+算力；1. 光伏：据2026年10月15日公告，金刚光伏主营产品为高效N型单晶异质结太阳能电池片与组件，规模化量产N型异质结电池平均转换效率达26%，最高组件功率可达740W+；吴江基地、酒泉基地合计产能2.8GW\r\n\r\n2. 算力：根据2026年10月26日公告，公司与供应商A、供应商B签署采购合同，采购GPU卡及服务器用于向客户提供算力服务；本次设备到位后，公司算力硬件储备将得到充实，算力供给规模也将有效扩充"
+     },
+     {
+      "code": "001393",
+      "name": "维通利",
+      "board": "首板",
+      "concept": "光伏、算力",
+      "reason": "光伏+储能；1. 光伏：据2026年半年报，公司生产销售的高压连接器产品，适用于风光储领域储能柜、PCS变流器、光伏逆变器\r\n\r\n2. 储能：据2026年年报，维通利硬连接配套于风光储领域的变流柜、储能电池模组、储能系统，CCS适用于储能电池系统，高压连接器适用于储能柜、PCS变流器等场景"
+     }
+    ]
+   },
+   {
+    "name": "AI应用",
+    "count": 14,
+    "stocks": [
+     {
+      "code": "601599",
+      "name": "浙文影业",
+      "board": "4连板",
+      "concept": "AI视频、影视院线",
+      "reason": "AI视频+三季报增长；1. AI视频：据2026年半年报，公司依托自有AI内容评估平台“帧想”构建AI协同的专业剧本评估体系，已赋能多个项目的评估工作，AI技术也在公司项目宣传环节得到应用；公司并探索AI真人剧等创制合作，推进创新内容形态的项目孵化。\r\n\r\n2. 三季报增长：10月28日晚公告，2026年1-9月归属上市公司股东的净利润：1.43亿元，同比上年增长：4.21%。"
+     },
+     {
+      "code": "603598",
+      "name": "引力传媒",
+      "board": "4天3板",
+      "concept": "AI营销、互联网营销",
+      "reason": "AI营销+AI视频；1. AI营销：据2026年半年报，公司持续深化“AI in All”全域人工智能战略布局，聚焦“AI+洞察”“AI+内容”“AI+广告投放”“AI+经营”四大核心方向；公司把握AI营销流量红利，持续迭代核力星推、九合创意、内容驾驶舱系列产品。\r\n\r\n2. AI视频：据2026年半年报，公司组建AI短剧团队，形成含剧本创作、AI视频生成、AI剪辑、全渠道分发的AI短剧全链路生产与运营能力，自研“神画AI”系统可实现图像及视频生成；自研“九合创意”2.0平台以文生图+图生视频双引擎为核心。"
+     },
+     {
+      "code": "002131",
+      "name": "利欧股份",
+      "board": "首板",
+      "concept": "AI营销、互联网营销",
+      "reason": "AI应用(AI营销)；据2026年11月3日利欧数字公众号消息，10月29日，利欧数字推出LEO AIAD MCP，其多模态创意生成及品牌资产管理能力以MCP服务形态接入多智能体协作系统CubSwarm，支持营销智能体围绕同一营销目标持续迭代策略与创意。"
+     },
+     {
+      "code": "600986",
+      "name": "浙文互联",
+      "board": "首板",
+      "concept": "AI营销、互联网营销",
+      "reason": "AI应用(AI营销)；据2026年半年报，浙文互联数智营销板块以AI工具、策略、内容、媒介投放为关键抓手，为品牌方提供基于新流量环境下的智能营销解决方案；“好奇系列”AI Agents矩阵在原有策略研判、内容生产、全域分发全链路能力基础上持续扩容升级，新增项目传播效果分析、方案生成助手等智能体模块。"
+     },
+     {
+      "code": "300071",
+      "name": "福石控股",
+      "board": "首板",
+      "concept": "AI营销、互联网营销",
+      "reason": "AI应用(AI营销)；据2026年半年报，公司主营业务包含数智化平台赋能的数字营销；公司自建的全链路智能营销平台FlinkAi整合多模态内容创作、智能编辑、媒介管理、内容分发、聚合展示及数据分析等环节，为不同用户群体提供一站式服务。"
+     },
+     {
+      "code": "605287",
+      "name": "德才股份",
+      "board": "4天3板",
+      "concept": "AI视频、互动影游",
+      "reason": "AI视频+互动影游；1. AI视频：据2026年9月21日投资者关系活动记录表，奇想无限已构建覆盖全链路AIGC内容生产的核心自研Agent产品矩阵，其中“一站式AIGC创意引擎（造漫工厂）”覆盖视频创作、AI造剧、角色配音、音乐制作等全品类创作场景。\r\n\r\n2. 互动影游：据2026年9月21日投资者关系活动记录表，控股孙公司奇想无限推出全国首个“互动影游Agent”，并以前沿AI技术构建的核心驱动系统作为互动影游的“智能大脑”，实现剧情逻辑的自主推演与动态响应，创作者无需掌握专业游戏引擎技术，即可一站式完成多分支剧情搭建、付费点设计、平台SDK接入等全部创作工作。"
+     },
+     {
+      "code": "603990",
+      "name": "麦迪科技",
+      "board": "首板",
+      "concept": "TOPCon、AI应用",
+      "reason": "AI医疗+机器人概念；1. AI医疗：据2026年9月29日投资者关系活动记录表，公司持续深耕AI医疗赛道，将大模型技术能力融入现有成熟医疗信息化产品，迭代推出麻醉AI助手、重症AI辅助模块，实现术前智能评估、术中风险实时提示、术后诊疗辅助的全流程临床覆盖。\r\n\r\n2. 机器人概念：据2026年半年报，公司携手优必选科技推出面向老年健康入驻评估接待场景的仿生医疗机器人，联动健康数据系统与仿生交互硬件，结合公司已推出的小麦康养陪伴机器人，完整适配社区、医院、居家多元场景落地需求。"
+     },
+     {
+      "code": "002421",
+      "name": "达实智能",
+      "board": "首板",
+      "concept": "字节概念、AI智能体",
+      "reason": "AI智能体+物理AI；1. AI智能体：据2026年半年报，公司正式发布AIoT智能物联网平台V7.1版本，通过AI智能体引擎搭建“1个超级智能体+15个场景智能体”的多智能体应用，覆盖会议预订、环境调控、报事报修、能源分析、设备分析等场景\r\n\r\n2. 物理AI：据2026年11月4日达实智能公众号消息，达实智能与苏州迅驰智能科技有限公司签订战略合作协议，以长三角为核心起步区，结合达实AIoT智能物联网管控平台、AI暖通节能算法与迅驰智能精益MES、精益云，面向智能制造厂房、半导体工厂、新能源产业园等场景打造一体化整体解决方案。"
+     },
+     {
+      "code": "603956",
+      "name": "威派格  ",
+      "board": "首板",
+      "concept": "RDA概念、AI智能体",
+      "reason": "AI应用+PCB；1. AI应用：据2026年10月14日投资者关系活动记录表，威派格河图AI平台融合大模型、知识图谱与数字孪生，上半年威派格河图AI首单项目已落地。\r\n\r\n2. PCB：据2026年9月9日互动易，威派格通过增资控股的安徽提曼科技有限公司，其主营业务为高精度微型钻头（PCB钻针）的研发、生产与销售，产品并未直接应用于光模块，主要面向半导体、通信、消费电子、汽车电子及工业控制等领域的PCB钻孔加工。"
+     },
+     {
+      "code": "601929",
+      "name": "吉视传媒",
+      "board": "首板",
+      "concept": "AI视频、短剧",
+      "reason": "AI视频+文化传媒；1. AI视频：据2026年11月2日吉视传媒订阅号消息，吉视传媒披露人工智能驱动内容生产应用场景不断拓宽，微短剧、数字内容需求持续释放，吉林省AI视听产业园一期入驻企业12家、月内容产能达1万分钟，《第一瞳术师》《镇馆之宝》跑通商业闭环，吉林省首部运用AIGC技术拍摄的长剧《长白山密码》顺利落地\r\n\r\n2. 文化传媒：据2026年半年报，公司是吉林省区域内唯一统一运营管理的有线电视运营商，主要从事有线电视业务、广播电视节目传输服务业务及发行广播电视节目；公司直播电视业务共传输154套直播电视频道。"
+     },
+     {
+      "code": "001330",
+      "name": "博纳影业",
+      "board": "4天2板",
+      "concept": "AI视频、影视院线",
+      "reason": "AI视频+影视院线；1. AI视频：据2026年半年报，博纳影业AIGMS制作中心完成《神话山海》《波塞冬神罚：一只虾的成神之路》两部短剧交付，其中《波塞冬神罚：一只虾的成神之路》共20集，于2026年4月登陆iDrama平台播出，是博纳影业在海外AI真人短剧领域制作的新作品。\r\n\r\n2. 影视院线：据2026年11月2日博纳影业集团公众号消息，法国历史传记系列电影《戴高乐之战》——《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》正式确认引进。"
+     },
+     {
+      "code": "002343",
+      "name": "慈文传媒",
+      "board": "首板",
+      "concept": "AI视频、影视院线",
+      "reason": "AI视频+短剧；1. AI视频：据2026年4月17日公告，公司与业内头部技术与内容团队战略合作，通过AI创作的全新手段，共同研发改编经典IP衍生互动剧，并打造互动剧宇宙；在科技板块，探索AI与影视、动画等内容创作结合，拟与智象未来（HiDream AI）共同探讨战略投资事宜。\r\n\r\n2. 短剧：据2026年9月12日公告，慈文传媒的全资子公司江西慈文影视文化传媒有限公司与关联方签订微短剧《合作协议》，其中《开标之战》《铁血信使》由该子公司负责制作发行；《开标之战》的合作平台为央视频，《铁血信使》的合作平台为红果“果燃计划”。"
+     },
+     {
+      "code": "605069",
+      "name": "正和生态",
+      "board": "首板",
+      "concept": "AIGC、AI智能体",
+      "reason": "AI应用+机器人概念；1. AI应用：据2026年半年报，正和生态智能科技业务作为公司未来核心增长极与技术创新引擎，聚焦“AI 算法+平台+智能硬件+场景运维”体系，构建以智能水务巡检装备产业化、行业垂直大模型商业化、智慧运维管理平台为核心的“2+1”产品矩阵。\r\n\r\n2. 机器人概念：9月11日晚企查查APP显示，北京泓智生态科技有限公司成立，法定代表人为于京存，注册资本为1000万元，经营范围包含：城市绿化管理；城市公园管理；名胜风景区管理；游览景区管理；智能水务系统开发；智能机器人销售等。企查查股权穿透显示，该公司由正和生态(605069)间接全资持股。"
+     },
+     {
+      "code": "688109",
+      "name": "品茗科技",
+      "board": "首板",
+      "concept": "AIGC、空间计算",
+      "reason": "AI应用；据2026年9月9日投资者关系活动记录表，2026年，品茗科技对智能眼镜产品体系进行了升级，将智能眼镜和晓筑产品的巡检宝进行集成，通过后端调用品茗筑瞳多模态模型，应用于施工安全风险的实时采集与AI识别，为施工现场提供更智能、更及时的隐患预警与决策支持。"
+     }
+    ]
+   },
+   {
+    "name": "机器人概念",
+    "count": 8,
+    "stocks": [
+     {
+      "code": "603657",
+      "name": "春光科技",
+      "board": "2连板",
+      "concept": "小米概念、消费电子",
+      "reason": "机器人概念；据2026年8月7日募集说明书，公司主要从事清洁电器整机ODM/OEM及核心零部件业务，产品涵盖吸尘器、洗地机、扫地机器人等，终端合作品牌包括小米、美的、追觅等。"
+     },
+     {
+      "code": "003033",
+      "name": "征和工业",
+      "board": "2连板",
+      "concept": "灵巧手、两轮车",
+      "reason": "灵巧手+农机；1. 灵巧手：据2026年9月17日公告，征和工业微型链系统软硬件一体化研发制造项目涉及三指灵巧手、五指灵巧手研发制造，达产后将形成年产4,800只三指灵巧手、3,500只五指灵巧手产能；公司已于2026年1月发布全球首创链式灵巧手“臻手CHOHO Hand”\r\n\r\n2. 农机：据2026年9月17日公告，本次募投项目“农机部件扩产项目”主要生产农机部件产品，包括农机链系统、农机刀具、触土件及配件等，与征和工业现有农业机械链系统产品属于同一应用领域的产品。"
+     },
+     {
+      "code": "605488",
+      "name": "福莱新材",
+      "board": "2连板",
+      "concept": "数据采集、灵巧手",
+      "reason": "灵巧手+数据采集；1. 灵巧手：据2026年11月4日投资者关系活动记录表，公司开发了压阻式、电容式等多模态技术路线，灵巧手触觉方案与数采手套具备技术同源性，两者均需实现三维力感知并满足曲面柔性适配，灵巧手触觉主要服务本体的闭环实时控制\r\n\r\n2. 数据采集：据2026年10月21日福莱新材官微，美国加州当地时间10月20日，全球人机交互与端侧AI芯片企业Synaptics（新突思国际科技公司，纳斯达克：SYNA）在圣何塞总部举办Tech Day 2026技术日活动。福莱新材受邀参加，并携美国全资子公司APEX Sensing，在“机器人与物理AI”展区带来了多模态触觉数据采集手套、曲面指尖传感器和端侧触觉识别三项展示。"
+     },
+     {
+      "code": "603500",
+      "name": "祥和实业",
+      "board": "首板",
+      "concept": "消费电子、浙江",
+      "reason": "机器人概念+电阻电容；1. 机器人概念：据2026年半年报，公司与行业内企业强强联合，研发轨道智能检测装备，应用铁路轨道等不同场景的工业高端检测装备或智能机器人。\r\n\r\n2. 电阻电容：据2026年9月15日互动易，公司主要研发、生产和销售电子元器件配件、轨道扣件、高分子改性材料等产品；其中电子元器件配件产品主要配套于铝电解电容器，铝电解电容器在消费电子、高端工业等多个领域均有应用。"
+     },
+     {
+      "code": "000700",
+      "name": "模塑科技",
+      "board": "首板",
+      "concept": "车身及附件、奇瑞产业链",
+      "reason": "机器人概念+特斯拉概念；1. 机器人概念：据2026年9月22日投资者关系活动记录表，江南模塑科技股份有限公司复用汽车外饰成熟的模具、大型注塑、喷涂及质量体系，聚焦人形机器人外覆盖件，开展轻量化（以塑代钢和精密结构）及功能性工程材料注塑产品，并与国内外多家头部人形机器人整机厂商开展对接、送样及交付。\r\n\r\n2. 特斯拉概念：据2026年半年报，公司年汽车保险杠生产能力超600万套（包括参股公司），主要为宝马、上汽奥迪、北美知名电动车企等汽车厂商提供保险杠等内外装饰件。"
+     },
+     {
+      "code": "301000",
+      "name": "肇民科技",
+      "board": "首板",
+      "concept": "储能、机器人概念",
+      "reason": "机器人概念+PEEK；据2026年半年报，公司凭借在精密模具、PEEK、PPS等特种工程塑料和工程塑料领域多年的开发经验和精密零部件的制造经验，积极响应客户需求，与客户共同成功开发多个人形机器人精密零部件新品"
+     },
+     {
+      "code": "688648",
+      "name": "中邮科技",
+      "board": "首板",
+      "concept": "拼多多概念、科创板",
+      "reason": "机器人概念+无人物流；1. 机器人概念：据2026年半年报，公司深化具身智能技术应用，升级多轴机器人智能视觉与决策算法，推动技术从理论研究步入场景验证阶段；报告期内聚焦具身智能作业、数字孪生、高效无人装卸等前瞻性技术与产品开展攻关\r\n\r\n2. 无人物流：据2026年11月4日中邮科技股份有限公司公众号消息，中邮科技在CeMAT ASIA 2026发布三款新一代分拣产品，其中子公司信源打造的新一代移动分拣车以集装箱式一体化集成为核心设计，最快4小时搭建临时分拣中心，小件模式分拣效率达6000件/小时。"
+     },
+     {
+      "code": "300709",
+      "name": "精研科技",
+      "board": "首板",
+      "concept": "MIM、无线耳机",
+      "reason": "机器人概念+液冷；1. 机器人概念：据2026年10月26日互动易，公司具身智能设备业务为智能清洁设备提供电机齿轮箱类产品解决方案，产品涵盖扫地机、洗地机、割草机、擦窗机驱动模组等，并战略布局机器人及灵巧手领域的产品应用，积极推进相关产品的研发与验证\r\n\r\n2. 液冷：据2026年半年报，公司数据中心AI硬件业务核心产品包括高速连接器接口、光模块壳体等精密金属结构件，以及边缘计算服务器用液冷板等散热组件，同时正推进数据中心内存、光模块液冷、管接头等散热新品的研发与验证。"
+     }
+    ]
+   },
+   {
+    "name": "芯片",
+    "count": 8,
+    "stocks": [
+     {
+      "code": "002081",
+      "name": "金螳螂",
+      "board": "2连板",
+      "concept": "装修家具、第三代半导体",
+      "reason": "洁净室+装修家具；1. 洁净室：据2026年半年报，公司成立全资子公司江苏金柏瑞洁净科技有限公司作为洁净业务运营、技术、实施主体，目前已取得特种设备工业管道（GC2）及医疗器械经营许可证等资质；公司洁净类项目包括中北锂电洁净厂房、莫干山医疗中心等\r\n\r\n2. 装修家具：据2026年半年报，公司主营业务为以室内装饰为主体，融幕墙、景观、软装、家具、机电设备安装等为一体的综合性专业化装饰服务，承接项目包括公共建筑装饰和住宅装饰等。"
+     },
+     {
+      "code": "600641",
+      "name": "先导基电",
+      "board": "2连板",
+      "concept": "光伏设备、TOPCon",
+      "reason": "半导体设备+SOFC电池；1. 半导体设备：据2026年10月30日公告，公司旗下凯世通截至2026年第三季度末累计客户19家，累计离子注入机订单量超90台，累计交付超60台；2026年前三季度签署8家客户订单，新增近30台离子注入机订单，已交付14台离子注入机。\r\n\r\n2. SOFC电池：据2026年10月30日公告，公司9月与关联方共同投资设立控股子公司上海元朔基电科技有限公司，布局电解质片、金属连接体、中高压开关柜、变压器、超级电容等核心产品，上述这些产品是固体氧化物燃料电池（SOFC）的核心部件"
+     },
+     {
+      "code": "002388",
+      "name": "新亚制程",
+      "board": "2连板",
+      "concept": "电解液、氟化工",
+      "reason": "电子气体+电解液；1. 电子气体：据2026年10月21日晚公告，新亚制程拟以发行股份及支付现金方式购买启元气体15.86%股权，交易对方为江英等7名股东；同时拟现金收购启元气体51.27%股权，并向不超过35名特定对象募集配套资金。交易作价及配套募资额尚未确定。标的公司主营电子大宗气体和电子特种气体的生产、销售。\r\n\r\n2. 电解液：据2026年10月22日公告，新亚制程锂离子电池材料板块重点聚焦电解液及六氟磷酸锂的研发与制造，面向新能源产业链提供关键基础材料支撑"
+     },
+     {
+      "code": "600206",
+      "name": "有研新材",
+      "board": "2连板",
+      "concept": "硫化物、砷化镓",
+      "reason": "靶材+存储；1. 靶材：据2026年10月30日互动易，有研新材集成电路用高纯溅射靶材二期扩建项目已经顺利开工。\r\n\r\n2. 存储：据2026年10月14日互动易，公司与长江存储建立了稳定的合作关系，公司控股子公司有研亿金是长江存储重要的靶材供应商"
+     },
+     {
+      "code": "600683",
+      "name": "京投发展",
+      "board": "首板",
+      "concept": "浙江、物业服务",
+      "reason": "光芯片+房地产；1. 光芯片：据2026年5月19日公告，京投发展筹划收购的标的公司西安奇芯光电科技有限公司拥有自主知识产权的硅基改性材料平台，其光芯片产品具有低损耗、低偏振敏感度、高温度稳定性、高耦合效率、高均匀一致性的特点和量产能力。\r\n\r\n2. 房地产：据2026年10月30日公告，京投发展2026年第三季度签约销售面积2.37万平方米，同比增长121.50%；2026年1-9月签约销售面积8.46万平方米，同比增长43.88%。"
+     },
+     {
+      "code": "603893",
+      "name": "瑞芯微  ",
+      "board": "2连板",
+      "concept": "端侧芯片、智能音箱",
+      "reason": "芯片+数据采集；1. 芯片：据2026年11月4日瑞芯微电子公众号消息，瑞芯微RV1106高性能机器视觉处理器在第二十一届“中国芯”集成电路产业促进大会上获评优秀市场表现产品奖；RV1106是面向普惠型端侧机器视觉赛道打造的高集成AI视觉SoC，已在智能IPC、人脸门禁、扫码终端等场景规模化量产。\r\n\r\n2. 数据采集：据2026年9月8日投资者关系活动记录表，瑞芯微围绕机器人本体采集、Ego/UMI、遥操作设备等场景，依托RV1126B、RK3576、RK3588及RK182X多档SoC平台，构建了从传感器接入、同步采集、图像处理、编码传输到端侧数据清洗的完整方案。"
+     },
+     {
+      "code": "301209",
+      "name": "联合化学",
+      "board": "首板",
+      "concept": "染料、光刻胶",
+      "reason": "光刻胶+光刻机；1. 光刻胶：据2026年10月8日互动易，公司控股子公司启辰半导体试产的苯乙烯类光刻胶单体处于客户验证阶段，目前以日韩客户为主，公司后续会根据客户订单及产能爬坡情况开展生产。\r\n\r\n2. 光刻机：据2026年半年报，公司参股公司米莱芯程的全资子公司芯颐和科技的高端光学系统（物镜及照明系统）应用于前道KrF和i-line光刻机，最高可实现110nm分辨率，芯颐和科技的首套光学系统已于2026年6月30日发运并交付国内头部光刻机厂商"
+     },
+     {
+      "code": "603297",
+      "name": "永新光学",
+      "board": "首板",
+      "concept": "AI眼镜、端侧AI",
+      "reason": "芯片(光刻机)；据2026年半年报，公司半导体光学业务产品应用覆盖光刻、量检测等关键环节，光刻设备核心子系统相关元组件订单充足；相关光学元组件已切入国产光刻设备对准系统、照明系统等环节"
+     }
+    ]
+   },
+   {
+    "name": "端侧AI",
+    "count": 5,
+    "stocks": [
+     {
+      "code": "002045",
+      "name": "国光电器",
+      "board": "4天2板",
+      "concept": "智能音箱、无线耳机",
+      "reason": "端侧AI(AI眼镜)；据2026年9月15日投资者关系活动记录表，国光电器近年来新增智能穿戴设备整机组装业务，涉及AI眼镜、AI耳机等产品；目前该业务尚处起步阶段，对公司整体营收及利润贡献均较为有限。"
+     },
+     {
+      "code": "300493",
+      "name": "润欣科技",
+      "board": "首板",
+      "concept": "端侧芯片、AI玩具",
+      "reason": "端侧AI；据2026年半年报，公司持续推进AI智能终端平台建设，围绕无线连接、音视频处理、智能感知及端侧计算等核心能力，加强芯片、模组及系统集成能力，推动相关技术在AI眼镜、智能录音卡、智能穿戴及其他AI专用终端产品中的应用。"
+     },
+     {
+      "code": "603068",
+      "name": "博通集成",
+      "board": "首板",
+      "concept": "端侧芯片、AI玩具",
+      "reason": "AI眼镜+芯片；1. AI眼镜：据2026年9月10日互动易，博通集成BK7259是面向边缘AI及AIoT应用推出的新一代高性能芯片产品，整合无线连接、多媒体处理、端侧AI等能力，可面向AI眼镜、可穿戴设备等场景提供支持\r\n\r\n2. 芯片：据2026年9月10日互动易，公司BK7258为面向AIoT智能终端应用的Wi-Fi 6低功耗芯片，具备无线连接与端侧智能应用适配能力，可面向智能门锁、智能摄像、AI玩具、智能家居等场景提供芯片及方案支持，相关产品已实现量产销售。"
+     },
+     {
+      "code": "002313",
+      "name": "日海智能",
+      "board": "首板",
+      "concept": "eSIM、AI眼镜",
+      "reason": "端侧AI+机器人概念；1. 端侧AI：据2026年11月4日日海智能公众号消息，日海智能子公司芯讯通作为物联网无线通信模组供应商，与高通AI Hub形成“平台+模组”协同，降低中国开发者端侧AI开发门槛；据2026年11月2日日海智能公众号消息，芯讯通在通用人工智能大会展出多款IoT及AI算力模组，以及内置芯讯通模组的车机、安防监控、智能支付等物联网终端和AI玩具、机器狗等创新产品\r\n\r\n2. 机器人概念：据2026年半年报，公司智能模组集成AI算力及算法，支持端侧数据推理与本地化数据处理，适配智能车载机器人等场景；公司通过“AI+IoT”协同进化，为陪伴机器人等场景提供高算力、高可靠性的智能连接方案"
+     },
+     {
+      "code": "603313",
+      "name": "梦百合  ",
+      "board": "首板",
+      "concept": "装修家具、端侧AI",
+      "reason": "端侧AI+服装家纺；1. 端侧AI：据2026年10月23日互动易，公司持续深耕智能睡眠赛道，今年以来，公司对旗下26款主力智能床产品完成AI睡眠监测功能的升级，并发布了梦百合0压智能床AI-Smart3.0自适应睡眠系统，构建了覆盖睡前、睡中、睡后的全周期智能睡眠管理方案\r\n\r\n2. 服装家纺：据2026年11月2日投资者关系活动记录表，梦百合主推薄床垫切入线上市场，今年以来薄床垫在抖音和视频号均实现高速增长，公司认为枕头市场机会很大。"
+     }
+    ]
+   },
+   {
+    "name": "算力",
+    "count": 4,
+    "stocks": [
+     {
+      "code": "002929",
+      "name": "润建股份",
+      "board": "4天2板",
+      "concept": "算力调度、AI视频",
+      "reason": "算力+AI应用；1. 算力：据2026年11月3日投资者关系活动记录表，润建股份践行“Token为核、绿算协同、智维百业”业务发展战略，算力网络业务收入占公司整体营收比重超过20%，随着Token工厂等新业态持续运营，毛利率呈现快速提升状态；五象云谷Token工厂开展“词元出海”“来数加工”业务，向客户提供AI词元调用服务，采用“国内Token海外调用、按需使用、按量计费”方式进行结算。\r\n\r\n2. AI应用：据2026年10月26日润建股份公众号消息，润建股份的“边江智州”城市治理智能决策大脑获得人工智能+社会工作创新应用大赛一等奖；该平台是润建股份面向县域治理打造的智能决策协同平台，定位于“AI+网格”的县域社会工作新范式。"
+     },
+     {
+      "code": "002596",
+      "name": "海南瑞泽",
+      "board": "首板",
+      "concept": "建材、旅游",
+      "reason": "算力+建材；1. 算力：据2026年10月15日证券导报，海南瑞泽在不到一个月内连续成立3家智算科技公司，并将智算子公司董事推荐为上市公司非独立董事候选人，加速进军智算赛道。据2026年10月14日公告，王建锋被推荐为第六届董事会非独立董事候选人，其任职的通辽双林智算能源科技、深圳瑞泽智算科技均为海南瑞泽旗下新设公司\r\n\r\n2. 建材：据2026年半年报，公司是海南省预拌混凝土行业唯一上市企业，在省内布局10家搅拌站、26条生产线，建成覆盖海口、三亚、琼海、陵水、澄迈等主要市县的全域供应网络；报告期内公司商品混凝土销量86.46万立方米"
+     },
+     {
+      "code": "688316",
+      "name": "青云科技",
+      "board": "首板",
+      "concept": "OpenClaw、算力调度",
+      "reason": "算力；据2026年11月3日青云科技公众号消息，青云科技旗下基石智算在京津冀集成电路专场沙龙完成项目签约，推进异构算力与国产芯片协同适配；公司依托AI原生统一底座，打通从硬件资源纳管、算力精细化调度到企业级Token工厂、Agent智能体平台的全栈链路"
+     },
+     {
+      "code": "000889",
+      "name": "中嘉博创",
+      "board": "首板",
+      "concept": "东数西算、算力租赁",
+      "reason": "算力租赁+6G；1. 算力租赁：据2026年9月15日互动易，子公司中创云道官网设有AI算力租赁服务相关业务宣传，目前该业务已接触意向客户，但暂未产生实际收入，处于前期业务探索阶段\r\n\r\n2. 6G：据2026年4月21日年报，公司研发的空芯光缆专用光时域反射仪可为6G、量子通信、算力网络等领域的规模化部署提供运维保障。"
+     }
+    ]
+   },
+   {
+    "name": "其他",
+    "count": 4,
+    "stocks": [
+     {
+      "code": "002307",
+      "name": "北新路桥",
+      "board": "首板",
+      "concept": "洁净室、新型城镇化",
+      "reason": "基础建设+一带一路；财联社11月3日电，特朗普表示不会在中期选举后对伊朗发动打击。\r\n\r\n1. 基础建设：据2026年6月29日投资者关系活动记录表，公司承揽业务类型以公路、市政等传统建筑业板块为主，进一步涉足新基建等新板块，实施项目主要包括公路工程（各等级公路、隧道、特大桥等）、市政工程（市政道路、地铁）、铁路工程、房屋建筑工程等。\r\n\r\n2. 一带一路：据2026年半年报，北新路桥以“深耕疆内、拓展疆外、优化海外”战略发展理念，在国外5个国家设立办事处，市场承揽范围辐射巴基斯坦、吉尔吉斯斯坦、塔吉克斯坦、俄罗斯等10个国家。"
+     },
+     {
+      "code": "000635",
+      "name": "英力特",
+      "board": "首板",
+      "concept": "分布式光伏、光伏",
+      "reason": "股权转让+化工；1. 股权转让：据2026年10月10日公告，控股股东国能英力特能源化工集团股份有限公司拟公开征集受让方，协议转让所持宁夏英力特化工股份有限公司1.55亿股无限售流通股份，占公司总股本的39.41%\r\n\r\n2. 化工：据2026年半年报，公司属于化学原料及化学制品制造业，主要从事电石及其系列延伸产品、聚氯乙烯、烧碱及其系列延伸产品的生产和销售，主营产品有PVC、E-PVC、烧碱、电石等，构建了\"自备电力→电石→聚氯乙烯\"一体化产业链，采用电石法PVC生产工艺，年生产规模26万吨（含糊树脂4万吨），半年度生产稳定，开工率高于行业平均水平。"
+     },
+     {
+      "code": "300049",
+      "name": "福瑞医科",
+      "board": "首板",
+      "concept": "数据要素、减肥药",
+      "reason": "并购重组+医疗器械；据2026年11月3日晚公告，福瑞医科及全资子公司SPV2、控股子公司Echosens拟通过现金方式收购Echosens少数股东所持35.70%股权，总对价3亿欧元；Echosens主要从事肝脏弹性成像设备FibroScan的研发与销售，本次交易构成关联交易"
+     },
+     {
+      "code": "600569",
+      "name": "安阳钢铁",
+      "board": "首板",
+      "concept": "并购重组、低价股",
+      "reason": "钢铁；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n钢铁：据2026年10月21日公告，安阳钢铁主要从事钢铁产品的研发、生产和销售，已形成包括焦化、烧结、炼铁、炼钢、精炼、连铸及轧制等主要工序的钢铁生产体系，主要产品包括板带材、高线等钢材产品。"
+     }
+    ]
+   },
+   {
+    "name": "地产链",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "000029",
+      "name": "深深房Ａ",
+      "board": "首板",
+      "concept": "物业服务、地产链",
+      "reason": "地产链(房地产)；2026年11月4日晚公告，公司拟与深圳市投控资本等主体共同投资设立深圳深投控弘义一号私募股权投资基金合伙企业(有限合伙)，其中公司拟以自有资金认缴出资人民币1.6亿元，成为有限合伙人(LP)。\r\n\r\n房地产：据2026年半年报，公司属于房地产行业，主要经营活动是房地产开发及商品房销售、物业租赁及管理；子公司传麒公司开发的深房光明里项目（商业部分除外）、龙岗公司的翠林苑项目已全部售罄"
+     },
+     {
+      "code": "603682",
+      "name": "锦和商管",
+      "board": "首板",
+      "concept": "小红书概念、人工智能",
+      "reason": "地产链(物业服务)；据2026年11月5日公众号消息，锦和商管创新产业空间产品线越界Hub以「空间+产业+资源」为核心逻辑，面向科创团队、成长型企业，整合圈层交流、产业对接、全链条配套，将办公、社交、资源撮合融为一体，并新推出越界Hub・壹丰广场、越界Hub・航科大厦两个标杆项目，目前越界Hub五大项目已全面启动招商"
+     },
+     {
+      "code": "603737",
+      "name": "三棵树  ",
+      "board": "首板",
+      "concept": "建材、装修家具",
+      "reason": "地产链(建材)；据2026年11月5日三棵树公众号消息，住房城乡建设部科技与产业化发展中心与三棵树正式签署战略合作协议，三棵树“马上住”4.0以“1+N”生态模式打通涂料、艺术漆、小森板等全品类材料"
+     }
+    ]
+   },
+   {
+    "name": "核电",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "000533",
+      "name": "顺钠股份",
+      "board": "首板",
+      "concept": "东数西算、云计算",
+      "reason": "核电+数据中心；11月4日民主党赢下美国中期选举，民主党将清洁能源视为应对气候变化和降低长期能源成本的核心工具。\r\n\r\n1. 核电：据2026年半年报，控股孙公司顺特电气研制了核电用1E级变压器等特殊用途干式变压器，产品通过1E级核电站用干式变压器试验及认证，获得国家民用核安全设备设计许可证和制造许可证，通过热老化试验可等效运行60年；可为核电站提供安全级（含核岛级1E/非1E级）、非安全级干式变压器。\r\n\r\n2. 数据中心：据2026年半年报，公司数据中心领域可提供涵盖中压配电柜、变压器、列头柜、电抗器及配套直流操作电源的全套配电设备解决方案；2026年上半年推出数据中心专用IPM一体化电力模组，已通过第三方权威机构测试认证，并已启动固态变压器研发和样机试制工作。"
+     },
+     {
+      "code": "002318",
+      "name": "久立特材",
+      "board": "首板",
+      "concept": "光热储能、浙江",
+      "reason": "核电+储能；11月4日民主党赢下美国中期选举，民主党将清洁能源视为应对气候变化和降低长期能源成本的核心工具。\r\n\r\n1. 核电：据2026年11月4日投资者关系活动记录表，公司拥有核级1/2/3级相关资质，持续迭代核电材料技术，现阶段重点配套三代核电及国产化替代项目，同时前瞻储备四代核电、可控核聚变相关特种材料。\r\n\r\n2. 储能：据2026年4月28日公告，公司以能源结构低碳化为方向，系统推进“分布式光伏+储能+绿电采购”多元协同模式；报告期内储能系统全年稳定运行，通过削峰填谷优化电力负荷结构，实现经济收益约332万元。"
+     },
+     {
+      "code": "603699",
+      "name": "纽威股份",
+      "board": "首板",
+      "concept": "江苏省、贬值受益",
+      "reason": "核电+风电；11月4日民主党赢下美国中期选举，民主党将清洁能源视为应对气候变化和降低长期能源成本的核心工具。\r\n\r\n1. 核电：据2026年半年报，纽威股份产品涵盖核电阀等十一大阀种，其核一级关键止回阀通过全套权威鉴定，可满足“华龙一号”配套需求\r\n\r\n2. 风电：据2025年年报，公司优化锻造工艺与模具工装、推进设备技改，实现风电齿轮箱齿圈锻件、行星轮锻件的大批量交付，大幅提升了风电齿轮箱锻件的市场竞争力。"
+     }
+    ]
+   },
+   {
+    "name": "黄金",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "000017",
+      "name": "深中华A",
+      "board": "2连板",
+      "concept": "黄金冶炼加工、端侧AI",
+      "reason": "黄金；据2026年半年报，珠宝金银业务主要是公司对接下游黄金珠宝品牌企业和经销商，根据其市场和客户的产品需求，进行黄金、白银、钻石采购，然后设计、加工或委托珠宝金银加工厂进行加工，加工后的产成品经检验合格制作产品证书，并交付给下游珠宝品牌企业和经销商；公司上游原材料采购以黄金、白银、钻石为主，其中黄金主要从上海黄金交易所采购。"
+     },
+     {
+      "code": "000603",
+      "name": "盛达资源",
+      "board": "2连板",
+      "concept": "白银、金属铟",
+      "reason": "黄金+金属铟；1. 黄金：据2026年11月2日晚公告，盛达资源拟通过受让高承成所持方鑫矿业44%股权及现金增资，取得方鑫矿业不低于58%股权，交易完成后其成为控股子公司。标的公司主营矿产资源（非矿山）开采、选矿、矿物洗选加工及金属矿石销售，核心资产为毛姐山金矿采矿权\r\n\r\n2. 金属铟：据2026年8月4日投资者关系活动记录表，广西金石矿业妙皇矿区花蓬-那宜矿段经评审备案的伴生元素资源量（推断）铟金属量156吨，平均品位21.23克/吨；"
+     },
+     {
+      "code": "001360",
+      "name": "南矿集团",
+      "board": "2连板",
+      "concept": "黄金、锂电池",
+      "reason": "黄金+工程机械；1. 黄金：据2026年10月22日晚公告，南矿集团拟收购境外公司51%股权，目标公司持有印度尼西亚中苏拉威西省布奥县霍露巴朗（Hulubalang）金矿项目正式生产运营采矿权（IUP），Ⅲ号矿体探获矿石量约114万吨、金金属量约7.4吨，平均品位6.49g/t。\r\n\r\n2. 工程机械：据2026年10月22日晚公告，南矿集团拟收购境外公司51%股权，并以此为基础，与目标公司就项目的破碎、筛分、输送、选矿、智能运维、矿山装备、工程服务及备品备件供应、运营服务等签署EPC-O总承包合同，在设备输出与资源开发两端形成战略协同。"
+     }
+    ]
+   },
+   {
+    "name": "商业航天",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "600261",
+      "name": "阳光照明",
+      "board": "6天5板",
+      "concept": "电解槽、智能家居",
+      "reason": "商业航天+LED；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 商业航天：据2026年半年报，公司使用自有资金3000万元参与蓝星光域（上海）航天科技有限公司融资，完成后持有其1.1%股权；蓝星光域专注于全场景激光通信解决方案，核心产品包括星载同轨/异轨激光通信终端、机载平流层激光通信终端等，主要应用于卫星间、星地间高速率通信。\r\n\r\n2. LED：据2026年半年报，公司主要从事照明电器的研发、生产和销售，并为客户提供综合照明解决方案；照明类产品主要包括LED光源产品（球泡、射灯等）、LED灯具产品、照明控制系统及智能照明解决方案。"
+     },
+     {
+      "code": "002565",
+      "name": "顺灏股份",
+      "board": "2连板",
+      "concept": "尼古丁、钠电池",
+      "reason": "商业航天+算力；据2026年10月31日财联社报道，第七届载人航天学术大会披露，我国首次载人月球探测任务乘组由3人组成，其中2人着陆月球表面；计划2030年前实现中国人登陆月球，各项研制建设正扎实推进。\r\n\r\n1. 商业航天：据2026年9月9日互动易，参股公司北京轨道辰光科技有限公司第一代试验星“辰光一号”正在开展在轨测试，相关验证结果请以参股公司相关的官方网站、公众号等互联网渠道公布的信息为准。\r\n\r\n2. 算力：据2026年半年报，香港算力交易平台有限公司由本公司全资子公司绿新包装资源控股有限公司出资设立，持股比例为100%，主营业务为算力交易平台服务。"
+     }
+    ]
+   },
+   {
+    "name": "农业",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "002086",
+      "name": "东方海洋",
+      "board": "9天6板",
+      "concept": "CRO、食品安全",
+      "reason": "水产品+医疗器械；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 水产品：据2026年半年报，东方海洋主要从事海水苗种繁育、养殖，水产品加工，生物科技，保税仓储物流以及体外诊断试剂的研发、生产与销售和检测服务等业务，所处行业为水产品养殖及加工。\r\n\r\n2. 医疗器械：据2026年10月9日公告，东方海洋子公司质谱生物科技有限公司自主研发的水溶性维生素测定试剂盒（液相色谱-串联质谱法）获得山东省药品监督管理局颁发的医疗器械注册证，用于体外定量检测人血清中多种维生素含量"
+     },
+     {
+      "code": "603151",
+      "name": "邦基科技",
+      "board": "首板",
+      "concept": "饲料、猪肉",
+      "reason": "猪肉+饲料；1. 猪肉：据2026年9月1日互动易，受生猪行业周期波动影响，报告期内生猪销售价格大幅下降，致使邦基科技生猪养殖业务出现亏损；下游养殖行业整体承压，饲料行业市场竞争进一步加剧，公司饲料业务毛利率有所回落。\r\n\r\n2. 饲料：据2026年半年报，公司一直从事猪饲料的研发、生产和销售业务，主要产品包括猪预混料、猪浓缩料、猪配合料等；本期公司直销渠道合作的规模化养殖公司存栏量增加，带动饲料产品销量增长。"
+     }
+    ]
+   },
+   {
+    "name": "零售",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "605188",
+      "name": "国光连锁",
+      "board": "首板",
+      "concept": "平台经济、电子商务",
+      "reason": "零售；据2026年半年报，公司自设立以来主要从事连锁超市、百货商场的运营业务，公司立足于江西省内，多年来通过深耕本地市场、持续推进门店升级转型，成为以生鲜、食品为核心品类的零售企业。截至本报告期末，公司拥有门店40家，是江西本土领先的连锁经营企业、江西省商贸流通行业首家上市企业。"
+     },
+     {
+      "code": "600865",
+      "name": "百大集团",
+      "board": "4天2板",
+      "concept": "杭州、蚂蚁概念",
+      "reason": "零售+物业服务；1. 零售：据2026年10月23日公告，百大集团拥有杭州百货大楼一家门店，位于杭州市中心武林广场南侧，经营业态为百货商场；2008年起公司已将杭州百货大楼委托给浙江银泰百货有限公司经营管理，每年收取稳定的委托经营利润。\r\n\r\n2. 物业服务：据2026年半年报，公司子公司百大物服（杭州）物业服务有限责任公司主要业务为物业管理，注册资本500万元，公司持股比例100%。"
+     }
+    ]
+   },
+   {
+    "name": "医药",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "000710",
+      "name": "贝瑞基因",
+      "board": "首板",
+      "concept": "腾讯概念、AI应用",
+      "reason": "基因疗法+AI医疗；1. 基因疗法：据2026年11月3日贝瑞基因公众号消息，贝瑞基因HiFi长读长全基因组测序相比二代短读长测序，对插入型结构变异的检出量提升4.9倍，对缺失型结构变异的检出量提升3.1倍，整体SV检测能力达到二代的3-5倍。\r\n\r\n2. AI医疗：据2026年半年报，贝瑞基因以“AI+基因科技”双引擎驱动，依托自主研发的GENOisi智能体打造“产儿一体智能诊疗系统”，将AI技术深度融入基因检测全流程；报告期内GENOisi智能体升级，融合大语言模型与智能体技术，面向临床、实验室提供遗传咨询智能问答、基因位点智能解读、基因报告智能质控三大核心功能，已在数十家医疗机构落地应用。"
+     },
+     {
+      "code": "002773",
+      "name": "康弘药业",
+      "board": "首板",
+      "concept": "阿尔茨海默、合成生物",
+      "reason": "创新药+阿尔茨海默；据2026年10月12日互动易，中成药板块的KH110（治疗阿尔茨海默症（Alzheimers disease,AD））处于临床Ⅲ期阶段，相关临床数据将在试验完成后，按照相关法律法规及监管部门的要求执行。"
+     }
+    ]
+   },
+   {
+    "name": "锂电池",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "002088",
+      "name": "鲁阳节能",
+      "board": "5天4板",
+      "concept": "消防、光热储能",
+      "reason": "锂电池+非金属材料；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 锂电池：据2026年6月10日互动易及5月15日投资者关系活动记录表，新能源电池行业是公司重点拓展的主要市场之一，公司目前已形成“陶铠”与“炽盾”两大品牌系列，纤维纸产品主要是为电池防火包覆材料加工厂家提供加工基材，已通过IATF16949体系认证。公司纤维纸产品可以用于新能源汽车锂电池防火隔热。\r\n\r\n2. 非金属材料：据2026年半年报，公司具备年产约58万吨陶瓷纤维产品的生产能力，拥有山东、内蒙古、贵州陶瓷纤维生产基地，陶瓷纤维产能布局辐射全国。"
+     },
+     {
+      "code": "603876",
+      "name": "鼎胜新材",
+      "board": "首板",
+      "concept": "刀片电池、钠电池",
+      "reason": "铝箔+固态电池；1. 铝箔：据2026年10月21日互动，公司电池箔产品自三季度以来产能利用率及有效产能保持高位，内蒙古子公司新增的电池箔产能已于9月份陆续投产，后续将逐月释放产能供给以满足目前电池箔产品的订单缺口\r\n\r\n2. 固态电池：据2026年10月8日互动易，公司一直密切关注固态电池等下一代电池技术的行业发展与研发动态，持续跟踪相关技术路线、产业化进展；公司铝箔目前正配合相关下游客户研发并送样测试，后续将持续关注该领域客户的相关进展，做好相关铝箔产品的新技术储备跟进"
+     }
+    ]
+   },
+   {
+    "name": "ST板块",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "600537",
+      "name": "*ST亿晶 ",
+      "board": "4连板",
+      "concept": "TOPCon、钙钛矿电池",
+      "reason": "ST板块+光伏；据2026年11月2日公告，公司与预重整引导人及产业投资人中润光能、宁波瑞廉签署补充协议，中润光能出资约7.19亿元认购不低于3.995亿股，宁波瑞廉出资1亿元认购不低于5554.94万股；重整完成后实控人拟变更为龙大强、孟丽叶。\r\n\r\nST板块+光伏：据2026年半年报，公司属于光伏行业，主营业务为高效晶体硅太阳能电池、组件的研发、生产和销售，同时开展光伏电站开发、建设和运营业务。"
+     },
+     {
+      "code": "603959",
+      "name": "ST百利  ",
+      "board": "首板",
+      "concept": "锂电设备、固态电池",
+      "reason": "ST板块；11月2日晚公告，公司已收到《现金赠与协议》项下第一笔、第二笔赠与款，合计7500.00万元。根据协议，7家重整投资人合计赠与1.30亿元，赠与款项到账后将按相关规定计入公司资本公积，用于改善公司财务结构、增强公司资本实力、支持公司庭外重组及后续重整工作。"
+     }
+    ]
+   },
+   {
+    "name": "旅游(酒店)",
+    "count": 1,
+    "stocks": [
+     {
+      "code": "000428",
+      "name": "华天酒店",
+      "board": "首板",
+      "concept": "酒店、旅游",
+      "reason": "酒店+旅游；1. 酒店：据2026年半年报，公司以酒店服务业为主业，旗下拥有“华天大酒店”“华天假日酒店”“华天精选酒店”品牌，酒店业以“自营+托管”的轻资产模式运营发展，截至报告期末公司直营加托管酒店共55家，已开业49家（直营酒店20家，托管酒店29家），累计拥有会员606万人。\r\n\r\n2. 旅游：据2026年9月3日投资者关系活动记录表，华天酒店依托控股股东打造湖南省文体旅产业融合发展链主企业的战略定位，深度对接文体旅融合产业链，协同体育赛事与文化旅游等产业资源，构建酒店+旅游+体育一体化运营体系，打造接待、住宿、餐饮、赛事服务、旅游等全链条服务"
+     }
+    ]
+   },
+   {
+    "name": "食品饮料(乳业)",
+    "count": 1,
+    "stocks": [
+     {
+      "code": "605339",
+      "name": "南侨食品",
+      "board": "首板",
+      "concept": "小红书概念、平台经济",
+      "reason": "食品饮料(乳业)；据2026年半年报，南侨食品从欧洲引进多款高端乳制品烘焙原料，目前已形成奶油、黄油、芝士的产品矩阵，奶油产品包括米勒奶油系列，黄油产品包括加得兰、富比威、米勒三款黄油。"
+     }
+    ]
+   },
+   {
+    "name": "酿酒(白酒)",
+    "count": 1,
+    "stocks": [
+     {
+      "code": "000995",
+      "name": "皇台酒业",
+      "board": "5天4板",
+      "concept": "甘肃省、白酒",
+      "reason": "酿酒(白酒)；据2026年半年报，公司主要从事白酒酿造与销售，白酒产品包括皇台奔马系列（奔马天马、奔马龙马、奔马金马等）及窖底原浆系列。"
+     }
+    ]
+   }
+  ],
+  "withdrawal": {
+   "num": 5,
+   "stocks": [
+    [
+     "688004",
+     "博汇科技",
+     -5.25
+    ],
+    [
+     "002652",
+     "扬子新材",
+     -3.92
+    ],
+    [
+     "002058",
+     "紫竹高科",
+     -5.85
+    ]
+   ]
+  }
+ }
+}
