@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>新闻存档 · 2026-11-07</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="back" href="index.html">&#8249; 存档索引</a>
+<header class="top">
+<div class="day">2026年11月07日 周六</div>
+<h1>&#128240; 新闻存档</h1>
+<div class="sub">加红 0 条（全文）&nbsp;·&nbsp;全部 6 条</div>
+</header>
+<div class="arcbar">
+<button id="f-all" class="on" type="button">全部 6</button>
+<button id="f-red" type="button">只看加红 0</button>
+<button id="f-open" type="button">展开全文</button>
+</div>
+<div id="list">
+<div class="arc" data-cat="all"><span class="t">00:27</span><span class="h plain">OpenAI首席财务官表示，无论选举结果如何，OpenAI都将持续投资于AI数据中心。</span></div><div class="arc" data-cat="all"><span class="t">00:21</span><span class="h plain">标普将梅赛德斯-奔驰的长期信用评级从A下调至A-，评级展望维持负面。</span></div><div class="arc" data-cat="all"><span class="t">00:15</span><span class="h plain">欧洲央行行长候选人仅剩下Knot和De Cos。</span></div><div class="arc" data-cat="all"><span class="t">00:13</span><span class="h plain">马斯克表示，本季度从有关政府获得收入占SpaceX营收的比例将低于10%。</span></div><div class="arc" data-cat="all"><span class="t">00:06</span><span class="h plain">国际原子能机构警告：乌克兰核设施面临持续安全风险</span></div><div class="arc" data-cat="all"><span class="t">00:04</span><span class="h plain">哥斯达黎加10月CPI同比增长0.55%，环比增长0.39%。</span></div>
+</div>
+<script>
+(function(){
+  var list=document.getElementById('list');
+  function setFilter(mode){
+    document.getElementById('f-all').className = mode==='all'?'on':'';
+    document.getElementById('f-red').className = mode==='red'?'on':'';
+    Array.prototype.forEach.call(list.children,function(el){
+      el.style.display = (mode==='red' && el.dataset.cat!=='red') ? 'none' : '';
+    });
+  }
+  document.getElementById('f-all').onclick=function(){setFilter('all');};
+  document.getElementById('f-red').onclick=function(){setFilter('red');};
+  var open=false;
+  document.getElementById('f-open').onclick=function(){
+    open=!open; this.textContent = open?'收起全文':'展开全文';
+    Array.prototype.forEach.call(list.querySelectorAll('details'),function(d){d.open=open;});
+  };
+})();
+</script>
+<footer>数据来源：财联社电报 · 开盘啦<br>生成于 2026-11-07 00:30 ｜ <a href="archive/index.html">简报归档</a> ｜ <a href="news/index.html">新闻存档</a></footer>
+</body>
+</html>
