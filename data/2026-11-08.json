@@ -1,0 +1,1361 @@
+{
+ "brief_date": "2026-11-08",
+ "generated_at": "2026-11-08 00:30",
+ "lookback_hours": 16,
+ "news": [
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 527431,
+   "content": "【显卡价格连涨11个交易日后急跌 华强北显卡半天一个价】财联社11月7日电，显卡是主要用于图形渲染的硬件，如今也广泛用于AI算力运算。此前受海外停产传闻刺激，RTX 50系列显卡开启连续上涨，一口气连涨11个交易日。从10月28日开始，行情突然掉头向下。RTX 5080从最高近2万元，跌到1.6万元，价格回调两成。有商户告诉记者：“代理商、商户提前囤货，导致价格发生了很大浮动，甚至早上跟下午价格都变动很大。”尽管价格有所回落，但目前主流显卡RTX 50系列均价仍是建议零售价的1.7倍，之前较大的价格涨幅仍未消化。华强北市场硬件价格的走向，也吸引着海外采购商的目光。记者走访发现，近期海外客商密集到店询价，显卡、内存等硬件跨境采购热度明显提升。有商户称，“10月份外国客户销售额占了50%以上。” （央视财经）",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "",
+   "user_id": 253,
+   "is_top": 0,
+   "brief": "【显卡价格连涨11个交易日后急跌 华强北显卡半天一个价】财联社11月7日电，显卡是主要用于图形渲染的硬件，如今也广泛用于AI算力运算。此前受海外停产传闻刺激，RTX 50系列显卡开启连续上涨，一口气连涨11个交易日。从10月28日开始，行情突然掉头向下。RTX 5080从最高近2万元，跌到1.6万元，价格回调两成。有商户告诉记者：“代理商、商户提前囤货，导致价格发生了很大浮动，甚至早上跟下午价格都变动很大。”尽管价格有所回落，但目前主流显卡RTX 50系列均价仍是建议零售价的1.7倍，之前较大的价格涨幅仍未消化。华强北市场硬件价格的走向，也吸引着海外采购商的目光。记者走访发现，近期海外客商密集",
+   "id": 2528148,
+   "ctime": 1794061108,
+   "type": -1,
+   "title": "显卡价格连涨11个交易日后急跌 华强北显卡半天一个价",
+   "bold": 0,
+   "sort_score": 1794061108,
+   "comment_num": 0,
+   "modified_time": 1794061411,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2528148?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 999,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2528148,
+     "subject_id": 1501,
+     "subject_name": "期货市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 60651,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 88,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2528148,
+     "subject_id": 1321,
+     "subject_name": "人工智能",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 73253,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 207,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2528148,
+     "subject_id": 9086,
+     "subject_name": "算力",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 18387,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 550,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261107/222332vDDgdUu26Fsv.mp3"
+   ],
+   "author": "央视财经",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "<p>财联社11月7日电，显卡是主要用于图形渲染的硬件，如今也广泛用于AI算力运算。此前受海外停产传闻刺激，RTX 50系列显卡开启连续上涨，一口气连涨11个交易日。从10月28日开始，行情突然掉头向下。RTX 5080从最高近2万元，跌到1.6万元，价格回调两成。有商户告诉记者：“代理商、商户提前囤货，导致价格发生了很大浮动，<u>甚至早上跟下午价格都变动很大</u>。”尽管价格有所回落，但目前<u>主流显卡RTX 50系列均价仍是建议零售价的1.7倍</u>，之前较大的价格涨幅仍未消化。华强北市场硬件价格的走向，也吸引着海外采购商的目光。记者走访发现，近期海外客商密集到店询价，显卡、内存等硬件<u>跨境采购热度明显提升</u>。有商户称，“10月份外国客户销售额占了50%以上。”</p>",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 504196,
+   "content": "【美中央司令部成立特遣队 阻止伊朗通过陆路运输先进武器】财联社11月7日电，美国中央司令部司令库珀当地时间11月7日下令成立一支名为“铁门”（Task Force Iron Gate）的特遣队，旨在配合美国政府正在开展的相关行动，阻止伊朗通过陆路运输先进武器及其他物资。据介绍，该特遣队由约20名文职及军事人员组成，驻扎在美国佛罗里达州坦帕市。这支新成立的特遣队将与美国其他政府机构展开协调合作，阻止先进武器系统、军民两用技术、受制裁物资及“非法资金”通过伊朗陆地边境和里海进行跨境流动。美国中央司令部称，近几个月来，美国实施的海上封锁已阻止伊朗出口价值超过250亿美元的原油。目前，美方仍对所有进出伊朗港口的船只严格执行海上封锁措施。 （央视新闻）",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "",
+   "user_id": 253,
+   "is_top": 0,
+   "brief": "【美中央司令部成立特遣队 阻止伊朗通过陆路运输先进武器】财联社11月7日电，美国中央司令部司令库珀当地时间11月7日下令成立一支名为“铁门”（Task Force Iron Gate）的特遣队，旨在配合美国政府正在开展的相关行动，阻止伊朗通过陆路运输先进武器及其他物资。据介绍，该特遣队由约20名文职及军事人员组成，驻扎在美国佛罗里达州坦帕市。",
+   "id": 2528144,
+   "ctime": 1794059480,
+   "type": -1,
+   "title": "美中央司令部成立特遣队 阻止伊朗通过陆路运输先进武器",
+   "bold": 0,
+   "sort_score": 1794059480,
+   "comment_num": 0,
+   "modified_time": 1794061483,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2528144?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 222,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2528144,
+     "subject_id": 1501,
+     "subject_name": "期货市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 60651,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 88,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2528144,
+     "subject_id": 10986,
+     "subject_name": "中东冲突",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 53528,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261107/222444TB6r1Pozuixv.mp3"
+   ],
+   "author": "央视新闻",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 577139,
+   "content": "【伯克希尔哈撒韦：第三季度营业利润为127.1亿美元 公司第三季度回购了96亿美元股票】财联社11月7日电，伯克希尔哈撒韦公司第三季度营收为1056.47亿美元，去年同期为949.72亿美元；第三季度营业利润为127.1亿美元，同比下降5.8%；第三季度归属于股东的净利润为221.12亿美元，上年同期为307.96亿美元；第三季度每股A类等效普通股净收益为15,502美元；第三季度净投资收益为94.07亿美元，去年同期为173.11亿美元。截至9月30日，公司第三季度现金持仓为3569亿美元；现金储备较上一季度有所增加，达到3774亿美元，再创新高。公司第三季度回购了96亿美元股票。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "https://image.cls.cn/images/20261107/2dqL8A49uk_1170x1382.png",
+   "user_id": 253,
+   "is_top": 0,
+   "brief": "财联社11月7日电，伯克希尔哈撒韦公司第三季度营业利润为127.1亿美元，同比下降5.8%。",
+   "id": 2528135,
+   "ctime": 1794056268,
+   "type": -1,
+   "title": "伯克希尔哈撒韦：第三季度营业利润为127.1亿美元 公司第三季度回购了96亿美元股票",
+   "bold": 0,
+   "sort_score": 1794056268,
+   "comment_num": 5,
+   "modified_time": 1794058846,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2528135?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 262,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261107/2dqL8A49uk_1170x1382.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2528135,
+     "subject_id": 1556,
+     "subject_name": "环球市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 173762,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2528135,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 70896,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261107/214047T7Opyn6QNQvi.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 660372,
+   "content": "【新闻联播：新一代通信网加快建设 筑牢高质量发展数字底座】财联社11月7日电，《新闻联播》今日播出的一则报道用时2分36秒介绍新一代通信网加快建设的报道。报道称，新一代通信网是贯通数字和实体、连接当下与未来的关键数字纽带。“十五五”开局之年，各地加快推动新一代通信网建设，夯实高质量发展底座。\n\n新一代通信网，包含了5G、5G-A、6G等移动通信网，以及万兆光网、卫星互联网等，实现通信、感知、计算、智能等多功能深度融合。 \n\n眼下，新一代通信网建设稳步推进，覆盖范围越来越广。在大兴安岭的加格达奇，基站建进林海深处，无人林区的画面实时传送到指挥平台，让防火监测有了“千里眼”。在秦巴山区，网络正铺进深山，无人机、无人车定期巡检，大幅提高了山区道路管护效率。在渤海，建设者们依托油气平台等设施，架设起60多座各类基站，信号接力，让这片海域实现全域互联。\n\n融合应用不断拓展。目前，我国已建成工业5G专网超2.6万个、5G工厂1260个，工业互联网已覆盖全部41个工业大类。在安徽合肥的这家新能源汽车工厂，工业5G覆盖冲压、焊装、总装各个环节，智慧产线高速运转，一分钟就能下线一台整车。在内蒙古呼伦贝尔伊敏露天矿，无人电动矿卡加紧作业。今年9月，这里完成了全国首个露天矿山场景5G-A千兆上行验证，近百台矿卡在调度中心的指挥下实现自动装卸、自动避障、自动换电，24小时高效运行。\n\n面向未来，6G技术正加速从实验室走向应用。在江苏南京紫金山实验室，科研人员正在开展新一轮6G网络多基站协同感知能力测试。6G基站和信号不仅可以通信，还能够像雷达一样感知物体的运动。未来，这项技术将为自动驾驶等提供更快速的响应保障。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261107/4QxbG8mitd_1746x818.png",
+   "user_id": 253,
+   "is_top": 0,
+   "brief": "【新闻联播：新一代通信网加快建设 筑牢高质量发展数字底座】财联社11月7日电，《新闻联播》今日播出的一则报道用时2分36秒介绍新一代通信网加快建设的报道。报道称，新一代通信网是贯通数字和实体、连接当下与未来的关键数字纽带。“十五五”开局之年，各地加快推动新一代通信网建设，夯实高质量发展底座。\n\n新一代通信网，包含了5G、5G-A、6G等移动通信网，以及万兆光网、卫星互联网等，实现通信、感知、计算、智能等多功能深度融合。 \n\n眼下，新一代通信网建设稳步推进，覆盖范围越来越广。在大兴安岭的加格达奇，基站建进林海深处，无人林区的画面实时传送到指挥平台，让防火监测有了“千里眼”。在秦巴山区，网络正铺进",
+   "id": 2528128,
+   "ctime": 1794053499,
+   "type": -1,
+   "title": "新闻联播：新一代通信网加快建设 筑牢高质量发展数字底座",
+   "bold": 0,
+   "sort_score": 1794053499,
+   "comment_num": 0,
+   "modified_time": 1794054402,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2528128?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 1600,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261107/4QxbG8mitd_1746x818.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2528128,
+     "subject_id": 1089,
+     "subject_name": "TMT行业观察",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 25569,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2528128,
+     "subject_id": 1101,
+     "subject_name": "能源行业新闻",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 19135,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2528128,
+     "subject_id": 1354,
+     "subject_name": "新能源汽车",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 46769,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 170,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2528128,
+     "subject_id": 1340,
+     "subject_name": "无人机",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 12511,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 434,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2528128,
+     "subject_id": 1174,
+     "subject_name": "5G",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 62587,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 452,
+     "channel": "stib,cls"
+    },
+    {
+     "article_id": 2528128,
+     "subject_id": 1343,
+     "subject_name": "智能驾驶",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 32150,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 233,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2528128,
+     "subject_id": 2623,
+     "subject_name": "6G",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 12429,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 417,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2528128,
+     "subject_id": 2385,
+     "subject_name": "基站",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 6733,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2528128,
+     "subject_id": 7523,
+     "subject_name": "换电概念",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 9602,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 508,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261107/2026448XIqHpL8mjWZ.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 712849,
+   "content": "【11月7日周六《新闻联播》要闻24条】财联社11月7日电，今天《新闻联播》主要内容有：\n1、【学习贯彻党的二十届五中全会精神】踔厉奋发勇争先 不断开创中国式现代化新局面； \n2、中共中央发出通知 部署党的二十一大代表选举工作； \n3、【学习贯彻党的二十届五中全会精神】中央宣讲团在各地宣讲党的二十届五中全会精神； \n4、第七届世界媒体峰会在北京举办； \n5、新一代通信网加快建设 筑牢高质量发展数字底座； \n6、我国加快推进核能综合利用； \n7、【赓续长征精神 奋进复兴征程】河南：传承红色基因 绘就振兴新画卷； \n8、【新闻特写】深耕中国 共享机遇； \n9、华北迎大范围降雪 中东部降温明显； \n10、截至10月末我国外汇储备规模为34052亿美元； \n11、2026年第二批质量督察工作启动； \n12、两部门集中整治网上金融“黑灰产”信息乱象； \n13、2026中非经贸和文化论坛在浙江义乌举行； \n14、前三季度我国开展补贴性培训超800万人次； \n15、电视剧《伟大的长征》创作座谈会在京举行； \n16、2026年中国金鸡百花电影节在厦门开幕； \n17、中国记协传播矩阵数智化建设成果集中上线； \n18、“中国之治与世界发展”全球对话会继续在多国进行； \n19、美称打击伊朗防空装置 伊朗称击落美无人机； \n20、也门塔伊兹一市场遭袭 相关方相互指责； \n21、国际海事组织呼吁保障重要航道安全； \n22、欧盟机构称今年10月为全球最热10月；\n23、旅美大熊猫“平平”“福双”正式亮相；\n24、二十四节气·立冬。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "",
+   "user_id": 253,
+   "is_top": 0,
+   "brief": "【11月7日周六《新闻联播》要闻24条】财联社11月7日电，今天《新闻联播》主要内容有：\n1、【学习贯彻党的二十届五中全会精神】踔厉奋发勇争先 不断开创中国式现代化新局面； \n2、中共中央发出通知 部署党的二十一大代表选举工作； \n3、【学习贯彻党的二十届五中全会精神】中央宣讲团在各地宣讲党的二十届五中全会精神； \n4、第七届世界媒体峰会在北京举办； \n5、新一代通信网加快建设 筑牢高质量发展数字底座； \n6、我国加快推进核能综合利用； \n7、【赓续长征精神 奋进复兴征程】河南：传承红色基因 绘就振兴新画卷； \n8、【新闻特写】深耕中国 共享机遇； \n9、华北迎大范围降雪 中东部降温明显； \n",
+   "id": 2528123,
+   "ctime": 1794052157,
+   "type": -1,
+   "title": "11月7日周六《新闻联播》要闻24条",
+   "bold": 0,
+   "sort_score": 1794052157,
+   "comment_num": 0,
+   "modified_time": 1794052157,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2528123?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 522,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2528123,
+     "subject_id": 1134,
+     "subject_name": "新闻联播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 33261,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261107/194917UadCzqVwcj6y.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 1027114,
+   "content": "【苹果研究团队披露机器人“大脑”进展 单项任务测试平均成功率为91%】财联社11月7日电，苹果研究团队披露机器人“大脑”研究进展。当地时间11月4日，苹果研究团队在预印本平台arXiv提交论文《Perceptive Humanoid Motion from Simulation》，披露了人形机器人自主控制系统HALO。研究团队还公开了数据生成、模型训练和部署代码，涵盖动作生成、动作跟踪、任务编排以及仿真和真实机器人运行等环节。据论文披露，研究团队在6个未预先扫描或建图的真实环境中开展360次单项任务测试，平均成功率为91%。另在一个真实环境中，对3种组合任务分别开展10次测试，平均成功率为70%。其中，“俯身通过障碍—走向目标—推箱子”这一组合的成功率为50%。需要指出的是，仿真生成数据并未完全摆脱人工参与。团队表示，新增物理任务仍需人工编写提示词、设计动作关键帧，部分动作还使用了人类视频或动捕素材。研究团队同时指出，目前机器人主要依赖视觉感知，难以直接感知接触情况；当物体离开相机视野或被遮挡时，涉及较多接触的任务表现会下降。加入触觉感知，是后续改进方向之一。 （澎湃新闻）",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 1,
+   "jpush": 1,
+   "img": "https://image.cls.cn/images/20261107/S8eP4x2VL1_1035x582.png,https://image.cls.cn/images/20261107/d5215y2c3U_1024x515.png",
+   "user_id": 253,
+   "is_top": 0,
+   "brief": "【苹果研究团队披露机器人“大脑”进展 单项任务测试平均成功率为91%】财联社11月7日电，苹果研究团队披露机器人“大脑”研究进展。当地时间11月4日，苹果研究团队在预印本平台arXiv提交论文《Perceptive Humanoid Motion from Simulation》，披露了人形机器人自主控制系统HALO。研究团队还公开了数据生成、模型训练和部署代码，涵盖动作生成、动作跟踪、任务编排以及仿真和真实机器人运行等环节。据论文披露，研究团队在6个未预先扫描或建图的真实环境中开展360次单项任务测试，平均成功率为91%。另在一个真实环境中，对3种组合任务分别开展10次测试，平均成功率为70",
+   "id": 2528079,
+   "ctime": 1794043317,
+   "type": -1,
+   "title": "苹果研究团队披露机器人“大脑”进展 单项任务测试平均成功率为91%",
+   "bold": 0,
+   "sort_score": 1794043317,
+   "comment_num": 78,
+   "modified_time": 1794044343,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2528079?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 1884,
+   "sub_titles": [
+    {
+     "article_id": "2528130",
+     "name": "【电报解读】平均成功率91%！苹果研究团队披露机器人“大脑”进展，分析师看好人形机器人大小脑融合在即，或迎“GPT时刻”，快速梳理机器人大小脑相关标的（附表）",
+     "schema": "cailianshe://article_detail?article_id=2528130",
+     "external_link": "",
+     "img": "",
+     "ctime": 1794055879,
+     "author": "",
+     "brief": "",
+     "type": 20026,
+     "reading_num": 0,
+     "level": "",
+     "channel": "cls"
+    }
+   ],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261107/S8eP4x2VL1_1035x582.png",
+    "https://image.cls.cn/images/20261107/d5215y2c3U_1024x515.png"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2528079,
+     "subject_id": 1098,
+     "subject_name": "美股动态",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 70896,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2528079,
+     "subject_id": 1309,
+     "subject_name": "机器人",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 45547,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 201,
+     "channel": "cls,stib"
+    },
+    {
+     "article_id": 2528079,
+     "subject_id": 12683,
+     "subject_name": "人形机器人",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 10955,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 2067,
+     "channel": "cls,stib"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261107/173904iaIE1sQh5saZ.mp3"
+   ],
+   "author": "澎湃新闻",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "<p>财联社11月7日电，苹果研究团队披露机器人“大脑”研究进展。当地时间11月4日，苹果研究团队在预印本平台arXiv提交论文《Perceptive Humanoid Motion from Simulation》，披露了人形机器人自主控制系统HALO。研究团队还公开了数据生成、模型训练和部署代码，涵盖动作生成、动作跟踪、任务编排以及仿真和真实机器人运行等环节。据论文披露，研究团队在6个未预先扫描或建图的真实环境中开展360次<u>单项任务测试，平均成功率为91%</u>。另在一个真实环境中，对3种组合任务分别开展10次测试，平均成功率为70%。其中，“俯身通过障碍—走向目标—推箱子”这一组合的成功率为50%。需要指出的是，仿真生成数据并未完全摆脱人工参与。团队表示，新增物理任务仍需人工编写提示词、设计动作关键帧，部分动作还使用了人类视频或动捕素材。研究团队同时指出，目前机器人主要依赖视觉感知，难以直接感知接触情况；当物体离开相机视野或被遮挡时，涉及较多接触的任务表现会下降。<u>加入触觉感知，是后续改进方向之一</u>。</p>",
+   "gray_share": 0,
+   "comment_recommand": {
+    "uid": 1540037,
+    "userName": "半瓢春雨：",
+    "commentId": 5967467,
+    "comment": "这图是宇树机器人G1",
+    "articleId": 2528079
+   },
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 2200208,
+   "content": "【截至10月末 我国外汇储备规模为34052亿美元】财联社11月7日电，国家外汇管理局统计数据显示，截至2026年10月末，我国外汇储备规模为34052亿美元，较9月末上升49亿美元，升幅为0.14%。我国10月末黄金储备报7830万盎司，9月末为7747万盎司，为连续第24个月增持黄金。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "",
+   "user_id": 264,
+   "is_top": 0,
+   "brief": "财联社11月7日电，10月末外汇储备报34051.78亿美元。",
+   "id": 2528013,
+   "ctime": 1794016919,
+   "type": -1,
+   "title": "截至10月末 我国外汇储备规模为34052亿美元",
+   "bold": 0,
+   "sort_score": 1794016919,
+   "comment_num": 1,
+   "modified_time": 1794018431,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2528013?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 478,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2528013,
+     "subject_id": 1501,
+     "subject_name": "期货市场情报",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 60651,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 88,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2528013,
+     "subject_id": 1171,
+     "subject_name": "有色金属",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 30343,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 2412,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2528013,
+     "subject_id": 1483,
+     "subject_name": "黄金",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 39122,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 1377,
+     "channel": "cls"
+    },
+    {
+     "article_id": 2528013,
+     "subject_id": 1282,
+     "subject_name": "人民币大新闻",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 31879,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261107/102712p2wWh0DoK7ju.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 2408973,
+   "content": "【商务部新闻发言人就美制裁中国企业答记者问】财联社11月7日电，商务部新闻发言人就美制裁中国企业答记者问。问：美东时间11月5日，美国务院宣布制裁两家中国企业。有消息称，这是美首次以涉古巴为由对中国企业实施制裁。请问中方对此有何评论？\n\n答：我们注意到有关情况。美方以涉及第三方为由，对中国企业采取单边制裁，违反国际法和国际关系基本准则，中方对此坚决反对。近期，美方升级对中方制裁打压，密集出台多项歧视性限制措施，严重损害中国企业权益，背离两国元首达成的重要共识，破坏中美经贸关系稳定。中方敦促美方尽快纠正错误做法，并保留采取必要措施、维护自身正当权益的权利。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 1,
+   "img": "",
+   "user_id": 264,
+   "is_top": 0,
+   "brief": "【商务部新闻发言人就美制裁中国企业答记者问】商务部新闻发言人就美制裁中国企业答记者问。问：美东时间11月5日，美国务院宣布制裁两家中国企业。有消息称，这是美首次以涉古巴为由对中国企业实施制裁。请问中方对此有何评论？\n\n答：我们注意到有关情况。美方以涉及第三方为由，对中国企业采取单边制裁，违反国际法和国际关系基本准则，中方对此坚决反对。近期，美方升级对中方制裁打压，密集出台多项歧视性限制措施，严重损害中国企业权益，背离两国元首达成的重要共识，破坏中美经贸关系稳定。中方敦促美方尽快纠正错误做法，并保留采取必要措施、维护自身正当权益的权利。",
+   "id": 2527997,
+   "ctime": 1794014464,
+   "type": -1,
+   "title": "商务部新闻发言人就美制裁中国企业答记者问",
+   "bold": 0,
+   "sort_score": 1794014464,
+   "comment_num": 0,
+   "modified_time": 1794014483,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2527997?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 575,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261107/0921232dYJLQZc8cKC.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  }
+ ],
+ "recap": {
+  "date": "2026-11-06",
+  "stats": {
+   "涨停": 32,
+   "跌停": 15,
+   "上涨": 758,
+   "下跌": 4740,
+   "实际涨停": 32,
+   "实际跌停": 15,
+   "市场人气": "市场人气低迷"
+  },
+  "ladder": {
+   "首板": 19,
+   "2板": 3,
+   "3板": 4,
+   "高度板": 7,
+   "总计": 33,
+   "连板率": 6.3
+  },
+  "sectors": [
+   {
+    "name": "其他",
+    "count": 9,
+    "stocks": [
+     {
+      "code": "605339",
+      "name": "南侨食品",
+      "board": "2连板",
+      "concept": "食品饮料、小红书概念",
+      "reason": "食品饮料(乳业)；据2026年半年报，南侨食品从欧洲引进多款高端乳制品烘焙原料，目前已形成奶油、黄油、芝士的产品矩阵，奶油产品包括米勒奶油系列，黄油产品包括加得兰、富比威、米勒三款黄油。"
+     },
+     {
+      "code": "603657",
+      "name": "春光科技",
+      "board": "3连板",
+      "concept": "浙江、外贸",
+      "reason": "机器人概念；据2026年8月7日募集说明书，公司主要从事清洁电器整机ODM/OEM及核心零部件业务，产品涵盖吸尘器、洗地机、扫地机器人等，终端合作品牌包括小米、美的、追觅等。"
+     },
+     {
+      "code": "601188",
+      "name": "龙江交通",
+      "board": "首板",
+      "concept": "公路运营、破净股概念",
+      "reason": "冰雪产业+AI应用；据2026年11月6日财联社报道，黑龙江省11月5日宣布，11月8日至2027年2月28日开展冬季冰雪旅游“百日行动”，发放1亿元冰雪消费券并推出景区门票减免、票根打折；哈尔滨冰雪大世界将联动迪士尼《冰雪奇缘》。\r\n\r\n1. 冰雪产业：据2026年11月5日互动易，面对即将到来的冰雪季，公司将持续深化“路警企”三方联动机制，健全路警企信息共享与联合排查，提前检修除雪设备、预置物资，及时高效开展精细化除雪作业；收费端优化智慧云收费和视频监控，保障通行效率\r\n\r\n2. AI应用：据2026年11月2日龙江交通官微，子公司龙运现代召开人工智能应用推广月启动会议，公司车辆安全综合管理平台上线“AI智识”与“AI智问”，在证件智能识别、自然语言查询等方面取得阶段性突破。"
+     },
+     {
+      "code": "600261",
+      "name": "阳光照明",
+      "board": "7天6板",
+      "concept": "参股券商、电解槽",
+      "reason": "商业航天+可控核聚变；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 商业航天：据2026年半年报，公司使用自有资金3000万元参与蓝星光域（上海）航天科技有限公司融资，完成后持有其1.1%股权；蓝星光域专注于全场景激光通信解决方案，核心产品包括星载同轨/异轨激光通信终端、机载平流层激光通信终端等，主要应用于卫星间、星地间高速率通信。\r\n\r\n2. 可控核聚变：据2026年半年报，公司使用自有资金1亿元参与瀚海聚能融资，完成后持有其10.51%股权；瀚海聚能是国内首家采用直线型场反位形（FRC）技术路线的可控核聚变商业化企业，工程化进度处于国内较快水平。"
+     },
+     {
+      "code": "600327",
+      "name": "大东方  ",
+      "board": "4天2板",
+      "concept": "信托概念、免税",
+      "reason": "零售+民营医院；据2026年11月5日晚公告，公司将2023—2024年回购的1100.41万股用途由员工持股计划或股权激励变更为注销并减少注册资本，完成后总股本由8.85亿股降至8.74亿股。\r\n\r\n1. 零售：据2026年10月28日公告，公司商业零售的门店中，江苏百货自有物业门店1家、建筑面积8.21万平米，江苏超市租赁物业门店2家；截至报告期末，湖北7-11便利店共有46家门店，其中直营店8家、加盟店38家；三凤桥食品专卖店共有57家门店，其中直营店46家、加盟店11家。\r\n\r\n2. 民营医院：据2026年半年报，公司“均瑶医疗”旗下拥有一家二甲综合医院“沭阳中心医院”，并构建了以儿童全成长发育周期医疗服务为核心的“健高儿科”、以儿童心理与言语障碍等特需儿童康复为核心的“雅恩健康”、以儿童保健服务为核心的“知贝医疗”，形成连锁诊疗机构体系。"
+     },
+     {
+      "code": "001316",
+      "name": "润贝航科",
+      "board": "首板",
+      "concept": "通用航空、大飞机",
+      "reason": "大飞机+AI眼镜；1. 大飞机：据2026年7月25日公告，公司自2011年起服务中国商飞，曾获C919大型客机首飞先进集体奖和C919大型客机TC取证先进集体奖，连续多年获得中国商飞感谢信\r\n\r\n2. AI眼镜：据2026年半年报，公司推出的AI航检眼镜用于飞机巡检及维修，可以根据不同的机型设计专属的检查流程，并且快速生成工作流，在后台进行工单的设计、管理及分配，通过语音引导、在激光指示灯、红外测温仪等设备的辅助下，协助工作人员全面、高效地完成巡检并记录存档。"
+     },
+     {
+      "code": "600278",
+      "name": "东方创业",
+      "board": "首板",
+      "concept": "转口贸易、破净股概念",
+      "reason": "物流；据2026年半年报，公司现代物流板块围绕海运、空运、仓储三大业务协同发力：海运板块持续优化全球航线布局，并拓展非美线增量市场；空运板块深耕核心大客户，已成功实施高端空运进口项目；仓储板块聚焦增值服务与赛道升级。"
+     },
+     {
+      "code": "300237",
+      "name": "美晨科技",
+      "board": "首板",
+      "concept": "成人用品、固废处理",
+      "reason": "ST摘帽+汽车零部件；1. ST摘帽：2026年11月5日公告，公司撤销其他风险警示的申请已获深圳证券交易所审核同意。公司股票将于2026年11月5日停牌1天，2026年11月6日开市起复牌并撤销其他风险警示；撤销后，证券简称由“ST美晨”变更为“美晨科技”，证券代码保持不变，股票交易的日涨跌幅限制仍为20%。\r\n\r\n2. 汽车零部件：据2026年半年报，美晨科技主要从事各种流体输送系统产品、悬架减振系统产品、热管理系统产品的研发、设计、制造和销售，产品广泛应用于乘用车、商用车、工程机械、储能等领域；公司是橡胶制品行业十强企业，连续多年荣获全国百家汽车零部件供应商称号。"
+     },
+     {
+      "code": "002088",
+      "name": "鲁阳节能",
+      "board": "6天5板",
+      "concept": "光热发电、光热储能",
+      "reason": "锂电池+非金属材料；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 锂电池：据2026年6月10日互动易及5月15日投资者关系活动记录表，新能源电池行业是公司重点拓展的主要市场之一，公司目前已形成“陶铠”与“炽盾”两大品牌系列，纤维纸产品主要是为电池防火包覆材料加工厂家提供加工基材，已通过IATF16949体系认证。公司纤维纸产品可以用于新能源汽车锂电池防火隔热。\r\n\r\n2. 非金属材料：据2026年半年报，公司具备年产约58万吨陶瓷纤维产品的生产能力，拥有山东、内蒙古、贵州陶瓷纤维生产基地，陶瓷纤维产能布局辐射全国。"
+     }
+    ]
+   },
+   {
+    "name": "光伏",
+    "count": 5,
+    "stocks": [
+     {
+      "code": "002578",
+      "name": "闽发铝业",
+      "board": "5连板",
+      "concept": "光伏支架、地方国企",
+      "reason": "光伏支架+海峡两岸；公司地处福建省。据2026年半年报，公司工业铝型材积极拓展新能源汽车型材、光伏边框及支架型材、液冷铝型材等高增长赛道，不断丰富高端工业型材产品体系，提升产品附加值与市场竞争力。"
+     },
+     {
+      "code": "603381",
+      "name": "永臻股份",
+      "board": "4连板",
+      "concept": "绿色电力、电力",
+      "reason": "光伏+机器人概念；1. 光伏：据2026年10月9日投资者关系活动记录表，公司越南基地年产18万吨光伏铝边框项目已于2025年三季度实现全面满产，产品直接辐射美国、印度等核心海外市场，目前订单需求良好。\r\n\r\n2. 机器人概念：据2026年6月17日互动易消息，公司凭借在铝合金材料和铝挤压产业链的研发、工艺和生产优势，已与头部人形机器人企业达成合作，并形成机器人精密铝合金部件批量订单。"
+     },
+     {
+      "code": "600207",
+      "name": "安彩高科",
+      "board": "首板",
+      "concept": "光热发电、光热储能",
+      "reason": "光伏(光伏玻璃)；据2026年9月12日公告，公司通过出售其他玻璃业务资产，保留光伏玻璃核心主业以及管道天然气业务，从而优化业务结构，强化能源保障能力，提升产业链协同效应，有效缓解经营压力。"
+     },
+     {
+      "code": "301697",
+      "name": "贝特利",
+      "board": "3连板",
+      "concept": "太空光伏、有机硅",
+      "reason": "光伏+次新股；据2026年11月4日投资者关系活动记录表，公司明年及未来重点工作方向包括：重点推进贱金属浆料（银铜浆料、空气氛纯铜浆料）在光伏领域的应用。"
+     },
+     {
+      "code": "603366",
+      "name": "日出东方",
+      "board": "首板",
+      "concept": "分布式光伏、碳中和",
+      "reason": "光伏+热泵；1. 光伏：据2026年半年报，日出东方主要业务三大板块中，清洁能源电能应用板块（分布式光储热一体化业务）包括储能业务和光伏业务，公司致力于成为光伏电站、储能电站、充电桩、光储充集成电站的供应商以及低碳系统解决方案的领先企业\r\n\r\n2. 热泵：据2026年11月4日互动易，公司持续推进海外热泵业务布局，深耕欧洲核心市场，积极拓展法国、德国等区域市场。"
+     }
+    ]
+   },
+   {
+    "name": "AI应用",
+    "count": 4,
+    "stocks": [
+     {
+      "code": "601599",
+      "name": "浙文影业",
+      "board": "5连板",
+      "concept": "影视院线、污水处理",
+      "reason": "AI视频+影视院线；1. AI视频：据2026年半年报，公司依托自有AI内容评估平台“帧想”构建AI协同的专业剧本评估体系，已赋能多个项目的评估工作，AI技术也在公司项目宣传环节得到应用；公司并探索AI真人剧等创制合作，推进创新内容形态的项目孵化。\r\n\r\n2. 影视院线：据2026年11月5日浙文影业公众号消息，浙文影业主出品的扫黑大剧《铁证》入选“剧美中国”精品创作计划推荐片单“法治安全”板块，截至11月4日该剧在腾讯视频站内预约量已超过90万，抖音相关话题播放量破5亿次。"
+     },
+     {
+      "code": "600229",
+      "name": "城市传媒",
+      "board": "首板",
+      "concept": "版权、地方国企",
+      "reason": "AI应用+文化传媒；1. AI应用：据2026年半年报，城市传媒新型技术应用业态主要包括VR/AR、AIGC、影视、短视频、音频等文化科技融合应用生态业务，并加快从传统影视向AI短剧、AI漫剧等新兴业态迭代，举办AI智能体开发应用大赛\r\n\r\n2. 文化传媒：据2026年半年报，公司主要业务包括版权开发运营（国标教材等出版物出版发行）、多元产品服务（教材教辅、图书和期刊征订发行）、新型技术应用（VR/AR、AIGC、影视、短视频）及文化空间构建运营。"
+     },
+     {
+      "code": "601595",
+      "name": "上海电影",
+      "board": "首板",
+      "concept": "影视院线、版权",
+      "reason": "AI视频+互动影游；1. AI视频：据2026年9月28日投资者关系活动记录表，公司联合出品的AIGC漫改武侠电影《山竹刀》于9月初上线；持续深化与即梦AI及火山引擎合作，内测首发Seedance2.5，推出AIGC短片《我可能确诊为葫芦娃》\r\n\r\n2. 互动影游：据2026年9月28日投资者关系活动记录表，公司联合出品的全球首款双人互动影游《新世界：暗影成双》于9月23日在电脑端和移动端同步发售"
+     },
+     {
+      "code": "002712",
+      "name": "思美传媒",
+      "board": "首板",
+      "concept": "地方国企、国有企业",
+      "reason": "AI视频+短剧；据2026年半年报，公司下属子公司掌维科技搭建AI短剧创作平台并试运行，逐步构建涵盖剧本改编、分镜制作和视频生成等环节的AI漫剧生产能力，目前已有多部AI真人演绎剧及AI 3D漫剧完成制作。"
+     }
+    ]
+   },
+   {
+    "name": "农业",
+    "count": 4,
+    "stocks": [
+     {
+      "code": "600371",
+      "name": "万向德农",
+      "board": "3天2板",
+      "concept": "种植业、生物质能",
+      "reason": "农业；据2026年半年报，报告期内，公司从事的主要业务仍为玉米杂交种子研发、生产、销售。公司主营包括但不限于“硕秋系列”、“德单系列”等玉米杂交种的生产与销售。公司主要产品为玉米杂交种，主要用途为商品玉米种植。"
+     },
+     {
+      "code": "002086",
+      "name": "东方海洋",
+      "board": "10天7板",
+      "concept": "水产品、养殖业",
+      "reason": "水产品+医疗器械；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 水产品：据2026年半年报，东方海洋主要从事海水苗种繁育、养殖，水产品加工，生物科技，保税仓储物流以及体外诊断试剂的研发、生产与销售和检测服务等业务，所处行业为水产品养殖及加工。\r\n\r\n2. 医疗器械：据2026年10月9日公告，东方海洋子公司质谱生物科技有限公司自主研发的水溶性维生素测定试剂盒（液相色谱-串联质谱法）获得山东省药品监督管理局颁发的医疗器械注册证，用于体外定量检测人血清中多种维生素含量"
+     },
+     {
+      "code": "600540",
+      "name": "新赛股份",
+      "board": "首板",
+      "concept": "棉花、风电运营商",
+      "reason": "农业(棉花)；据2026年11月3日财联社报道，中国气象局发布会通报，9月形成的超强厄尔尼诺事件10月已发展为有监测记录以来最强，预计秋末冬初达到峰值\r\n\r\n棉花：据2026年半年度报告，公司皮棉业务分为自产皮棉、合作经营皮棉（贸易）及一般贸易皮棉。报告期内，公司涉及棉花初加工业务的子企业共14家，籽棉加工能力达20万吨"
+     },
+     {
+      "code": "000525",
+      "name": "红太阳",
+      "board": "首板",
+      "concept": "NMN、农药",
+      "reason": "农业(农药)；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n农药：据2026年半年报，红太阳股份是一家由云南曲靖国资控股的深市主板上市公司，主营业务覆盖绿色环保农药、三药中间体的研发、生产、销售及技术服务，并已构建从“基础原材料—关键中间体—原药研发生产—制剂加工—国内外终端销售”核心竞争力优势，产品畅销全球。"
+     }
+    ]
+   },
+   {
+    "name": "算力",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "002929",
+      "name": "润建股份",
+      "board": "5天3板",
+      "concept": "光伏EPC、分布式光伏",
+      "reason": "算力+机器人概念；1. 算力：据2026年11月3日投资者关系活动记录表，润建股份践行“Token为核、绿算协同、智维百业”业务发展战略，算力网络业务收入占公司整体营收比重超过20%，随着Token工厂等新业态持续运营，毛利率呈现快速提升状态；五象云谷Token工厂开展“词元出海”“来数加工”业务，向客户提供AI词元调用服务，采用“国内Token海外调用、按需使用、按量计费”方式进行结算。\r\n\r\n2. 机器人概念：据2026年11月5日财闻报道，企查查APP显示，近日，深圳润见星晖科技有限公司成立，经营范围包含：智能机器人的研发；智能机器人销售；人工智能硬件销售；可穿戴智能设备销售等。企查查股权穿透显示，该公司由润建股份(002929)等共同持股。"
+     },
+     {
+      "code": "002973",
+      "name": "侨银股份",
+      "board": "首板",
+      "concept": "绿色电力、电力",
+      "reason": "算力+机器人概念；1. 算力：据2026年9月23日投资者关系活动记录表，公司算力项目总投资约2.65亿元，前三批1.98亿元采购合同已签署并已支付预付款，第四批已获董事会审议通过；业务模式为市场化采购设备、租赁机房、集群组网和配套运维，首单算力服务约定5年合作、每年一签、按月后付费。\r\n\r\n2. 机器人概念：据2026年9月23日投资者关系活动记录表，公司深度布局城市服务专属具身智能赛道，与国家地方共建人形机器人创新中心联合研发推出环卫人形机器人侨银威龙，已完成两代整机研发、全场景可靠性验证，可自主完成垃圾桶搬运与路面垃圾识别捡拾"
+     },
+     {
+      "code": "600156",
+      "name": "华升股份",
+      "board": "首板",
+      "concept": "参股券商、大麻",
+      "reason": "算力+外贸；1. 算力：据2026年10月1日公告，华升股份拟通过发行股份及支付现金方式向白本通、张利民等25名交易对方购买深圳易信科技股份有限公司97.40%股份；易信科技是一家专注于绿色算力基础设施全生命周期服务的企业，主营业务涵盖服务器托管服务、智算中心热管理系统设计、智算中心热管理设备研发设计、带宽资源服务、IP地址服务、算力服务等。\r\n\r\n2. 外贸：据2026年半年报，华升股份主营业务为苎麻及麻纺产品的研发、生产和销售，构建了内销与外销并举的销售模式，外销及品牌代工（ODM）业务以客户订单为导向；公司外贸出口业务占比较高，产品以美元为主要结算货币"
+     }
+    ]
+   },
+   {
+    "name": "电力(绿色电力)",
+    "count": 3,
+    "stocks": [
+     {
+      "code": "000595",
+      "name": "新能股份",
+      "board": "首板",
+      "concept": "宁夏回族自治区、光伏支架",
+      "reason": "绿色电力+储能；1. 绿色电力：据2026年半年报，公司主营业务为风力发电、光伏发电及储能电站的投资开发和运营管理，风光总装机容量累计达290.73万千瓦，其中风电33.55万千瓦、光伏257.18万千瓦，已建成投运储能电站装机规模300MW/600MWh。\r\n\r\n2. 储能：2026年11月4日晚间，新能股份披露公告，公司控股子公司宁国运新能源（灵武）有限公司和宁国运新能源（盐池）有限公司分别投资建设的灵武马家滩240MW/480MWh储能电站项目与盐池高沙窝320MW/640MWh储能电站项目，均已完成主要设备安装及调试工作，成功实现并网运行。两个项目动态总投资分别为3.73亿元和4.92亿元，合计8.65亿元。"
+     },
+     {
+      "code": "001258",
+      "name": "立新能源",
+      "board": "首板",
+      "concept": "光热发电、绿色电力",
+      "reason": "电力(绿色电力)；据2026年半年报，公司主要经营风力发电、光伏发电为主的新能源电力业务；截至2026年6月30日，已投产运营发电项目装机规模4634MW（含独立储能），其中风力发电并网装机2720.50MW、光伏发电并网装机953.50MW"
+     },
+     {
+      "code": "002310",
+      "name": "东方新能",
+      "board": "首板",
+      "concept": "园林、绿色电力",
+      "reason": "绿色电力+并购重组；1. 绿色电力：据2026年半年报，公司主营业务涵盖光伏发电、风力发电、储能等，截至2026年6月30日，公司新能源电站总装机容量达到1.26GW，涵盖集中式风电、户用分布式光伏、工商业分布式光伏等多元类型\r\n\r\n2. 并购重组：据2026年10月30日公告，公司购买海城锐海新能风力发电有限公司100%股权、向百瑞信托购买电投瑞享80%股权，本次交易构成重大资产重组，交易完成后两标的均成为公司子公司并纳入合并报表范围"
+     }
+    ]
+   },
+   {
+    "name": "端侧AI",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "001308",
+      "name": "康冠科技",
+      "board": "首板",
+      "concept": "高股息精选、三季报增长",
+      "reason": "端侧AI(AI眼镜)；据2026年10月27日投资者关系活动记录表，公司与阶跃星辰后续围绕闺蜜机、AI眼镜、智能交互平板等现有终端产品迭代升级，双方拟设立联合实验室，共同打造新一代AI硬件产品。"
+     },
+     {
+      "code": "300686",
+      "name": "智动力",
+      "board": "首板",
+      "concept": "金属铟、石墨化",
+      "reason": "端侧AI+固态电池；1. 端侧AI：据2025年12月3日互动，公司的功能性器件、结构性器件以及精密光学组件可应用于智能手机、AI手机等终端产品，目前合作手机品牌包括三星、OPPO、vivo等，尚未与豆包合作、未为豆包手机供货\r\n\r\n2. 固态电池：据2026年半年报，公司主要通过控股深圳智圣固能科技有限公司开展固液混合电池及固态电池业务，其中固态电池采用“聚合物+硫化物+锂盐”三元复合电解质，目标能量密度超过500Wh/kg"
+     }
+    ]
+   },
+   {
+    "name": "芯片",
+    "count": 2,
+    "stocks": [
+     {
+      "code": "002889",
+      "name": "东方嘉盛",
+      "board": "首板",
+      "concept": "转口贸易、中日韩贸易",
+      "reason": "半导体设备+光刻机；1. 半导体设备：据2026年10月19日东方嘉盛官微，东方嘉盛连续第二年参展湾芯展，在展会现场，东方嘉盛团队与多家设备商、晶圆厂和材料企业进行了深入对接，就保税维修备件前置、关键物料VMI补货、跨境设备进出口等具体场景交换了合作意向。\r\n\r\n2. 光刻机：据2026年10月14日互动易，公司面向半导体设备厂商在华售后市场提供保税寄售维修等服务。此前据2025年11月20日投资者关系活动记录表，公司为华南片区集成电路制造企业提供光刻机保税寄售维修服务。"
+     },
+     {
+      "code": "002388",
+      "name": "新亚制程",
+      "board": "3连板",
+      "concept": "低价股、有机硅",
+      "reason": "电子气体+电解液；1. 电子气体：据2026年10月21日晚公告，新亚制程拟以发行股份及支付现金方式购买启元气体15.86%股权，交易对方为江英等7名股东；同时拟现金收购启元气体51.27%股权，并向不超过35名特定对象募集配套资金。交易作价及配套募资额尚未确定。标的公司主营电子大宗气体和电子特种气体的生产、销售。\r\n\r\n2. 电解液：据2026年10月22日公告，新亚制程锂离子电池材料板块重点聚焦电解液及六氟磷酸锂的研发与制造，面向新能源产业链提供关键基础材料支撑"
+     }
+    ]
+   },
+   {
+    "name": "ST板块",
+    "count": 1,
+    "stocks": [
+     {
+      "code": "600537",
+      "name": "*ST亿晶 ",
+      "board": "5连板",
+      "concept": "光伏组件、ST板块",
+      "reason": "ST板块+光伏；据2026年11月2日公告，公司与预重整引导人及产业投资人中润光能、宁波瑞廉签署补充协议，中润光能出资约7.19亿元认购不低于3.995亿股，宁波瑞廉出资1亿元认购不低于5554.94万股；重整完成后实控人拟变更为龙大强、孟丽叶。\r\n\r\nST板块+光伏：据2026年半年报，公司属于光伏行业，主营业务为高效晶体硅太阳能电池、组件的研发、生产和销售，同时开展光伏电站开发、建设和运营业务。"
+     }
+    ]
+   }
+  ],
+  "withdrawal": {
+   "num": 6,
+   "stocks": [
+    [
+     "605188",
+     "国光连锁",
+     -4.19
+    ],
+    [
+     "000995",
+     "皇台酒业",
+     -8.72
+    ],
+    [
+     "301669",
+     "高特电子",
+     4.03
+    ]
+   ]
+  }
+ }
+}
