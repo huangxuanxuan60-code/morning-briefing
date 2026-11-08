@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>新闻存档 · 2026-11-08</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="back" href="index.html">&#8249; 存档索引</a>
+<header class="top">
+<div class="day">2026年11月08日 周日</div>
+<h1>&#128240; 新闻存档</h1>
+<div class="sub">加红 1 条（全文）&nbsp;·&nbsp;全部 21 条</div>
+</header>
+<div class="arcbar">
+<button id="f-all" class="on" type="button">全部 21</button>
+<button id="f-red" type="button">只看加红 1</button>
+<button id="f-open" type="button">展开全文</button>
+</div>
+<div id="list">
+<div class="arc" data-cat="all"><span class="t">08:25</span><span class="h plain">雨雪降温来袭 天津部分高速封闭限行</span></div><div class="arc" data-cat="all"><span class="t">08:23</span><span class="h plain">卡塔尔首相称美伊之间斡旋仍在继续</span></div><div class="arc" data-cat="all"><span class="t">08:23</span><span class="h plain">河北秦皇岛凌晨发布暴雪红色预警 降雪仍在持续</span></div><div class="arc" data-cat="all"><span class="t">08:07</span><span class="h plain">中国驻加拿大使馆发言人就加方涉黄之锋案错误声明答记者问</span></div><div class="arc" data-cat="all"><span class="t">08:04</span><span class="h plain">第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓</span></div><div class="arc" data-cat="all"><span class="t">08:03</span><span class="h plain">首批18只主动ETF全部提前结募</span></div><div class="arc" data-cat="all"><span class="t">07:55</span><span class="h plain">斯洛伐克总理：若欧盟强制要求放弃俄石油 将继续发起诉讼</span></div><details class="arc red" data-cat="red"><summary><span class="t">07:49</span><span class="lv">加红</span><span class="h">欧洲多国爆发抗议 要求暂停数据中心建设</span></summary><div class="body"><p>财联社11月8日电，针对数据中心建设的抗议浪潮正在欧洲多地蔓延。当地时间周六，多个国家的民众走上街头，表达对数据中心快速扩张可能带来的能源消耗、环境破坏及社会影响的担忧。据悉，来自欧洲15个国家的100多个民间组织和权益团体参与了此次联合行动，抗议能源消耗巨大的数据中心快速扩张，呼吁在建立更加明确的监管制度之前，暂停所有新的大型数据中心项目。据报道，约2000人周六在都柏林参加游行，约1300人在赫尔辛基集会，芬兰多个规模较小的城镇也举行了类似示威活动。由地方民主和气候抗议团体组成的联盟“停止肮脏数据中心”表示，此次行动旨在“阻止AI数据中心不受约束地扩张，防止我们的民主制度被大型科技企业的利益所绑架”。从苏格兰到西班牙、从法国到丹麦，各地环保和社会活动团体也加入了此次行动，呼吁暂停数据中心建设。</p></div></details><div class="arc" data-cat="all"><span class="t">07:24</span><span class="h plain">中央气象台继续发布寒潮蓝色预警</span></div><div class="arc" data-cat="all"><span class="t">07:12</span><span class="h plain">美军称在阿曼湾使一艘商船丧失航行能力</span></div><div class="arc" data-cat="all"><span class="t">07:07</span><span class="h plain">巴林决定恢复其驻伊拉克大使履职</span></div><div class="arc" data-cat="all"><span class="t">06:42</span><span class="h plain">伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”</span></div><div class="arc" data-cat="all"><span class="t">06:34</span><span class="h plain">内塔尼亚胡呼吁组建民族团结政府</span></div><div class="arc" data-cat="all"><span class="t">05:50</span><span class="h plain">特朗普邀UFC总裁任新闻秘书遭拒</span></div><div class="arc" data-cat="all"><span class="t">05:46</span><span class="h plain">伊朗称两艘油轮在霍尔木兹海峡触雷起火</span></div><div class="arc" data-cat="all"><span class="t">04:45</span><span class="h plain">伊朗南部多地区传爆炸声</span></div><div class="arc" data-cat="all"><span class="t">03:56</span><span class="h plain">以色列总统决定授权埃森科特组建新政府</span></div><div class="arc" data-cat="all"><span class="t">03:34</span><span class="h plain">特朗普宣布邀请达纳·怀特担任白宫新闻秘书</span></div><div class="arc" data-cat="all"><span class="t">02:23</span><span class="h plain">俄方批评乌“志愿联盟”举行演习恶化局势</span></div><div class="arc" data-cat="all"><span class="t">00:39</span><span class="h plain">日本静冈县西部发生5.7级地震</span></div><div class="arc" data-cat="all"><span class="t">00:38</span><span class="h plain">俄称打击乌多地区目标 乌称能源设施遭大规模袭击</span></div>
+</div>
+<script>
+(function(){
+  var list=document.getElementById('list');
+  function setFilter(mode){
+    document.getElementById('f-all').className = mode==='all'?'on':'';
+    document.getElementById('f-red').className = mode==='red'?'on':'';
+    Array.prototype.forEach.call(list.children,function(el){
+      el.style.display = (mode==='red' && el.dataset.cat!=='red') ? 'none' : '';
+    });
+  }
+  document.getElementById('f-all').onclick=function(){setFilter('all');};
+  document.getElementById('f-red').onclick=function(){setFilter('red');};
+  var open=false;
+  document.getElementById('f-open').onclick=function(){
+    open=!open; this.textContent = open?'收起全文':'展开全文';
+    Array.prototype.forEach.call(list.querySelectorAll('details'),function(d){d.open=open;});
+  };
+})();
+</script>
+<footer>数据来源：财联社电报 · 开盘啦<br>生成于 2026-11-08 08:30 ｜ <a href="archive/index.html">简报归档</a> ｜ <a href="news/index.html">新闻存档</a></footer>
+</body>
+</html>
