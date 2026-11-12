@@ -1,6 +1,6 @@
 {
  "brief_date": "2026-11-12",
- "generated_at": "2026-11-12 10:30",
+ "generated_at": "2026-11-12 11:30",
  "lookback_hours": 16,
  "news": [
   {
@@ -16,7 +16,218 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 89171,
+   "reading_num": 26430,
+   "content": "【创业板指、深成指翻绿】财联社11月12日电，创业板指、深成指双双回落翻绿，创业板指早盘一度拉升涨近2%，深成指一度拉升涨超1%。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "",
+   "user_id": 81,
+   "is_top": 0,
+   "brief": "【创业板指、深成指翻绿】财联社11月12日电，创业板指、深成指双双回落翻绿，创业板指早盘一度拉升涨近2%，深成指一度拉升涨超1%。",
+   "id": 2532334,
+   "ctime": 1794453835,
+   "type": -1,
+   "title": "创业板指、深成指翻绿",
+   "bold": 0,
+   "sort_score": 1794453835,
+   "comment_num": 10,
+   "modified_time": 1794453835,
+   "status": 1,
+   "collection": 0,
+   "has_img": 0,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2532334?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 17,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [],
+   "explain_num": -1,
+   "stock_list": [
+    {
+     "rise_range_has_null": 0.0005,
+     "RiseRange": 0.05,
+     "name": "创业板指",
+     "StockID": "sz399006",
+     "schema": "cailianshe://stock_detail?stock_id=sz399006",
+     "status": "L",
+     "last": 2573.406,
+     "is_stib": false
+    }
+   ],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2532334,
+     "subject_id": 1103,
+     "subject_name": "盘面直播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 184736,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261112/112355jFCujscR5R69.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 134253,
+   "content": "【沪深两市成交额突破1万亿 较上一日此时放量超2500亿】财联社11月12日电，据财联社盯盘数据显示，沪深两市成交额突破1万亿，较上一日此时放量超2500亿，预计全天成交金额超1.8万亿。",
+   "in_roll": 1,
+   "recommend": 1,
+   "confirmed": 0,
+   "jpush": 0,
+   "img": "https://image.cls.cn/images/20261112/17UB4bdeTF_1206x1143.jpg",
+   "user_id": 684,
+   "is_top": 0,
+   "brief": "【沪深两市成交额突破1万亿 较上一日此时放量超2500亿】财联社11月12日电，据财联社盯盘数据显示，沪深两市成交额突破1万亿，较上一日此时放量超2500亿，预计全天成交金额超1.8万亿。",
+   "id": 2532292,
+   "ctime": 1794452001,
+   "type": -1,
+   "title": "沪深两市成交额突破1万亿 较上一日此时放量超2500亿",
+   "bold": 0,
+   "sort_score": 1794452001,
+   "comment_num": 11,
+   "modified_time": 1794452001,
+   "status": 1,
+   "collection": 0,
+   "has_img": 1,
+   "category": "",
+   "shareurl": "https://api3.cls.cn/share/article/2532292?os=web&sv=8.4.6&app=CailianpressWeb",
+   "share_img": "https://img.cls.cn/share/roll.png",
+   "share_num": 29,
+   "sub_titles": [],
+   "tags": [],
+   "imgs": [],
+   "images": [
+    "https://image.cls.cn/images/20261112/17UB4bdeTF_1206x1143.jpg"
+   ],
+   "explain_num": -1,
+   "stock_list": [],
+   "is_ad": 0,
+   "ad": {
+    "id": 0,
+    "title": "",
+    "img": "",
+    "url": "",
+    "monitorUrl": "",
+    "video_url": "",
+    "adTag": "",
+    "fullScreen": 0,
+    "type": 0
+   },
+   "subjects": [
+    {
+     "article_id": 2532292,
+     "subject_id": 1103,
+     "subject_name": "盘面直播",
+     "subject_img": "",
+     "subject_description": "",
+     "category_id": 0,
+     "attention_num": 184736,
+     "is_attention": false,
+     "is_reporter_subject": false,
+     "plate_id": 0,
+     "channel": "cls"
+    }
+   ],
+   "audio_url": [
+    "https://image.cls.cn/admin/20261112/105322KStka2zUyctx.mp3"
+   ],
+   "author": "",
+   "plate_list": [],
+   "assocArticleUrl": "",
+   "assocVideoTitle": "",
+   "assocVideoUrl": "",
+   "assocCreditRating": [],
+   "invest_calendar": {
+    "id": 0,
+    "data_id": 0,
+    "r_id": "",
+    "type": 0,
+    "calendar_time": "",
+    "setting_time": "",
+    "event": null,
+    "economic": null,
+    "short_latents": null
+   },
+   "share_content": "",
+   "gray_share": 0,
+   "comment_recommand": null,
+   "timeline": null,
+   "is_fad": 0,
+   "disclaimer": "",
+   "_category": "red"
+  },
+  {
+   "author_extends": "",
+   "assocFastFact": {
+    "fid": 0,
+    "fast_fact_content": "",
+    "article_id": 0,
+    "article_title": "",
+    "imgs": "",
+    "slogan": ""
+   },
+   "depth_extends": "null",
+   "deny_comment": 0,
+   "level": "B",
+   "reading_num": 383030,
    "content": "【寒武纪涨超13% 收复1000元关口】财联社11月12日电，算力芯片概念龙头寒武纪扩大涨幅至13%，重新站上1000元整数关，总市值达6400亿元。",
    "in_roll": 1,
    "recommend": 1,
@@ -32,7 +243,7 @@
    "title": "寒武纪涨超13% 收复1000元关口",
    "bold": 1,
    "sort_score": 1794449900,
-   "comment_num": 6,
+   "comment_num": 12,
    "modified_time": 1794450021,
    "status": 1,
    "collection": 0,
@@ -40,7 +251,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2532260?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 46,
+   "share_num": 78,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -48,13 +259,13 @@
    "explain_num": -1,
    "stock_list": [
     {
-     "rise_range_has_null": 0.1089,
-     "RiseRange": 10.89,
+     "rise_range_has_null": 0.0989,
+     "RiseRange": 9.889999,
      "name": "寒武纪",
      "StockID": "sh688256",
      "schema": "cailianshe://stock_detail?stock_id=sh688256",
      "status": "L",
-     "last": 998,
+     "last": 988.98,
      "is_stib": true
     }
    ],
@@ -78,7 +289,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184734,
+     "attention_num": 184736,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -139,7 +350,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 149800,
+   "reading_num": 450875,
    "content": "【燧原科技涨超15%创上市新高 最近7个交易日累计上涨76%】财联社11月12日电，算力芯片概念股燧原科技扩大涨幅至15%，创出上市以来新高，总市值超2400亿元，最近7个交易日累计上涨76%。",
    "in_roll": 1,
    "recommend": 1,
@@ -155,7 +366,7 @@
    "title": "燧原科技涨超15%创上市新高 最近7个交易日累计上涨76%",
    "bold": 1,
    "sort_score": 1794449472,
-   "comment_num": 0,
+   "comment_num": 4,
    "modified_time": 1794449472,
    "status": 1,
    "collection": 0,
@@ -163,7 +374,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2532252?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 37,
+   "share_num": 60,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -171,13 +382,13 @@
    "explain_num": -1,
    "stock_list": [
     {
-     "rise_range_has_null": 0.1021,
-     "RiseRange": 10.21,
+     "rise_range_has_null": 0.1237,
+     "RiseRange": 12.37,
      "name": "燧原科技-U",
      "StockID": "sh688801",
      "schema": "cailianshe://stock_detail?stock_id=sh688801",
      "status": "L",
-     "last": 544.46,
+     "last": 555.1,
      "is_stib": true
     }
    ],
@@ -201,7 +412,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184734,
+     "attention_num": 184736,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -249,7 +460,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 180351,
+   "reading_num": 487859,
    "content": "【创业板指涨超1% 科创50涨近4%】财联社11月12日电，指数早盘走高，创业板指拉升涨超1%，科创50指数涨近4%。半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近2000只。",
    "in_roll": 1,
    "recommend": 1,
@@ -265,7 +476,7 @@
    "title": "创业板指涨超1% 科创50涨近4%",
    "bold": 0,
    "sort_score": 1794449158,
-   "comment_num": 12,
+   "comment_num": 13,
    "modified_time": 1794449158,
    "status": 1,
    "collection": 0,
@@ -273,7 +484,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2532247?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 97,
+   "share_num": 110,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -281,23 +492,23 @@
    "explain_num": -1,
    "stock_list": [
     {
-     "rise_range_has_null": 0.0371,
-     "RiseRange": 3.7099998,
+     "rise_range_has_null": 0.0204,
+     "RiseRange": 2.04,
      "name": "科创50",
      "StockID": "sh000688",
      "schema": "cailianshe://stock_detail?stock_id=sh000688",
      "status": "L",
-     "last": 1348.593,
+     "last": 1326.905,
      "is_stib": false
     },
     {
-     "rise_range_has_null": 0.011,
-     "RiseRange": 1.1,
+     "rise_range_has_null": -0.0021,
+     "RiseRange": -0.21,
      "name": "创业板指",
      "StockID": "sz399006",
      "schema": "cailianshe://stock_detail?stock_id=sz399006",
      "status": "L",
-     "last": 2600.374,
+     "last": 2566.741,
      "is_stib": false
     }
    ],
@@ -321,7 +532,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184734,
+     "attention_num": 184736,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -369,7 +580,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 218659,
+   "reading_num": 531684,
    "content": "【开盘半小时两市放量超1200亿 预计全天成交超1.7万亿】财联社11月12日电，据财联社盯盘数据显示，开盘半小时，沪深两市成交额突破5900亿，较上一日此时放量超1200亿，预计全天成交金额超1.7万亿。",
    "in_roll": 1,
    "recommend": 1,
@@ -385,7 +596,7 @@
    "title": "开盘半小时两市放量超1200亿 预计全天成交超1.7万亿",
    "bold": 0,
    "sort_score": 1794448911,
-   "comment_num": 0,
+   "comment_num": 1,
    "modified_time": 1794449170,
    "status": 1,
    "collection": 0,
@@ -393,7 +604,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2532242?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 27,
+   "share_num": 29,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -422,7 +633,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184734,
+     "attention_num": 184736,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -470,7 +681,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 417534,
+   "reading_num": 704950,
    "content": "【竞价看龙头】财联社11月12日电，市场焦点股文投控股（16天9板）高开6.69%，机器人概念股襄阳轴承（15天8板）高开6.61%、光洋股份（13天7板）高开3.42%、福莱新材（6天4板）高开0.95%，大消费板块大东方（7天5板）平开、惠发食品（2板）高开5.49%，光伏概念股日出东方（4板）高开5.29%、海源复材（6天3板）低开2.05%，传媒板块上海电影（8天4板）低开1.71%、凯撒文化（2板）竞价涨停，天然气板块东方环宇（3板）低开1.76%。",
    "in_roll": 1,
    "recommend": 1,
@@ -494,7 +705,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2532193?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 32,
+   "share_num": 35,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -514,33 +725,33 @@
      "is_stib": false
     },
     {
-     "rise_range_has_null": 0.0458,
-     "RiseRange": 4.58,
+     "rise_range_has_null": 0.0999,
+     "RiseRange": 9.99,
      "name": "东方环宇",
      "StockID": "sh603706",
      "schema": "cailianshe://stock_detail?stock_id=sh603706",
      "status": "L",
-     "last": 25.55,
+     "last": 26.87,
      "is_stib": false
     },
     {
-     "rise_range_has_null": 0.0184,
-     "RiseRange": 1.84,
+     "rise_range_has_null": 0.0475,
+     "RiseRange": 4.75,
      "name": "大东方",
      "StockID": "sh600327",
      "schema": "cailianshe://stock_detail?stock_id=sh600327",
      "status": "L",
-     "last": 6.65,
+     "last": 6.84,
      "is_stib": false
     },
     {
-     "rise_range_has_null": -0.0641,
-     "RiseRange": -6.41,
+     "rise_range_has_null": -0.0711,
+     "RiseRange": -7.1099997,
      "name": "上海电影",
      "StockID": "sh601595",
      "schema": "cailianshe://stock_detail?stock_id=sh601595",
      "status": "L",
-     "last": 43.83,
+     "last": 43.5,
      "is_stib": false
     },
     {
@@ -554,13 +765,13 @@
      "is_stib": false
     },
     {
-     "rise_range_has_null": -0.0646,
-     "RiseRange": -6.46,
+     "rise_range_has_null": -0.0666,
+     "RiseRange": -6.6600003,
      "name": "福莱新材",
      "StockID": "sh605488",
      "schema": "cailianshe://stock_detail?stock_id=sh605488",
      "status": "L",
-     "last": 58.96,
+     "last": 58.83,
      "is_stib": false
     },
     {
@@ -574,23 +785,23 @@
      "is_stib": false
     },
     {
-     "rise_range_has_null": -0.0397,
-     "RiseRange": -3.9700003,
+     "rise_range_has_null": -0.0363,
+     "RiseRange": -3.6299999,
      "name": "惠发食品",
      "StockID": "sh603536",
      "schema": "cailianshe://stock_detail?stock_id=sh603536",
      "status": "L",
-     "last": 11.38,
+     "last": 11.42,
      "is_stib": false
     },
     {
-     "rise_range_has_null": -0.0312,
-     "RiseRange": -3.12,
+     "rise_range_has_null": -0.0282,
+     "RiseRange": -2.8200002,
      "name": "光洋股份",
      "StockID": "sz002708",
      "schema": "cailianshe://stock_detail?stock_id=sz002708",
      "status": "L",
-     "last": 25.76,
+     "last": 25.84,
      "is_stib": false
     },
     {
@@ -604,13 +815,13 @@
      "is_stib": false
     },
     {
-     "rise_range_has_null": -0.0103,
-     "RiseRange": -1.03,
+     "rise_range_has_null": 0.0528,
+     "RiseRange": 5.2799997,
      "name": "海源复材",
      "StockID": "sz002529",
      "schema": "cailianshe://stock_detail?stock_id=sz002529",
      "status": "L",
-     "last": 6.75,
+     "last": 7.18,
      "is_stib": false
     }
    ],
@@ -634,7 +845,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184734,
+     "attention_num": 184736,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -682,7 +893,7 @@
    "depth_extends": "[]",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 459531,
+   "reading_num": 719541,
    "content": "【三大指数集体低开】财联社11月12日电，沪指低开0.21%，深成指低开0.25%，创业板指低开0.50%。",
    "in_roll": 1,
    "recommend": 1,
@@ -698,7 +909,7 @@
    "title": "三大指数集体低开",
    "bold": 0,
    "sort_score": 1794446738,
-   "comment_num": 6,
+   "comment_num": 7,
    "modified_time": 1794446738,
    "status": 1,
    "collection": 0,
@@ -706,7 +917,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2532188?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 29,
+   "share_num": 31,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -733,7 +944,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184734,
+     "attention_num": 184736,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -781,7 +992,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1029578,
+   "reading_num": 1261229,
    "content": "【财联社11月12日早间新闻精选】 \n1、外交部长王毅11日同美国国务卿鲁比奥通电话。双方就中美关系及两国元首互动深入交换意见，通话是积极和建设性的。\n2、外交部发言人郭嘉昆昨日主持例行记者会。路透社记者提问，在涉及英伟达首席执行官黄仁勋的相关指控出现后，美国国会议员周二再次呼吁收紧对中国获取先进人工智能（AI）芯片的限制。郭嘉昆表示，中方在美国输华芯片问题上的立场是一贯的。\n3、央行发布2026年第三季度中国货币政策执行报告，其中提到，加力实施支持资本市场的两项货币政策工具，用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行。\n4、从国家税务总局获悉，离岸信托收益征税政策过渡期已平稳结束，绝大多数纳税人积极配合，累计申报离岸信托个人所得税超1600亿元，其中10月当月入库超1200亿元，带动了全国10月份个人所得税收入增长近90%。\n5、日前，有消息称，近期高端显卡价格剧烈波动，部分型号价格从一个月前的1.8万元/张下跌至目前的1.4万元/张。多位主营显卡产品的商家者否认了“高端显卡价格大幅波动”的说法，表示大幅波动并不属实，只是近段时间以来的持续调整。\n6、传闻部分头部存储企业已向渠道商口头告知企业级颗粒的涨价意向。综合多方反馈获悉，原厂第四季度官方价格确实呈现微微上涨态势，但涉及型号依旧以企业级存储为主，消费级产品并未出现同步调涨的明确信号。\n7、卫星化学公告，拟投资约207亿元建设丙烯及下游高端新材料项目。\n8、君正股份公告，DRAM目前需求旺盛且产能非常紧张，公司已结合成本及市场情况对大部分客户完成调价，后续部分物料价格仍存在上涨可能。\n9、m9因品质问题被英伟达取消订货？生益科技在互动平台表示，未接到任何终端取消订单的通知，目前生产经营情况正常，订单饱满。\n10、珠免集团公告，筹划收购免税公司剩余49%股权预计构成重大资产重组，股票停牌。\n11、中国船舶公告，全资子公司大连造船联合中船贸易签订总计20艘30.7万吨级VLCC型原油轮建造合同，总金额约172亿元。中远海发公告，拟134.25亿元委托建造16艘30.7万吨级VLCC型原油轮并开展租赁业务。\n12、特锐德公告，与互联网企业A签署算力中心电力方舱集中采购合同，合同总金额预估2.5亿元，公司承担整体集成与成套交付。\n13、美股科技股大幅走高，纳斯达克100指数收涨2.28%，纳斯达克综合指数收涨1.6%，道琼斯指数收涨0.49%，标普500指数收涨1.31%。AI相关板块大涨，CoreWeave涨超24%，闪迪涨超13%，美光科技涨超11%，海力士涨超9%。\n14、据报道，英伟达准备罢免首席执行官黄仁勋。英伟达董事会准备最早于当地时间周三召开会议。\n15、美国总统特朗普据称对副总统万斯重启与伊朗的谈判持开放态度。\n16、Anthropic的承销商正考虑将此次IPO的估值目标上调至最低1.5万亿美元。\n17、半导体研究机构SemiAnalysis称，SpaceX计划直接向英伟达采购芯片封装，其余部件自行采购，从而跳过英伟达的L6计算板，PCB、连接器、供电、散热这些环节，从“英伟达指定”变成“SpaceX自选”。",
    "in_roll": 1,
    "recommend": 1,
@@ -805,7 +1016,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2532109?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 1614,
+   "share_num": 1640,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -832,7 +1043,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184734,
+     "attention_num": 184736,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -845,7 +1056,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 174133,
+     "attention_num": 174132,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -906,7 +1117,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 968862,
+   "reading_num": 1186922,
    "content": "【投资日历：周四资本市场大事提醒】\n①今日暂无新股申购。\n②商务部定于11月12日召开11月第2次例行新闻发布会。\n③百度世界2026将于11月12日举办。\n④2026工业操作系统大会将于11月12日至13日在上海召开。\n⑤2026年大湾区（广州）航运大会将于11月12日-13日在广州南沙举行。\n⑥第二十三届中国国际半导体博览会开幕式暨第八届IC企业家大会将于11月12日举办。\n⑦第六届国际新材料产业大会将于11月12日-15日在安徽省蚌埠市举办。\n⑧国内成品油将开启新一轮调价窗口。\n⑨今日有1870亿元隔夜逆回购到期。\n⑩今日将公布美国当周初请失业金人数等数据。",
    "in_roll": 1,
    "recommend": 1,
@@ -930,7 +1141,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2532102?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 348,
+   "share_num": 349,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -957,7 +1168,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184734,
+     "attention_num": 184736,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1032,7 +1243,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 959053,
+   "reading_num": 1188113,
    "content": "财联社11月12日电，美股股指期货低开，其中纳指期货跌0.9%。英伟达股价盘后跌超8%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1056,7 +1267,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2532082?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 293,
+   "share_num": 295,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1083,7 +1294,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 174133,
+     "attention_num": 174132,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1096,7 +1307,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184734,
+     "attention_num": 184736,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1145,7 +1356,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 973908,
+   "reading_num": 1210490,
    "content": "【周四你需要知道的隔夜全球要闻：AI产业链交易热潮回归，纳斯达克100指数收涨超2%；承销商拟上调Anthropic估值至1.5万亿美元；特朗普据对万斯重启与伊朗谈判持开放态度】\n全球要闻\n1、美国总统特朗普据称对副总统万斯重启与伊朗的谈判持开放态度。\n2、Anthropic的承销商正考虑将此次IPO的估值目标上调至最低1.5万亿美元。\n3、威廉姆斯应于何时卸任纽约联储行长的问题据悉在美联储内部引发争论。如果威廉姆斯明年离任，将使美联储主席凯文·沃什提前一年获得影响这一美联储最重要地区联储负责人任命的机会。\n4、泽连斯基表示，将于周四在都柏林会见库什纳和威特科夫。\n5、马斯克表示，Cybertruck的生产将延长至2027年夏季末。\n6、俄罗斯外交部11日发布消息称，俄驻美国大使亚历山大·达尔奇耶夫当日猝然离世，享年66岁。\n7、英国前首相卡梅伦警告伯纳姆不要寻求让英国重新加入欧盟。\n8、野村在11月10日的一份报告中写道，在美国通胀数据高于预期后，该行目前预计美联储除12月加息外，还将在明年3月再次加息。\n9、Sixth Street Partners首席执行官Alan Waxman表示，他看到人工智能热潮中动荡的迹象日益增多，因此该公司基本保持观望。\n\n环球市场\n1、美股科技股大幅走高，截至收盘，纳斯达克100指数收涨2.28%，纳斯达克综合指数收涨1.6%，道琼斯指数收涨0.49%，标普500指数收涨1.31%。其中，纳斯达克100指数在盘中一度上涨超3%并收复美国中期选举以来的全部失地。AI产业链交易热潮回归，存储板块方面，闪迪涨超13%，美光科技涨超11%，海力士涨超9%，西部数据涨超8%；AI云服务厂商方面，CoreWeave涨超24%，NEBIUS涨超15%，甲骨文涨超8%；光通信股方面，迈威尔科技涨超9%，Lumentum涨超10%，Coherent涨超9%。\n2、欧洲斯托克600指数周三收涨0.7%，至663.05点，超过8月创下的前期收盘纪录。能源和科技股反弹，帮助延续了欧股近期跑赢其他市场的表现。\n3、国际油价走高，WTI 12月期货上涨0.6%，结算价报每桶86.53美元；布伦特1月期货上涨1.4%，结算价报每桶92.76美元。\n4、国际金价走低，现货黄金价格跌1.14%，报3986.85美元/盎司；现货白银价格涨0.31%，报51.68美元/盎司。\n5、利弗莫尔中概股龙头指数收涨0.71%。成分股中，爱奇艺涨超9%，南茂涨超9%，联电、日月光控股涨超6%，高途涨超2%；房多多跌超6%，网易跌超4%，小鹏集团、理想汽车跌超2%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1169,7 +1380,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2532065?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 1469,
+   "share_num": 1472,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1196,7 +1407,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 174133,
+     "attention_num": 174132,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1209,7 +1420,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184734,
+     "attention_num": 184736,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1257,7 +1468,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1036864,
+   "reading_num": 1261889,
    "content": "【英伟达董事会据悉准备罢免CEO黄仁勋】财联社11月12日电，据报道，知情人士称，英伟达董事会正准备罢免CEO黄仁勋。董事会正准备最快于11日召开会议，以决定他的去留。",
    "in_roll": 1,
    "recommend": 1,
@@ -1281,7 +1492,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2532074?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 2662,
+   "share_num": 2695,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1308,7 +1519,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 174133,
+     "attention_num": 174132,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1321,7 +1532,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184734,
+     "attention_num": 184736,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1369,7 +1580,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 999463,
+   "reading_num": 1233385,
    "content": "【AI交易热情重燃 纳斯达克100指数收涨超2%并在盘中收复中期选举以来全部跌幅】财联社11月12日电，随着投资者对AI交易的热情重燃，以科技股为主的纳斯达克100指数在盘中一度上涨超3%并收复美国中期选举以来的全部失地，为11月4日以来最高水平。此前，市场担心民主党横扫国会将影响AI基础设施建设，该指数因此遭受重挫。此次上涨之际，CoreWeave业绩好于预期、Anthropic首次公开募股需求旺盛，以及OpenAI季度业绩亮眼，共同重新点燃了投资者对AI交易的热情。截至收盘，纳斯达克100指数收涨2.28%，纳斯达克综合指数收涨1.6%，道琼斯指数收涨0.49%，标普500指数收涨1.31%。\n\nAI产业链交易热潮回归，存储板块方面，闪迪涨超13%，美光科技涨超11%，海力士涨超9%，西部数据涨超8%；AI云服务厂商方面，CoreWeave涨超24%，NEBIUS涨超15%，甲骨文涨超8%；光通信股方面，迈威尔科技涨超9%，Lumentum涨超10%，Coherent涨超9%；半导体设备方面，拉姆研究、应用材料涨超6%。美股“科技七巨头”涨跌不一，特斯拉涨2.91%，英伟达涨2.91%，苹果涨2.07%，谷歌涨1.99%，亚马逊跌1.76%，Meta Platforms跌1.97%，微软跌2.26%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1385,7 +1596,7 @@
    "title": "AI交易热情重燃 纳斯达克100指数收涨超2%并在盘中收复中期选举以来全部跌幅",
    "bold": 0,
    "sort_score": 1794430929,
-   "comment_num": 10,
+   "comment_num": 11,
    "modified_time": 1794438530,
    "status": 1,
    "collection": 0,
@@ -1393,7 +1604,7 @@
    "category": "",
    "shareurl": "https://api3.cls.cn/share/article/2532055?os=web&sv=8.4.6&app=CailianpressWeb",
    "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 1462,
+   "share_num": 1465,
    "sub_titles": [],
    "tags": [],
    "imgs": [],
@@ -1422,7 +1633,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 71170,
+     "attention_num": 71171,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1435,7 +1646,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 184734,
+     "attention_num": 184736,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1483,7 +1694,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1101943,
+   "reading_num": 1326748,
    "content": "【费城半导体指数涨幅扩大至7%】财联社11月12日电，费城半导体指数涨幅扩大至7%，报10699.14点。闪迪涨超16%，ARM涨超13%，希捷科技涨超12%，英特尔、西部数据、Cerebras涨超9%，应用材料、AMD涨超7%，博通涨超6%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1536,7 +1747,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 71170,
+     "attention_num": 71171,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1584,7 +1795,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1495797,
+   "reading_num": 1702770,
    "content": "【美股半导体板块盘中持续走强 费城半导体指数涨6.1% 闪迪涨超15%】财联社11月11日电，美股半导体板块涨势进一步扩大，存储芯片、光通信板块表现尤为活跃。费城半导体指数涨6.12%，细分赛道中，存储芯片与光通信领涨全场。闪迪狂飙超15.4%，Lumentum大涨超14.1%，美光科技涨超12.3%，Coherent涨超12.2%，希捷科技与SK海力士双双涨超10.5%，Arm Holdings及迈威尔科技涨超10%。\n\n此外，传统芯片巨头普遍跟涨，西部数据涨超8.7%，英特尔涨超8.2%，美国超微公司（AMD）涨超6.7%，泛林集团与应用材料涨超6%，博通涨近6%，英伟达与台积电双双涨超3.7%。杠杆产品方面，三倍做多半导体ETF（SOXL）猛涨18.80%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1637,7 +1848,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 174133,
+     "attention_num": 174132,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1650,7 +1861,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 71170,
+     "attention_num": 71171,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1711,7 +1922,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1515658,
+   "reading_num": 1729452,
    "content": "【美股半导体板块夜盘强势拉升 费城半导体指数涨5% 美光、闪迪涨超11%】财联社11月11日电，费城半导体指数涨幅扩大至5%，报10500.83点。美股半导体板块夜盘涨势进一步扩大，存储芯片、光通信及半导体设备股表现活跃。存储芯片及光通信概念股表现最为亮眼。其中，闪迪大涨超14.7%，Lumentum涨超12.6%，美光科技涨超11.2%，Coherent涨超11%，希捷科技涨超10.2%。此外，SK海力士涨超9.6%，迈威尔科技涨超9.1%，Arm Holdings涨超9.0%，英特尔涨超6.9%，泛林集团、博通、应用材料、美国超微公司（AMD）涨超5%，台积电涨超3.4%，英伟达涨超3.0%。杠杆工具方面，三倍做多半导体ETF（SOXL）猛涨15.48%。",
    "in_roll": 1,
    "recommend": 1,
@@ -1764,7 +1975,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 174133,
+     "attention_num": 174132,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1777,7 +1988,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 71170,
+     "attention_num": 71171,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1838,7 +2049,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1483999,
+   "reading_num": 1686275,
    "content": "【国际原油期货拉升 美油布油均涨超3%】财联社11月11日电，布伦特原油期货涨幅扩大至3.3%，报94.6美元/桶。WTI原油期货涨幅扩大至3%，报88.685美元/桶。",
    "in_roll": 1,
    "recommend": 1,
@@ -1891,7 +2102,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 174133,
+     "attention_num": 174132,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -1904,7 +2115,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 60736,
+     "attention_num": 60735,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 88,
@@ -1991,7 +2202,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1529264,
+   "reading_num": 1741748,
    "content": "【王毅同美国国务卿鲁比奥通电话】中共中央政治局委员、外交部长王毅11日同美国国务卿鲁比奥通电话。双方就中美关系及两国元首互动深入交换意见，通话是积极和建设性的。\n\n王毅表示，习近平主席9月访美顺利、成功，两国元首一致同意丰富中美关系新定位的内涵，为探索中美正确相处之道提供了更加明确的战略指引。中美关系稳定势头来之不易，是两个大国从各自和共同利益出发作出的理性选择。中国对美政策保持稳定性和连续性，愿同美方加强沟通合作，妥善处理分歧和敏感问题，相互支持办好2026年亚太经合组织领导人非正式会议和二十国集团领导人峰会，推动中美建设性战略稳定关系落地见效。 （央视新闻）",
    "in_roll": 1,
    "recommend": 1,
@@ -2090,7 +2301,7 @@
    "depth_extends": "null",
    "deny_comment": 0,
    "level": "B",
-   "reading_num": 1376736,
+   "reading_num": 1559038,
    "content": "【费城半导体指数开盘大涨4.5% 收复11月5日暴跌的12%的全部跌幅】财联社11月11日电，费城半导体指数开盘大涨4.5%，收复了11月5日暴跌的12%的全部跌幅。个股方面，闪迪涨9.65%，Coherent涨10.01%，SK海力士涨7.42%，美光科技涨6.98%，英特尔涨6.77%，希捷科技涨8.39%，Lumentum涨10.39%，博通涨5.19%，台积电涨4.19%，英伟达涨2.72%。三倍做多半导体ETF（SOXL）涨14.06%。",
    "in_roll": 1,
    "recommend": 1,
@@ -2143,7 +2354,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 71170,
+     "attention_num": 71171,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -2156,7 +2367,7 @@
      "subject_img": "",
      "subject_description": "",
      "category_id": 0,
-     "attention_num": 174133,
+     "attention_num": 174132,
      "is_attention": false,
      "is_reporter_subject": false,
      "plate_id": 0,
@@ -2203,236 +2414,13 @@
    "is_fad": 0,
    "disclaimer": "",
    "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1459231,
-   "content": "【纳斯达克指数高开1.5% 资金重返AI板块 芯片半导体股票明显上涨】财联社11月11日电，美股开盘三大指数集体上涨，道琼斯指数涨0.18%，标普500指数涨0.96%，纳斯达克综合指数涨1.53%。\n\n热门股票中，苹果股价上涨0.7%，英伟达股价上涨2.63%，微软股价下跌0.26%，谷歌-A股价上涨0.96%，亚马逊股价上涨1.39%，台积电股价上涨4.4%，SpaceX股价上涨0.43%，博通股价上涨5.82%，Meta股价上涨0.37%，特斯拉股价上涨2.21%，SK海力士股价上涨7.42%，超威半导体股价上涨4.09%，美光科技股价上涨6.96%，阿斯麦股价上涨2.11%，思科股价上涨2.64%，甲骨文股价上涨5.88%，英特尔股价上涨6.6%，戴尔科技-C股价上涨9.03%。",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 1,
-   "jpush": 1,
-   "img": "",
-   "user_id": 87,
-   "is_top": 0,
-   "brief": "【纳斯达克指数高开1.5% 资金重返AI板块 芯片半导体股票明显上涨】美股开盘三大指数集体上涨，道琼斯指数涨0.18%，标普500指数涨0.96%，纳斯达克综合指数涨1.53%。\n\n热门股票中，苹果股价上涨0.7%，英伟达股价上涨2.63%，微软股价下跌0.26%，谷歌-A股价上涨0.96%，亚马逊股价上涨1.39%，台积电股价上涨4.4%，SpaceX股价上涨0.43%，博通股价上涨5.82%，Meta股价上涨0.37%，特斯拉股价上涨2.21%，SK海力士股价上涨7.42%，超威半导体股价上涨4.09%，美光科技股价上涨6.96%，阿斯麦股价上涨2.11%，思科股价上涨2.64%，甲骨文股",
-   "id": 2531960,
-   "ctime": 1794407461,
-   "type": -1,
-   "title": "纳斯达克指数高开1.5% 资金重返AI板块 芯片半导体股票明显上涨",
-   "bold": 0,
-   "sort_score": 1794407461,
-   "comment_num": 21,
-   "modified_time": 1794407655,
-   "status": 1,
-   "collection": 0,
-   "has_img": 0,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2531960?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 551,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [],
-   "explain_num": -1,
-   "stock_list": [],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [
-    {
-     "article_id": 2531960,
-     "subject_id": 1556,
-     "subject_name": "环球市场情报",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 174133,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    },
-    {
-     "article_id": 2531960,
-     "subject_id": 1098,
-     "subject_name": "美股动态",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 71170,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 0,
-     "channel": "cls"
-    },
-    {
-     "article_id": 2531960,
-     "subject_id": 1279,
-     "subject_name": "半导体芯片",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 106436,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 457,
-     "channel": "cls,stib"
-    },
-    {
-     "article_id": 2531960,
-     "subject_id": 1321,
-     "subject_name": "人工智能",
-     "subject_img": "",
-     "subject_description": "",
-     "category_id": 0,
-     "attention_num": 73332,
-     "is_attention": false,
-     "is_reporter_subject": false,
-     "plate_id": 207,
-     "channel": "cls,stib"
-    }
-   ],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261111/22341769P4vZvedxP4.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
-  },
-  {
-   "author_extends": "",
-   "assocFastFact": {
-    "fid": 0,
-    "fast_fact_content": "",
-    "article_id": 0,
-    "article_title": "",
-    "imgs": "",
-    "slogan": ""
-   },
-   "depth_extends": "null",
-   "deny_comment": 0,
-   "level": "B",
-   "reading_num": 1492178,
-   "content": "【财联社11月11日晚间新闻精选】\n1、央行：坚持实施好适度宽松的货币政策，保持流动性充裕；用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行。\n2、离岸信托收益征税平稳有序推进，累计申报离岸信托个人所得税超1600亿元，10月当月入库超1200亿元。\n3、存储厂商酝酿新一轮涨价？多方反馈：原厂第四季度官方价格确实呈现微微上涨态势。\n4、马斯克光伏布局加速：特斯拉百亿美元新厂正式动工，SpaceX新签设备订单。\n5、美官员呼吁收紧对中国获取先进AI芯片的限制，中国外交部回应：中方在美国输华芯片问题上的立场是一贯的。\n6、公司新闻方面：①m9因品质问题被英伟达取消订货？生益科技：未接到任何终端取消订单的通知。②8天4板上海电影：AI视频相关业务尚处于前期投入阶段 营收占比不足0.5%。③16天9板文投控股：AI漫剧相关业务收入占营业收入的比例约为2.57%。④长芯博创：控股股东长飞光纤11月9日至10日增持360.99万股持股比例上升至20.00%",
-   "in_roll": 1,
-   "recommend": 1,
-   "confirmed": 0,
-   "jpush": 1,
-   "img": "",
-   "user_id": 85,
-   "is_top": 0,
-   "brief": "【财联社11月11日晚间新闻精选】\n1、央行：坚持实施好适度宽松的货币政策，保持流动性充裕；用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行。\n2、离岸信托收益征税平稳有序推进，累计申报离岸信托个人所得税超1600亿元，10月当月入库超1200亿元。\n3、存储厂商酝酿新一轮涨价？多方反馈：原厂第四季度官方价格确实呈现微微上涨态势。\n4、马斯克光伏布局加速：特斯拉百亿美元新厂正式动工，SpaceX新签设备订单。\n5、美官员呼吁收紧对中国获取先进AI芯片的限制，中国外交部回应：中方在美国输华芯片问题上的立场是一贯的。\n6、公司新闻方面：①m9因品质问题被英伟达取消订货？生益科技",
-   "id": 2531944,
-   "ctime": 1794405130,
-   "type": -1,
-   "title": "财联社11月11日晚间新闻精选",
-   "bold": 0,
-   "sort_score": 1794405130,
-   "comment_num": 4,
-   "modified_time": 1794405130,
-   "status": 1,
-   "collection": 0,
-   "has_img": 0,
-   "category": "",
-   "shareurl": "https://api3.cls.cn/share/article/2531944?os=web&sv=8.4.6&app=CailianpressWeb",
-   "share_img": "https://img.cls.cn/share/roll.png",
-   "share_num": 1011,
-   "sub_titles": [],
-   "tags": [],
-   "imgs": [],
-   "images": [],
-   "explain_num": -1,
-   "stock_list": [],
-   "is_ad": 0,
-   "ad": {
-    "id": 0,
-    "title": "",
-    "img": "",
-    "url": "",
-    "monitorUrl": "",
-    "video_url": "",
-    "adTag": "",
-    "fullScreen": 0,
-    "type": 0
-   },
-   "subjects": [],
-   "audio_url": [
-    "https://image.cls.cn/admin/20261111/215211tQ3Tubbz1A2d.mp3"
-   ],
-   "author": "",
-   "plate_list": [],
-   "assocArticleUrl": "",
-   "assocVideoTitle": "",
-   "assocVideoUrl": "",
-   "assocCreditRating": [],
-   "invest_calendar": {
-    "id": 0,
-    "data_id": 0,
-    "r_id": "",
-    "type": 0,
-    "calendar_time": "",
-    "setting_time": "",
-    "event": null,
-    "economic": null,
-    "short_latents": null
-   },
-   "share_content": "",
-   "gray_share": 0,
-   "comment_recommand": null,
-   "timeline": null,
-   "is_fad": 0,
-   "disclaimer": "",
-   "_category": "red"
   }
  ],
  "recap": {
   "date": "2026-11-11",
   "stats": {
    "涨停": 85,
-   "跌停": 0,
+   "跌停": 1,
    "上涨": 3537,
    "下跌": 1827,
    "实际涨停": 85,
@@ -2456,154 +2444,154 @@
       "code": "002209",
       "name": "达意隆",
       "board": "2连板",
-      "concept": "工业机器人、新型工业化",
+      "concept": "包装印刷、三季报增长",
       "reason": "机器人概念；据2026年11月10日晚公告，达意隆2023年限制性股票激励计划预留授予部分第三个解除限售期解除限售条件成就，涉及2名激励对象，可解除限售11.2万股，占当前总股本0.0548%，上市流通日为2026年11月13日。\r\n\r\n机器人概念：据2026年10月28日公告，达意隆经依法登记的经营范围包括工业机器人制造、服务消费机器人制造、智能机器人的研发、智能机器人销售、工业机器人安装、维修。"
      },
      {
       "code": "002931",
       "name": "锋龙股份",
       "board": "3连板",
-      "concept": "优必选机器人、一体化压铸",
+      "concept": "实控人变更、贬值受益",
       "reason": "优必选机器人+实控人变更；据2026年7月8日投资者关系活动记录表，2026年3月11日完成29.99%股份的协议转让过户手续，锋龙股份控股股东、实控人分别变更为优必选、周剑。据优必选官网，优必选科技是人形机器人的领导者和智能服务机器人的领航企业。公司布局了人形机器人全栈式技术，并在此基础上开展智能服务机器人解决方案的研发、设计、智能生产和商业化应用，涵盖了多个行业的企业级和消费级广泛应用场景。"
      },
      {
       "code": "603135",
       "name": "中重科技",
       "board": "首板",
-      "concept": "工业机器人、新型工业化",
+      "concept": "三季报增长、中报增长",
       "reason": "机器人概念；据2026年11月10日晚公告，中重科技完成2025年限制性股票激励计划预留授予登记，授予对象为3名核心技术/业务人员，股份来源为向激励对象定向发行A股普通股，认购款670.69万元。\r\n\r\n机器人概念：据2026年10月30日互动易，中重科技不开展通用人形机器人本体的研发工作，也没有人形机器人本体相关销售收入；子公司中重灵希已签约承接人形机器人相关的自动化柔性生产线项目，该项目已经在生产发货过程中，目前该类订单占公司整体营收体量比例较小，对公司整体业绩影响有限。"
      },
      {
       "code": "002520",
       "name": "日发精机",
       "board": "首板",
-      "concept": "滚珠丝杠、工业4.0",
+      "concept": "远东开发、成飞概念",
       "reason": "机器人概念+工业母机；1. 机器人概念：据2026年11月9日投资者关系活动记录表，日发格芮德公司已具备用于丝杆、螺母加工的高精度数控螺纹磨床生产能力，SK76系列数控内螺纹磨床适用于人形机器人等精密加工，公司已与贝斯特、五洲新春等客户签署合同或达成战略合作。\r\n\r\n2. 工业母机：据2026年半年报，公司定位于高端数控装备，研发生产各类数控机床，形成了立式及卧式加工中心、立式及卧式数控车床、龙门加工中心、五轴联动和车铣复合加工机床、轴承磨超加工及装配生产线等多种产品系列"
      },
      {
       "code": "000026",
       "name": "飞亚达",
       "board": "3天2板",
-      "concept": "光纤概念、光通信",
+      "concept": "光通信、光纤概念",
       "reason": "机器人概念+商业航天；1. 机器人概念：据2026年11月3日投资者关系活动记录表，公司机器人业务的主要产品为精密减速器及精密结构件，已与部分头部客户建立合作，并根据客户需求快速提升产能，前三季度机器人领域业务收入占公司整体营业收入比例不足5%。\r\n\r\n2. 商业航天：据2026年5月28日投资者关系活动记录表，公司拟收购的陕西长空齿轮有限责任公司正积极拓展机器人、商业航天等新市场、新客户，主要提供精密减速器相关产品，目前仍处在前期市场培育及探索阶段；2026年一季度，商业航天领域业务收入占其营业收入比例不足5%"
      },
      {
       "code": "003032",
       "name": "传智教育",
       "board": "首板",
-      "concept": "机器人概念、华为概念",
+      "concept": "ST摘帽、江苏省",
       "reason": "机器人概念+AI应用；1. 机器人概念：据2026年半年报，传智教育以“黑马程序员”“博学谷”为平台开展AI具身智能机器人开发、AI嵌入式+机器人开发等课程；2026年7月，公司举办具身智能课程与硬件产品专场发布会，推出完整闭环式具身智能人才培养解决方案，并同步发布6款分层教学机器人硬件。\r\n\r\n2. AI应用：据2026年11月6日投资者关系活动记录表，公司“AI应用与智能体开发”课程旨在培养学员驾驭AI进行跨语言开发与工程化应用部署的全栈能力，实现前后端技术的全面贯通，而非Java与AI技术的简单叠加。"
      },
      {
       "code": "002708",
       "name": "光洋股份",
       "board": "3连板",
-      "concept": "线控底盘、滚珠丝杠",
+      "concept": "PCB概念、通信",
       "reason": "机器人概念+PCB概念；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 机器人概念：据2026年11月2日投资者关系活动记录表，机器人业务快速上量交付，以交叉滚子轴承为代表的产品已进入多家头部下游企业供应链并实现量产；多款减速器产品完成定型并实现量产；公司与玄创机器人合作的机器人整机生产制造项目已实现量产交付40台。\r\n\r\n2. PCB概念：据2026年11月2日投资者关系活动记录表，威海世一在柔性电路板及高阶软硬结合板领域具备优势，常熟东南相互在刚挠结合板与HDI领域具备优势，公司完成对常熟东南相互的收购并实现并表后，首次形成“FPC＋软硬结合＋刚挠结合＋HDI”的完整产品谱系"
      },
      {
       "code": "603040",
-      "name": "新坐标  ",
+      "name": "新坐标",
       "board": "首板",
-      "concept": "滚珠丝杠、汽车热管理",
+      "concept": "中欧概念、送转填权",
       "reason": "机器人概念+汽车零部件；1. 机器人概念：据2026年11月3日互动易，公司已开发大承载和微型滚柱丝杠、微型梯形丝杠及精密滚珠丝杠等产品，配合客户完成定制化研发、迭代与送样，已实现小批量生产并达成销售收入，相关产品应用场景包括机器人线性执行关节。\r\n\r\n2. 汽车零部件：据2026年10月8日投资者关系活动记录表，公司主营业务为精密零部件的研发、生产和销售，气门组精密零部件、气门传动组精密零部件适配燃油车、混合动力车、柴油车、摩托车等，精密零件产品应用已从传统汽车零部件延伸至电驱动传动系统、滚珠丝杠及行星滚柱丝杠等精密零件。"
      },
      {
       "code": "001282",
       "name": "三联锻造",
       "board": "首板",
-      "concept": "工业4.0、液冷",
+      "concept": "液冷、算力",
       "reason": "机器人概念+汽车零部件；1. 机器人概念：据2026年10月28日公告，公司将加大高精度研发与试制设备投入，重点布局滚柱丝杠副、谐波减速器、关节模组等高精度传动部件等高精端结构件，并加快推进滚柱丝杠副、谐波减速器、关节模组试制生产线建设。\r\n\r\n2. 汽车零部件：据2026年半年报，公司主要从事汽车锻造零部件的研发、生产和销售，产品主要应用于汽车动力系统、传动系统、转向系统以及悬挂支撑等系统，主要产品包括轮毂轴承类、高压共轨类、球头拉杆类、转向节类、节叉类、轴类等七类产品。"
      },
      {
       "code": "002362",
       "name": "汉王科技",
       "board": "首板",
-      "concept": "物理AI、机器视觉",
+      "concept": "病毒防治、平台经济",
       "reason": "机器人概念+AI应用；1. 机器人概念：据2026年半年报，汉王科技形成从感知智能、认知决策到具身智能的全链核心技术布局，公司孵化的仿生扑翼智能飞行机器人技术是全球唯一实现仿生扑翼类产品量产的技术，该项目已进入商业化早期。\r\n\r\n2. AI应用：据2026年半年报，汉王科技AI智能读写本以自研AI能力、流畅手写体验、生态协同为核心优势，形成阅读本和办公本两个产品系列，墨水屏平板凭借护眼、低功耗、沉浸式书写阅读体验更适合办公与阅读；公司开发基于大模型技术的新一代高速电子纸设备。"
      },
      {
       "code": "001331",
       "name": "胜通能源",
       "board": "3天2板",
-      "concept": "机器人概念、实控人变更",
+      "concept": "天然气、实控人变更",
       "reason": "机器人概念+天然气；1. 机器人概念：据2026年8月4日投资者关系活动记录表，公司控股股东七腾机器人聚焦石油、石化、天然气、化工等高危工业场景智能巡检机器人业务，形成轮式巡检机器人、四足机器人、轮足机器人等产品体系；胜通能源通过合肥新设子公司围绕机器人产业链开展核心部件制造、模组总成及测试业务。\r\n\r\n2. 天然气：据2026年10月28日公告，胜通能源主营业务仍为液化天然气采购、运输及销售，未发生重大变化，公司与控股股东七腾机器人有限公司及其关联方的生产经营各自独立。"
      },
      {
       "code": "001339",
       "name": "智微智能",
       "board": "2连板",
-      "concept": "NAS、英伟达概念",
+      "concept": "AMD概念、交换机",
       "reason": "智元机器人+AI PC；1. 智元机器人：据2026年10月20日投资者关系活动记录表，智微工业推出覆盖人形、四足及服务机器人等全品类控制器，智擎系列Thor机器人大脑控制器新增智元等头部人形机器人客户，成为智元首批“A链”供应商\r\n\r\n2. AI PC：据2026年9月18日公告，公司将全面推进AI PC全系列产品落地，推出工作站级与消费级两大系列AI PC产品；工作站级AI PC与Intel、AMD共建联合研发联盟，推出AI Mini工作站，实现100TOPS算力与100B参数模型本地推理能力；消费级AI PC则布局50TOPS算力产品线。"
      },
      {
       "code": "603466",
-      "name": "风语筑  ",
+      "name": "风语筑",
       "board": "2连板",
-      "concept": "物理AI、数据采集",
+      "concept": "消费电子、三季报增长",
       "reason": "数据采集+AI眼镜；1. 数据采集：据2026年10月30日风语筑公众号消息，风应科技于2026年7月由风语筑控股、联合松应科技设立，面向物理AI领域布局真实场景数据采集、空间数据生产、仿真环境构建、合成数据生成、评测验证及Sim2Real虚实迁移等业务。\r\n\r\n2. AI眼镜：据2026年4月25日股东会会议材料，公司与Rokid携手推进AI+AR技术在文博文旅领域的前瞻布局。"
      },
      {
       "code": "002765",
       "name": "蓝黛科技",
       "board": "首板",
-      "concept": "减速器、华为汽车",
+      "concept": "面板、实控人变更",
       "reason": "机器人概念+减速器；1. 机器人概念：据2026年半年报，公司于2025年新增的关节模组产业在本报告期产品交付能力及客户数量均有增加；公司全资子公司重庆蓝黛自动化科技有限公司的业务包括自动化生产线集成，以及关节模组的研发、生产和销售。\r\n\r\n2. 减速器：据2026年5月19日互动易，目前公司减速器相关产品主要应用于新能源汽车。"
      },
      {
       "code": "603028",
-      "name": "赛福天  ",
+      "name": "赛福天",
       "board": "首板",
-      "concept": "机器人概念、江苏省",
+      "concept": "TOPCon、医药",
       "reason": "机器人概念+海洋经济；1. 机器人概念：据2026年10月28日公告，赛福天现有金属制品类业务以钢丝绳及索具的研发、生产和销售为主，赛福天人形机器人腱绳相关产品目前尚处于研发及客户送样验证阶段，尚未实现规模化量产，未形成相应业务收入\r\n\r\n2. 海洋经济：据2026年9月21日投资者关系活动记录表，公司钢索业务深耕深海海工赛道，加快海工领域从送样走向批量供货；高端特种绳索基地规划10万吨产能，面向矿山、海工、工程机械等场景"
      },
      {
       "code": "000678",
       "name": "襄阳轴承",
       "board": "2连板",
-      "concept": "减速器、比亚迪产业链",
+      "concept": "贬值受益、湖北省",
       "reason": "机器人概念+减速器；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 机器人概念：据2025年年报，公司研发项目“机器人用精密轴承产品研发”，研究机器人轴承高刚度、长寿命、低振动等核心技术，已进入新产品的开发试制阶段。\r\n\r\n2. 减速器：据2026年10月8日公告，公司部分精密轴承产品可用于谐波减速器、RV减速器等领域；公司主要产品为汽车轴承、等速万向节、轮毂轴承单元等，上述精密轴承业务尚处于市场拓展阶段，尚未实现盈利，也不涉及海外客户。"
      },
      {
       "code": "301596",
       "name": "瑞迪智驱",
       "board": "首板",
-      "concept": "送转填权、减速器",
+      "concept": "送转填权、成都市",
       "reason": "机器人概念+减速器；1. 机器人概念：据2026年10月19日互动易，公司电磁制动器、永磁制动器在人形机器人中可配套运动控制执行器，主要运用在各关节、夹爪、躯干等部位，有利于机器人运动控制系统的断电保护、位置保持及安全制动等。\r\n\r\n2. 减速器：据2026年半年报，公司谐波减速机已形成重载型、超薄型、一体式、迷你型、双刚轮、制动谐波、定制化谐波减速机等产品系列，主要用于工业机器人、协作机器人和具身智能机器人等领域。"
      },
      {
       "code": "002164",
       "name": "宁波东力",
       "board": "首板",
-      "concept": "数据采集、专用设备",
+      "concept": "病毒防治、水利",
       "reason": "机器人概念；据2026年10月30日投资者关系活动记录表，公司精密减速器业务承载向具身智能等精密传动赛道升级转型目标；现有月产能为精密行星减速器3000多台，谐波减速器相关部件10000余个。"
      },
      {
       "code": "300473",
       "name": "德尔股份",
       "board": "首板",
-      "concept": "线控底盘、汽车电子",
+      "concept": "并购重组、三季报增长",
       "reason": "机器人概念+固态电池；1. 机器人概念：据2026年11月7日投资者关系活动记录表，公司自研了轮式双臂具身智能机器人，其上半身集成了国内某本体厂商的双臂操作单元，下半身则搭载公司自主研发的轮式底盘；基于蚂蚁灵波的具身原生模型与云端工具链，公司与蚂蚁灵波合作探索工业场景数智化转型\r\n\r\n2. 固态电池：据2026年11月7日投资者关系活动记录表，公司已搭建自主的电解质材料配方体系，可根据不同应用场景综合平衡能量密度、倍率性能和循环寿命等指标；较高的安全性和优异的耐高温性能是公司固态电池较显著的性能特点；公司已与外部合作方签署委托加工协议，对合作方原有锂电池产线实施专项改造与设备调试，用于承接公司固态电池产品生产，该产线目前处于试生产和产能爬坡阶段。"
      },
      {
       "code": "603730",
       "name": "岱美股份",
       "board": "首板",
-      "concept": "电子皮肤、内外饰",
+      "concept": "内外饰、贬值受益",
       "reason": "电子皮肤+内外饰；1. 电子皮肤：据2026年3月12日投资者关系活动记录表，公司通过多种形式开展机器人电子皮肤和相关部件业务，截至目前，公司部分结构件产品已进入最后关键验证阶段\r\n\r\n2. 内外饰：据2026年9月17日公告，岱美股份汽车遮阳板、头枕等内饰件产品在全球市场的份额变化不大，订单比较稳定；公司正在推动产品从遮阳板、头枕等单个局部的汽车内饰件产品扩展到整个顶棚系统集成、座椅系统集成的大领域产品。"
      },
      {
       "code": "605488",
       "name": "福莱新材",
       "board": "6天4板",
-      "concept": "电子皮肤、苹果概念",
+      "concept": "新冠检测、面板",
       "reason": "电子皮肤+数据采集；1. 电子皮肤：据2026年11月4日投资者关系活动记录表，公司开发了压阻式和电容式等多模态技术路线；G1至G4是公司柔性触觉传感循序渐进的技术迭代路线，逐步迭代升级至三维力全柔性传感，演进为面向大规模数据采集场景的完整终端产品。\r\n\r\n2. 数据采集：据2026年11月4日投资者关系活动记录表，福莱新材的G1至G4是公司柔性触觉传感循序渐进的技术迭代路线，从基础的平面感知能力起步，逐步迭代升级至三维力全柔性传感，最终演进为面向大规模数据采集场景的完整终端产品。"
      },
      {
       "code": "002779",
       "name": "中坚科技",
       "board": "首板",
-      "concept": "机器人概念、发电机",
+      "concept": "农业、乡村振兴",
       "reason": "机器人概念+农机；1. 机器人概念：据2026年11月10日投资者关系活动记录表，公司研发投入主要投向智能割草机器人、关节模组、四足机器人、人形机器人四个方向，覆盖“大脑（认知规划）—小脑（运动控制）—本体（整机硬件）”的全链路研发；公司机器人业务子公司通过市场化方式补充资金，如上海桦之坚近期引入外部投资者增资3亿元。\r\n\r\n2. 农机：据2026年半年报，公司经营范围包括园林机械、农业机械、便携式发电机、智能机器人、非公路休闲车及零配件的技术研发、制造和销售；子公司TOPSUN USA主要业务为园林工具、农业机械、便携式发电机、电动滑板车的销售。"
      }
     ]
@@ -2616,91 +2604,91 @@
       "code": "603083",
       "name": "剑桥科技",
       "board": "首板",
-      "concept": "光模块、CPO/MPO",
+      "concept": "CPO/MPO、光模块",
       "reason": "光通信(光模块)；据2026年11月10日投资者关系活动记录表，截至2026年9月初，公司已基本形成月设计产能约100万支的生产能力；公司拟于2027年底前，在现有产能基础上将高速光模块产品的年产能再扩充至少1,000万支，以满足客户对800G、1.6T及NPO产品的预期需求"
      },
      {
       "code": "600103",
       "name": "青山纸业",
       "board": "首板",
-      "concept": "光模块、CPO/MPO",
+      "concept": "碳汇林、CPO/MPO",
       "reason": "光模块+海峡两岸；公司位于福建省。据2026年10月17日公告，子公司恒宝通800G光模块处于客户送样验证中，400G产品未大规模量产。"
      },
      {
       "code": "603042",
       "name": "华脉科技",
       "board": "首板",
-      "concept": "光纤概念、光通信",
+      "concept": "光通信、芯片",
       "reason": "光通信(光纤概念)；据2026年半年报，华脉科技主要产品包括ODN物理连接及保护设备、光无源器件、光缆等光通信产品，公司光纤光缆等产品充分受益于光纤光缆量价齐升的市场格局，产品毛利显著提升。"
      },
      {
       "code": "603725",
       "name": "天安新材",
       "board": "首板",
-      "concept": "光纤概念、光通信",
+      "concept": "光通信、内外饰",
       "reason": "光纤概念+电子皮肤；1. 光纤概念：据2026年11月8日晚公告，天安新材拟以增资及股权转让方式收购深圳市嘉万光通信有限公司62.5%股权，交易金额合计2.5亿元，其中现金增资7000万元取得增资后17.5%股权，受让原股东所持45%股权对价暂定1.8亿元。交易完成后嘉万光将成为公司控股子公司。标的公司主要从事无源光器件产品及电信光缆、机箱等产品的研发、生产与销售。\r\n\r\n2. 电子皮肤：据2025年年报，公司瞄准机器人皮肤在肤感柔软性、耐弯折、耐磨以及轻量化等方面的属性要求，以擅长的肤感饰面材料为基础开展同源性技术探索和延伸，积极拓展新材料在具身智能领域的应用，并持续推进电子皮肤领域的技术研发。公司在电子皮肤领域仍处于技术研发阶段，目前暂无相关产品实现量产或具体项目落地。"
      },
      {
       "code": "603330",
       "name": "天洋新材",
       "board": "首板",
-      "concept": "光模块、CPO/MPO",
+      "concept": "CPO/MPO、光模块",
       "reason": "光模块+化工；2027年是农历羊年，近来部分A股名称中带有“羊、洋、阳”的个股频频异动。\r\n\r\n1. 光模块：据2026年7月3日公告，在电子胶产品中，涉及半导体业务的光模块透镜固定用胶为新开发产品，目前该产品月营收占集团月营收不足1%。据2026年5月29日投资者关系活动记录表，公司电子胶板块光模块透镜固定用胶、底填胶等产品已经进入半导体及汽车电子领域小批量供货\r\n\r\n2. 化工：据2026年半年报，天洋新材主要产品包括纺织热熔胶、汽车用胶、汽车/纺织膜材料、电子级胶黏剂、环保墙布等品类；电子胶产品包括环氧树脂、丙烯酸树脂、有机硅/聚氨酯等，已进入半导体、汽车电子、储能导热三大新领域。"
      },
      {
       "code": "301486",
       "name": "致尚科技",
       "board": "首板",
-      "concept": "光模块、CPO/MPO",
+      "concept": "CPO/MPO、光模块",
       "reason": "光通信(CPO/MPO)；据2026年10月30日投资者关系活动记录表，目前公司光通信MPO/MMC/SN-MT等产品已实现量产，MPO产线处于满产状态；受益于行业需求景气度影响，客户对公司光通信产品的需求持续增长。"
      },
      {
       "code": "002384",
       "name": "东山精密",
       "board": "首板",
-      "concept": "光模块、PCB",
+      "concept": "PCB、CPO/MPO",
       "reason": "光芯片+光模块；1. 光芯片：据2026年11月2日投资者关系活动记录表，公司作为同时具备光芯片和PCB能力的全球主要产能厂商，具备参与并卡位NPO产业的坚实基础；公司今年已有小批量光芯片外售，为优先保障自用，尚未大规模对外销售；公司已完成光芯片产能建设准备。\r\n\r\n2. 光模块：据2026年11月2日投资者关系活动记录表，公司光模块业务客户导入成效逐步显现，已按客户中长期需求完成产能布局，光模块、光芯片自身产能并非瓶颈，上游物料供给释放后可快速实现交付。"
      },
      {
       "code": "002980",
       "name": "华盛昌",
       "board": "首板",
-      "concept": "光模块、光模块设备",
+      "concept": "呼吸机、CPO/MPO",
       "reason": "光模块设备+CPO/MPO；1. 光模块设备：据2026年半年报，公司产线测试仪器聚焦光通信测试核心赛道，依托伽蓝特技术积累，面向高速光模块、硅光芯片、CPO等场景提供从研发验证到量产测试的完整解决方案，核心产品覆盖100G至1.6T全速率测试需求，是国内少数具备高端光通信产线测试设备规模化交付能力的厂商\r\n\r\n2. CPO/MPO：据2026年10月22日投资者关系活动记录表，伽蓝特聚焦800G、1.6T光模块、硅光晶圆测试，CPO产品已经完成验证并获得客户认可，NPO相关测试方案也在持续推进"
      },
      {
       "code": "002281",
       "name": "光迅科技",
       "board": "首板",
-      "concept": "OCS交换机、光模块",
+      "concept": "OCS交换机、先进封装",
       "reason": "光模块+光芯片；1. 光模块：据2026年9月5日公告，公司本次发行H股股票所得的募集资金在扣除发行费用后，将用于光器件、光模块研发与产能建设，光芯片研发与产能建设及补充营运资金。据2026年半年报，公司光模块产品覆盖400G、800G、1.6T等速率及多类主流封装形态，并布局LRO/LPO等低功耗光互联方案，提供用于DCI（数据中心互联）场景的相干模块解决方案\r\n\r\n2. 光芯片：据2026年半年报，公司拥有多种类型激光器芯片（FP、DFB、EML、VCSEL等）、探测器芯片（PD、APD）以及SiP芯片平台，为直接调制和相干调制方案提供坚实支撑。"
      },
      {
       "code": "002957",
       "name": "科瑞技术",
       "board": "首板",
-      "concept": "光模块、光模块设备",
+      "concept": "半导体设备、光模块",
       "reason": "光模块设备+机器人概念；1. 光模块设备：据2026年半年报，公司定位半导体及光通讯产品相关的高精密自动化组装与测试设备提供商，聚焦超高精度制造核心技术，自主研发并规模化交付超高精度设备；在光模块领域提供多个核心工序的工艺设备，包括光芯片共晶贴片设备、800G/1.6T模块耦合设备、AOI检测设备及光纤透镜打磨设备等，并获海内外头部客户验证认可。\r\n\r\n2. 机器人概念：据2026年7月16日互动易，在人形机器人领域，公司具备提供非标精密零部件及相关模组能力，具备提供机器人零部件组装和测试自动化设备的能力。目前有直接或间接为国内外品牌客户提供人形机器人髋部、四肢、骨架、关节等部位或固定支架相关的精密零部件。"
      },
      {
       "code": "688498",
       "name": "源杰科技",
       "board": "首板",
-      "concept": "光模块、光芯片",
+      "concept": "CPO/MPO、光模块",
       "reason": "光芯片+光模块；1. 光芯片：据2026年10月16日公告，公司的光电通讯半导体芯片和器件研发生产基地二期项目首批生产设备预计近期进厂，预计2026年底至2027年初开始形成产能；该项目的实施旨在通过优化产能布局与生产工艺，提升公司在高端光芯片领域的综合供应能力\r\n\r\n2. 光模块：据2026年11月2日投资者关系活动记录表，随着光模块企业做硅光方案的越来越多，公司客户将更加多元化；面向XPO、USFP等下一代超高密度可插拔光模块，相关CW激光器产品正结合客户需求推进产品验证与研发。"
      },
      {
       "code": "601869",
       "name": "长飞光纤",
       "board": "首板",
-      "concept": "光模块、光纤概念",
+      "concept": "光模块、光通信",
       "reason": "光通信(光纤概念)；据2026年9月30日投资者关系活动记录表，公司空芯光纤具备低时延、宽频谱、低损耗和低非线性效应等优势，是解决传统光纤物理瓶颈的颠覆性方案；公司空芯光纤累计交付超1万芯公里，为全球商用部署最广的空芯光纤供应商。"
      },
      {
       "code": "002975",
       "name": "博杰股份",
       "board": "首板",
-      "concept": "光模块、光模块设备",
+      "concept": "存储、先进封装",
       "reason": "光模块设备+磷化铟；1. 光模块设备：据2026年半年报，公司基于在摄像头模组领域积累的AA技术，将其迁移应用于光模块的光耦合适配场景，已完成单头FA耦合设备、双Lens耦合设备开发；同时已完成光模块自动测试线开发，实现灵活、弹性的光模块成品功能和性能测试，正积极与光模块头部厂商开展技术交流与合作探讨，推动产品在客户端的验证与导入\r\n\r\n2. 磷化铟：据2026年11月3日公告，鼎泰芯源目前的核心产品为磷化铟（InP）衬底，同时布局锑化镓（GaSb）衬底等材料，是国内少数几家掌握磷化铟衬底材料核心技术并实现国产化量产的企业；本轮投资方投入鼎泰芯源的增资认购款应用于磷化铟及锑化镓产能的升级、扩产、设备采购、研发投入及相关运营"
      }
     ]
@@ -2713,77 +2701,77 @@
       "code": "002160",
       "name": "常铝股份",
       "board": "2连板",
-      "concept": "汽车热管理、比亚迪产业链",
+      "concept": "医疗器械、医药",
       "reason": "金属铝+实控人变更；1. 金属铝：据2026年半年报，常铝股份主营业务以热传递材料、热传递设备及综合解决方案为主，热传递业务板块概属铝加工板块。\r\n\r\n2. 实控人变更：据2026年9月11日公告，常铝股份的控股股东齐鲁财金拟将所持的2.31亿股股份（占公司总股本的22.38%）以非公开协议转让方式转让至济新产发；本次权益变动后，公司控股股东将由齐鲁财金变更为济新产发，实际控制人将由济南市人民政府国有资产监督管理委员会变更为济南新旧动能转换起步区管理委员会。"
      },
      {
       "code": "002623",
       "name": "亚玛顿",
       "board": "3连板",
-      "concept": "光伏玻璃、汽车零部件",
+      "concept": "POE胶膜、钙钛矿电池",
       "reason": "实控人变更+光伏玻璃；11月10日复牌。\r\n\r\n1. 实控人变更：据2026年11月9日晚公告，亚玛顿控股股东亚玛顿科技拟通过协议转让方式向上海骑形网络科技有限公司转让公司20%股份，股份转让价款总额为6.8亿元。交易完成后，公司控股股东将由亚玛顿科技变更为骑形网络，实际控制人将由林金锡、林金汉变更为赵云鹏。骑形网络基于对上市公司长期投资价值的判断，看好上市公司所处行业及未来发展前景，拟通过本次协议转让取得上市公司控制权。\r\n\r\n2. 光伏玻璃：据2026年8月29日公告，公司原募投项目“年产4000万平方米超薄光伏背板玻璃深加工项目”原计划形成年产4000万平方米1.6mm超薄光伏背板玻璃的生产能力，目前该项目已建成3条超薄光伏背板玻璃深加工产线并均已投产"
      },
      {
       "code": "600327",
-      "name": "大东方  ",
+      "name": "大东方",
       "board": "7天5板",
-      "concept": "汽车类、新能源汽车",
+      "concept": "食品饮料、免税",
       "reason": "零售+民营医院；1. 零售：据2026年10月28日公告，公司商业零售的门店中，江苏百货自有物业门店1家、建筑面积8.21万平米，江苏超市租赁物业门店2家；截至报告期末，湖北7-11便利店共有46家门店，其中直营店8家、加盟店38家；三凤桥食品专卖店共有57家门店，其中直营店46家、加盟店11家。\r\n\r\n2. 民营医院：据2026年半年报，公司“均瑶医疗”旗下拥有一家二甲综合医院“沭阳中心医院”，并构建了以儿童全成长发育周期医疗服务为核心的“健高儿科”、以儿童心理与言语障碍等特需儿童康复为核心的“雅恩健康”、以儿童保健服务为核心的“知贝医疗”，形成连锁诊疗机构体系。"
      },
      {
       "code": "603536",
       "name": "惠发食品",
       "board": "2连板",
-      "concept": "抖音小店、锂电池",
+      "concept": "食品饮料、预制菜",
       "reason": "食品饮料；据2026年半年报，惠发食品主要从事速冻预制菜类的丸类制品、肠类制品、油炸类制品、串类制品、菜肴制品等速冻食品的研发、生产和销售，以及面向学校、企事业单位等团餐单位的食材加工配送供应链业务"
      },
      {
       "code": "002110",
       "name": "三钢闽光",
       "board": "首板",
-      "concept": "算力、汽车拆解",
+      "concept": "海峡两岸、算力",
       "reason": "钢铁+海峡两岸；公司位于福建三明市，据2026年半年报，三钢闽光主营业务为钢材产品的生产和销售，具备年产1,200万吨的钢材生产能力，产品主要有建筑用材、金属制品用材、中厚板材、优质圆钢、H型钢、煤化工产品六大类"
      },
      {
       "code": "600629",
       "name": "华建集团",
       "board": "首板",
-      "concept": "送转填权、数据中心",
+      "concept": "新型城镇化、送转填权",
       "reason": "基础建设+上海国资；1. 基础建设：据2026年10月16日公告，公司经营范围包括国内外各类建筑工程项目的工程咨询、工程设计、工程监理、工程项目管理、工程总承包及所需设备材料的采购和销售；城市规划、市政设计和咨询、水利工程设计和咨询、景观与园林设计\r\n\r\n2. 上海国资：公司最终控制人为上海市国有资产监督管理委员会，上海国有资本投资有限公司旗下上海科技创业投资有限公司持有上海微电子装备（集团）股份有限公司13.275%股权。"
      },
      {
       "code": "000635",
       "name": "英力特",
       "board": "首板",
-      "concept": "光伏、股权转让",
+      "concept": "宁夏回族自治区、病毒防治",
       "reason": "股权转让+化工；1. 股权转让：据2026年11月7日公告，公司控股股东国能英力特能源化工集团股份有限公司拟通过公开征集受让方的方式一次性整体协议转让其持有的公司1.55亿股无限售流通股份，占公司总股本的39.41%\r\n\r\n2. 化工：据2026年半年报，公司属于化学原料及化学制品制造业，主要从事电石及其系列延伸产品、聚氯乙烯、烧碱及其系列延伸产品的生产和销售，主营产品有PVC、E-PVC、烧碱、电石等，构建了\"自备电力→电石→聚氯乙烯\"一体化产业链，采用电石法PVC生产工艺，年生产规模26万吨（含糊树脂4万吨），半年度生产稳定，开工率高于行业平均水平。"
      },
      {
       "code": "002154",
       "name": "报喜鸟",
       "board": "首板",
-      "concept": "元宇宙、浙江",
+      "concept": "病毒防治、电子商务",
       "reason": "服装家纺；据2026年7月27日互动易，公司全资子公司持有杭州气味王国科技有限公司13.16%的股权，气味王国非公司合并范围内子公司\r\n\r\n服装家纺：据2026年半年报，报喜鸟控股主营业务为品牌服装的研发、生产和销售，产品品类涵盖西服、衬衫等全品类服饰；公司涉及生产和销售品牌服装、服饰以及家纺产品，WOOLRICH（沃里奇）产品线已拓展至户外、家纺等多个系列。"
      },
      {
       "code": "002795",
       "name": "永和智控",
       "board": "首板",
-      "concept": "专用设备、新型工业化",
+      "concept": "BC电池、TOPCon",
       "reason": "专用设备+民营医院；1. 专用设备：据2026年半年报，公司以家用水暖阀门、管件生产经营为主营业务，全资子公司浙江永和智控科技有限公司从事黄铜类有铅、无铅水/暖/燃气阀门和管件及分水器等流体控制设备及器材的研发、制造和销售，产品主要应用于民用建筑水暖、燃气系统\r\n\r\n2. 民营医院：据2026年半年报，报告期内，公司有序缩减肿瘤精准放射治疗业务，在产权交易所公开挂牌转让达州医科肿瘤医院95%股权、西安医科肿瘤医院73%股权、昆明医科肿瘤医院100%股权、凉山高新肿瘤医院70%股权。"
      },
      {
       "code": "002703",
       "name": "浙江世宝",
       "board": "首板",
-      "concept": "线控底盘、汽车电子",
+      "concept": "消费电子、三季报增长",
       "reason": "智能驾驶(无人驾驶)；11月10日据《南华早报》报道，特斯拉CEO埃隆·马斯克(Elon Musk)等美国商界领袖，预计将加入美国总统特朗普的代表团前往中国，参加下周在深圳举行的亚太经合组织(APEC)峰会。\r\n\r\n无人驾驶：据2026年半年报，浙江世宝主要从事汽车转向器及其他转向系统关键零部件的研发、制造及销售，是国内率先自主开发汽车电动助力转向系统、汽车智能转向系统的企业之一，为自动驾驶汽车提供先进的主动转向解决方案"
      },
      {
       "code": "600776",
       "name": "东方通信",
       "board": "3天2板",
-      "concept": "5G、通信",
+      "concept": "通信、5G",
       "reason": "通信；据2026年半年报，东方通信专网通信领域深度掌握4G/5G、PDT、TETRA等主流通信核心协议及底层关键技术，搭建起融合核心网、基站、智能终端一体化的完整产品矩阵，形成适配多场景的数字化、智能化整体解决方案。"
      }
     ]
@@ -2796,21 +2784,21 @@
       "code": "002076",
       "name": "星光股份",
       "board": "首板",
-      "concept": "芯片、数据中心",
+      "concept": "芯片、ST摘帽",
       "reason": "光伏+量子科技；1. 光伏：据2026年半年报，公司主要业务涵盖光伏组件制造、光伏电站建设运营及能源工程；光伏组件由控股子公司星光新能源负责运营；分布式光伏电站投资运营由公司负责开发建设并在建成后运营，通过销售电站所发电量获得发电收入。\r\n\r\n2. 量子科技：据2026年半年报，公司旗下控股子公司广东星光神州量子信息技术有限公司等专注于智慧城市综合运营中心建设、国产化信创及信息安全解决方案（云防线安全服务、监测系统等技术领域）。"
      },
      {
       "code": "603366",
       "name": "日出东方",
       "board": "4连板",
-      "concept": "华为超充、热泵",
+      "concept": "华为超充、快手概念",
       "reason": "光伏+热泵；1. 光伏：据2026年半年报，日出东方主要业务三大板块中，清洁能源电能应用板块（分布式光储热一体化业务）包括储能业务和光伏业务，公司致力于成为光伏电站、储能电站、充电桩、光储充集成电站的供应商以及低碳系统解决方案的领先企业\r\n\r\n2. 热泵：据2026年11月4日互动易，公司持续推进海外热泵业务布局，深耕欧洲核心市场，积极拓展法国、德国等区域市场。"
      },
      {
       "code": "603396",
       "name": "金辰股份",
       "board": "首板",
-      "concept": "半导体设备、玻璃基板",
+      "concept": "半导体设备、光伏设备",
       "reason": "太空光伏+半导体设备；1. 太空光伏：2026年11月11日财联社报道，德国设备商SINGULUS于11月10日宣布，将向SpaceX提供交付即用的异质结太阳能电池（HJT）生产线，首条产线计划2027年上半年交付。SpaceX星链高级副总裁Mike Nicolls明确表示，这些电池将用于得州工厂生产的Starmind人工智能卫星。据2026年半年报，Singulus Solar GmbH是金辰股份的联营企业，主要经营地和注册地均为德国，持股比例为49.00%\r\n\r\n2. 半导体设备：据2026年9月3日公告，近日，辰光微电半导体设备（南通）有限公司完成了工商注册登记手续，并取得了营业执照，经营范围为半导体器件专用设备制造、半导体器件专用设备销售等"
      },
      {
@@ -2824,21 +2812,21 @@
       "code": "002529",
       "name": "海源复材",
       "board": "首板",
-      "concept": "铜电镀、汽车零部件",
+      "concept": "铜电镀、TOPCon",
       "reason": "光伏+储能；1. 光伏：据2026年半年报，海源复材光伏业务以光伏组件为核心，产品主要覆盖182mm、210mm等多种主流规格的多主栅整片及半片组件，并广泛应用双玻双面发电技术。\r\n\r\n2. 储能：据2026年6月12日公告，海源复材复合材料业务在储能电池相关领域的应用取得突破，应用场景及覆盖范围逐步扩大；公司成功开拓厦门海辰储能科技股份有限公司等优质客户，同时其汽车配件业务对重庆海辰储能科技有限公司、厦门海辰储能科技股份有限公司分别有564.40万元、128.71万元在手订单。"
      },
      {
       "code": "000631",
       "name": "顺发恒能",
       "board": "首板",
-      "concept": "并购重组、浙江",
+      "concept": "燃气轮机、地产链",
       "reason": "光伏+绿色电力；1. 光伏：据2026年半年报，顺发恒能以自有资金向普星聚能股份公司及其全资孙公司杭州普星能源科技有限公司收购17座光伏电站和运维系统的资产组，截至2026年5月底，相关资产已完成交割\r\n\r\n2. 绿色电力：根据2026年三季度报告，公司逐步涉及气电、风电以及光伏发电等清洁能源类业务，清洁能源类业务已成为公司主要收入来源；公司行业类别由原“房地产业”变更调整为“电力、热力生产和供应业”。"
      },
      {
       "code": "301636",
       "name": "泽润新能",
       "board": "首板",
-      "concept": "汽车类、新能源汽车",
+      "concept": "钙钛矿电池、专精特新",
       "reason": "光伏；据2026年11月10日投资者关系活动记录表，公司Z8X产品为全球首个取得TUV莱茵35A认证的光伏组件接线盒，ZS产品为中国大陆首款通过TUV莱茵认证的智能接线盒产品，Z8S产品为中国大陆首个取得TUV莱茵认证的三分体智能接线盒"
      }
     ]
@@ -2851,28 +2839,28 @@
       "code": "002713",
       "name": "东易日盛",
       "board": "首板",
-      "concept": "消费电子、数据中心",
+      "concept": "装修家具、ST摘帽",
       "reason": "算力+ST摘帽；1. 算力：据2026年11月10日晚公告，公司将在重整计划经法阮裁定批准后不再承接新的算力中心集成服务业务订单，公司将采取积极措施推动在实施的算力中心集成服务项目及质保期项目换签至上市公司或其指定主体。未来所有新算力中心集成服务业务订单将由上市公司或其指定主体作为承包方与其签署算力中心集成服务业务合同。\r\n\r\n2. ST摘帽：公司股票于2026年7月20日（星期一）开市起撤销退市风险警示及其他风险警示，股票简称由“*ST东易”变更为“东易日盛”，股票代码仍为 “002713”，股票交易的日涨跌幅限制为10%。"
      },
      {
       "code": "600162",
       "name": "香江控股",
       "board": "首板",
-      "concept": "算力、粤港澳",
+      "concept": "地产链、算力",
       "reason": "算力+房地产；1. 算力：据2026年10月14日公告，公司全资子公司广州市香江云瀚科技有限公司与关联方深圳市诚雅泰科技有限公司签订《算力技术服务合同》，香江云瀚公司向诚雅泰公司算力集群提供架构规划设计、运维体系管理、网络链路技术管理等一体化专业技术服务，服务期限为5年\r\n\r\n2. 房地产：据2026年半年报，公司以城市发展配套运营商为定位，构建“家居商贸+城市发展”双核心业务布局，城市发展领域从开发城市精品住宅项目到聚焦粤港澳大湾区高端精品住宅，同时积极打造自贸区综合体等高端商务项目"
      },
      {
       "code": "300990",
       "name": "同飞股份",
       "board": "首板",
-      "concept": "储能热管理、激光",
+      "concept": "光刻机、激光",
       "reason": "算力(液冷)；据2026年10月8日公告，同飞股份本次购买土地使用权将用于公司液冷温控项目，建设研发及生产厂房和相应配套设施，能够提高公司的生产交付能力。"
      },
      {
       "code": "002837",
       "name": "英维克",
       "board": "首板",
-      "concept": "储能热管理、英伟达概念",
+      "concept": "液冷、冷链物流",
       "reason": "算力(液冷)；据2026年半年报，英维克推出高可靠Coolinside全链条液冷解决方案，从冷板、快速接头、Manifold、CDU、机柜，到SoluKing长效液冷工质、管路、冷源等\"端到端\"产品覆盖；英维克冷板产品适配CPU、GPU、计算ASIC芯片、交换ASIC芯片及内存、SSD、光模块等热源散热，支撑算力设备100%全液冷需求"
      }
     ]
@@ -2885,28 +2873,28 @@
       "code": "002463",
       "name": "沪电股份",
       "board": "首板",
-      "concept": "PCB、英伟达概念",
+      "concept": "PCB、交换机",
       "reason": "PCB+交换机；1. PCB：据2026年11月10日互动易，公司产能持续保持高位运行，订单需求充沛，正在推进各生产基地技改，以提升产能效率与技术能力，并深度锚定数据通讯领域客户在人工智能、高速数据中心等场景下对高性能、高信赖性印制电路板的中长期增量需求\r\n\r\n2. 交换机：据2026年10月20日投资者关系活动记录表，2026年公司数据通讯应用领域PCB持续成长，高速网络交换机及其配套路由依然是公司增长最强劲的应用领域；在高速网络交换机方面，应用于1.6T交换机的产品已实现批量出货，并推进3.2T交换机配套的产品预研"
      },
      {
       "code": "002913",
       "name": "奥士康",
       "board": "3天2板",
-      "concept": "PCB、英伟达概念",
+      "concept": "AMD概念、PCB",
       "reason": "PCB概念(PCB)；据2026年10月29日公告，奥士康与海门经济技术开发区管委会签署《产业项目发展协议》，投资建设“奥士康南通智算与高速互联PCB产业基地项目”；该项目一期投资约25亿元，主要生产高阶、高多层、高频高速、精密线路等印制电路板（PCB）产品，主要应用于人工智能、智能汽车及配套、高端通讯和网通等产品"
      },
      {
       "code": "603228",
       "name": "景旺电子",
       "board": "首板",
-      "concept": "光模块、PCB",
+      "concept": "AMD概念、PCB",
       "reason": "PCB+光模块；1. PCB：据2026年11月5日投资者关系活动记录表，公司已实现800G光模块PCB和1.6T光模块PCB批量出货；随着mSAP产能有序释放，公司正着手更多下游客户的导入工作；2026年前三季度，汽车电子PCB收入占比仍保持在4成左右，公司连续多年保持全球第一大汽车电子PCB供应商地位\r\n\r\n2. 光模块：据2026年11月5日投资者关系活动记录表，公司此前已实现800G光模块PCB和1.6T光模块PCB批量出货，随着mSAP产能有序释放，公司正在推进更多下游客户的导入工作。"
      },
      {
       "code": "002916",
       "name": "深南电路",
       "board": "首板",
-      "concept": "PCB、PCB概念",
+      "concept": "PCB、存储",
       "reason": "PCB+服务器；1. PCB：据2026年11月9日公告，深南电路专业从事中高端印制电路板（PCB）的设计、研发及制造，产品下游应用以通信设备为核心，重点布局数据中心（含服务器）、汽车电子等领域，并长期深耕工控、医疗等领域；据Prismark数据，2025年公司营收规模在全球印制电路板厂商中位列第4。\r\n\r\n2. 服务器：据2026年10月31日投资者关系活动记录表，公司业绩变动主要因为AI算力基础设施投资、产品迭代升级带来的市场机遇，这些因素带动PCB、封装基板及PCBA业务相关需求增长，其中AI加速卡、服务器及相关配套产品需求持续提升；2026年三季度，公司PCB业务收入环比明显增长，数据中心领域收入占比提升。"
      }
     ]
@@ -2919,28 +2907,28 @@
       "code": "002425",
       "name": "凯撒文化",
       "board": "2连板",
-      "concept": "游戏、快手概念",
+      "concept": "快手概念、中报增长",
       "reason": "游戏+AI应用；1. 游戏：据2026年9月15日投资者关系活动记录表，公司未来准备上线运营的项目主要有《航海王：集结》《遮天世界》《我叫MT：传说》等。\r\n\r\n2. AI应用：据2026年半年报，公司深度运用AI技术重构游戏研发全流程，实现开发效率与品质的双重提升；在用户体验层面，公司尝试引入AI驱动的NPC增强玩家沉浸感，借助AI数据分析优化广告投放策略，提升用户获取与转化效率。"
      },
      {
       "code": "002919",
       "name": "名臣健康",
       "board": "首板",
-      "concept": "游戏、广东省",
+      "concept": "美容护理、平台经济",
       "reason": "游戏+美容护理；1. 游戏：据2026年9月15日投资者关系活动记录表，公司侧重小游戏研发，已推出的《几何王国》《豌豆大作战》等受到市场热捧的小游戏产品，给公司带来的效益较为可观\r\n\r\n2. 美容护理：据2026年半年报，名臣健康主要通过名臣日化全资子公司从事日化业务，主要产品包括洗发水、护发素、沐浴露、啫喱水及护肤品等；名臣健康自成立以来扎根日化行业，主打品牌蒂花之秀、美王为广东省著名商标。"
      },
      {
       "code": "002148",
       "name": "北纬科技",
       "board": "首板",
-      "concept": "5G、通信",
+      "concept": "芯片、通信",
       "reason": "游戏；据2026年半年报，公司游戏业务推进《模拟城市》IP小游戏研发，实施“APP+小游戏”双端协同战略；《模拟城市：我是市长》《超简单的地下城》上半年保持稳健运营，《团团》完成多轮产品调优与海外小规模验证"
      },
      {
       "code": "603258",
       "name": "电魂网络",
       "board": "首板",
-      "concept": "互动影游、游戏",
+      "concept": "浙江、人工智能",
       "reason": "游戏+AI视频；1. 游戏：据2026年9月16日公告，电魂网络依托《梦三国》成熟IP持续贡献稳定现金流；公司重点自研双端大作《修仙时代》已获版号，由腾讯负责发行，是未来核心增长点；公司通过收购上海漫魂切入IP衍生品赛道，打造第二增长曲线\r\n\r\n2. AI视频：据2026年10月31日电魂网络公众号消息，电魂网络依托其国风《梦三国》IP打造的AI漫剧《梦启三国·破界之战》已在红果平台开放预约，即将全平台上线；电魂网络作为IP持有方与出品方，搭建专属AI资产库，采用人工创意主导、AI技术辅助的工业化模式推进制作"
      }
     ]
@@ -2960,21 +2948,21 @@
       "code": "605255",
       "name": "天普股份",
       "board": "2连板",
-      "concept": "汽车热管理、芯片",
+      "concept": "芯片、橡胶",
       "reason": "芯片；公司实际控制人已由尤建义先生变更为中昊芯英创始人杨龚轶凡先生。中昊芯英是国内唯一一家掌握TPU架构AI专用芯片核心技术并实现全自研TPU芯片量产的公司。中昊芯英历时近5年研发出的TPU架构高性能AI芯片「刹那®」拥有完全自主可控的IP核、全自研指令集与计算平台，AI算力性能超越海外著名GPU产品近1.5倍，能耗降低 30%，单位计算成本降低近 50%。"
      },
      {
       "code": "600228",
       "name": "返利科技",
       "board": "首板",
-      "concept": "半导体设备、苹果概念",
+      "concept": "半导体设备、互联网营销",
       "reason": "半导体设备+AI电商；1. 半导体设备：2026年11月10日财闻报道，企查查APP显示，近日，上海众曜芯半导体设备有限公司成立，法定代表人为苗润超，注册资本为2000万元，经营范围包含：半导体器件专用设备制造；半导体器件专用设备销售；电子专用设备制造；电子专用设备销售等。企查查股权穿透显示，该公司由返利科技(600228)全资持股。\r\n\r\n2. AI电商：据2026年4月18日公告，公司依托大模型技术迭代导购产品、智能推荐与用户体验，在选品、内容生产、广告投放、用户运营等环节全面落地AI人机协作，业务端设立专职AI产品经理推进基础工作智能化，职能端搭建全员AI能力提升体系。"
      },
      {
       "code": "688135",
       "name": "利扬芯片",
       "board": "首板",
-      "concept": "模拟芯片、存储",
+      "concept": "存储、先进封装",
       "reason": "芯片(存储)；据2026年9月29日公告，公司通过覆盖数字、模拟、混合信号、射频、存储等多种工艺的SoC芯片测试解决方案，深度服务于高算力、汽车电子、工业控制、存储、5G通讯、传感器及特种芯片等高速增长的多元应用领域。"
      }
     ]
@@ -2987,21 +2975,21 @@
       "code": "600715",
       "name": "文投控股",
       "board": "3连板",
-      "concept": "互动影游、游戏",
+      "concept": "实控人变更、网红经济",
       "reason": "AI视频+互动影游；2026年11月6日晚公告，文投控股子公司与歌华影视签约，开展重大革命题材剧集非首轮发行，单家卫视授权费不超2400万元，授权期限12个月。\r\n\r\n1. AI视频：据2026年10月31日文投控股公众号消息，文投控股下属子公司北京中轴线为帧科技发展有限公司、北京耀莱国际影城管理有限公司参与联合出品制作的三部AIGC剧集《宅妖记》《零号玩家》《饿塔》入选北京大视听“追光计划”优秀项目\r\n\r\n2. 互动影游：据2025年年报，公司在耀莱影城五棵松店落地全国首家巨幕沉浸泛娱乐空间“MIRRA奇镜派对融合厅”，依托“巨幕+VR”设备与多源融合动作捕捉、实时8K渲染技术，实现“影游联动”，并配备三面环绕的LED互动屏。"
      },
      {
       "code": "601595",
       "name": "上海电影",
       "board": "4天3板",
-      "concept": "互动影游、卡牌概念",
+      "concept": "并购重组、电子商务",
       "reason": "AI视频+AI玩具；1. AI视频：据2026年9月28日投资者关系活动记录表，公司联合出品的AIGC漫改武侠电影《山竹刀》于9月初上线；持续深化与即梦AI及火山引擎合作，内测首发Seedance2.5，推出AIGC短片《我可能确诊为葫芦娃》\r\n\r\n2. AI玩具：据2026年6月19日股东会会议材料，公司产品孵化方面，AI情感陪伴潮玩“芙崽”双十一天猫“AI智能店铺销售榜”榜首；定制产品“智能憨憨”在华为新品发布会亮相，同步登陆华为线下门店及官方商城。"
      },
      {
       "code": "301052",
       "name": "果麦文化",
       "board": "首板",
-      "concept": "版权、web3.0",
+      "concept": "小红书概念、平台经济",
       "reason": "AI视频+版权；1. AI视频：人民财讯11月11日电，近日，卓易信息与果麦文化正式签署战略合作协议。双方将发挥各自在AI技术与内容创作领域的优势，围绕AI视频生产平台建设、AI视频Agent矩阵打造及模型能力支持等方向展开合作，共同探索AI赋能内容生产的新模式。\r\n\r\n2. 版权：据2026年半年报，果麦文化在版权获取方面掌握先发优势，有较强的版权获取能力；果麦文化与多家出版集团围绕“出版社选题合作”战略合作，其他出版社以销量欠佳的优质版权与果麦合作，核心是优质版权与果麦策划发行能力的强强联合。"
      }
     ]
@@ -3014,14 +3002,14 @@
       "code": "002278",
       "name": "神开股份",
       "board": "首板",
-      "concept": "机器人概念、专精特新",
+      "concept": "天然气、专精特新",
       "reason": "海洋经济+商业航天；财联社11月10日电，上海市海洋局印发《上海市海洋经济发展“十五五”实施方案》，其中提出，到2030年，海洋经济综合实力实现新跃升。\r\n\r\n1. 海洋经济：据2026年8月22日公告，公司完成中海油海上井口项目多批次交付，测录井服务也成功进入中海油南海区块；公司战略投资企业山东未来机器人持续强化其深海作业机器人（ROV）赛道能力，公司“海洋油气装备+深海工程服务”一体化业务生态进一步完善。\r\n\r\n2. 商业航天：据2025年年报，公司的参股公司瀚氢动力专注于商业航天领域的高端流体控制技术，产品覆盖卫星推进系统及姿轨控动力系统，其冷气推进系统已进入以长光卫星为代表的重点客户供应体系并建立战略合作，在轨应用规模持续扩大"
      },
      {
       "code": "002633",
       "name": "申科股份",
       "board": "首板",
-      "concept": "专用设备、汽车零部件",
+      "concept": "燃气轮机、实控人变更",
       "reason": "海工装备+燃气轮机；财联社11月10日电，上海市海洋局印发《上海市海洋经济发展“十五五”实施方案》，其中提出，到2030年，海洋经济综合实力实现新跃升。\r\n\r\n1. 海工装备：据2026年半年报，公司厚壁滑动轴承及重型精密结构件可应用于发电装备、船海装备、工业装备三大领域，船海装备包括特种船舶与海工装备两类，公司产品及服务主要集中在其中的动力电力、推进系统、甲板机械等领域\r\n\r\n2. 燃气轮机：据2026年半年报，公司厚壁滑动轴承及重型精密结构件可应用于发电装备等领域，发电装备包括燃气轮机；公司具有燃机冷端部件集成制造能力，燃气轮机方面与东方电气已建立长期合作关系。"
      }
     ]
@@ -3034,14 +3022,14 @@
       "code": "002861",
       "name": "瀛通通讯",
       "board": "2连板",
-      "concept": "苹果概念、无线充电",
+      "concept": "苹果概念、医疗器械",
       "reason": "端侧AI(AI眼镜)；据2026年7月9日投资者关系活动记录表，公司将积极推进声学、传输线材两大核心技术在智能眼镜等终端领域的应用；现阶段公司暂无推出自有品牌AR/AI终端整机的规划。"
      },
      {
       "code": "002313",
       "name": "日海智能",
       "board": "5天3板",
-      "concept": "5G、通信",
+      "concept": "液冷、新疆",
       "reason": "端侧AI+机器人概念；1. 端侧AI：据2026年11月4日日海智能公众号消息，日海智能子公司芯讯通作为物联网无线通信模组供应商，与高通AI Hub形成“平台+模组”协同，降低中国开发者端侧AI开发门槛；据2026年11月2日日海智能公众号消息，芯讯通在通用人工智能大会展出多款IoT及AI算力模组，以及内置芯讯通模组的车机、安防监控、智能支付等物联网终端和AI玩具、机器狗等创新产品\r\n\r\n2. 机器人概念：据2026年半年报，公司智能模组集成AI算力及算法，支持端侧数据推理与本地化数据处理，适配智能车载机器人等场景；公司通过“AI+IoT”协同进化，为陪伴机器人等场景提供高算力、高可靠性的智能连接方案"
      }
     ]
@@ -3054,14 +3042,14 @@
       "code": "600293",
       "name": "三峡新材",
       "board": "首板",
-      "concept": "光伏玻璃、玻璃",
+      "concept": "光伏玻璃、新材料概念",
       "reason": "并购重组+电解液；据2026年11月2日晚公告，三峡新材全资子公司三峡新材硅业（宜昌）有限公司成功竞得宜昌市夷陵区红岩头玻璃用砂岩矿采矿权，并与夷陵区自然资源和规划局签订《采矿权出让合同》。\r\n\r\n并购重组+电解液：据2026年10月19日晚公告，三峡新材拟以发行股份及支付现金方式购买珠海赛纬100%股权，并向包括当阳城投在内的不超过35名特定对象募集配套资金不超过10亿元；公告称剩余资金不低于80%用于标的公司基地建设。标的公司主要从事锂离子电池电解液的研发、生产和销售。"
      },
      {
       "code": "603289",
       "name": "泰瑞机器",
       "board": "首板",
-      "concept": "存储、专用设备",
+      "concept": "存储、芯片",
       "reason": "并购重组+存储；据2026年11月2日晚公告，泰瑞机器拟以增资及股权转让方式收购亿芯微半导体科技（深圳）有限公司不低于51%股权：支付现金对价不超过4480万元受让16%股权，并现金增资不超过2亿元取得41.67%股权。标的公司主营存储模组业务研发、生产制造及销售，依托自建封测产线生产BGA颗粒、SSD、eMMC、TF卡及封装测试服务等产品。交易完成后，亿芯微将成为公司控股子公司。"
      }
     ]
@@ -3081,7 +3069,7 @@
       "code": "002886",
       "name": "沃特股份",
       "board": "首板",
-      "concept": "电磁屏蔽、PCB概念",
+      "concept": "先进封装、PCB概念",
       "reason": "PTFE+机器人概念；据2026年11月10日中财网报道，机构研报称AI带宽扩容正从预期走向落地，英伟达Rubin Ultra NVL576单GPU对应PCB用量翻倍，谷歌TPU V8计算板升至34—36层，正交背板层数超70层，材料等级升至PTFE级。\r\n\r\n1. PTFE：据2026年8月19日投资者关系活动记录表，公司中标海洋石油工程股份有限公司PTFE滑道块项目，配套国内能源行业高端应用场景；单向拉伸PTFE薄膜通过车载功率芯片封装客户的测试，开始批量化用于封装制程离型保护膜。\r\n\r\n2. 机器人概念：据2026年8月19日投资者关系活动记录表，公司的电机定子包胶材料实现在人形机器人和工业伺服机器人等多个行业客户的导入；耐磨级PEEK已实现轴套配套超万套，全新齿轮级PEEK材料客户测试进展顺利。"
      }
     ]
@@ -3094,14 +3082,14 @@
       "code": "002593",
       "name": "日上集团",
       "board": "首板",
-      "concept": "一体化压铸、汽车零部件",
+      "concept": "远东开发、新型城镇化",
       "reason": "汽车零部件；据2026年10月27日公告，公司及子公司日上香港拟分别以自有或自筹资金1485万美元和15万美元对子公司日上车轮（印尼）有限责任公司增资，用于投资建设印尼日上轻量化轮毂制造项目，项目建设6条钢制车轮生产线，建成达产后预计可实现年产200万只钢制车轮。"
      },
      {
       "code": "603586",
-      "name": "金麒麟  ",
+      "name": "金麒麟",
       "board": "首板",
-      "concept": "汽车零部件、长安汽车概念",
+      "concept": "中欧概念、外贸",
       "reason": "汽车零部件；据2026年10月30日投资者关系活动记录表，山东金麒麟股份有限公司主要从事摩擦材料及制动产品的研发、生产和销售，主要产品为汽车刹车片、汽车刹车盘、轨道交通制动片及工业制动产品"
      }
     ]
@@ -3114,14 +3102,14 @@
       "code": "603706",
       "name": "东方环宇",
       "board": "3连板",
-      "concept": "天然气、业绩增长",
+      "concept": "新疆、天然气",
       "reason": "天然气；据2026年11月11日21世纪经济报道，气象部门预测超强厄尔尼诺已形成，今冬寒潮频次偏多、冷暖起伏大；今冬供暖季天然气日顶峰保供能力超17.5亿立方米，较上季峰值高近7000万立方米。\r\n\r\n天然气：据2026年半年报，公司主要从事城镇燃气输配与运营业务，包括天然气终端销售和服务、天然气用户设施设备安装业务以及城市集中供热业务；截至报告期末，公司天然气输配管网长度近3,000公里，覆盖整个昌吉市建成区及部分乡镇、各园区"
      },
      {
       "code": "000407",
       "name": "胜利股份",
       "board": "首板",
-      "concept": "充电桩、汽车充电",
+      "concept": "天然气、医药",
       "reason": "天然气+并购重组；据2026年11月11日21世纪经济报道，气象部门预测超强厄尔尼诺已形成，今冬寒潮频次偏多、冷暖起伏大；今冬供暖季天然气日顶峰保供能力超17.5亿立方米，较上季峰值高近7000万立方米。\r\n\r\n1. 天然气：据2026年半年度报告，公司以天然气产业为主导产业和重点发展方向，在城镇燃气领域、交通运输领域、中上游业务、创新增值业务等领域积极发展，为工业、商业、民用客户提供天然气等清洁能源服务\r\n\r\n2. 并购重组：据2026年三季度报告，公司拟以发行股份及支付现金方式购买中油珠海100%股权、天达胜通100%股权、南通中油51%股权及甘河中油40%股权并募集配套资金，本次交易预计构成重大资产重组，不构成重组上市，目前处于深圳证券交易所审核中"
      }
     ]
