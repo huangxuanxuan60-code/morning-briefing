@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>新闻存档 · 2026-11-14</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="back" href="index.html">&#8249; 存档索引</a>
+<header class="top">
+<div class="day">2026年11月14日 周六</div>
+<h1>&#128240; 新闻存档</h1>
+<div class="sub">加红 1 条（全文）&nbsp;·&nbsp;全部 6 条</div>
+</header>
+<div class="arcbar">
+<button id="f-all" class="on" type="button">全部 6</button>
+<button id="f-red" type="button">只看加红 1</button>
+<button id="f-open" type="button">展开全文</button>
+</div>
+<div id="list">
+<div class="arc" data-cat="all"><span class="t">00:23</span><span class="h plain">Cerebras联席CEO表示，与行业其他公司一样，其数据中心建设也出现了延迟。</span></div><div class="arc" data-cat="all"><span class="t">00:22</span><span class="h plain">欧洲央行管委兼德国央行行长Nagel表示，欧洲央行再次行动的可能性很高。</span></div><div class="arc" data-cat="all"><span class="t">00:11</span><span class="h plain">Anthropic表示，影响多个产品的问题已经解决。</span></div><div class="arc" data-cat="all"><span class="t">00:09</span><span class="h plain">美国上诉法院表示，特朗普政府不能因纽约州商业驾照问题扣留7350万美元公路资金。</span></div><details class="arc red" data-cat="red"><summary><span class="t">00:07</span><span class="lv">加红</span><span class="h">纳斯达克100指数下跌2.4%至盘中低点 费城半导体指数跌6.4%</span></summary><div class="body"><p>财联社11月14日电，纳斯达克100指数下跌2.4%至盘中低点，标普500指数下跌1.1%。费城半导体指数跌幅扩大至6.4%，AMD跌超10%，闪迪跌超9%，ARM跌超8%，西部数据、应用材料、博通跌超7%。</p></div></details><div class="arc" data-cat="all"><span class="t">00:04</span><span class="h plain">俄罗斯第三季度国内生产总值同比增长1.0%，高于预估的0.9%。</span></div>
+</div>
+<script>
+(function(){
+  var list=document.getElementById('list');
+  function setFilter(mode){
+    document.getElementById('f-all').className = mode==='all'?'on':'';
+    document.getElementById('f-red').className = mode==='red'?'on':'';
+    Array.prototype.forEach.call(list.children,function(el){
+      el.style.display = (mode==='red' && el.dataset.cat!=='red') ? 'none' : '';
+    });
+  }
+  document.getElementById('f-all').onclick=function(){setFilter('all');};
+  document.getElementById('f-red').onclick=function(){setFilter('red');};
+  var open=false;
+  document.getElementById('f-open').onclick=function(){
+    open=!open; this.textContent = open?'收起全文':'展开全文';
+    Array.prototype.forEach.call(list.querySelectorAll('details'),function(d){d.open=open;});
+  };
+})();
+</script>
+<footer>数据来源：财联社电报 · 开盘啦<br>生成于 2026-11-14 00:30 ｜ <a href="archive/index.html">简报归档</a> ｜ <a href="news/index.html">新闻存档</a></footer>
+</body>
+</html>
