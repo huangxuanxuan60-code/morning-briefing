@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>新闻存档 · 2026-11-21</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="back" href="index.html">&#8249; 存档索引</a>
+<header class="top">
+<div class="day">2026年11月21日 周六</div>
+<h1>&#128240; 新闻存档</h1>
+<div class="sub">加红 1 条（全文）&nbsp;·&nbsp;全部 6 条</div>
+</header>
+<div class="arcbar">
+<button id="f-all" class="on" type="button">全部 6</button>
+<button id="f-red" type="button">只看加红 1</button>
+<button id="f-open" type="button">展开全文</button>
+</div>
+<div id="list">
+<div class="arc" data-cat="all"><span class="t">00:27</span><span class="h plain">美债延续本周大涨之势 投资者撤离股市</span></div><div class="arc" data-cat="all"><span class="t">00:21</span><span class="h plain">据报道，特朗普寻求在明年1月前达成俄乌和平协议。</span></div><div class="arc" data-cat="all"><span class="t">00:11</span><span class="h plain">阿波罗与高盛宣布SpaceX 440亿美元GPU融资定价</span></div><div class="arc" data-cat="all"><span class="t">00:07</span><span class="h plain">道琼斯指数转跌</span></div><div class="arc" data-cat="all"><span class="t">00:07</span><span class="h plain">马斯克表示不会提供开源AI模型。</span></div><details class="arc red" data-cat="red"><summary><span class="t">00:03</span><span class="lv">加红</span><span class="h">纳斯达克100指数跌幅扩大至3%，标普500指数下跌1.5%。STOXX欧洲600指数下跌2%，至625.62点。</span></summary><div class="body"><p>财联社11月20日电，纳斯达克100指数跌幅扩大至3%，标普500指数下跌1.5%。STOXX欧洲600指数下跌2%，至625.62点。</p></div></details>
+</div>
+<script>
+(function(){
+  var list=document.getElementById('list');
+  function setFilter(mode){
+    document.getElementById('f-all').className = mode==='all'?'on':'';
+    document.getElementById('f-red').className = mode==='red'?'on':'';
+    Array.prototype.forEach.call(list.children,function(el){
+      el.style.display = (mode==='red' && el.dataset.cat!=='red') ? 'none' : '';
+    });
+  }
+  document.getElementById('f-all').onclick=function(){setFilter('all');};
+  document.getElementById('f-red').onclick=function(){setFilter('red');};
+  var open=false;
+  document.getElementById('f-open').onclick=function(){
+    open=!open; this.textContent = open?'收起全文':'展开全文';
+    Array.prototype.forEach.call(list.querySelectorAll('details'),function(d){d.open=open;});
+  };
+})();
+</script>
+<footer>数据来源：财联社电报 · 开盘啦<br>生成于 2026-11-21 00:30 ｜ <a href="archive/index.html">简报归档</a> ｜ <a href="news/index.html">新闻存档</a></footer>
+</body>
+</html>
